@@ -1,4 +1,3 @@
-# preview
+# README
 
-Un site de test, folosit pentru a experimenta cu Docusaurus și a
-dezvolta logica pentru generarea tabelelor de cronologie.
+Site-ul de web al proiectului [Cronica IT&C](https://cronica-it.github.io).
