@@ -306,7 +306,7 @@ const config: Config = {
         },
         {
           label: 'GitHub',
-          href: 'https://github.com/cronica-it/cronica-it.github.io',
+          href: isPreview ? 'https://github.com/cronica-it/cronica-it.github.io/tree/preview' : 'https://github.com/cronica-it/cronica-it.github.io',
           position: 'right',
         },
       ],
