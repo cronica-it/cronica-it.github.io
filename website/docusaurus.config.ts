@@ -16,8 +16,9 @@ const config: Config = {
   tagline: 'O încercare de reconstituire și prezervare pe termen lung a istoriei IT&C' + (isPreview ? ' (preview)' : ''),
   favicon: 'img/favicon.ico',
 
-  // Set the production url of your site here
-  url: isPreview ? 'https://cronica-it.github.io/preview/' : 'https://cronica-it.github.io/',
+  // Set the production url of your site here;
+  // The preview url should not include the baseUrl part.
+  url: isPreview ? 'https://cronica-it.github.io/' : 'https://cronica-it.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: envBaseUrl || isPreview ? '/preview/' : '/',
