@@ -1,3 +1,3 @@
 # README
 
-Site-ul de web al proiectului [Cronica IT&C](https://cronica-it.github.io).
+The web site of the [Cronica IT&C](https://cronica-it.github.io) project.
