@@ -13,7 +13,7 @@ if (envBaseUrl) {
 
 const config: Config = {
   title: 'Cronica IT&C',
-  tagline: 'O încercare de reconstituire și prezervare pe termen lung a istoriei IT&C (preview)',
+  tagline: 'O încercare de reconstituire și prezervare pe termen lung a istoriei IT&C' + (isPreview ? ' (preview)' : ''),
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
