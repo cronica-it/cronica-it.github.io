@@ -306,9 +306,16 @@ const config: Config = {
           position: 'right',
         },
         {
-          label: 'GitHub',
+          href: 'https://github.com/cronica-it',
+          position: 'right',
+          className: 'header-github-org-link',
+          'aria-label': 'GitHub repository',
+        },
+        {
           href: isPreview ? 'https://github.com/cronica-it/cronica-it.github.io/tree/preview' : 'https://github.com/cronica-it/cronica-it.github.io',
           position: 'right',
+          className: 'header-github-link',
+          'aria-label': 'GitHub repository',
         },
       ],
     },
