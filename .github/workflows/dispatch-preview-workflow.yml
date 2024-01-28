@@ -47,6 +47,6 @@ jobs:
           ref: master
           wait_interval: 10
           client_payload: '{}'
-          propagate_failure: true
+          propagate_failure: false # true
           trigger_workflow: true
-          wait_workflow: true
+          wait_workflow: false # true
