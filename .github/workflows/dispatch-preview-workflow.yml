@@ -35,7 +35,8 @@ jobs:
     steps:
       # https://github.com/convictional/trigger-workflow-and-wait
       - name: Trigger preview build
-        uses: convictional/trigger-workflow-and-wait@v1.6.5
+        # uses: convictional/trigger-workflow-and-wait@v1.6.5
+        uses: ilg-ul/trigger-workflow-and-wait@v1.6.5
         with:
           owner: cronica-it
           repo: preview
