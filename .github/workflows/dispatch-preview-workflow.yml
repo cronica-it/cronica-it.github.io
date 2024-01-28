@@ -33,6 +33,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Show environment
+        run: env | sort
+      
       # https://github.com/convictional/trigger-workflow-and-wait
       - name: Trigger preview build
         # uses: convictional/trigger-workflow-and-wait@v1.6.5
