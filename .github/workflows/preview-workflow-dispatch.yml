@@ -1,0 +1,51 @@
+# Simple workflow for deploying static content to GitHub Pages
+name: Preview dispatch
+
+# https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows
+on:
+  # Runs on pushes, if all conditions are met:
+  push:
+    # ... on the master branch ...
+    branches:
+      - 'preview'
+    # ... skip tags only ...
+    tags-ignore:
+      - '**'
+    # ... any of these files changes ...
+    paths:
+      - 'website/amintiri/**'
+      - 'website/evenimente/**'
+      - 'website/docs/**'
+      - 'website/i18n/**'
+      - 'website/src/**'
+      - 'website/static/**'
+      - 'website/*.js'
+      - 'website/*.ts'
+      - 'website/*.json'
+      - 'website/*.yml'
+      - '.github/workflows/publish-github-pages.yml'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  trigger-workflow:
+    runs-on: ubuntu-latest
+
+    steps:
+      # https://github.com/convictional/trigger-workflow-and-wait
+      - name: Trigger preview build
+        uses: convictional/trigger-workflow-and-wait@v1.6.5
+        with:
+          owner: cronica-it
+          repo: preview
+          # https://github.com/cronica-it/cronica-it.github.io/settings/secrets/actions
+          github_token: ${{ secrets.API_DISPATCH_TOKEN }}
+          github_user: github-user
+          workflow_file_name: publish-github-pages.yml
+          ref: master
+          wait_interval: 10
+          client_payload: '{}'
+          propagate_failure: false
+          trigger_workflow: true
+          wait_workflow: false
