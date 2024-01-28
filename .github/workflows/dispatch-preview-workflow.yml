@@ -47,21 +47,3 @@ jobs:
       - name: Trigger preview build via curl
         # Note the double apostrophes!
         run: bash scripts/trigger-preview-build.sh ${{ secrets.API_DISPATCH_TOKEN }}
-
-        # # https://github.com/convictional/trigger-workflow-and-wait
-      # - name: Trigger preview build
-      #   # uses: convictional/trigger-workflow-and-wait@v1.6.5
-      #   uses: ilg-ul/trigger-workflow-and-wait@master
-      #   with:
-      #     owner: cronica-it
-      #     repo: preview
-      #     # https://github.com/cronica-it/cronica-it.github.io/settings/secrets/actions
-      #     github_token: ${{ secrets.API_DISPATCH_TOKEN }}
-      #     github_user: github-user
-      #     workflow_file_name: publish-github-pages.yml
-      #     ref: master
-      #     wait_interval: 10
-      #     client_payload: '{}'
-      #     propagate_failure: false # true
-      #     trigger_workflow: true
-      #     wait_workflow: false # true
