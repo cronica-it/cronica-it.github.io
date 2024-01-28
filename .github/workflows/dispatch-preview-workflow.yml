@@ -1,5 +1,5 @@
 # Simple workflow for deploying static content to GitHub Pages
-name: Dispatch preview
+name: Dispatch preview workflow
 
 # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows
 on:
@@ -35,7 +35,7 @@ jobs:
     steps:
       - name: Show environment
         run: env | sort
-      
+
       # https://github.com/convictional/trigger-workflow-and-wait
       - name: Trigger preview build
         # uses: convictional/trigger-workflow-and-wait@v1.6.5
