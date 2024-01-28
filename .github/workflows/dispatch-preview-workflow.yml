@@ -37,9 +37,10 @@ jobs:
         run: env | sort
 
       - name: Trigger preview build via curl
-        run: curl --fail-with-body -sSL https://api.github.com/repos/cronica-it/preview/actions/workflows/publish-github-pages.yml/dispatches -H "Authorization: Bearer ${{ secrets.API_DISPATCH_TOKEN }}" -H "Accept: application/vnd.github.v3+json" -H "Content-Type: application/json" --data '{"ref":"master","inputs":{}}'
+        # Note the double apostrophes!
+        run: curl --fail-with-body  -sSL https://api.github.com/repos/cronica-it/preview/actions/workflows/publish-github-pages.yml/dispatches -H 'Authorization'':'' ${{ secrets.API_DISPATCH_TOKEN }}' -H 'Accept'':'' application/vnd.github.v3+json' -H 'Content-Type'':'' application/json' --data '{"ref\":\"master\",\"inputs\":{}}'
 
-      # # https://github.com/convictional/trigger-workflow-and-wait
+        # # https://github.com/convictional/trigger-workflow-and-wait
       # - name: Trigger preview build
       #   # uses: convictional/trigger-workflow-and-wait@v1.6.5
       #   uses: ilg-ul/trigger-workflow-and-wait@master
