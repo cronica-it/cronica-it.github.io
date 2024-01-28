@@ -23,7 +23,7 @@ on:
       - 'website/*.ts'
       - 'website/*.json'
       - 'website/*.yml'
-      - '.github/workflows/preview-workflow-dispatch.yml'
+      - '.github/workflows/dispatch-preview-workflow.yml'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
