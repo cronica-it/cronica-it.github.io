@@ -34,7 +34,11 @@ jobs:
 
     steps:
       - name: Show environment
-        run: env | sort
+        run: |
+          env | sort
+          pwd
+          ls -l
+
 
       - name: Trigger preview build via curl
         # Note the double apostrophes!
