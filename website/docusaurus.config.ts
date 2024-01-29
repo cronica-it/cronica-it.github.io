@@ -202,6 +202,14 @@ const config: Config = {
         // },
       },
     ],
+    [
+      // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-gtag
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'G-T50NMR8JZ1',
+        anonymizeIP: false,
+      }
+    ],
   ],
 
   themes: [
