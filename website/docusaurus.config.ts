@@ -204,11 +204,21 @@ const config: Config = {
     ],
     [
       // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-gtag
+      // https://tagassistant.google.com
       '@docusaurus/plugin-google-gtag',
       {
         trackingID: 'G-T50NMR8JZ1',
         anonymizeIP: false,
       }
+    ],
+    [
+      // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-sitemap
+      '@docusaurus/plugin-sitemap',
+      {
+        changefreq: 'weekly',
+        priority: 0.5,
+        // ignorePatterns: ['/tags/**'],
+        filename: 'sitemap.xml',      }
     ],
   ],
 
