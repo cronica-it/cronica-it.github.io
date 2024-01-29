@@ -222,6 +222,11 @@ const config: Config = {
         filename: 'sitemap.xml',
       }
     ],
+    [
+      // https://docusaurus.io/docs/api/themes/@docusaurus/theme-search-algolia
+      '@docusaurus/theme-search-algolia',
+      {}
+    ]
   ],
 
   themes: [
