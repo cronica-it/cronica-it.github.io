@@ -73,9 +73,9 @@ jobs:
       - name: Prevent robots crawl the preview site
         # https://developers.google.com/search/docs/crawling-indexing/robots/intro
         run: |
-          echo 'User-agent: *' > repo/website/build/robots.txt
-          echo 'Allow: /' >> repo/website/build/robots.txt
-          echo 'Sitemap: https://cronica-it.github.io/sitemap.xml' >> repo/website/build/robots.txt
+          echo 'User-agent: *' > website/build/robots.txt
+          echo 'Allow: /' >> website/build/robots.txt
+          echo 'Sitemap: https://cronica-it.github.io/sitemap.xml' >> website/build/robots.txt
 
       - name: Setup Pages
         # https://github.com/actions/configure-pages
