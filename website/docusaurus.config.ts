@@ -226,7 +226,7 @@ const config: Config = {
       // https://docusaurus.io/docs/api/themes/@docusaurus/theme-search-algolia
       '@docusaurus/theme-search-algolia',
       {}
-    ]
+    ],
   ],
 
   themes: [
@@ -235,7 +235,13 @@ const config: Config = {
       {
         customCss: './src/css/custom.css',
       }
-    ]
+    ],
+    [
+      // https://docusaurus.io/docs/search#using-algolia-docsearch
+      '@docusaurus/theme-search-algolia',
+      {
+      }
+    ],
   ],
 
   themeConfig: {
