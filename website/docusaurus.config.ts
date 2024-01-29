@@ -219,7 +219,31 @@ const config: Config = {
         changefreq: 'weekly',
         priority: 0.5,
         // ignorePatterns: ['/tags/**'],
-        filename: 'sitemap.xml',      }
+        filename: 'sitemap.xml',
+      }
+    ],
+    [
+      // https://docusaurus.io/docs/search#connecting-algolia
+      // https://docusaurus.io/docs/api/themes/@docusaurus/theme-search-algolia
+      '@docusaurus/theme-search-algolia',
+      {
+        // https://docsearch.algolia.com/docs/docsearch-v3/
+        appId: '8S0ZIY7HUC',
+        apiKey: 'ec89b504f4388cd0508bf28ff8878217',
+        indexName: 'cronica-itio',
+
+        // It ensures that search results are relevant to the current
+        // language and version. Enabled by default.
+        contextualSearch: true,
+        // Optional: Algolia search parameters
+        searchParameters: {},
+        // Optional: path for search page that enabled by default (`false` to disable it)
+        // searchPagePath: 'search',
+        // Algolia
+        insights: true,
+        // container: '### REPLACE ME WITH A CONTAINER (e.g. div) ###'
+        debug: false // Set debug to true if you want to inspect the modal
+      },
     ],
   ],
 
