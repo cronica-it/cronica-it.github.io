@@ -367,14 +367,14 @@ const config: Config = {
 
       // It ensures that search results are relevant to the current
       // language and version. Enabled by default.
-      contextualSearch: true,
+      contextualSearch: false, // true,
       // Optional: Replace parts of the item URLs from Algolia.
       // Useful when using the same search index for multiple deployments
       // using a different baseUrl. You can use regexp or string in the
       // `from` param. For example: localhost:3000 vs myCompany.com/docs
-      replaceSearchResultPathname: undefined,
+      // replaceSearchResultPathname: undefined,
       // Optional: Algolia search parameters
-      searchParameters: {},
+      // searchParameters: {},
       // Optional: path for search page that enabled by default (`false` to disable it)
       // searchPagePath: 'search',
     }
