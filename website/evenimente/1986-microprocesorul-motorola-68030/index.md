@@ -1,6 +1,6 @@
 ---
 slug: 1986/microprocesorul-motorola-68030
-title: 'Firma Motorola anunță microprocesorul „68020”'
+title: 'Firma Motorola anunță microprocesorul „68030”'
 authors: [ilg-ul]
 tags: [international, motorola, microprocesoare]
 
