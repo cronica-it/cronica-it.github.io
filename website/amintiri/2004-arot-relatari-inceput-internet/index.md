@@ -325,7 +325,7 @@ Era prima sau a 2-a aplicatie a firmei Intercomp de conectare pe
 satelit la Internet prin tehmologie VSAT. Aceasta conexiune a
 functionat cel putin un an (pina la inceputul anului 1995) cind o alta
 mare firma se lansa, implementind conexiuni Internet pe satelit in mai
-multe locatii ale fundatiei SOROS din Europa Centrala si de Eest: TAIDE
+multe locatii ale fundatiei SOROS din Europa Centrala si de Est: TAIDE
 Networks din Norvegia. Aceasta folosea antene de satelit in tehnologie
 SCPC, iar contractul s-a incheiat odata cu transformarea retelei
 fundatiei SOROS in firma DNT.
