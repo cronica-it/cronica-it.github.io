@@ -13,7 +13,7 @@
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "typecheck": "tsc",
-    "my-check-urls": "blc https://cronica-it.github.io/ --recursive --ordered --filter-level 2 --exclude 'https://twitter.com*' --exclude 'https://cronica-it.github.io/arhiva/' --exclude 'https://github.com/cronica-it/edit/master/' --exclude 'https://github.com/ilg-ul' --exclude 'https://www.linkedin.com/in/' --exclude 'https://www.googletagmanager.com/'",
+    "my-check-urls": "blc https://cronica-it.github.io/ --recursive --ordered --filter-level 2 --exclude 'https://twitter.com*' --exclude 'https://cronica-it.github.io/arhiva/' --exclude 'https://github.com/cronica-it/edit/master/' --exclude 'https://github.com/ilg-ul' --exclude 'https://www.linkedin.com/in/' --exclude 'https://www.googletagmanager.com/' --exclude 'https://github.com/cronica-it/cronica-it.github.io'",
     "my-check-preview-urls": "blc https://cronica-it.github.io/preview/ --recursive --ordered --filter-level 2 --exclude 'https://twitter.com*' --exclude 'https://cronica-it.github.io/arhiva/' --exclude 'https://github.com/cronica-it/preview/edit/master/' --exclude 'https://github.com/ilg-ul' --exclude 'https://www.linkedin.com/in/'",
     "my-deep-clean": "rm -rf node_modules package-lock.json .docusaurus build",
     "my-npm-install": "npm install"
