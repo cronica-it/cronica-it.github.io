@@ -12,7 +12,7 @@ event_date: '2013-10'
 
 Acest articol este al șaptelea dintr-o serie apărută în revista IT Trends
 în luna octombrie 2013, și republicat în broșura
-[De la Free Software la Internet](https://cronica-it.github.io/arhiva/assets/2013/arot-brosura-a5-tipar.pdf).
+[De la Free Software la Internet](https://github.com/cronica-it/arhiva/releases/download/2013/arot-brosura-a5-tipar.pdf).
 
 <!-- truncate -->
 
@@ -51,4 +51,4 @@ O prezentare post factum a conferinței, dar și a impresiilor personale despre 
 
 ## Referințe
 
-- [De la Free Software la Internet](https://cronica-it.github.io/arhiva/assets/2013/arot-brosura-a5-tipar.pdf)
+- [De la Free Software la Internet](https://github.com/cronica-it/arhiva/releases/download/2013/arot-brosura-a5-tipar.pdf)
