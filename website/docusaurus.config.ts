@@ -374,9 +374,9 @@ const config: Config = {
       // `from` param. For example: localhost:3000 vs myCompany.com/docs
       // replaceSearchResultPathname: undefined,
       // Optional: Algolia search parameters
-      // searchParameters: {},
+      searchParameters: {},
       // Optional: path for search page that enabled by default (`false` to disable it)
-      // searchPagePath: 'search',
+      searchPagePath: false, // 'search',
     }
   } satisfies Preset.ThemeConfig,
 };
