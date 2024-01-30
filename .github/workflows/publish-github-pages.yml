@@ -70,12 +70,8 @@ jobs:
       - name: Generate Docusaurus
         run: npm run build -C website
 
-      - name: Prevent robots crawl the preview site
-        # https://developers.google.com/search/docs/crawling-indexing/robots/intro
-        run: |
-          echo 'User-agent: *' > website/build/robots.txt
-          echo 'Allow: /' >> website/build/robots.txt
-          echo 'Sitemap: https://cronica-it.github.io/sitemap.xml' >> website/build/robots.txt
+      - name: Prevent robots crawl the preview site and grouping pages
+        run: cp scripts/robots.txt website/build/robots.txt
 
       - name: Setup Pages
         # https://github.com/actions/configure-pages
