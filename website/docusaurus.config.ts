@@ -80,6 +80,7 @@ const config: Config = {
         showLastUpdateTime: true,
         hidePostYearInArchive: true,
         sortPostsByEventDate: true,
+        sortSidebarByLastUpdate: true,
         generateAuthorsPages: true,
 
         // Please change this to your repo.
@@ -119,6 +120,7 @@ const config: Config = {
         showLastUpdateTime: true,
         hidePostYearInArchive: true,
         sortPostsByEventDate: true,
+        sortSidebarByLastUpdate: true,
         generateAuthorsPages: true,
 
         // Please change this to your repo.
@@ -154,6 +156,7 @@ const config: Config = {
         showLastUpdateTime: true,
         hidePostYearInArchive: true,
         // sortPostsByEventDate: true,
+        // sortSidebarByLastUpdate: true,
         // generateAuthorsPages: true,
 
         // Please change this to your repo.
