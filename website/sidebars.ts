@@ -18,6 +18,7 @@ const sidebars: SidebarsConfig = {
     'intro',
     'metadate',
     'frontmatter',
+    'notificari',
     'cum-contribui',
     {
       type: 'link',
