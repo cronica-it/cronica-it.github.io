@@ -333,7 +333,7 @@ const config: Config = {
           position: 'right'
         },
         {
-          label: 'Docu',
+          label: 'Documentație',
           type: 'docSidebar',
           sidebarId: 'docuSidebar',
           position: 'right',
