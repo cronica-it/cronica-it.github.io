@@ -88,7 +88,7 @@ const config: Config = {
         editUrl:
           isPreview ? 'https://github.com/cronica-it/cronica-it.github.io/edit/preview/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
         blogSidebarTitle: 'Amintiri',
-        blogSidebarCount: 'ALL',
+        blogSidebarCount: 20,
         authorsMapPath: '../authors.yml',
       },
     ],
@@ -128,7 +128,7 @@ const config: Config = {
         editUrl:
           isPreview ? 'https://github.com/cronica-it/cronica-it.github.io/edit/preview/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
         blogSidebarTitle: 'Evenimente',
-        blogSidebarCount: 'ALL',
+        blogSidebarCount: 20,
       },
     ],
     [
@@ -156,7 +156,7 @@ const config: Config = {
         showLastUpdateTime: true,
         hidePostYearInArchive: true,
         // sortPostsByEventDate: true,
-        // sortSidebarByLastUpdate: true,
+        sortSidebarByLastUpdate: true,
         // generateAuthorsPages: true,
 
         // Please change this to your repo.
@@ -164,7 +164,7 @@ const config: Config = {
         editUrl:
           isPreview ? 'https://github.com/cronica-it/cronica-it.github.io/edit/preview/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
         blogSidebarTitle: 'Amintiri',
-        blogSidebarCount: 'ALL',
+        blogSidebarCount: 20,
         authorsMapPath: '../authors.yml',
       },
     ],
@@ -276,7 +276,7 @@ const config: Config = {
               to: '/evenimente/autori'
             },
             {
-              label: 'Toate',
+              label: 'Actualizate recent',
               to: '/evenimente'
             }
           ]
@@ -301,7 +301,7 @@ const config: Config = {
               to: '/amintiri/autori'
             },
             {
-              label: 'Toate',
+              label: 'Actualizate recent',
               to: '/amintiri'
             },
           ]
@@ -317,7 +317,7 @@ const config: Config = {
               to: '/blog/arhiva'
             },
             {
-              label: 'Toate',
+              label: 'Actualizare recent',
               to: '/blog'
             },
           ]

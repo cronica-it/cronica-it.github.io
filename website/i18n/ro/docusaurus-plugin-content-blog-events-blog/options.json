@@ -8,7 +8,7 @@
     "description": "The description for the blog used in SEO"
   },
   "sidebar.title": {
-    "message": "Evenimente",
+    "message": "Evenimente actualizate recent",
     "description": "The label for the left sidebar"
   }
 }
