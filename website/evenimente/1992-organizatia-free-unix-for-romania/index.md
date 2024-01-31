@@ -21,7 +21,7 @@ In septembrie 1994, conducerea organizației este preluată de Ted Lungu.
 Ultimul raport cunoscut este din 1995.
 
 În 2023, Marius Hâncu a trimis un material la
-[GALA 30 de ani de Internet](/evenimente/2023/conferinta-dtc-30-ani-internet).
+[GALA 30 de ani de Internet](/evenimente/2023/conferinta-dtc-30-ani-internet/).
 
 ## Referințe
 
@@ -33,5 +33,5 @@ Ultimul raport cunoscut este din 1995.
 - [Interviul acordat de Marius Hâncu revistei OPEN în 1994](/amintiri/1994/mhancu-interviu-revista-open/)
 - [Raportul lui Marius Hâncu din 1994 despre cărțile trimise în România și Moldova](/amintiri/1994/mhancu-soros-books/)
 - [Mesajul din 1994 în care Marius Hâncu îl introduce pe Ted Lungu](/amintiri/1994/mhancu-mesaj-ted-lungu/)
-- [Raportul lui Marius Hâncu din 1995 despre donațiile pentru Free Unix for Romania](/amintiri/1995/mhancu-donation-drive)
+- [Raportul lui Marius Hâncu din 1995 despre donațiile pentru Free Unix for Romania](/amintiri/1995/mhancu-donation-drive/)
 - [comunic.ro - Marius Hâncu @ GALA 30 de ani de Internet](https://comunic.ro/marius-hancu-gala-30-de-ani-de-internet-ro-free-unix-for-romania-movement-managed-to-associate-people-of-great-talents-who-forgot-their-personal-interest-in-the-interest-of-a-modern-romania-i/)

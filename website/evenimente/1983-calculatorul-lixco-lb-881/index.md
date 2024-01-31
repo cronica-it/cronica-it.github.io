@@ -34,4 +34,4 @@ sub numele de CE 119.
 - [retroit.ro - Microcalculatorul L/B 881](https://retroit.ro/l-b-881/)
 - [ilgthegeek.wordpress.com - History: Lixco L/B881, the first Romanian commercial microcomputer](https://ilgthegeek.wordpress.com/2010/11/14/history-lixco-lb881/)
 - [tehnium-azi.ro - Computer LB881 - publicat in Tehnium](https://www.tehnium-azi.ro/forums/topic/7187-computer-lb881-publicat-in-tehnium/) (arhivat [local](https://cronica-it.github.io/arhiva/))
-- [Interviul lui Lix din qsl.ro](/amintiri/2010/lix-interviu-qsl-ro)
+- [Interviul lui Lix din qsl.ro](/amintiri/2010/lix-interviu-qsl-ro/)

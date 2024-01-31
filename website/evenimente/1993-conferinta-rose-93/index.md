@@ -178,4 +178,4 @@ Irina Athanasiu professor PUB
 
 ## Referințe
 
-- [Prezentare lui Marius Hâncu la ROSE '93](/amintiri/1993/mhancu-mesaj-free-unix-rose93)
+- [Prezentare lui Marius Hâncu la ROSE '93](/amintiri/1993/mhancu-mesaj-free-unix-rose93/)

@@ -46,5 +46,5 @@ când echipa a fost invitată la o firmă din Salzburg, Austria.
 
 ## Referințe
 
-- [Interviul lui Lix din qsl.ro](/amintiri/2010/lix-interviu-qsl-ro)
-- [L/B 881](/evenimente/1983/calculatorul-lixco-lb-881)
+- [Interviul lui Lix din qsl.ro](/amintiri/2010/lix-interviu-qsl-ro/)
+- [L/B 881](/evenimente/1983/calculatorul-lixco-lb-881/)
