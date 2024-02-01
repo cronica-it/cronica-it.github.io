@@ -32,7 +32,7 @@ script_folder="$(dirname ${script_path})"
 script_name="$(basename $0)"
 # echo "${script_name}"
 
-script_base="create-event" # $(echo "${script_name}" | sed -e 's/\(.*\)[.]mac[.]command/\1/')
+script_base="create-events-post" # $(echo "${script_name}" | sed -e 's/\(.*\)[.]mac[.]command/\1/')
 # echo "${script_base}"
 
 # export CRONICA_IT_AUTHORS="arot"
