@@ -10,8 +10,8 @@ date: 2024-02-01T07:56:54
 
 Mulțumită contribuțiilor susținătorilor inițiali, proiectul „Cronica IT&C” a
 adunat suficient conținut, iar funcționalitatea a devenit acceptabilă,
-astfel încât la sfârșitul lunii ianuarie 2024, la 3 luni de la primul preview,
-site-ul proiectului să poate fi făcut public.
+ceea ce a permis ca de la sfârșitul lunii ianuarie 2024, la 3 luni de la
+primul preview, site-ul proiectului să poate fi făcut public.
 
 <!-- truncate -->
 
