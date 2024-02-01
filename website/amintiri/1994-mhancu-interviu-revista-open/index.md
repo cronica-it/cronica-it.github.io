@@ -1,6 +1,7 @@
 ---
 slug: 1994/mhancu-interviu-revista-open
 title: 'Interviul acordat de Marius Hâncu revistei OPEN'
+authors: [mhancu]
 tags: [mesaje]
 
 date: 2023-11-06T21:55
