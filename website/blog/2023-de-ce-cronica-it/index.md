@@ -14,6 +14,8 @@ la evenimentul RITE 2023, organizat de
 [ANISP](https://anisp.ro/) și [ISOC RO](https://www.internetsociety.ro/)
 cu tema **30 de ani de Internet în România**.
 
+<!-- truncate -->
+
 În urmatoarele zile, în urma unui schimb de e-mail-uri, s-a conturat idea
 ca această cronologie să fie organizată ca un blog în care articolele să fie
 insoțite de metadate pentru cronologie.
