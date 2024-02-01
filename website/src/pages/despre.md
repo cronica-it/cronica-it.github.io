@@ -33,7 +33,7 @@ cu menționarea clară a autorului și a sursei.
 ## Susținători
 
 Proiectul are susținerea [ANISP](https://www.anisp.ro)
-(**Asociația Natională a Internet Service Providerilor**),
+(Asociația Natională a Internet Service Providerilor),
 care a contribuit conținutul paginii
 [Istoria Internetului](https://rite.org.ro/istoria-internetului/), din care
 au fost preluate o parte dintre evenimentele din cronologie.
