@@ -43,7 +43,6 @@ jobs:
           pwd
           ls -l
 
-
       - name: Trigger preview build via curl
         # Note the double apostrophes!
-        run: bash scripts/trigger-preview-build.sh ${{ secrets.API_DISPATCH_TOKEN }}
+        run: bash scripts/trigger-build-preview.sh ${{ secrets.API_DISPATCH_TOKEN }}
