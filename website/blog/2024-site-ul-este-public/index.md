@@ -27,7 +27,7 @@ la pagina inițială.
 
 ## Amintiri
 
-De la idea inițială de a face o cronologie, proiectul a fost dezvoltat
+Pornind de la idea inițială de a face o cronologie, proiectul a fost dezvoltat
 și treptat au fost adăugate noi secțiuni.
 
 Pe lângă evenimentele care alcătuiesc cronologia propriu-zisă, s-a conturat idea
