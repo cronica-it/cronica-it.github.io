@@ -323,7 +323,7 @@ const config: Config = {
           ]
         },
         {
-          label: 'Arhiva',
+          label: 'Arhivă',
           to: '/arhiva',
           position: 'left'
         },
