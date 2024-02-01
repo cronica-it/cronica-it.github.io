@@ -9,7 +9,7 @@ date: 2024-02-01T07:56:54
 ---
 
 La sfârșitul lunii ianuarie 2024, la 3 luni de la primul preview,
-site-ul proiectului „Cronica IT&C” este public.
+site-ul proiectului „Cronica IT&C” devine public.
 
 <!-- truncate -->
 
@@ -26,14 +26,14 @@ Astfel a apărut secțiunea **Amintiri**,
 online sau tipărite, ori puse la dispoziție de autori.
 
 În scopul prezervării pe termen lung a unor documente, a fost creată
-secțiunea **Arhiva**, ce conține diverse fișiere binare, cum ar fi
+secțiunea **Arhivă**, ce conține diverse fișiere binare, cum ar fi
 documentații în format PDF,
 fișiere .zip, etc, posibil relevante pentru istoria IT&C din România.
 
 ## Implementare
 
 Site-ul de web este generat static cu [Docusaurus](https://docusaurus.io),
-și ca organizare folosește o structură de blog, de fapt 3 instanțe separate
+și ca organizare folosește o structură de blog, de fapt 3 instanțe distincte
 de blog, pentru evenimente, amintiri și blog.
 
 În mod obișnuit un blog conține articole despre evenimente recente, și
@@ -48,13 +48,13 @@ săptămâni perioada de dezvoltare.
 (_tags_), și există posibilitatea de a se afișa pagini cu articolele
 grupate după categorii.
 
-În plus, ca o extensie la Docusaurus, a fost adăugată și posibilitatea de a
-afișa pagini cu articole grupate după autori.
+Ca o extensie la Docusaurus, în acest proiect a fost adăugată și
+posibilitatea de a afișa pagini cu articole grupate după autori.
 
 ## Algolia search
 
 O altă facilitate considerată utilă a fost un
-mecanism de căutare exhaustivă în conținutul site-ului.
+mecanism de căutare exhaustivă în conținutul articolelor.
 
 Soluția adoptată a fost Algolia Search, pentru care Docusaurus oferă
 suport direct.
@@ -81,15 +81,13 @@ anuale.
 Pentru a facilita comunicarea între cei interesați să susțină acest proiect,
 a fost creat grupul
 [cronica-it-ro](https://groups.google.com/u/1/g/cronica-it-ro)
-pe Google.
+pe Google Groups.
 
 Toate notificările viitoare în legătura cu proiectul vor fi trimise prin
 acest grup.
 
 ## Feedback
 
-În perioada următoare urmează ca existența acestui proiect să fie
-facută publică, prin postări pe social media sau email.
-
-Este foarte probabil ca în unele articole să existe greșeli sau
+Ca în orice proiect nou, este foarte probabil ca în unele articole să
+existe greșeli sau
 inexactități, drept care orice ajutor pentru corectarea lor va fi apreciat.
