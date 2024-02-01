@@ -27,3 +27,5 @@ OpenAI, realitatea virtuală etc.
 ## Referințe
 
 - [interlan.ro - 2023-10-25 - RITE 2023 – 30 DE ANI DE INTERNET ÎN ROMÂNIA](https://www.interlan.ro/rite-2023-30-de-ani-de-internet-in-romania/)
+- [rite.org.ro](https://rite.org.ro)
+- [youtube.com - ANISP](https://www.youtube.com/@ANISP-hu4de)
