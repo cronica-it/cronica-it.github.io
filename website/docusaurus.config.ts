@@ -317,7 +317,7 @@ const config: Config = {
               to: '/blog/arhiva'
             },
             {
-              label: 'Actualizare recent',
+              label: 'Actualizate recent',
               to: '/blog'
             },
           ]
