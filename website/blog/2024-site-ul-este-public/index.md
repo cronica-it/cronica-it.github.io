@@ -9,7 +9,7 @@ date: 2024-02-01T07:56:54
 ---
 
 Mulțumită contribuțiilor susținătorilor inițiali, proiectul „Cronica IT&C” a
-adunat suficient conținut, iar funcționalitatea a devenit acceptabilă,
+acumulat suficient conținut,
 ceea ce a permis ca de la sfârșitul lunii ianuarie 2024, la 3 luni de la
 primul preview, site-ul proiectului să poate fi făcut public.
 
@@ -104,12 +104,12 @@ automat care folosește un
 branch suplimentar și un site de preview.
 
 În repository-ul cu sursele există 2 branch-uri; conținutul din branch-ul
-`preview` este automat publicat la adresa <https://cronica-it.github.io/preview/>,
-iar conținutul din branch-ul `master` la adresa <https://cronica-it.github.io/>.
+`preview` este automat publicat la adresa [https://cronica-it.github.io/preview/](https://cronica-it.github.io/preview/),
+iar conținutul din branch-ul `master` la adresa [https://cronica-it.github.io/](https://cronica-it.github.io/).
 
-Articolele sunt inițial adâugate în branch-ul `preview`, verificate de autor
+Ca procedură, articolele vor fi inițial adăugate în branch-ul `preview` și vor fi verificate de autor
 în site-ul de preview; când conținutul este gata, branch-ul `preview`
-este preluat în branch-ul `master` și automat publicat în site-ul principal.
+este preluat în branch-ul `master` și conținutul va fi automat publicat în site-ul principal.
 
 ## Google Group
 
