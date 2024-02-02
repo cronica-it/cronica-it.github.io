@@ -112,10 +112,10 @@ La începutul lui 1990 la CNS – Comisia Națională pentru Statistică – era
 
 Le mulțumesc tuturor colegilor cu care am colaborat în toți acești ani și sper ca și ei să-și aducă aminte cu aceeași plăcere despre momentele, proiectele, emoțiile, insuccesele și bucuriile trăite împreună.
 
-## Lista angajaților din laboratorul F19
+## Personal Laborator F19 ITC
 
-- Vlad Țepelea
-- Emil Purice
+- Vlad Țepelea - șef laborator
+- Emil Purice - adjunct
 - Liliana Moisa
 - Paul Lefter
 - Ileana Lefter
@@ -141,17 +141,22 @@ Le mulțumesc tuturor colegilor cu care am colaborat în toți acești ani și s
 - Doina Istrătescu
 - Mihai Tănăsescu
 - Valerica Țucu
-- Daniel (Gonzo) ....
+- Daniel Noroceanu
 - Ștefan Covaci
 - Mihai Mateescu
 - Victor Galiș
 - Daniela Popescu
 - Radu Ispas
-- Ruxandra Bally (Ispas)
+- Ruxandra Dan (Ispas)
 - Irina Ștefănescu
 - Lucian Dăncăneț
+- Marina Arabian
+- George Calcev
+
+Persoane care au format apoi colectivul independent de Inteligență Artificială condus de Prof. Cristian Giumale de la Politehnică
+
 - Iustin Roșca
-- ........ Roșca
+- Dana Roșca
 - Tudor Toma
 - Oana Băltărețu
 - Eugen Ardeleanu
