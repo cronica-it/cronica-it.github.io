@@ -21,7 +21,7 @@ Ca primă sursă pentru evenimentele din cronologie a fost pagina
 _Istoria Internetului_ făcută de Gheorghe Șerban
 și publicată pe site-ul
 [rite.org.ro](https://rite.org.ro/istoria-internetului/),
-dar continutul a fost in cele mai multe cazuri rescris. Ca recunoaștere,
+dar conținutul a fost în cele mai multe cazuri rescris. Ca recunoaștere,
 Gheorghe Șerban a fost păstrat ca prim autor, și articolele au o referință
 la pagina inițială.
 
@@ -98,7 +98,7 @@ anuale.
 
 ## Preview
 
-Pentru a da posibilitaatea autorilor de a verifica articolele înainte de
+Pentru a da posibilitatea autorilor de a verifica articolele înainte de
 a fi publicate pe site-ul principal, a fost implementat un mecanism
 automat care folosește un
 branch suplimentar și un site de preview.
@@ -108,7 +108,7 @@ branch suplimentar și un site de preview.
 iar conținutul din branch-ul `master` la adresa [https://cronica-it.github.io/](https://cronica-it.github.io/).
 
 Ca procedură, articolele vor fi inițial adăugate în branch-ul `preview` și vor fi verificate de autor
-în site-ul de preview; când conținutul este gata, branch-ul `preview`
+în site-ul de preview; când conținutul are aprobarea de publicare, branch-ul `preview`
 este preluat în branch-ul `master` și conținutul va fi automat publicat în site-ul principal.
 
 ## Google Group
@@ -118,7 +118,7 @@ a fost creat grupul
 [cronica-it-ro](https://groups.google.com/u/1/g/cronica-it-ro)
 pe Google Groups.
 
-Toate notificările viitoare în legătura cu proiectul vor fi trimise prin
+Toate notificările viitoare în legătură cu proiectul vor fi trimise prin
 acest grup.
 
 ## Feedback
