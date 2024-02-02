@@ -642,7 +642,7 @@ Comerţul cu calculatoare a necesitat o asistenţă tehnică adecvată, una de m
 Comerţul cu calculatoare româneşti în China a fost sistat cam prin anul 1986, când chinezii şi-au construit o fabrică proprie de PC-uri Wang.
 
 PC-urile au fost ca nişte autentici „killer” pentru sistemele mari tip Felix
-C-512, Vax etc., şi asta nu numai în China, ci chiar şi în România şi peste tot în lume.
+C-512, VAX etc., şi asta nu numai în China, ci chiar şi în România şi peste tot în lume.
 
 ### Cu avionul peste Hymalaya
 
