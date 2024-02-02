@@ -153,7 +153,7 @@ Le mulțumesc tuturor colegilor cu care am colaborat în toți acești ani și s
 - Marina Arabian
 - George Calcev
 
-Persoane care au format apoi colectivul independent de Inteligență Artificială condus de Prof. Cristian Giumale de la Politehnică
+Persoane care au format apoi colectivul independent de Inteligență Artificială condus de Prof. Cristian Giumale de la Politehnică:
 
 - Iustin Roșca
 - Dana Roșca
