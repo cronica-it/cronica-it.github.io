@@ -32,13 +32,13 @@ Pe lângă o petrecere placută a timpului, şahul este o preocupare care dezvol
 
 :::note
 
-Acest program, după cum spune şi numele lui „Friendly Chess” (Program Prietenos de Şah), este destinat, în primul rând, să redea şahul ca o plăcere de joc pentru toţi, pentru fiecare copil, sau fiecare adult, care să-şi găsească posibilitatea să caştige în faţa calculatoarelor performante chiar când de abia învaţă şah. E mai placut să învingi un calculator care e prieten cu tine, decât să joci cu un program superpeformant pe care să nu-l poţi învinge niciodată.
+Acest program, după cum spune şi numele lui „Friendly Chess” (Program Prietenos de Şah), este destinat, în primul rând, să redea şahul ca o plăcere de joc pentru toţi, pentru fiecare copil, sau fiecare adult, care să-şi găsească posibilitatea să câştige în faţa calculatoarelor performante chiar când de abia învaţă şah. E mai placut să învingi un calculator care e prieten cu tine, decât să joci cu un program superpeformant pe care să nu-l poţi învinge niciodată.
 
 :::
 
 ## Cum se instaleaza programul de şah
 
-`FriendlyChess.zip`, odată procurat de pe internet sau pe un CD, are nevoie de circa 500Mb de spaţiu pe disc, de un calculator cu cel putin 128 Mb de memorie, cu un procesor oarecare, dar cu cât procesorul este mai rapid, cu atât programul gândeste mai repede. În fine, e de preferat ca ecranul sa fie color, setat pe rezolutia de 1024 x 768, sau altele cu care tabla este pătrată, pixelii să aibă 32 biţi culoare. Cam toate calculatoarele care se vând astazi au aceste caracteristici.
+`FriendlyChess.zip`, odată procurat de pe internet sau pe un CD, are nevoie de circa 500Mb de spaţiu pe disc, de un calculator cu cel putin 128 Mb de memorie, cu un procesor oarecare, dar cu cât procesorul este mai rapid, cu atât programul gândește mai repede. În fine, e de preferat ca ecranul să fie color, setat pe rezoluția de 1024 x 768, sau altele cu care tabla este pătrată, pixelii să aibă 32 biţi culoare. Cam toate calculatoarele care se vând astăzi au aceste caracteristici.
 
 Copiați intr-un director dorit conținutul ZIP-ului, apoi alegeți fișierul `Friendly Chess.exe` şi creaţi un shortcut pe ecran.
 
