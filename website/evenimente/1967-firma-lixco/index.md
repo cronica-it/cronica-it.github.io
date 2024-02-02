@@ -22,7 +22,7 @@ Spre sfârșitul
 anilor '70 numele Lixco era deja cunoscut printre radioamatorii din România.
 În anii '80 Lixco funcționa deja ca o firmă privată.
 
-Din echipa inițială mai făcea parte Dan Voiculescu (YO3JX) și
+Din echipa inițială mai făceau parte Dan Voiculescu (YO3JX) și
 Ștefan Bordeanu (YO3DP). Mai târziu s-a alăturat și Romeo Burada (YO9CFR).
 
 În perioada 1976-1980, această echipă a realizat transceiverul
@@ -34,7 +34,7 @@ softiști, Gelu Chița și Liviu Ionescu.
 În 1983 a fost realizat microcalculatorul **L/B 881**, care a fost
 comercializat din 1984.
 
-Cu experiența dobândită, pe la sfârșitul anilor '80, Lixco
+Cu experiența dobândită în circuite digitale, pe la sfârșitul anilor '80, Lixco
 a anunțat un upgrade la transceiverul A412, căruia i-a fost
 adăugat un PLL ce permitea introducerea frecvenței de la o
 tastatura digitală.
