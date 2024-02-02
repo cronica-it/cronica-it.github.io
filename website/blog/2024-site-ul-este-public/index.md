@@ -108,7 +108,7 @@ branch suplimentar și un site de preview.
 iar conținutul din branch-ul `master` la adresa [https://cronica-it.github.io/](https://cronica-it.github.io/).
 
 Ca procedură, articolele vor fi inițial adăugate în branch-ul `preview` și vor fi verificate de autor
-în site-ul de preview; când conținutul are aprobarea de publicare, branch-ul `preview`
+în site-ul de preview; când textul are aprobarea de publicare, branch-ul `preview`
 este preluat în branch-ul `master` și conținutul va fi automat publicat în site-ul principal.
 
 ## Google Group
