@@ -152,6 +152,7 @@ Le mulțumesc tuturor colegilor cu care am colaborat în toți acești ani și s
 - Lucian Dăncăneț
 - Marina Arabian
 - George Calcev
+- Liviu Ionescu
 
 Persoane care au format apoi colectivul independent de Inteligență Artificială condus de Prof. Cristian Giumale de la Politehnică:
 
