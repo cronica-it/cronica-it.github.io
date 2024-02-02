@@ -112,6 +112,50 @@ La începutul lui 1990 la CNS – Comisia Națională pentru Statistică – era
 
 Le mulțumesc tuturor colegilor cu care am colaborat în toți acești ani și sper ca și ei să-și aducă aminte cu aceeași plăcere despre momentele, proiectele, emoțiile, insuccesele și bucuriile trăite împreună.
 
+## Lista angajaților din laboratorul F19
+
+- Vlad Țepelea
+- Emil Purice
+- Liliana Moisa
+- Paul Lefter
+- Ileana Lefter
+- Mihai Berindei
+- Olguța Berindei
+- Adriana Neagu
+- Niculae Strătică
+- Flavian Drăgan
+- Florin Raclariu
+- Manuela Ogrinja
+- Sever Sachelarie
+- Dragoș Negoescu
+- Lucia Iancovici
+- Elena Dănescu
+- Liviu Iftode
+- Florin Rădulescu
+- Grigore Precupețu
+- Cristian Rapauzu
+- Gabriela Teodorescu
+- Marin Simina
+- Constantin Socol
+- Eugen Georgescu
+- Doina Istrătescu
+- Mihai Tănăsescu
+- Valerica Țucu
+- Daniel (Gonzo) ....
+- Ștefan Covaci
+- Mihai Mateescu
+- Victor Galiș
+- Daniela Popescu
+- Radu Ispas
+- Ruxandra Bally (Ispas)
+- Irina Ștefănescu
+- Lucian Dăncăneț
+- Iustin Roșca
+- ........ Roșca
+- Tudor Toma
+- Oana Băltărețu
+- Eugen Ardeleanu
+
 ## Referințe
 
 - [Un institut pentru istorie. Semicentenarul Institutului pentru Tehnica de Calcul (1968-2018), ](https://www.agir.ro/carte/un-institut-pentru-istorie-semicentenarul-institutului-pentru-tehnica-de-calcul-1968-2018-123155.html)
