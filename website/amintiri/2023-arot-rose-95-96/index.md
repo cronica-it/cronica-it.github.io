@@ -1,6 +1,6 @@
 ---
 slug: 2023/arot-rose-95-96
-title: "Alexandru Rotaru - Articolul de la CNIV 2023 - „Conferințele ROSE '95 și ROSE '96”"
+title: "Alexandru Rotaru - Contribuția din volumul CNIV 2023 - „Conferințele ROSE '95 și ROSE '96”"
 authors: [arot]
 tags: [conferinte]
 
