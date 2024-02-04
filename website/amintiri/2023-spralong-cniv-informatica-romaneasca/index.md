@@ -1,6 +1,6 @@
 ---
 slug: 2023/spralong-cniv-informatica-romaneasca
-title: 'Sandra Pralong - Contribuția din volumul CNIV 2023'
+title: 'Sandra Pralong - Contribuția la volumul CNIV 2023'
 authors: [spralong]
 tags: [articole, internet]
 

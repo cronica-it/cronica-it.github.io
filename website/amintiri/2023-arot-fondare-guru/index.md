@@ -1,6 +1,6 @@
 ---
 slug: 2023/arot-fondare-guru
-title: 'Alexandru Rotaru - Contribuția din volumul CNIV 2023 - „Fondarea asociației GURU”'
+title: 'Alexandru Rotaru - Contribuția la volumul CNIV 2023 - „Fondarea asociației GURU”'
 authors: [arot]
 tags: [asociatii]
 

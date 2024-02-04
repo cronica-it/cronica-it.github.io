@@ -1,6 +1,6 @@
 ---
 slug: 2023/imaxim-cniv-30-ani-de-internet-in-bucovina
-title: 'Ioan Maxim - Contribuția din volumul CNIV 2023'
+title: 'Ioan Maxim - Contribuția la volumul CNIV 2023'
 authors: [imaxim]
 tags: [articole, internet]
 

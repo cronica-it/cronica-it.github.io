@@ -1,6 +1,6 @@
 ---
 slug: 2023/dgarlasu-cniv-inceputurile-internetului
-title: 'Dan Gârlașu - Contribuția din volumul CNIV 2023'
+title: 'Dan Gârlașu - Contribuția la volumul CNIV 2023'
 authors: [dgarlasu]
 tags: [articole, internet]
 

@@ -1,6 +1,6 @@
 ---
 slug: 2023/arot-computere-licee
-title: 'Alexandru Rotaru - Contribuția din volumul CNIV 2023 - „GURU și programul Computere pentru licee”'
+title: 'Alexandru Rotaru - Contribuția la volumul CNIV 2023 - „GURU și programul Computere pentru licee”'
 authors: [arot]
 tags: [conferinte]
 
