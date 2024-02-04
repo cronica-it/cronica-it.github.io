@@ -33,7 +33,7 @@ Despre apariția Internetului și a rețelelor de comunicații în România au v
 
 și RoTLD, Liviu Ionescu, fondator Eunet, Nicolai Sandu, coordonator program Internet fundația SOROS (1991-1998), Mihai Bătrîneanu, fondator PC-Net, Ovidiu Crișan, fondator Kappa Servexim, primul operator Internet prin CATV, Gheorghe Rusu, co-fondator Intercomp SRL, Starnets, primul operator Internet prin VSAT și Sorin Marpozan, fondator Logic Telecom, Logic Telecom, operator național de pachete comutate.
 
-ar despre aplicații în mediul online au realizat prezentari: Mircea Bodea, profesor: Free Unix for Romania, Mihai-Stanislav Jalobeanu, profesor, istoria WWW de la Tim Berners-Lee și până azi, Liviu Iftode, profesor univ. Rutgers, „Internet of Cars”, Horia Gligor, co-fondator GURU, relatări despre Richard Stallman și Phil Zimermann prezenți la conferința ROSE'94, Liviu Taloi, evoluția mediului on-line din 1995 și până în prezent și Radu Jugureanu, coordonator AEL SIVECO, conținut online pe Internet, evoluții notabile din 1993 și până azi.
+ar despre aplicații în mediul online au realizat prezentari: Mircea Bodea, profesor: „Free Unix for Romania”, Mihai-Stanislav Jalobeanu, profesor, istoria WWW de la Tim Berners-Lee și până azi, Liviu Iftode, profesor univ. Rutgers, „Internet of Cars”, Horia Gligor, co-fondator GURU, relatări despre Richard Stallman și Phil Zimermann prezenți la conferința ROSE'94, Liviu Taloi, evoluția mediului on-line din 1995 și până în prezent și Radu Jugureanu, coordonator AEL SIVECO, conținut online pe Internet, evoluții notabile din 1993 și până azi.
 
 Acest eveniment a fost organizat cu sprijinul: Intel Software, ANISP, Microsoft, Zitec, SIVECO România.
 

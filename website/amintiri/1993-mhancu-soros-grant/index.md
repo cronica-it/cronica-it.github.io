@@ -24,7 +24,7 @@ Hello, everyone:
 
 
 
-I have the pleasure of announcing that Free UNIX for Romania was awarded
+I have the pleasure of announcing that „Free Unix for Romania” was awarded
 by the Soros Foundation for an Open Society - Romania a grant of
 10,000US$. This is the maximum amount allowed by the rules of the
 Foundation, which should make us proud. However, such grants cannot be

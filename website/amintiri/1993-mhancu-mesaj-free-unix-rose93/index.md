@@ -1,6 +1,6 @@
 ---
 slug: 1993/mhancu-mesaj-free-unix-rose93
-title: "Marius Hâncu - Mesajul despre Free Unix for Romania la ROSE '93"
+title: "Marius Hâncu - Mesajul despre „Free Unix for Romania” la ROSE '93"
 authors: [mhancu]
 tags: [mesaje]
 
@@ -62,7 +62,7 @@ messages as of today). I would like thank the
 organizers/administrators of these groups, Nick Sandru and Alexander
 Mihai Popovici, for their silent, but active, cooperation.
 
-The main focus of Free Unix for Romania was on sending free varieties
+The main focus of „Free Unix for Romania” was on sending free varieties
 of the well-known operating system Unix, which is presently widely
 used in many universities, research facilities and other places, all
 over the world.
@@ -80,7 +80,7 @@ infringements all over Romania. They also run on the 386/486 PCs,
 which are presently and for the immediate future the most ubiquitous
 computing platforms in Romania, based on their cost.
 
-Free Unix for Romania was initially born (in the autumn of 1992) out
+„Free Unix for Romania” was initially born (in the autumn of 1992) out
 of concern for some of our fellow Romanians which were confronted with
 employment problems in their process of immigrating to Canada and
 United States. They were faced with programming environments and sets
@@ -123,7 +123,7 @@ satellite. We just hope our efforts will prove fruitful.
 Also as of this writing,
 I hope a presentation of linux will be made at this conference by
 Professor Irina Athanasiu, which has made a major contribution in its
-proliferation in Romania and to Free Unix for Romania in general.
+proliferation in Romania and to „Free Unix for Romania” in general.
 Irina, you have our heartfelt thanks for all you did!
 
 After using my friends in Canada and United States as beta testers, I
@@ -182,7 +182,7 @@ proprietary software in Romania. The growth of the software and
 systems market passess through the education of the users, at least in
 my view of things.
 
-Free Unix for Romania has also received coverage in the prestigious
+„Free Unix for Romania” has also received coverage in the prestigious
 Communications of the Association for Computing Machinery, in the July
 1993 issue, which included an appeal for help by Professor Irina
 Athanasiu on behalf of Romanian computer scientists.
