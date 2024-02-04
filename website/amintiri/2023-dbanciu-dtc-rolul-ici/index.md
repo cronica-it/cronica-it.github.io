@@ -1,6 +1,6 @@
 ---
 slug: 2023/dbanciu-dtc-rolul-ici
-title: 'Doinei Banciu - Prezentarea la DTC 2023'
+title: 'Doina Banciu - Prezentarea la DTC 2023'
 authors: [dbanciu]
 tags: [articole, ici]
 
@@ -10,7 +10,7 @@ event_date: '2023-05-17'
 
 ---
 
-La conferința **30 de ani de Internet în Romănia** organizată
+La conferința **30 de ani de Internet în România** organizată
 de Digital Transformation Council, care a avut loc în 17 mai 2023,
 Doina Banciu a avut o prezentare în care a subliniat rolul ICI în
 dezvoltarea conectivității.
