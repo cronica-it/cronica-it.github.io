@@ -1,12 +1,12 @@
 ---
-slug: 2010/vdarie-friendly-chess
+slug: 2009/vdarie-friendly-chess
 title: 'Viorel Darie - Manualul programului „Friendly Chess”'
 authors: [vdarie]
 tags: [sah]
 
 date: 2024-02-02T09:01:59
 
-event_date: '2010'
+event_date: '2009'
 
 ---
 
