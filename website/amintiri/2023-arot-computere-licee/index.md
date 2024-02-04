@@ -1,6 +1,6 @@
 ---
 slug: 2023/arot-computere-licee
-title: 'Articolul lui Adi Rotaru la CNIV 2023 - GURU și programul „Computere pentru licee”'
+title: 'Alexandru Rotaru - Articolul de la CNIV 2023 - „GURU și programul Computere pentru licee”'
 authors: [arot]
 tags: [conferinte]
 

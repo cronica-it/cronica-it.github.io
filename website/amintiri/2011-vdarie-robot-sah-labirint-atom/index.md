@@ -1,6 +1,6 @@
 ---
 slug: 2011/vdarie-robot-sah-labirint-atom
-title: 'Amintirile lui Viorel Darie despre robotul românesc de şah LABIRINT 64 / ATOM 64'
+title: 'Viorel Darie - Amintiri despre robotul românesc de şah LABIRINT 64 / ATOM 64'
 authors: [vdarie]
 tags: [sah]
 

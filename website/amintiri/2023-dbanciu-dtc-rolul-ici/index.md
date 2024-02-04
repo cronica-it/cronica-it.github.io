@@ -1,6 +1,6 @@
 ---
 slug: 2023/dbanciu-dtc-rolul-ici
-title: 'Prezentarea Doinei Banciu la DTC 2023'
+title: 'Doinei Banciu - Prezentarea la DTC 2023'
 authors: [dbanciu]
 tags: [articole, ici]
 

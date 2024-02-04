@@ -1,6 +1,6 @@
 ---
 slug: 1994/mhancu-mesaj-free-unix-rose94
-title: "Mesajul lui Marius Hâncu despre Free Unix for Romania la ROSE '94"
+title: "Marius Hâncu - Mesajul despre Free Unix for Romania la ROSE '94"
 authors: [mhancu]
 tags: [mesaje]
 

@@ -1,6 +1,6 @@
 ---
 slug: 2018/vbaltac-itc50-cuvant-inainte
-title: "Introducerea lui Vasile Baltac la volumul ITC-50"
+title: "Vasile Baltac - Introducere la volumul ITC-50"
 authors: [vbaltac]
 tags: [itc]
 

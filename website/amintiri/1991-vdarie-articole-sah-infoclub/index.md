@@ -1,6 +1,6 @@
 ---
 slug: 1991/vdarie-articole-sah-infoclub
-title: 'Articolele „Șah Computer” publicate de Viorel Darie în revista INFOCLUB'
+title: 'Viorel Darie - Articolele „Șah Computer” publicate în revista INFOCLUB'
 authors: [vdarie]
 tags: [articole, sah]
 

@@ -1,6 +1,6 @@
 ---
 slug: 1994/mhancu-mesaj-ted-lungu
-title: 'Mesajul în care Marius Hâncu îl introduce pe Ted Lungu'
+title: 'Marius Hâncu - Mesajul de introducere a lui Ted Lungu'
 authors: [mhancu]
 tags: [mesaje]
 
