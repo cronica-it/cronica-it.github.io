@@ -1,6 +1,6 @@
 ---
 slug: 2021/ffilip-acad-s14-it-istoric
-title: 'Florin Filip - O secție de „Știința şi tehnologia informației” la Academia Română'
+title: 'Florin Gheorghe Filip - O secție de „Știința şi tehnologia informației” la Academia Română'
 authors: [ffilip]
 tags: [academie, it]
 
@@ -12,7 +12,7 @@ event_date: '2021'
 
 În cadrul proiectului editorial din 2021 „Personalități Academice -
 Istoria Secțiilor Academiei Române”, academicianul
-Florin Filip prezintă
+Florin Gheorghe Filip prezintă
 câteva momente din scurta istorie a Secției de Știința și
 tehnologia informației a Academiei Române.
 
