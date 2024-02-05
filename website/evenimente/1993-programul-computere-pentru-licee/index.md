@@ -21,7 +21,14 @@ Această rețea
 a funcționat inițial prin dial-up (linie comutată) pentru email cu
 protocolul UUCP si apoi on-line, prin TCP/IP.
 
+De la un buget inițial de circa 30.000$, programul a ajuns la aproape
+10.000.000$.
+
+Programul a fost coordonat de Nicolai Sandu, iar în teritoriu a fost
+ajutat de Daniel Buleu la Iași și Romeo Macaria la Cluj-Napoca.
+
 ## Referințe
 
+- [youtube.com - Agora 2013 - Nicolai Sandu](https://www.youtube.com/watch?v=fwYDS7Yj79s)
 - [hotnews.ro - Istoria internetului in Romania](https://economie.hotnews.ro/stiri-20_ani_internet-15969144-istoria-internetului-romania-alexandru-rotaru-nu-pot-spun-inventat-noi-ceva-plus-aici-romania-doar-majoritatea-noutatilor-adoptat-printre-primii.htm)
 - [hotnews.ro - Cum s-au informatizat liceele Romaniei](https://economie.hotnews.ro/stiri-20_ani_internet-16073721-cum-informatizat-liceele-romaniei-poveste-finantisti-controversati-multa-munca-glume-despre-romani-unguri.htm)
