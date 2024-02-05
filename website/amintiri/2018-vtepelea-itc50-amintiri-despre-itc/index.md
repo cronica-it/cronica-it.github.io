@@ -1,6 +1,6 @@
 ---
 slug: 2018/vtepelea-itc50-amintiri-despre-itc
-title: "Contribuția lui Vlad Țepelea la volumul ITC-50: „Amintiri despre ITC”"
+title: "Vlad Țepelea - Contribuția la volumul ITC-50: „Amintiri despre ITC”"
 authors: [vtepelea]
 tags: [itc]
 
@@ -104,13 +104,63 @@ Proiectul s-a stins de la sine în 1990, oricum obiectivele erau atinse.
 
 A venit apoi Revoluția în toată splendoarea ei: înghesuit la peretele Bibliotecii Centrale Universitare în Piața Palatului când a explodat petarda la manifestația oficială, apoi de gardă la ITC cu automatele pline cu gloanțe adevărate, admirând trasoarele care plecau către cer din cimitirul apropiat de ITC.
 
-La începutul lui 1990 la CNS – Comisia Națională pentru Statistică – era acum director fostul șef al centrului de calcul teritorial Târgu Mureș, Petru Pepelea, adjunctul său la CNS fiind fostul șef al filialei ITC din Tg. Mureș, Ion Băciulescu. Prin februarie, cred, mă cheamă Ion Băciulescu la el și îmi propune să facem un contract prin care eu cu echipa mea de la ITC să facem informatizarea alegerilor din 20 mai 1990 folosind PC-uri. Am făcut contractul și am botezat acest proiect ELECT’90. A fost cel mai complicat proiect pe care l am condus, din cauza vizibilității și răspunderii, a timpului limitat și diversității activităților. Am avut la dispoziție 52 zile, dar  și o echipă grozavă, toți din laboratorul F19. În acest timp am parcurs următoarele etape: proiectarea arhitecturii generale, achiziționarea și configurarea celor 300 calculatoare PC folosite, realizarea și testarea software-ului, instalarea și testarea legăturilor de date, scrierea procedurilor de operare, instruire şi asistenţă tehnică pentru echipele de la CNS din cele 41 de judeţe care operau nodurile județene, instalarea și operarea directă a nodului de calcul de la Biroul Electoral Central. Accentul era pus pe securitate și pe corectitudinea tratării informațiilor. Totul combinat cu faptul că tot software-ul a fost scris în limbajul C, fără a folosi nimic deja existent, exceptând poate la partea de prezentare grafică. Pe timpul acela nu erau scule de prezentare grafică cu care să poți realiza orice prezentare, așa cum este acum PowerPoint. Apăruse un software numit Story Teller, dar nu avea grafică suficient de puternică pentru ce ne trebuia nouă, așa că prezentările care se dădeau în fiecare seară la televiziune erau fiecare separat făcute de mână. Nu mai spun că se filma cu camera direct ecranul unui PC, totul era analogic la televiziune pe atunci. Dintre colegi, eroul prezentărilor era Sever Sachelarie. Am avut mari emoții și cu algoritmul de repartizare a resturilor (metoda Hondt), care era descris în lege insuficient din punctul de vedere al programatorului, care trebuia să ia în considerare toate cazurile posibile. A fost relativ dificil să convingem legislatorii că trebuie definite și cazurile limită, dar până la urmă, după ce am amenințat cu abandonarea proiectului, am obținut în scris răspunsurile necesare. Echipa și-a petrecut la BEC toate acele zile și nopți, începând cu 20 mai 1990 până la afișarea rezultatelor finale. Acolo aveam serverele, tot PC-uri, dar cu memorie mai mare, legate în rețea locală (Novell pe cablu coaxial pe atunci), ca și calculatoarele dedicate cu modem, care se legau periodic, prin teletransmisie, cu centrele județene la orare de timp prestabilite. La centrele județene se introduceau în cele câteva calculatoare existente acolo datele din procesele verbale definitive provenind de la secțiile de votare din acel județ. Colectarea datelor într-un fișier centralizat județean se făcea cu ajutorul unei dischete de 3,5” cu conținut criptat, care se plimba periodic între calculatoarele de culegere date (la nivel județean nu era rețea locală, era scumpă și nu ar fi avut cine s-o depaneze în caz de probleme). Pentru corectitudine, se făcea o dublă introducere a datelor, a doua fiind numai de verificare. Învățasem acest procedeu din discuțiile pe care le-am avut cu doi ani înainte cu niște experți ONU și împreună cu o delegație de la CNS pe tema realizării recensământului. Evident, pe atunci legături de date specializate, Internet ș.a.m.d., nu existau, se folosesau modemuri de 2.400 bps legate pe rețeaua telefonică guvernamentală, așa-zisul „fir scurt”, unde legătura se făcea printr-o centrală manuală cu operatori. Fișierele de date județene sosite în stațiile care se conectau la nodurile județene se agregau într-un fișier național în serverele de la nivelul central. Important este că totul a funcționat ireproșabil, nu am avut nici o problemă. Am avut chiar o comisie venită oficial de la un județ din Ardeal care a controlat corectitudinea datelor înregistrate la noi, respectiv comparând rezultatele tuturor secțiilor de votare din județul respectiv înregistrate la noi în server cu copii de pe toate procesele verbale de secție ale județului, pe care le aduseseră într-o geantă. Totul era conform. Aveam însă o mare emoție, pe care nu o puteam spune nimănui din afara echipei. Programul de distribuție a resturilor, care trebuia rulat o singură dată după ce se colectau toate datele naționale, nu funcționa. Colegul Cristian Rapauzu, care era autorul acestui  program, lucra zi și noapte, dormea pe canapele la BEC și se hrănea cu niște batoane cu susan, care apăruseră atunci. Noi ceilalți nu l puteam ajuta, el singur știa exact ce făcuse în program, așa că ne mulțumeam să-l încurajăm cât puteam fiecare. Într-un sfârșit, chiar în seara de joi, când trebuiau făcute calculele, după ce datele naționale au devenit disponibile, programul a fost și el gata. Am rulat și am dat rezultatele finale. CNS adusese la BEC în acea seară o mare echipă de statisticieni, care a lucrat toată noaptea și au confirmat corectitudinea datelor furnizate de noi. Noi am fost un pic dezamăgiți de faptul ca CNS nu a avut încredere totală în rezultatele noastre, dar privind retrospectiv, este de înțeles, având în vedere că totul era foarte nou: PC-uri la județe, programe, teletransmisie, servere, toate noi pentru perioada respectivă.
+La începutul lui 1990 la CNS – Comisia Națională pentru Statistică – era acum director fostul șef al centrului de calcul teritorial Târgu Mureș, Petru Pepelea, adjunctul său la CNS fiind fostul șef al filialei ITC din Tg. Mureș, Ion Băciulescu. Prin februarie, cred, mă cheamă Ion Băciulescu la el și îmi propune să facem un contract prin care eu cu echipa mea de la ITC să facem informatizarea alegerilor din 20 mai 1990 folosind PC-uri. Am făcut contractul și am botezat acest proiect ELECT’90. A fost cel mai complicat proiect pe care l-am condus, din cauza vizibilității și răspunderii, a timpului limitat și diversității activităților. Am avut la dispoziție 52 zile, dar și o echipă grozavă, toți din laboratorul F19. În acest timp am parcurs următoarele etape: proiectarea arhitecturii generale, achiziționarea și configurarea celor 300 calculatoare PC folosite, realizarea și testarea software-ului, instalarea și testarea legăturilor de date, scrierea procedurilor de operare, instruire şi asistenţă tehnică pentru echipele de la CNS din cele 41 de judeţe care operau nodurile județene, instalarea și operarea directă a nodului de calcul de la Biroul Electoral Central. Accentul era pus pe securitate și pe corectitudinea tratării informațiilor. Totul combinat cu faptul că tot software-ul a fost scris în limbajul C, fără a folosi nimic deja existent, exceptând poate la partea de prezentare grafică. Pe timpul acela nu erau scule de prezentare grafică cu care să poți realiza orice prezentare, așa cum este acum PowerPoint. Apăruse un software numit Story Teller, dar nu avea grafică suficient de puternică pentru ce ne trebuia nouă, așa că prezentările care se dădeau în fiecare seară la televiziune erau fiecare separat făcute de mână. Nu mai spun că se filma cu camera direct ecranul unui PC, totul era analogic la televiziune pe atunci. Dintre colegi, eroul prezentărilor era Sever Sachelarie. Am avut mari emoții și cu algoritmul de repartizare a resturilor (metoda Hondt), care era descris în lege insuficient din punctul de vedere al programatorului, care trebuia să ia în considerare toate cazurile posibile. A fost relativ dificil să convingem legislatorii că trebuie definite și cazurile limită, dar până la urmă, după ce am amenințat cu abandonarea proiectului, am obținut în scris răspunsurile necesare. Echipa și-a petrecut la BEC toate acele zile și nopți, începând cu 20 mai 1990 până la afișarea rezultatelor finale. Acolo aveam serverele, tot PC-uri, dar cu memorie mai mare, legate în rețea locală (Novell pe cablu coaxial pe atunci), ca și calculatoarele dedicate cu modem, care se legau periodic, prin teletransmisie, cu centrele județene la orare de timp prestabilite. La centrele județene se introduceau în cele câteva calculatoare existente acolo datele din procesele verbale definitive provenind de la secțiile de votare din acel județ. Colectarea datelor într-un fișier centralizat județean se făcea cu ajutorul unei dischete de 3,5” cu conținut criptat, care se plimba periodic între calculatoarele de culegere date (la nivel județean nu era rețea locală, era scumpă și nu ar fi avut cine s-o depaneze în caz de probleme). Pentru corectitudine, se făcea o dublă introducere a datelor, a doua fiind numai de verificare. Învățasem acest procedeu din discuțiile pe care le-am avut cu doi ani înainte cu niște experți ONU și împreună cu o delegație de la CNS pe tema realizării recensământului. Evident, pe atunci legături de date specializate, Internet ș.a.m.d., nu existau, se folosesau modemuri de 2.400 bps legate pe rețeaua telefonică guvernamentală, așa-zisul „fir scurt”, unde legătura se făcea printr-o centrală manuală cu operatori. Fișierele de date județene sosite în stațiile care se conectau la nodurile județene se agregau într-un fișier național în serverele de la nivelul central. Important este că totul a funcționat ireproșabil, nu am avut nici o problemă. Am avut chiar o comisie venită oficial de la un județ din Ardeal care a controlat corectitudinea datelor înregistrate la noi, respectiv comparând rezultatele tuturor secțiilor de votare din județul respectiv înregistrate la noi în server cu copii de pe toate procesele verbale de secție ale județului, pe care le aduseseră într-o geantă. Totul era conform. Aveam însă o mare emoție, pe care nu o puteam spune nimănui din afara echipei. Programul de distribuție a resturilor, care trebuia rulat o singură dată după ce se colectau toate datele naționale, nu funcționa. Colegul Cristian Rapauzu, care era autorul acestui  program, lucra zi și noapte, dormea pe canapele la BEC și se hrănea cu niște batoane cu susan, care apăruseră atunci. Noi ceilalți nu l puteam ajuta, el singur știa exact ce făcuse în program, așa că ne mulțumeam să-l încurajăm cât puteam fiecare. Într-un sfârșit, chiar în seara de joi, când trebuiau făcute calculele, după ce datele naționale au devenit disponibile, programul a fost și el gata. Am rulat și am dat rezultatele finale. CNS adusese la BEC în acea seară o mare echipă de statisticieni, care a lucrat toată noaptea și au confirmat corectitudinea datelor furnizate de noi. Noi am fost un pic dezamăgiți de faptul ca CNS nu a avut încredere totală în rezultatele noastre, dar privind retrospectiv, este de înțeles, având în vedere că totul era foarte nou: PC-uri la județe, programe, teletransmisie, servere, toate noi pentru perioada respectivă.
 
 În urma succesului obținut la informatizarea alegerilor, am fost chemați să facem un sistem de votare electronică la Parlament. Am participat la discuții, în final nu am luat acest proiect, cei de la Parlament au preferat un proiect prezentat de respectatul Victor Toma, deși proiectul dânsului era realizat exclusiv prin hardware, parcă spunea ceva și de niște monostabili, iar ce propuneam noi era exclusiv cu microprocesoare și cu programe.
 
 În toate aceste amintiri am încercat să redau cât mai exact ce mi-am adus aminte, numele colegilor și câteva amănunte amuzante. Sunt conștient că această prezentare poate greși prin omisiuni sau alte îndepărtări subiective de la realitatea momentului. Cer scuze celor pe care i-am omis sau menționat incorect.
 
 Le mulțumesc tuturor colegilor cu care am colaborat în toți acești ani și sper ca și ei să-și aducă aminte cu aceeași plăcere despre momentele, proiectele, emoțiile, insuccesele și bucuriile trăite împreună.
+
+## Personal Laborator F19 ITC
+
+- Vlad Țepelea - șef laborator
+- Emil Purice - adjunct
+- Liliana Moisa
+- Paul Lefter
+- Ileana Lefter
+- Mihai Berindei
+- Olguța Berindei
+- Adriana Neagu
+- Niculae Strătică
+- Flavian Drăgan
+- Florin Raclariu
+- Manuela Ogrinja
+- Sever Sachelarie
+- Dragoș Negoescu
+- Lucia Iancovici
+- Elena Dănescu
+- Liviu Iftode
+- Florin Rădulescu
+- Grigore Precupețu
+- Cristian Rapauzu
+- Gabriela Teodorescu
+- Marin Simina
+- Constantin Socol
+- Eugen Georgescu
+- Doina Istrătescu
+- Mihai Tănăsescu
+- Valerica Țucu
+- Daniel Noroceanu
+- Ștefan Covaci
+- Mihai Mateescu
+- Victor Galiș
+- Daniela Popescu
+- Radu Ispas
+- Ruxandra Dan (Ispas)
+- Irina Ștefănescu
+- Lucian Dăncăneț
+- Marina Arabian
+- George Calcev
+- Liviu Ionescu (ilg)
+
+Persoane care au format apoi colectivul independent de Inteligență Artificială condus de Prof. Cristian Giumale de la Politehnică:
+
+- Iustin Roșca
+- Dana Roșca
+- Tudor Toma
+- Oana Băltărețu
+- Eugen Ardeleanu
 
 ## Referințe
 

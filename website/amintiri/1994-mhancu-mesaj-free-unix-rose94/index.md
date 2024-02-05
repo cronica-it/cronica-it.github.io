@@ -1,6 +1,6 @@
 ---
 slug: 1994/mhancu-mesaj-free-unix-rose94
-title: "Mesajul lui Marius Hâncu despre Free Unix for Romania la ROSE '94"
+title: "Marius Hâncu - Mesajul despre „Free Unix for Romania” la ROSE '94"
 authors: [mhancu]
 tags: [mesaje]
 
@@ -25,17 +25,17 @@ Pentru conferința **ROSE '94**, Marius Hâncu a trimis mesajul de mai jos.
 
 
 
-Free Unix for Romania is an international independent non-profit
+„Free Unix for Romania” is an international independent non-profit
 organization, founded in 1992 by Marius Hancu. Dynamic and
 modern, it is based and localized on the Internet, the network spread
 over the whole world. It is also an organization working to help in
 the technical and scientific progress of Romania.
 
-During its first two years, Free Unix for Romania was coordinated by
+During its first two years, „Free Unix for Romania” was coordinated by
 Marius Hancu. Since September 21, 1994 it is being coordinated by
 Teodor (Ted) Lungu (3).
 
-The initial purpose of Free Unix for Romania was shipping free
+The initial purpose of „Free Unix for Romania” was shipping free
 software to the Romanian universities, to individuals and companies,
 as well as books used in some of the best known universities of the
 world. However, at this point in time, it has reached areas and
@@ -73,7 +73,7 @@ and of Linus Torvalds at the ROSE '94 conference in the free software
 section. We just hope our efforts will prove fruitful. This would be a
 great event for the Romanian software community.
 
-The main base used for the activities of Free Unix for Romania was
+The main base used for the activities of „Free Unix for Romania” was
 Internet, via email and the Usenet newsgroups. A special note deserves
 the email list romanians@sep.stanford.edu (installed and
 administered by Alexander Mihai Popovici) as well as the newsgroup
@@ -81,7 +81,7 @@ soc.culture.romanian (with Nick Sandru of Denmark having a decisive
 contribution to the its creation and archiving).
 
 Multiple activities and groups entered gradually under the umbrella of
-Free Unix for Romania. We would like to mention 'Know-how for/from
+„Free Unix for Romania”. We would like to mention 'Know-how for/from
 Romania' (administered by Tiberiu Grigoriu, BNR, Ottawa, Canada), a
 list which includes specialists from Romania and Moldova which
 want to cooperate internationally, as well as specialists from the
@@ -127,7 +127,7 @@ As one of the main successes, we would like to mention that linux, one
 of the Unix-like operating systems which we have continuously shipped,
 is presently installed in over 125 places in Romania and Moldova.
 
-Concerning the support base of Free Unix for Romania, we would
+Concerning the support base of „Free Unix for Romania”, we would
 like to emphasize that it was defined from the very
 beginning as a grassroots type of organization, relying on the
 enthusiasm of computer hobbists and professionals. At this level, the
@@ -219,7 +219,7 @@ However, problems still exist concerning the awareness of all
 potential users with respect to the large pool of free software already
 available in Romania, and of the sites and people involved, which can
 and do provide free assistance. Sometimes, old attitudes related to
-secrecy creep showing up ... We at Free Unix for Romania have
+secrecy creep showing up ... We at „Free Unix for Romania” have
 permanently and vigorously  fought against such manifestations and
 will continue to do so.
 
@@ -233,7 +233,7 @@ Valureanu. In order to help the users in Romania follow up more closely
 the developments in the linux world, we have also made subscriptions
 for several professors to the Linux Journal.
 
-In concluding, we have shown through Free Unix for Romania, that a
+In concluding, we have shown through „Free Unix for Romania”, that a
 coherent, decisive and efficient action is possible in the Romanian
 international community, if the necessary effort is used. Presently,
 for the Romanians on Internet, without false modesty, Free Unix for

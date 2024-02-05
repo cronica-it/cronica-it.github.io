@@ -1,6 +1,6 @@
 ---
 slug: 2023/nicolaus-cniv-30-de-ani-de-punct-ro
-title: 'Prezentarea lui Nicolai Sandu la CNIV 2023'
+title: 'Nicolai Sandu - Contribuția la volumul CNIV 2023'
 authors: [nicolaus]
 tags: [articole, internet]
 

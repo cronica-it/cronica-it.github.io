@@ -1,6 +1,6 @@
 ---
 slug: 2013/arot-articol-it-trends-3-93
-title: "Articolul lui Adi Rotaru în IT Trends - Capitol 3 - '93"
+title: "Alexandru Rotaru - Articolul din IT Trends - Capitol 3 - '93"
 authors: [arot]
 tags: [articole]
 

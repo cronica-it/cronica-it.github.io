@@ -1,6 +1,6 @@
 ---
 slug: 2023/arot-computere-licee
-title: 'Articolul lui Adi Rotaru la CNIV 2023 - GURU și programul „Computere pentru licee”'
+title: 'Alexandru Rotaru - Contribuția la volumul CNIV 2023 - „GURU și programul Computere pentru licee”'
 authors: [arot]
 tags: [conferinte]
 
@@ -16,7 +16,7 @@ București, Alexandru Rotaru a contribuit un articol intitulat
 „Contribuții ale Asociației Utilizatorilor de Unix din România
 (GURU) la formarea primilor administratori pentru servicii Internet
 în anii 1992-1996”, din care extragem capitolul
-**GURU că susținător al programului “computere pentru liceele
+**GURU că susținător al programului „computere pentru liceele
 din România” (suport logistic și training) 1993-1996**.
 
 <!-- truncate -->

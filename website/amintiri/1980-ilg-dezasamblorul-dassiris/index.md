@@ -1,8 +1,8 @@
 ---
 slug: 1980/ilg-dezasamblorul-dassiris
-title: 'Programul „DASSIRIS”'
+title: 'Liviu Ionescu - Programul „DASSIRIS”'
 authors: [ilg-ul]
-tags: []
+tags: [software]
 
 date: 2024-01-09T18:30:30
 

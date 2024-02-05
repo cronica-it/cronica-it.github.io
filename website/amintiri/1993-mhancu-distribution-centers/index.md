@@ -1,6 +1,6 @@
 ---
 slug: 1993/mhancu-distribution-centers
-title: 'Raportul lui Marius Hâncu despre punctele de distribuție'
+title: 'Marius Hâncu - Raportul despre punctele de distribuție'
 authors: [mhancu]
 tags: [mesaje]
 
@@ -11,7 +11,7 @@ event_date: '1993-12'
 ---
 
 În decembrie 1993, Marius Hâncu a postat un mesaj pe `soc.culture.romanians` cu centrele
-de distribuție pentru Free Unix for Romania.
+de distribuție pentru „Free Unix for Romania”.
 
 <!-- truncate -->
 

@@ -1,6 +1,6 @@
 ---
 slug: 1994/mhancu-mesaj-ted-lungu
-title: 'Mesajul în care Marius Hâncu îl introduce pe Ted Lungu'
+title: 'Marius Hâncu - Mesajul de introducere a lui Ted Lungu'
 authors: [mhancu]
 tags: [mesaje]
 
@@ -27,7 +27,7 @@ asociației **Free Unix for Romania** lui Ted Lungu.
 Hello, everyone:
 
 
-Two years ago, I started Free Unix for Romania with the vision of free
+Two years ago, I started „Free Unix for Romania” with the vision of free
 software spreading like forest fire all over Romania. To a large extent,
 that vision proved to be true. We have hundreds of installations of free
 Unix-es (linux or *BSD), including some remote places in the country.
@@ -48,7 +48,7 @@ During this time of great efforts, I was lucky to receive the help and
 cooperation of great many people. To you all, I am grateful for the
 experience.
 
-On the financial side, Free Unix for Romania is balanced now. We were
+On the financial side, „Free Unix for Romania” is balanced now. We were
 able to spend with good purpose whatever the generous donors entrusted
 to us. As I mentioned once, I much prefered the Los Angeles Olympics for
 the fact that John Ueberoth was able to put together a great show that
@@ -61,15 +61,15 @@ There is a rite of passage in everything, and I feel this is the right
 time for me to move towards other horizons and targets in my career and life
 and I need to be able to make the full commitment necessary in those
 areas. Personally, I feel I realized whatever I set forth for me in this
-project. However, I also feel that Free Unix for Romania as an organization
+project. However, I also feel that „Free Unix for Romania” as an organization
 has a future and purpose that remain valid, independently of my personal
 involvement.
 
-The "olympic torch" at Free Unix for Romania will be passed from me to
+The "olympic torch" at „Free Unix for Romania” will be passed from me to
 Teodor (Ted) Lungu from NASA, who takes over immediately as a coordinator.
 
 This is my personal choice, based on the important contributions Ted has made
-to Free Unix for Romania and to the Romanian community on the Internet.
+to „Free Unix for Romania” and to the Romanian community on the Internet.
 Our organization is based on the personal and individual initiative of
 many, and I think this should remain the same. Thus I transfer to Ted
 all the decision power coming with a non-profit organization, well
@@ -114,7 +114,7 @@ Fax:            (818) 393-5065
 
 I hope all of you will support Ted in the same way you did with me.
 
->From now on, my connection with Free Unix for Romania will be
+>From now on, my connection with „Free Unix for Romania” will be
 limited to the title of founder and first coordinator, which will
 always be a subject of pride to me. Please direct all your donations and
 requests to Ted from now on. I have delegated to him whatever

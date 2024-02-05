@@ -1,6 +1,6 @@
 ---
 slug: 1994/mhancu-interviu-revista-open
-title: 'Interviul acordat de Marius Hâncu revistei OPEN'
+title: 'Marius Hâncu - Interviul acordat revistei OPEN'
 authors: [mhancu]
 tags: [mesaje]
 
@@ -78,7 +78,7 @@ piata care functioneaza si intr-o societate care considera ca vital
 progresul stiintelor.
 
 In informatică initiativa cea mai inportanta si mai bine
-organizata este fara indoiala Free UNIX for Romania. Ei ii
+organizata este fara indoiala „Free Unix for Romania”. Ei ii
 datoram aparitia primelor versiuni free software de linux,
 386BSD, plus a unei multitudini de aplicatii care ruleaza pe
 aceste sisteme de operare. Peste zece universitati din tara au
@@ -102,7 +102,7 @@ Romania. Ce reprezinta in fapt aceasta initiativa?
 
 Marius Hancu: Domnule Rotariu, tin in primul rand sa
 multumesc noii dumneavoastre reviste pentru ocazia oferita de a
-prezenta Free Unix for Romania cititorilor dumneavoastra. Va
+prezenta „Free Unix for Romania” cititorilor dumneavoastra. Va
 doresc, de asemenea, mult succes in continuare. Revista PC
 Report a avut un rol important in anuntarea noutatilor legate de
 activitatea noastra in Romania si noi, participantii la ea, am
@@ -139,7 +139,7 @@ decisa si eficace este posibila in comunitatea romaneasca
 internațională, daca efortul necesar este depus; sa oferim, fara
 falsa modestie, un model in acest sens.
 
-Sub umbrela Free Unix for Romania si-au gasit locul
+Sub umbrela „Free Unix for Romania” si-au gasit locul
 activitati si grupari multiple. Majoritatea au fost initiate de mine,
 dar au fost preluate de coechipieri entuziasti. As dori sa
 mentionez in mod deosebit Know-how for/from Romania (girata
@@ -358,7 +358,7 @@ generatie de administratori de sistem la Politehnica din Bucuresti
 si la universitatile din Timisoara, Iasi, etc. se formeaza acum si ca
 majoritatea sunt studenti. Cred ca pe unii dintre ei, pe cei care ne-au solicitat, am reusit sa-i ajutam in probleme concrete, si asta in
 interval de ore. Deci munca de consiliere on-line a fost o parte
-importanta din contributia Free Unix for Romania. Nu e
+importanta din contributia „Free Unix for Romania”. Nu e
 mentionata in nici o lista de distributie, dar s-a putut conta pe noi
 cand a fost nevoie.
 
@@ -537,7 +537,7 @@ inchipuie ca acest teren poate fi recuperat in 8 ore de lucru este un
 naiv ...
 
 R: Sunteti printre principalii sustinatori a doua
-proiecte generoase: Free UNIX for Romania si Know-How
+proiecte generoase: „Free Unix for Romania” si Know-How
 For/From Romania. Aceste proiecte isi au corespondentii din
 Romania recrutati dintre persoanele particulare si, se pare,
 niciodata dintre organizatiile guvernamentale. De ce? Ati
@@ -549,7 +549,7 @@ organizatii guvernamentale: Comisia Națională de
 Informatică (CNI) si Societatea Națională de Informatică
 (SNI). Le cunoasteti?
 
-M.H.: Free UNIX for Romania a fost definita de la bun
+M.H.: „Free Unix for Romania” a fost definita de la bun
 inceput si a operat in mare parte ca o organizatie de tip
 „grassroots”, de la persoana-la-persoana, bazandu-ne in mare
 masura pe entuziasmul amatorilor si profesionistilor din domeniul
