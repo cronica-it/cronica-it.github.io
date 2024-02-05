@@ -186,8 +186,6 @@ Acestă posibilitate de încărcare poziții este deosebit de utilă pentru exer
 
 **Permiterea/Inhibarea sunetelor de BEEP** – Din ecranul de SETARI, alegeți butonul **Sunet ON/OFF**. Funcție foarte utilă când jucați șah cu calculatorul noaptea și nu vreți să treziți pe cei care dorm.
 
-**Alegerea setului de piese** – Din ecranul de SETARI, având caseta cu tipuri de piese, apasați butonul xx și se vor redesena piesele, succesiv, cu toate tipurile disponibile (funcție încă neimplementată acum).
-
 **Cum jucați cu negrele** – Implicit Dvs jucați cu albele. Vă e mai comod așa. Dar, dacă sunteți șahist, trebuie să jucați și cu negrele, și puteți alege negrele astfel:
 
 - din ecranul de joc alegeți butonul **SETARI**
@@ -331,4 +329,4 @@ Mai e de lucru...
 
 ## Referințe
 
-- [vioreldarie.ro - Friendly Chess (Programul Prietenos de Șah) - Utilizare](http://vioreldarie.ro/Șah/Friendly%20Chess%20-%20Manual%20Utilizare%2022%2004%202010.htm)
+- [vioreldarie.ro - Friendly Chess (Programul Prietenos de Șah) - Utilizare](http://vioreldarie.ro/Sah/Friendly%20Chess%20-%20Manual%20Utilizare%2022%2004%202010.htm)
