@@ -115,7 +115,7 @@ este preluat în branch-ul `master` și conținutul va fi automat publicat în s
 
 Pentru a facilita comunicarea între cei interesați să susțină acest proiect,
 a fost creat grupul
-[cronica-it-ro](https://groups.google.com/u/1/g/cronica-it-ro)
+[cronica-it-ro](https://groups.google.com/g/cronica-it-ro)
 pe Google Groups.
 
 Toate notificările viitoare în legătură cu proiectul vor fi trimise prin
