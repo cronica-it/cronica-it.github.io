@@ -38,6 +38,13 @@ care a contribuit conținutul paginii
 [Istoria Internetului](https://rite.org.ro/istoria-internetului/), din care
 au fost preluate o parte dintre evenimentele din cronologie.
 
+## Google Group
+
+Pentru a facilita comunicarea între cei interesați să susțină acest proiect,
+a fost creat grupul
+[cronica-it-ro](https://groups.google.com/g/cronica-it-ro)
+pe Google Groups.
+
 ## Contribuții
 
 Această cronologie este inevitabil incompletă și posibil inexactă.
