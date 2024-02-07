@@ -74,7 +74,7 @@ Deși proiectul era extrem de promițător din punct de vedere comercial, nu a m
 
 Dupa schimbarea de sistem din România, era clar că și în economie vor fi schimbări majore. Între altele, pătrunderea tehnologiei vestice a însemnat în multe cazuri „sugrumarea” întreprinderilor locale, în particular a celor de stat, care erau total necompetitive.
 
-Membrii firmei Lixco erau hotărâți sa meargă mai departe, de data asta însă intr-un cadru oficial. Dar în aprilie 1990, un fost coleg de școală a lui Lix, Dan Simionescu, emigrat din țară cu ceva ani mai devreme, a organizat pentru membrii Lixco o vizită în Austria. Dan era co-proprietar a unei firme de Hi-Tech din Salzburg, așa că cei cinci au lucrat timp de o lună acolo pe bază de voluntariat.
+Membrii firmei Lixco erau hotărâți sa meargă mai departe, de data asta însă intr-un cadru oficial. Dar în aprilie 1990, un fost coleg de școală a lui Lix, Dan Simionescu, emigrat din țară cu ceva ani mai devreme, a organizat pentru membrii Lixco o vizită în Austria. Dan era co-proprietar al unei firme de Hi-Tech din Salzburg, așa că cei cinci au lucrat timp de o lună acolo pe bază de voluntariat.
 
 Aici s-a conturat ideea ca la firma care se va înființa în Romania să participe și Dan ca investor. În iunie 1990 firma **Lixco SRL** a fost oficial înregistrată la Oficiul Național al Registrului Comerțului.
 
