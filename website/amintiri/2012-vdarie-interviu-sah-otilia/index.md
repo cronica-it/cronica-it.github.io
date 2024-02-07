@@ -1,7 +1,7 @@
 ---
 slug: 2012/vdarie-interviu-sah-otilia
-title: 'Viorel Darie - Interviul acordat Otiliei Bălănișteanu'
-authors: [obalanisteanu]
+title: 'Viorel Darie - Interviul acordat Otiliei Bălinișteanu'
+authors: [obalinisteanu]
 tags: [interviuri, sah, itc, informatica]
 
 date: 2024-01-08T22:38:41
@@ -10,7 +10,7 @@ event_date: '2012-07'
 
 ---
 
-În anul 2012, la Moldovița, Viorel Darie a acordat un interviu ziaristei Otilia Bălănișteanu.
+În anul 2012, la Moldovița, Viorel Darie a acordat un interviu ziaristei Otilia Bălinișteanu.
 
 <!-- truncate -->
 
