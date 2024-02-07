@@ -56,7 +56,7 @@ Din 1980, Lixco se concentrează din ce în ce mai mult pe tehnica digitală, re
 
 În anul 1985 microcalculatorul L/B 881 a fost extins cu o interfață de floppy disk de 8" și actualizat cu softul necesar pentru a rula CP/M-80 de la Digital Research. Posibilitatea de a rula software standard a trezit interesul industriei și ca urmare a fost introdus în producție la ITCI-CCAB sub numele de CE-119.
 
-![Lix](https://cronica-it.github.io/imagini/1967/lix-lb881.png)
+![Lix](https://cronica-it.github.io/imagini/1967/firma-lixco/lix-lb881.png)
 
 Lix și computerul L/B 881, varianta CP/M
 
