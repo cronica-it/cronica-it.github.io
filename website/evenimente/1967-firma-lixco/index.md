@@ -29,7 +29,7 @@ Prima mențiune a numelui **Lixco Electronics**, a apărut pe un receptor cu „
 
 Au urmat diverse construcții (unicate) ce au purtat numele **Lixco Electronics**, de la amplificatoare de audio și boxe, aparate de măsură, până la receptoare și emițătoare.
 
-Din 1970 a început colaborarea cu Dan Voiculescu (YO3JX) și ceva mai târziu cu Ștefan Bordeanu. Tot ce s-a construit în perioada respectivă a fost destinat „consumului” intern, respectiv pentru Lix, Dan și Ștefan.
+Din 1970 a început colaborarea cu Dan Voiculescu (YO3JX) și ceva mai târziu cu Ștefan Bordeanu (YO3DP). Tot ce s-a construit în perioada respectivă a fost destinat „consumului” intern, respectiv pentru Lix, Dan și Ștefan.
 
 ## Transceiverul A412, primul succes comercial
 
