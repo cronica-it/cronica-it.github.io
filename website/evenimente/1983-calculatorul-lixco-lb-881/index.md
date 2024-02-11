@@ -1,14 +1,17 @@
 ---
 slug: 1983/calculatorul-lixco-lb-881
 title: 'Lixco finalizează microcalculatorul „L/B 881”'
-authors: [lixpaulian, ilg-ul]
-tags: [calculatoare]
+authors: [lixpaulian]
+tags: [calculatoare, lixco]
 
 date: 2023-11-02T16:45
 
 event_date: '1983'
 
 ---
+
+import { imagesLinks } from './images-links.tsx'
+import { ImagesTable } from '@site/src/components/ImagesTable';
 
 În anul 1983, **Lixco** finalizează **L/B 881**, primul microcalculator de
 concepție și realizare privată din România.
@@ -61,6 +64,13 @@ Pentru varianta cu interfață de casetă, Lixco a distribuit o serie de program
 Prin această extensie, toate aplicațiile standard CP/M puteau fi acum rulate pe microcalculatorul L/B 881: interpretor Basic, compilatoare de C, Pascal și Fortran, WordStar, dBase, SuperCalc, etc.
 
 Tot în 1985, microcalculatorul a fost preluat și introdus în producție la ITCI-CCAB sub numele de **CE 119**. Se estimează că au fost produse aproximativ 1000 de exemplare (Lixco + CCAB).
+
+## Imagini
+
+Imagini postate de Valentin pe forumul [Tehnium Azi](https://www.tehnium-azi.ro/forums/topic/7187-computer-lb881-publicat-in-tehnium/page/5/
+):
+
+<ImagesTable images={imagesLinks}/>
 
 ## Referințe
 
