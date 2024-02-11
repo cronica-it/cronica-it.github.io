@@ -2,7 +2,7 @@
 slug: 1983/calculatorul-lixco-lb-881
 title: 'Lixco finalizează microcalculatorul „L/B 881”'
 authors: [lixpaulian]
-tags: [calculatoare, lixco]
+tags: [calculatoare, lixco, i8080]
 
 date: 2023-11-02T16:45
 
@@ -37,7 +37,7 @@ La realizarea diverselor programe de sistem (monitor, editor, asamblor) au contr
 
 Pentru a reduce riscul de erori la proiectarea schemei electrice, Lixco a apelat la Gigi Alexandrescu, un tânar pasionat de tehnica digitală, pentru a construi o machetă operațională a viitorului calculator. Gigi avea un talent deosebit să transpună o schemă electrică complexă în realitate, folosind sârmă de wrapping și o placă de circuit imprimat. Acest gen de machetă era denumită „arici”, pentru că majoritatea componentele  „pluteau” în aer, legate între ele cu sârme de wrapping.
 
-După verificarea în practică a sistemului, Lix Paulian și Ion Rusovici au proiectat cablajul imprimat. Aceasta s-a facut manual, folosind folie de plastic specială marcată în inch și apoi digitizată la **FEA**. Primul set de cablaje a fost realizat tot la FEA. Este remarcabil faptul că tehnolologia de cablaj imprimat utilizată folosea doar două straturi (dar cu găuri metalizate)!
+După verificarea în practică a sistemului, Lix Paulian și Ion Rusovici au proiectat cablajul imprimat. Aceasta s-a făcut manual, folosind folie de plastic specială marcată în inch și apoi digitizată la **FEA**. Primul set de cablaje a fost realizat tot la FEA. Este remarcabil faptul că tehnolologia de cablaj imprimat utilizată folosea doar două straturi (dar cu găuri metalizate)!
 
 ## Hardware
 
@@ -45,9 +45,9 @@ Microcalculatorul L/B 881 se baza pe un microprocesor Intel 8080A rulând la 1,3
 
 Microcalculatorul avea trei conectori laterali cu câte 52 pini, realizați din cablaj imprimat, cu următoarele funcții:
 
-- KA: bus-urile de date si adrese ale sistemului, precum și semnalele de control.
-- KB: porturile seriale, de casetă, video out și timere (unul era folosit pentru sunet).
-- KC: două porturi paralele de câte 8 biți, pe unul din ele era cuplată tastatura matrix.
+- KA: bus-urile de date si adrese ale sistemului, precum și semnalele de control
+- KB: porturile seriale, de casetă, video out și timere (unul era folosit pentru sunet)
+- KC: două porturi paralele de câte 8 biți, pe unul din ele era cuplată tastatura matrix
 
 Microcalculatorul avea un sistem primitiv de protecție împotriva furtului de software, care se baza pe un cod de 8 biți (denumit **HID**, hardware ID) programat înainte de livrare în cablajul imprimat prin eliminarea selectivă a celor 8 treceri metalizate. Sistemul de operare din ROM era cuplat cu HID-ul, și nu putea rula decât pe placa pentru care era programat. La rândul său, ROM-ul conținea un al doilea cod (**SID**, software ID) cu care puteau fi protejate aplicațiile distribuite pe casetă.
 
