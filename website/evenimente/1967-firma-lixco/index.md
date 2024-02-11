@@ -56,7 +56,7 @@ Din 1980, Lixco se concentrează din ce în ce mai mult pe tehnica digitală, re
 
 În 1983 a fost dezvoltat microcalculatorul **L/B 881**, care a fost comercializat (tot sub formă de kit) începând cu anul 1984. Și acest produs s-a bucurat de un succes relativ mare printre radioamatori, deși era o soluție proprietară, softul pentru el fiind livrat exclusiv de către Lixco (nu existau producători third-party). Varianta de bază avea o interfață de casetă de pe care se puteau încărca/salva programele și datele.
 
-În anul 1985 microcalculatorul L/B 881 a fost extins cu o interfață de floppy disk de 8" și actualizat cu softul necesar pentru a rula CP/M-80 de la Digital Research. Posibilitatea de a rula software standard a trezit interesul industriei și ca urmare a fost introdus în producție la ITCI-CCAB sub numele de CE-119.
+În anul 1985 microcalculatorul L/B 881 a fost extins cu o interfață de floppy disk de 8" și actualizat cu softul necesar pentru a rula CP/M-80 de la Digital Research. Posibilitatea de a rula software standard a trezit interesul industriei și ca urmare a fost introdus în producție la ITCI-CCAB sub numele de CE 119.
 
 ![Lix](https://cronica-it.github.io/imagini/1967/firma-lixco/lix-lb881.png)
 
