@@ -11,7 +11,7 @@ event_date: '1986-09'
 ---
 
 În luna septembrie 1986, firma Motorola anunță microprocesorul
-de 32 biți **68030**, care devine disponibil în 1997.
+de 32 biți **68030**, care devine disponibil în 1987.
 
 <!-- truncate -->
 
