@@ -1,6 +1,6 @@
 ---
 slug: 1977/calculatorul-independent-100
-title: 'ICE Felix lansează calculatorul „Independent 100”'
+title: 'ICE FELIX lansează calculatorul „Independent 100”'
 authors: [ilg-ul]
 tags: [calculatoare, ice]
 

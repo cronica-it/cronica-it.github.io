@@ -1,6 +1,6 @@
 ---
 slug: 1975/calculatorul-m18
-title: 'ICE Felix lansează microcalculatorul „M-18”'
+title: 'ICE FELIX lansează microcalculatorul „M-18”'
 authors: [ilg-ul]
 tags: [calculatoare, ice]
 
@@ -10,7 +10,7 @@ event_date: '1975'
 
 ---
 
-În 1975, la ICE Felix este lansat microcalculatorul de 8 biți **M-18**.
+În 1975, la ICE FELIX este lansat microcalculatorul de 8 biți **M-18**.
 
 <!-- truncate -->
 

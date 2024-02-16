@@ -1,6 +1,6 @@
 ---
 slug: 1979/calculatorul-coral
-title: 'ICE Felix lansează calculatorul „Coral”'
+title: 'ICE FELIX lansează calculatorul „Coral”'
 authors: [ilg-ul]
 tags: [calculatoare, ice]
 
@@ -10,7 +10,7 @@ event_date: '1979'
 
 ---
 
-În anul 1979, la ICE Felix, este lansată familia de minicalculatoare **Coral**.
+În anul 1979, la ICE FELIX, este lansată familia de minicalculatoare **Coral**.
 
 <!-- truncate -->
 

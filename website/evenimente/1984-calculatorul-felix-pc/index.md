@@ -1,6 +1,6 @@
 ---
 slug: 1984/calculatorul-felix-pc
-title: 'ICE Felix lansează calculatorul „Felix-PC”'
+title: 'ICE FELIX lansează calculatorul „Felix-PC”'
 authors: [ntapus]
 tags: [calculatoare, ice]
 
@@ -10,7 +10,7 @@ event_date: '1984'
 
 ---
 
-În anul 1984, la Universitatea Politehnică București și ICE Felix,
+În anul 1984, la Universitatea Politehnică București și ICE FELIX,
 este conceput și realizat **Felix-PC**, un calculator compatibil
 cu **IBM-PC XT**.
 
@@ -18,7 +18,7 @@ cu **IBM-PC XT**.
 
 Proiectul a fost realizat de către: Adrian Petrescu, Nicolae Ţăpuş, Trandafir Moisa și Irina Athanasiu.
 
-La pregătirea producției de serie au participat de la ICE Felix: Andrei Gayraud, Constantin Botez, Laurentiu Oftez, Constantin Alupului, Gabriel Drăghicescu, Victor Cososchi, Tudor Domocoș.
+La pregătirea producției de serie au participat de la ICE FELIX: Andrei Gayraud, Constantin Botez, Laurentiu Oftez, Constantin Alupului, Gabriel Drăghicescu, Victor Cososchi, Tudor Domocoș.
 
 Microcalculatorul Felix-PC a păstrat compatibilitatea software cu IBM PC, dar a fost proiectat astfel încât să lucreze atât cu microprocesorul 8086 de 16 biți cât și cu microprocesorul 8088, în timp ce IBM-ul lucra numai cu procesorul 8088 de 8 biți. Sistemul Felix-PC avea o dublă compatibilitate, putând fi configurat să lucreze cu procesorul 8086, care avea interfața cu
 exteriorul de 16 biți sau cu microprocesorul 8088, care lucra cu resursele externe de 8 biți.

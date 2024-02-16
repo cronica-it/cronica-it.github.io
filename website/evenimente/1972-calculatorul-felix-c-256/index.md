@@ -17,7 +17,7 @@ Fabrica de Calculatoare Electronice din București,
 <!-- truncate -->
 
 În anul 1971, întreprinderea este aproape gata și primește numele
-„Întreprinderea de Calculatoare Electronice Felix” - ICE Felix. „Felix e un nume
+„Întreprinderea de Calculatoare Electronice FELIX” - ICE F. „Felix e un nume
 care a fost dat pentru a aminti de Dacia Felix. Dacia a rămas pentru automobile
 și Felix pentru calculatoare” (Vasile Baltac).
 
