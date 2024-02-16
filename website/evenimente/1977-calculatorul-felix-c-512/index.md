@@ -1,6 +1,6 @@
 ---
 slug: 1977/calculatorul-felix-c-512
-title: 'La ICE FELIX începe producția de serie a calculatorului „Felix C-512”'
+title: 'La ICE FELIX începe producția de serie a calculatorului „FELIX C-512”'
 authors: [ilg-ul]
 tags: [calculatoare, ice, felix]
 

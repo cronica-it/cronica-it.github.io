@@ -1,6 +1,6 @@
 ---
 slug: 1968/licenta-calculator-felix
-title: 'România obține licența pentru producția calculatorului „Felix C-256”'
+title: 'România obține licența pentru producția calculatorului „FELIX C-256”'
 authors: [ilg-ul]
 tags: [calculatoare, felix]
 

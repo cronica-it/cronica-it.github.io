@@ -1,6 +1,6 @@
 ---
 slug: 1982/calculatorul-felix-c-8010
-title: 'Este omologat calculatorul „Felix C-8010”'
+title: 'Este omologat calculatorul „FELIX C-8010”'
 authors: [lnica, ilg-ul]
 tags: [calculatoare, itc, felix]
 
