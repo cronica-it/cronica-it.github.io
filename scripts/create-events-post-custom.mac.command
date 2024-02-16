@@ -40,11 +40,8 @@ script_base="create-events-post" # $(echo "${script_name}" | sed -e 's/\(.*\)[.]
 # export CRONICA_IT_AUTHORS="ntapus, ilg-ul"
 export CRONICA_IT_AUTHORS="gserban, ilg-ul"
 
-# export CRONICA_IT_TAGS="autor:alexandru.rotaru"
-# export CRONICA_IT_TAGS="autor:radu.jugureanu"
-# export CRONICA_IT_TAGS="internet, educatie, autor:nicolae.tapus"
-export CRONICA_IT_TAGS="international, autor:gheorghe.serban"
-# export CRONICA_IT_TAGS="autor:gheorghe.serban"
+# export CRONICA_IT_TAGS="internet, educatie"
+export CRONICA_IT_TAGS="international"
 
 # export CRONICA_IT_LINKS="- [hotnews.ro - Istoria internetului in Romania](https://economie.hotnews.ro/stiri-20_ani_internet-15969144-istoria-internetului-romania-alexandru-rotaru-nu-pot-spun-inventat-noi-ceva-plus-aici-romania-doar-majoritatea-noutatilor-adoptat-printre-primii.htm)"
 # export CRONICA_IT_LINKS="- [academia.edu - Istoria informatizării în mediul preuniversitar românesc 1985-2018](https://www.academia.edu/43375781/Istoria_informatizării_în_mediul_preuniversitar_românesc_1985_2018)"

@@ -37,8 +37,7 @@ script_base="create-blog-post" # $(echo "${script_name}" | sed -e 's/\(.*\)[.]ma
 
 export CRONICA_IT_AUTHORS="arot"
 # export CRONICA_IT_AUTHORS="radujugu"
-export CRONICA_IT_TAGS="conferinte, autor:alexandru.rotaru"
-# export CRONICA_IT_TAGS="autor:radu.jugureanu"
+export CRONICA_IT_TAGS="conferinte"
 # export CRONICA_IT_LINKS="- [hotnews.ro - Istoria internetului in Romania](https://economie.hotnews.ro/stiri-20_ani_internet-15969144-istoria-internetului-romania-alexandru-rotaru-nu-pot-spun-inventat-noi-ceva-plus-aici-romania-doar-majoritatea-noutatilor-adoptat-printre-primii.htm)"
 export CRONICA_IT_LINKS="- [cniv.ro - Alexandru Rotaru - Contribuții ale Asociației Utilizatorilor de Unix din România (GURU)](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)"
 
