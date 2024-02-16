@@ -37,7 +37,7 @@ Să începem cu:
 Laboratorul a fost constituit în 1970 și era unul dintre cele mai mari colective din Institut, având peste 60 de membri, între care 40 cu studii superioare. Șef de laborator era dr. ing. Francisc Momeo, locțiitor era
 ing. Lucian Nica.
 
-Profilul laboratorului nostru era, în principal, elaborarea calculatoarelor de capacitate medie, ca dezvoltări ale licenței Iris 50 (Felix C 256) obținută de la CII-Franța în 1969.
+Profilul laboratorului nostru era, în principal, elaborarea calculatoarelor de capacitate medie, ca dezvoltări ale licenței Iris 50 (FELIX C-256) obținută de la CII-Franța în 1969.
 În afara lucrărilor de elaborare a prototipurilor sistemelor de calcul și de testare a lor (proiect logic, montaj, cablare, testare și omologare), în laborator se realizau și lucrări de:
 
 - elaborare de soft aplicativ tip CAD pentru generarea secvențelor de cablaj și pentru automatizarea proiectării  microprogramelor;
