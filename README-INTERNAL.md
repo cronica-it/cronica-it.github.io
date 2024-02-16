@@ -26,7 +26,7 @@ De asemenea se pot obține cu Alt+0132 („) și Alt+0148 (”).
 ## Local link
 
 ```
- (arhivat [local](https://cronica-it.github.io/arhiva/))
+ (arhivat [local](https://cronica-it.github.io/arhiva/#1234))
 ```
 
 ## Prevent autolink

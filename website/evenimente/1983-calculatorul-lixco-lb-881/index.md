@@ -76,5 +76,5 @@ Imagini postate de Valentin pe forumul [Tehnium Azi](https://www.tehnium-azi.ro/
 
 - [retroit.ro - Microcalculatorul L/B 881](https://retroit.ro/l-b-881/)
 - [ilgthegeek.wordpress.com - History: Lixco L/B881, the first Romanian commercial microcomputer](https://ilgthegeek.wordpress.com/2010/11/14/history-lixco-lb881/)
-- [tehnium-azi.ro - Computer LB881 - publicat in Tehnium](https://www.tehnium-azi.ro/forums/topic/7187-computer-lb881-publicat-in-tehnium/) (arhivat [local](https://cronica-it.github.io/arhiva/))
+- [tehnium-azi.ro - Computer LB881 - publicat in Tehnium](https://www.tehnium-azi.ro/forums/topic/7187-computer-lb881-publicat-in-tehnium/) (arhivat [local](https://cronica-it.github.io/arhiva/#1985))
 - [Interviul lui Lix din qsl.ro](/amintiri/2010/lix-interviu-qsl-ro/)

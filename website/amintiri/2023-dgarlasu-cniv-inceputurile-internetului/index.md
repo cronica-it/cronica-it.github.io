@@ -101,4 +101,4 @@ Putem spune că a ratat fereastra de oportunitate. De fapt, Romtelecom a percepu
 
 ## Referințe
 
-- [cniv.ro - Dan Gârlașu - Despre începuturile Internetului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf) (arhivat [local](https://cronica-it.github.io/arhiva/))
+- [cniv.ro - Dan Gârlașu - Despre începuturile Internetului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf) (arhivat [local](https://cronica-it.github.io/arhiva/#2023))

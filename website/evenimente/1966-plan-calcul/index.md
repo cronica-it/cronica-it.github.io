@@ -40,4 +40,4 @@ inspirat din XDS Sigma 9.
 
 - [fr.wikipedia.org - Plan Calcul](https://fr.wikipedia.org/wiki/Plan_Calcul)
 - [fr.wikipedia.org - CII](https://fr.wikipedia.org/wiki/Compagnie_internationale_pour_l%27informatique)
-- [BOUCHER Henri: INFORMATIQUE NON AMERICAINE - Première partie](http://www.aconit.org/histoire/iga_boucher/pdf/Vol_E_700-745.pdf), pagina 192 (arhivat [local](https://cronica-it.github.io/arhiva/))
+- [BOUCHER Henri: INFORMATIQUE NON AMERICAINE - Première partie](http://www.aconit.org/histoire/iga_boucher/pdf/Vol_E_700-745.pdf), pagina 192 (arhivat [local](https://cronica-it.github.io/arhiva/#2012))

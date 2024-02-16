@@ -35,5 +35,5 @@ Au fost fabricate până în 1989.
 - [ro.wikipedia.org - Cronologie a informaticii românești](https://ro.wikipedia.org/wiki/Cronologie_a_informaticii_românești)
 - [ro.wikipedia.org - Istoria informaticii în România](https://ro.wikipedia.org/wiki/Istoria_informaticii_în_România)
 - [en.wikipedia.org - PDP-11](https://en.wikipedia.org/wiki/PDP-11#Unlicensed_clones)
-- [ici.ro - ICI 50 ani](https://www.ici.ro/documents/24/ICI_Bucuresti-50_ani_tdHL8av.pdf) (arhivat [local](https://cronica-it.github.io/arhiva/))
+- [ici.ro - ICI 50 ani - Volum Aniversar](https://www.ici.ro/documents/24/ICI_Bucuresti-50_ani_tdHL8av.pdf) (arhivat [local](https://cronica-it.github.io/arhiva/#2020))
 

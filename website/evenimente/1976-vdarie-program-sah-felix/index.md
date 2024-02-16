@@ -20,4 +20,4 @@ O altă variantă a programului a fost **Astro-64**.
 
 ## Referințe
 
-- [vioreldarie.ro - Amintiri din epoca Felix a calculatoarelor româneşti](https://www.vioreldarie.ro/Creatii/Amintiri%20din%20epoca%20FELIX%20a%20calculatoarelor%20romanesti.pdf) (arhivat [local](https://cronica-it.github.io/arhiva/))
+- [vioreldarie.ro - Amintiri din epoca Felix a calculatoarelor româneşti](https://www.vioreldarie.ro/Creatii/Amintiri%20din%20epoca%20FELIX%20a%20calculatoarelor%20romanesti.pdf) (arhivat [local](https://cronica-it.github.io/arhiva/#2011))

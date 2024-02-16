@@ -117,4 +117,4 @@ Gata, mă opresc aici, cerându-mi scuze pentru că nu am reușit să amintesc d
 
 ## Referințe
 
-- [cniv.ro - Nicolai Sandu - 30 de ani de „punct RO”](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf) (arhivat [local](https://cronica-it.github.io/arhiva/))
+- [cniv.ro - Nicolai Sandu - 30 de ani de „punct RO”](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf) (arhivat [local](https://cronica-it.github.io/arhiva/#2023))

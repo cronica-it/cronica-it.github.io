@@ -65,4 +65,4 @@ Din 1996, an de cotitură pentru destinul Liceului de Informatică, an în care 
 
 ## Referințe
 
-- [cniv.ro - Ioan Maxim - Din inimă, în clouds sau 30 de ani de internet în Bucovina](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf) (arhivat [local](https://cronica-it.github.io/arhiva/))
+- [cniv.ro - Ioan Maxim - Din inimă, în clouds sau 30 de ani de internet în Bucovina](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf) (arhivat [local](https://cronica-it.github.io/arhiva/#2023))

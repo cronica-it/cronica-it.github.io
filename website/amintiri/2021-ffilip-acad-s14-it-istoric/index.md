@@ -20,5 +20,5 @@ tehnologia informației a Academiei Române.
 
 ## Referințe
 
-- [acad.ro - O secție de „Știința şi tehnologia informației” la Academia Română](https://acad.ro/ProiectEditorial2021/pdf/s14/S14-IT-Istoric.pdf) (arhivat [local](https://cronica-it.github.io/arhiva/))
+- [acad.ro - O secție de „Știința şi tehnologia informației” la Academia Română](https://acad.ro/ProiectEditorial2021/pdf/s14/S14-IT-Istoric.pdf) (arhivat [local](https://cronica-it.github.io/arhiva/#2021))
 - [acad.ro - Secţia de știinţa şi tehnologia informaţiei](https://acad.ro/institutia/sectia_14.html)

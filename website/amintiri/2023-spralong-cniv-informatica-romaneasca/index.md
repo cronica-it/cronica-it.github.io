@@ -68,4 +68,4 @@ Margaret Mead, faimoasă antropoloagă americană, spunea: „Never doubt that a
 
 ## Referințe
 
-- [cniv.ro - Sandra Pralong - Cum a ajuns informatica românească să fie pe val](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf) (arhivat [local](https://cronica-it.github.io/arhiva/))
+- [cniv.ro - Sandra Pralong - Cum a ajuns informatica românească să fie pe val](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf) (arhivat [local](https://cronica-it.github.io/arhiva/#2023))
