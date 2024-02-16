@@ -62,7 +62,7 @@ domnul Margău, șeful de atunci al serviciului personal, care ne-a îndrumat ce
 
 Cam același discurs l-am ascultat și la întrevederea cu domnul Director General Dinu Buznea, în cabinetul de la etajul doi. Așa că, trebuia să lăsăm deoparte toate temerile în privința locuinței și să ne pornim la muncă. Soția a fost repartizată în laboratorul 13 condus de doamna  Lucia Popescu, iar eu am fost repartizat în Laboratorul 12 condus de domnul Corneliu Maschek. Soția ar fi vrut să lucreze la un loc cu mine, dar conducerea a hotărât altfel.
 
-Cum v-am spus, ITC-ul era proaspăt construit când am venit noi în anul 1973, etajul 1 cu Centrul de Calcul și Laboratorul 12 încă nu era finisat, așa că primele zile la ITC le-am petrecut la parterul clădirii FEA, construcție frumoasă, în stil de pagodă japoneză. Acolo am cunoscut pe colegii mei de laborator, care deja erau într-o activitate febrilă de cercetare. Era instalat acolo un calculator Iris 50, cumpărat din Franța, dar și un Felix C-32 construit la ITC, care tocmai se întorsese de la o expoziție din Franța. Domnul Corneliu Maschek butona mândru la pupitrul acestui Felix C-32. De ce era numit Felix C-32 ? Din cauză că avea memorie de 32 K.
+Cum v-am spus, ITC-ul era proaspăt construit când am venit noi în anul 1973, etajul 1 cu Centrul de Calcul și Laboratorul 12 încă nu era finisat, așa că primele zile la ITC le-am petrecut la parterul clădirii FEA, construcție frumoasă, în stil de pagodă japoneză. Acolo am cunoscut pe colegii mei de laborator, care deja erau într-o activitate febrilă de cercetare. Era instalat acolo un calculator Iris 50, cumpărat din Franța, dar și un FELIX C-32 construit la ITC, care tocmai se întorsese de la o expoziție din Franța. Domnul Corneliu Maschek butona mândru la pupitrul acestui FELIX C-32. De ce era numit FELIX C-32 ? Din cauză că avea memorie de 32 K.
 
 Mi s-a dat o carte de Asamblor, în franceză, cu descrierea instrucțiunilor hardware ale calculatorului Iris 50. Am învățat repede niște instrucțiuni, și, stând pe capul colegilor angajați mai demult, am încropit un mic pachet de cartele care avea tot ce-i trebuia ca să fie rulat: cartela JOB, cartela Compile Assiris, niste cartele de program, urmate de cartela LINK, cartela RUN și cartela EOJ, ultima. Încercând să rulez acel progrămaș de mai multe ori, în final a intrat în execuție.
 Venisem cu ambiții mari la Institut, vroiam să-mi aduc aportul la descoperiri mari, personale în domeniul calculatoarelor. De la primele teste de programare, am descoperit o mulțime de erori pe care le făcea calculatorul, pe care încercam să le explic colegilor. Mai cu explicațiile lor, mai citind bine din carte, m-am convins că eu greșeam, nu calculatorul. Colegul nostru Emanuel Cosmovici, văzând ce greșeli oribile făceam eu, se minuna cum se va putea scoate un programator dintr-un începător neștiutor ca mine! Ei, după un an, m-am pus la punct cu instrucțiunile calculatorului, am făcut programe consistente, chiar l-am întrecut pe colegul nostru Cosmovici.
@@ -189,7 +189,7 @@ La Adrian Niculescu – am colaborat la realizarea unui sistem grafic pentru DTM
 
 ## Revoluția
 
-Lucrurile încă mergeau bine în anul 1989 cu cercetarea la ITC, tocmai omologasem la fabrică sistemul Felix C-8010, care urma să utilizeze sistemul de operare HELIOS, și urma să se vândă în țară și în China. Aveam și echipamente periferice bune care înzestrau calculatoarele românești, datorită fabricii RCD, care ne oferea discuri fiabile chiar și la 200Mega bytes, imprimante RCD, benzi magnetice - tot RCD, display-uri DAF 2020 de la FEPER.
+Lucrurile încă mergeau bine în anul 1989 cu cercetarea la ITC, tocmai omologasem la fabrică sistemul FELIX C-8010, care urma să utilizeze sistemul de operare HELIOS, și urma să se vândă în țară și în China. Aveam și echipamente periferice bune care înzestrau calculatoarele românești, datorită fabricii RCD, care ne oferea discuri fiabile chiar și la 200Mega bytes, imprimante RCD, benzi magnetice - tot RCD, display-uri DAF 2020 de la FEPER.
 
 Dar lumea căzuse într-o stare oarecum de depresie, datorită vieții din afara Institutului: greu se găsea de mâncare, copiii umblau pe întuneric pe scările de bloc ca să meargă la școală, căci lumina se tăia din oră în oră, la televizor erau numai fanatisme ceaușiste. Nici la Institut nu era așa de bine, căldură nu prea era iarna, stăteam cu cojoace pe noi în birouri, ședințe politice și de educație cetățenească care se făceau în exces. Era lipsă de cartele, de hârtie de imprimantă, erau căderi multe de curent electric. Toate acestea creau o stare apăsătoare asupra colectivelor de cercetare. Cei tineri, născuți după Revoluție, cred că spunem basme, o să creadă cu greu aceste stări de lucruri.
 
@@ -217,7 +217,7 @@ După ce citisem din scoarță în scoarță toate ziarele post-revoluționare: 
 
 O fericire pentru programatorii pe PC-uri! Fiecare avea nu una, ci mai multe dischete din astea, pe care le ținea în cutii de dischete. Se mai stricau dischetele, se mai pierdeau datele. Cele mai accesibile, ca preț, erau dischetele bulgărești, IZO, parcă. Românul este inventiv, se găureau dischetele în anumite poziții, încât se putea scrie pe ambele părți, dublând capacitatea. Începuseră oamenii să-și transfere sursele programelor de pe mini-calculatoarele I-102F, Coral 4030 pe PC-uri, folosind niste programe de copiere MoveIT. O dragălășenie de programe!
 
-Și-atunci, curios, lumea începuse să părăsească „main-frame”-urile, adică Felix C-512 sau Iris 50, chiar și mini-calculatoarele, și au trecut cu toții pe PC-uri. La început erau din cele românești, M118, Cub-Z, dar apoi apăruseră calculatoarele PC pe 16 biți: Fujitzu, și, minunea – IBM PC.
+Și-atunci, curios, lumea începuse să părăsească „main-frame”-urile, adică FELIX C-512 sau Iris 50, chiar și mini-calculatoarele, și au trecut cu toții pe PC-uri. La început erau din cele românești, M118, Cub-Z, dar apoi apăruseră calculatoarele PC pe 16 biți: Fujitzu, și, minunea – IBM PC.
 
 Mergeau toate bine la ITC când erau vremurile cum erau, când se învârteau sute de oameni în jurul unui singur calculator. Când a început, însă, fiecare să aibă propriul lui calculator pe birou, lumea a început să nu mai ştie ce să facă cu ele. Atunci oamenii din ITC au început să o ia razna.
 
@@ -231,7 +231,7 @@ Aşadar, nu-i de mirare că lumea din ITC a început să se rărească. Veneau b
 
 Cu timpul, în clădirea mare a ITC-ului au apărut mai multe firme de profil IT, în care au fost recrutate generaţii noi de informaticieni, care duceau mai departe ştafeta IT în această lume ce cunoaşte azi o dezvoltare  furibundă!
 
-La FCE, după ce s-au mai fabricat câteva calculatoare Felix C-512 mari, apoi câteva Felix C-5000, fabricarea acestora s-a sistat complet. Şi asta în pofida faptului că Centrele de Calcul exploatau în continuare sisteme mari, care au fost necesare şi utile încă multă vreme. Aceeaşi soartă, la numai doi ani, a avut-o şi industria de minicalculatoare I-102F sau Coral 4030. Nici
+La FCE, după ce s-au mai fabricat câteva calculatoare FELIX C-512 mari, apoi câteva FELIX C-5000, fabricarea acestora s-a sistat complet. Şi asta în pofida faptului că Centrele de Calcul exploatau în continuare sisteme mari, care au fost necesare şi utile încă multă vreme. Aceeaşi soartă, la numai doi ani, a avut-o şi industria de minicalculatoare I-102F sau Coral 4030. Nici
 PC-urile fabricate la FCE sau FEPER nu mai aveau trecere. În curând, toate aceste echipamente au ajuns piese de fier vechi.
 
 ITC-ul şi-a dat calculatoarele sale Felix undeva pe la Universităţi. Dar nici acestora nu le mai trebuiau! Studenţii au fost primii, de regulă, care s-au orientat către PC-uri.
@@ -271,7 +271,7 @@ Ca dovadă că spiritul ITC-ului nu a murit este chiar cartea aceasta, la aniver
 
 Primul om cu care am făcut cunoştinţă când m-am prezentat la ITC a fost Corneliu Maschek. Dacă eu aveam atunci 23 de ani, Maschek avea 31. M-a dirijat printr-o aripă a clădirii de la FEA (atunci ITC era proaspăt construit, încă nezugrăvit complet, aşa că o parte dintre angajaţi erau găzduiţi provizoriu la FEA) să-mi prezinte marea realizare a tehnicii de calcul româneşti, mândria Institutului de atunci, anume, minicalculatorul
 
-Felix C-32. Numărul de 32 provenea nu de la 32 de GigaBytes, nici de la 32 Mb, ci de la 32Kb. Poate pare incredibil, dar doar atâta memorie avea calculatorul! Sistemul de calcul Felix C-32, împreună cu Corneliu Maschek, tocmai reveniseră de la o mare expoziţie de realizări tehnice din toate domeniile, Expoziţia de la Paris din 1973!
+FELIX C-32. Numărul de 32 provenea nu de la 32 de GigaBytes, nici de la 32 Mb, ci de la 32Kb. Poate pare incredibil, dar doar atâta memorie avea calculatorul! Sistemul de calcul FELIX C-32, împreună cu Corneliu Maschek, tocmai reveniseră de la o mare expoziţie de realizări tehnice din toate domeniile, Expoziţia de la Paris din 1973!
 
 Parcă îl invidiam pe Maschek pentru succesul său, şi aveam şi de ce! Era nu prea înalt de statură, frumuşel şi semeţ precum un cocoşel mexican, isteţ şi priceput la calculatoare. Era şeful laboratorului care se ocupa cu elaborarea de software de bază pentru calculatoarele mari româneşti.
 
@@ -352,7 +352,7 @@ N-avea însă nicio atracţie pentru codul sistemului de operare. Era, în schim
 
 **Gheorghiţă Ferentz** - un tânăr înalt, slab, cu mustăcioară, prototipul omului foarte serios, motiv pentru care a fost folosit pentru păstrarea ordinii în materialele informatice la realizarea temelor: discuri, benzi, listinguri. Lucra sub responsabilitatea directă a lui Ştefan Diaconescu, iar soţia sa, Mihaela, lucra şi ea în acelaşi laborator.
 
-**Horia Ciobanu** - nu prea înalt, subţire, un bun coleg. A lucrat mai ales la integrarea unui sistem de tip Unix pentru calculatoarele Felix C-8010.
+**Horia Ciobanu** - nu prea înalt, subţire, un bun coleg. A lucrat mai ales la integrarea unui sistem de tip Unix pentru calculatoarele FELIX C-8010.
 După Revoluţie şi-a găsit un job potrivit la o firmă de software, apoi la alta, la care lucrează şi azi. L-am întâlnit într-o zi şi am încercat să aflu mai multe noutăţi de la el. Cum îţi merge? îl întreb eu. Bine! îmi răspunde el. Cu beneficiarii cum vă descurcaţi? Binişor, răspunse el. Cam aşa mergeau discuţiile cu el, nimic nou nu puteai afla de la el...
 
 **George Ioan** - împreună cu colectivul său, a lucrat la aplicații sub sistemul Socrate, un limbaj de baze de date, având multe contracte în afara Institutului.
@@ -478,7 +478,7 @@ După ce s-a deschis comerţul cu calculatoare Felix, Marcel Pasă era des pleca
 
 **Dan Horhoianu** - iniţial a lucrat în laboratorul lui Corneliu  Maschek, apoi s-a mutat în cel al lui Victor Grădinescu. În prezent lucrează la S&T ca analist programator. Inteligent şi preocupat permanent. Puţin cam prea dezvoltat la corp, mai ales în ultima vreme. Se certa adesea cu Manea şi cu Martin, multe lucruri neconvenindu-i.
 
-**Radu Diaconu** - un tip nu prea înalt, un pic brunet, agil, inteligent, nu prea promovat în ciuda sârguinţei sale de a se evidenţia. Era, totuşi, un coleg în care puteai avea bază, un bun cunoscător al sistemelor de operare pentru Felix C-512. De aceea era trimis adesea în China. Odată am fost împreună în delegaţie pentru a acorda asistenţă tehnică unui sistem de calcul la Centrul Radio din Beijing. Deşi eram de aceeaşi meserie, el s-a autointitulat atunci şef al delegaţiei, chiar dacă nu era nevoie de aşa ceva. În rest, eram prieteni buni.
+**Radu Diaconu** - un tip nu prea înalt, un pic brunet, agil, inteligent, nu prea promovat în ciuda sârguinţei sale de a se evidenţia. Era, totuşi, un coleg în care puteai avea bază, un bun cunoscător al sistemelor de operare pentru FELIX C-512. De aceea era trimis adesea în China. Odată am fost împreună în delegaţie pentru a acorda asistenţă tehnică unui sistem de calcul la Centrul Radio din Beijing. Deşi eram de aceeaşi meserie, el s-a autointitulat atunci şef al delegaţiei, chiar dacă nu era nevoie de aşa ceva. În rest, eram prieteni buni.
 
 **Adriana Pițigoi** – o colegă frumoasă, agreabilă, de bază pentru asigurarea service software pentru minicalculatoare. Soțul ei lucra la ICI și aveau copii drăgălași.
 
@@ -496,7 +496,7 @@ Oamenii din subordinea lui erau dintre cei mai pasionaţi din Institut. Erau pre
 
 Amintirile mele cele mai bune despre laboratorul lui Armand Segal se îndreaptă spre o mulţime de oameni din laboratorul acestuia, în special cele referitoare la  colectivul lui Traian Ciobanu.
 
-**Traian Ciobanu** - om deştept, înalt, brunet. Fumător înrăit, ceea ce era o problemă pentru colegii din laborator sau pentru cei din afara laboratorului, atunci când discutau cu el. Era preocupat mereu de aplicaţii dintre cele mai interesante. Intrasem în legătură cu el prin intermediul lui Ştefan Diaconescu, care realizase un sistem MIDAS de simulare pe calculatorul Felix C-512 a programelor destinate microprocesoarelor. Părea ilogic să simulezi programe de microprocesor pe mainframe-uri. Dar atunci aceasta era situaţia, aveam sisteme de calcul mari, dar nu aveam suficiente sisteme cu microprocesoare. Ştefan Diaconescu făcuse simulatoare de programe pentru microprocesoarele Intel 4004 şi Intel 4040. Ionescu Felicia din colectivul lui Traian Ciobanu extinsese metodologia de simulare şi pentru Intel 8080. Eu personal făcusem o extensie pentru microprocesorul Motorola 6800.
+**Traian Ciobanu** - om deştept, înalt, brunet. Fumător înrăit, ceea ce era o problemă pentru colegii din laborator sau pentru cei din afara laboratorului, atunci când discutau cu el. Era preocupat mereu de aplicaţii dintre cele mai interesante. Intrasem în legătură cu el prin intermediul lui Ştefan Diaconescu, care realizase un sistem MIDAS de simulare pe calculatorul FELIX C-512 a programelor destinate microprocesoarelor. Părea ilogic să simulezi programe de microprocesor pe mainframe-uri. Dar atunci aceasta era situaţia, aveam sisteme de calcul mari, dar nu aveam suficiente sisteme cu microprocesoare. Ştefan Diaconescu făcuse simulatoare de programe pentru microprocesoarele Intel 4004 şi Intel 4040. Ionescu Felicia din colectivul lui Traian Ciobanu extinsese metodologia de simulare şi pentru Intel 8080. Eu personal făcusem o extensie pentru microprocesorul Motorola 6800.
 
 La Traian Ciobanu întâlneai mai multe teme interesante. Unele dintre ele erau pentru informatizarea panourilor de afişare pentru mersul trenurilor de călători. Chiar a funcţionat mulţi ani panoul său la Gara de Nord.
 
@@ -538,7 +538,7 @@ Datorită diversificării preocupărilor, s-a decis separarea colectivului lui A
 
 Mihai Roşu, plecând într-o delegaţie în Vest, a decis să nu se mai întoarcă în România. Momentul acestei veşti a fost recepţionat ca un mare şoc, la toate nivelele ITC.
 
-După revoluţie s-a simţit un declin puternic în toate colectivele care se mai preocupau de I-102F şi I-106F. S-a mai lansat ideea de a se trece la asimilarea calculatoarelor pe 32 de biţi, de tip VAX. Prea târziu însă, calculatoarele de tip PC au invadat piaţa, erau mult mai ieftine, mai performante decât vechii „dinozaur“ de tip Felix C-512 sau I-100.
+După revoluţie s-a simţit un declin puternic în toate colectivele care se mai preocupau de I-102F şi I-106F. S-a mai lansat ideea de a se trece la asimilarea calculatoarelor pe 32 de biţi, de tip VAX. Prea târziu însă, calculatoarele de tip PC au invadat piaţa, erau mult mai ieftine, mai performante decât vechii „dinozaur“ de tip FELIX C-512 sau I-100.
 
 **Răsvan Stănescu** – un hardist priceput la multe. L-am cunoscut mai bine în China, unde asigura asistenţă tehnică pentru un echipament de culegere date conectat la calculatorul FELIX. Era în colaborare cu Mihai Dobre. Am remarcat la el plăcerea de a „savura” o delegaţie într-o ţară exotică precum China. Eu ocoleam cât puteam specialităţile chinezeşti de mâncare. Răsvan, dimpotrivă, nu se lăsa până nu gusta din toate preparatele culinare ale restaurantelor chinezeşti. La ITC era colegul cel mai liniştit, cel mai înţelegător. Înalt, bine proporţionat fizic, cu păr şaten, voce calmă, blândă, era bun prieten cu oricine. După Revoluţie a mai fost colaborator la o firmă particulară din ITC, apoi s-a angajat la firma Business Information Systems (devenita ALLEVO), unde lucrează şi în prezent, deși s-a pensionat. Are un băiat frumos, chiar mai înalt decât el, cu preocupări în cinematografie.
 
@@ -594,8 +594,8 @@ După trei-patru zile de dezbateri aprinse pe teme de sisteme de operare, compil
 
 ### Omologarea unui nou calculator la Minsk
 
-Nu ţin minte mai nimic despre calculatorul omologat la Minsk. Poate-şi aduc aminte despre caracteristicile acestuia colegii cu care am făcut deplasarea la Minsk: Eugen Ciobanu (unul din proiectanţii calculatorului Felix C-512 din România), Ioana Dobre (şefa laboratorului de testare) şi Mihai Gherman de la FCE (autorul cuplorului de interconectare
-Felix C-5000 cu Coral 4030). Subsemnatul am ratat o zi de omologare din cauză că nu mi-au ieşit actele de deplasare la timp.
+Nu ţin minte mai nimic despre calculatorul omologat la Minsk. Poate-şi aduc aminte despre caracteristicile acestuia colegii cu care am făcut deplasarea la Minsk: Eugen Ciobanu (unul din proiectanţii calculatorului FELIX C-512 din România), Ioana Dobre (şefa laboratorului de testare) şi Mihai Gherman de la FCE (autorul cuplorului de interconectare
+FELIX C-5000 cu Coral 4030). Subsemnatul am ratat o zi de omologare din cauză că nu mi-au ieşit actele de deplasare la timp.
 
 Memorabilă a fost călătoria de la Moscova la Minsk. La Moscova eram pe culoarul de îmbarcare rezervat străinilor. O oficiantă rusoaică, în uniformă, de la AeroFlot – o femeie de o frumuseţe rară – a luat în primire grupul de călători străini, adică pe mine, m-a condus la un autocar, m-a condus până în avion, m-a rugat să-mi aleg un loc care-mi place cel mai mult. Eram copleşit de atâta atenţie. La numai un minut după ce mi-am găsit un loc liber în avionul gol, aud un vuiet ca de ape, ca un tropăit de mulţime mare. Veniseră autocarele cu pasagerii ruşi. Toţi s-au repezit în avion, care mai de care, să-şi ocupe un loc. Aveau bagaje, coşuri (ar fi putut să aibă şi păsări în coşuri). În minutul următor avionul luase viteză şi, fără prea multe ceremonii, decolă de pe pistă, dar cumva drept în sus, de ne ţinea cu capul răsturnat pe spate şi cu urechile ţiuind. Nu-i bai, cu puhoiul de lume eram învăţat de pe la autobuzele din Bucureşti, iar cu stilul de pilotare sovietic te înveţi repede.
 
@@ -632,7 +632,7 @@ De, ce să-i faci, viaţa în Armenia este foarte aspră, trebuie să-ţi câşt
 ### Vremuri bune pentru informatica românească
 
 Chiar şi atunci, în vremurile totalitarismului comunist, informaticienii din România nu se puteau plânge că n-a existat o perioadă interesantă pentru industria românească de calculatoare. Una dintre acţiunile care au contribuit foarte mult ca această industrie să fie atractivă, a fost exportul de sisteme de calcul româneşti în China. Între anii 1975-1985 a înflorit un important comerţ, în care România livra Chinei sisteme de calcul
-Felix C-512, iar mai târziu şi minicalculatoare Coral, Independent 102-F, sau micro-calculatoare M-18, Cub-Z.
+FELIX C-512, iar mai târziu şi minicalculatoare Coral, Independent 102-F, sau micro-calculatoare M-18, Cub-Z.
 
 Comerţul acesta se făcea cam aşa: România livra Chinei sisteme de calcul „mari şi puternice” (aşa erau considerate la vremea respectivă), dotând centrele de calcul din instituţiile centrale ale Chinei (Academia Agricolă, Institutul de Radio, Fabrica de Avioane, Centrul de Planificare de Stat ş.a.m.d.), iar China ne furniza nouă bumbac, orez, materiale, jucării,
 mătase etc.
@@ -702,7 +702,7 @@ După vreo trei luni de zile petrecute în China, îţi doreai să revii în pat
 
 ### Primele programe de jucat şah pe calculator
 
-În paralel cu activitatea de la Institut, atunci când am considerat că ştiu deja binişor programare, am început să scriu programul de şah „Felix Şah”, care funcţiona pe calculatorul Felix C-256. Pe acest calculator aveam aşa numitele teletype-uri. Erau ca niște maşini de dactilografiat în care puteai să scrii un scurt text şi apăsând tasta „Enter”, mesajul era introdus în calculator, programul îl analiza şi trimitea un răspuns scris, dialogul dintre operator şi program reluându-se. Practic, cu ajutorul programului de şah, mutările erau introduse în calculator de la tastatură, iar calculatorul îţi transmitea mutarea lui pe o rolă de hârtie. Partida rămânea în memoria calculatorului de la o mutare la alta.
+În paralel cu activitatea de la Institut, atunci când am considerat că ştiu deja binişor programare, am început să scriu programul de şah „Felix Şah”, care funcţiona pe calculatorul FELIX C-256. Pe acest calculator aveam aşa numitele teletype-uri. Erau ca niște maşini de dactilografiat în care puteai să scrii un scurt text şi apăsând tasta „Enter”, mesajul era introdus în calculator, programul îl analiza şi trimitea un răspuns scris, dialogul dintre operator şi program reluându-se. Practic, cu ajutorul programului de şah, mutările erau introduse în calculator de la tastatură, iar calculatorul îţi transmitea mutarea lui pe o rolă de hârtie. Partida rămânea în memoria calculatorului de la o mutare la alta.
 
 Algoritmul pentru programul de şah l-am conceput prima dată singur. Citind mai mult despre acest tip de algoritmi, am văzut că şi alţii au mers pe aceeaşi idee. Era un algoritm specific, aşa cunoscutul algoritm „mini-max”: albul vrea să maximizeze profitul său, iar negrul vrea să minimizeze beneficiul albului. Rezultă o luptă exprimată matematic între piesele albe şi cele negre.
 
@@ -719,7 +719,7 @@ Cei din Vest, care au realizat roboţi pentru jocul de şah, au lucrat cu echipe
 
 După ce am făcut primul program de şah şi s-a aflat acest lucru, imediat a apărut la Institut domnul Ulrich (Uli) Friedberg Vălureanu, ziarist la România Liberă, care întreţinea pe atunci rubrica de ştiri externe, un om pasionat de curiozităţi ştiinţifice, în particular interesat de acest program de şah pe marginea căruia s-a făcut multă vâlvă.
 
-Odată, s-a organizat la Casa Scânteii (Casa Presei Libere de azi) o întâlnire cu Octavian Paler, pe atunci directorul ziarului România Liberă, care era pasionat de şah. Am realizat o conexiune telefonică prin modem (la vremea aceea era o mare noutate tehnică) prin care directorul ziarului, având la redacţie un display importat din Franţa, a jucat o memorabilă partidă de şah (pe care a şi câştigat-o, după multă gândire) cu programul meu, instalat pe calculatorul Felix C-256 şi rulat de la distanţă, adică de la ITC.
+Odată, s-a organizat la Casa Scânteii (Casa Presei Libere de azi) o întâlnire cu Octavian Paler, pe atunci directorul ziarului România Liberă, care era pasionat de şah. Am realizat o conexiune telefonică prin modem (la vremea aceea era o mare noutate tehnică) prin care directorul ziarului, având la redacţie un display importat din Franţa, a jucat o memorabilă partidă de şah (pe care a şi câştigat-o, după multă gândire) cu programul meu, instalat pe calculatorul FELIX C-256 şi rulat de la distanţă, adică de la ITC.
 
 Uli Vălureanu ţinea în ziarul RL o rubrică de şah programat în care publica toate partidele de şah cu personalităţile vremii: Florin Gheorghiu, Elizabeta Polihroniade ş.a.
 
@@ -774,7 +774,7 @@ După câteva luni l-am reîntâlnit pe omul de legătură de la Primăria Capit
  
 ### Robotul Labirint 64 în emisiune la Tudor Vornicu
 
-Trebuie menţionat că în cei 10 ani cât m-am ocupat de şahul programat, am trecut prin mai multe versiuni ale programului: Felix Şah şi Astro-64 pe calculatoarele mari Felix C-256, apoi două versiuni Labirint 64 şi Atom 64 sub formă de roboţi de jucat şah, şi un program cu interfaţă grafică Atom-64 pentru microcalculatoarele M-18 şi Cub-Z (tinerilor probabil că nu le mai spun nimic aceste nume de calculatoare, dar pentru noi, în acei ani 70-80 erau sculele cele mai performante cu care puteam lucra).
+Trebuie menţionat că în cei 10 ani cât m-am ocupat de şahul programat, am trecut prin mai multe versiuni ale programului: Felix Şah şi Astro-64 pe calculatoarele mari FELIX C-256, apoi două versiuni Labirint 64 şi Atom 64 sub formă de roboţi de jucat şah, şi un program cu interfaţă grafică Atom-64 pentru microcalculatoarele M-18 şi Cub-Z (tinerilor probabil că nu le mai spun nimic aceste nume de calculatoare, dar pentru noi, în acei ani 70-80 erau sculele cele mai performante cu care puteam lucra).
 
 Într-o zi am fost chemaţi în regim de urgenţă la Televiziunea Română cu sediul în Calea Dorobanţi, la o emisiune TVR în direct (o raritate în vremea lui Ceauşescu), amplă prin dimensiunea ei, realizată de Tudor Vornicu şi Cristian Ţopescu, ca să prezentăm roboţelul nostru de jucat şah, Labirint 64. Trecusem cu emoţie, dar cu succes, de rândurile de santinele de pe culoarele de acces către sala de transmisiuni TVR, mai ales că, împreună cu noi era invitată şi Elisabeta Polihroniade, Marea Maestră Internaţională de şah. În fine, ajungem în sala cea mare de transmisiuni TVR unde-i vedem pe Tudor Vornicu şi pe Cristian Ţopescu, nu prea glumeţi şi nu prea îngăduitori aşa cum îi vedeam de obicei de acasă din faţa ecranului. Erau apăsaţi de o mare responsabilitate, ca transmisiunea în direct să nu scape vreo boroboaţă.
 

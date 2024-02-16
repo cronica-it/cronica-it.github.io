@@ -2,7 +2,7 @@
 slug: 1982/calculatorul-felix-c-8010
 title: 'Este omologat calculatorul „Felix C-8010”'
 authors: [lnica, ilg-ul]
-tags: [calculatoare, itc]
+tags: [calculatoare, itc, felix]
 
 date: 2024-01-09T10:11:25
 
@@ -11,7 +11,7 @@ event_date: '1982-09'
 ---
 
 În luna septembrie 1982, la ITC & ICE este omologat prototipul
-calculatorului **Felix C-8010**.
+calculatorului **FELIX C-8010**.
 
 <!-- truncate -->
 
@@ -28,11 +28,11 @@ să se implementeze și cele specifice IBM, lucru posibil
 datorită microprogramării.
 
 Folosind schemele de principiu ale structurii hard IBM, s-a început
-în 1977 proiectarea calculatorului Felix C-8010. Modelul ales
+în 1977 proiectarea calculatorului FELIX C-8010. Modelul ales
 corespundea seriei IBM 370 (care s-a aflat în fabricație între 1970 și 1990),
 la nivel de capacitate medie.
 
-Prototipul Felix C-8010 a fost realizat pe plăci experimentale, universale,
+Prototipul FELIX C-8010 a fost realizat pe plăci experimentale, universale,
 cu cablaj wrapping, ceea ce permitea modificarea comodă a schemei, dar
 ne-a produs multe dificultăți la reglare, din cauza contactelor pinilor
 în plăci.
@@ -46,7 +46,7 @@ Omologarea prototipului a avut loc în septembrie 1982,
 La ședința Comisiei de omologare din octombrie 1982, cu participarea
 factorilor implicați din Centrală, Minister, Institutul de Standardizare
 IGS, ICPE, ICE, ICI și ITC, s-a constatat că
-„se îndeplinesc condițiile pentru omologarea prototipului Felix C-8010
+„se îndeplinesc condițiile pentru omologarea prototipului FELIX C-8010
 și pentru trecerea la execuția seriei zero”.
 
 La omologarea seriei zero, care a avut loc în decembrie 1984,

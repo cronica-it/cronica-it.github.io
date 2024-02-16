@@ -96,7 +96,7 @@ Dar marea aventură a anilor ’82 – ’89 a fost elaborarea și implementarea
 în 1967, când s-a conceput un “Plan Calcule” românesc ce prevedea între altele și preluarea licenței de fabricație a unui calculator performant, în România. În 1968
 s-au dus tratative cu mai multe firme occidentale, din Anglia, Germania, Franța etc. S-a optat în final pentru calculatorul IRIS 50, de la CII (Companie Internationale pour l`Informatique - Franța), întrucât acesta era de generația a 3-a (cu circuite integrate). A fost și o decizie politică, președintele de Gaulle a desconsiderat embargoul impus statelor din est privind tehnologiile de vârf.
 
-În anul 1972 a început proiectarea calculatorului Felix C-512/1024 ca o dezvoltare a calculatorului preluat prin licență. Elementele de noutate au fost:
+În anul 1972 a început proiectarea calculatorului FELIX C-512/1024 ca o dezvoltare a calculatorului preluat prin licență. Elementele de noutate au fost:
 - prelucrarea instrucțiunilor pe 32 de biți în loc de 16 biți (colectiv
 ing. Lucian Nica);
 - suprapunerea fazei de pregătire a instrucțiunilor cu faza de execuție (colectiv ing. Eugen Ciobanu).
@@ -106,17 +106,17 @@ Reglarea modelului experimental a avut loc la sfârșitul anului 1976, când s-a
  La imprimantă am scris pe un listing: “CALCULATORUL FELIX C-512
 S-A NĂSCUT ȘI VĂ UREAZĂ LA MULȚI ANI 1977” un afiș pe care l-am pus la intrarea în Institut.
 
-În 1977 a început producția sistemelor Felix C-512/1024 la Fabrica de Calculatoare Electronice (FCE) de pe platforma industriei electronice din Pipera, producție care a durat peste 6 ani
+În 1977 a început producția sistemelor FELIX C-512/1024 la Fabrica de Calculatoare Electronice (FCE) de pe platforma industriei electronice din Pipera, producție care a durat peste 6 ani
 
-Astfel, folosind schemele de principiu ale structurii hard IBM, s-a început în 1977 elaborarea calculatorului Felix C-8010. Modelul ales corespundea seriei IBM 370 (care s-a aflat în fabricație între 1970 și 1990), la nivel de capacitate medie.
+Astfel, folosind schemele de principiu ale structurii hard IBM, s-a început în 1977 elaborarea calculatorului FELIX C-8010. Modelul ales corespundea seriei IBM 370 (care s-a aflat în fabricație între 1970 și 1990), la nivel de capacitate medie.
 
-Prototipul Felix C-8010 a fost realizat pe plăci experimentale, universale, cu cablaj wrapping, ceea ce permitea modificarea comodă a schemei, dar
+Prototipul FELIX C-8010 a fost realizat pe plăci experimentale, universale, cu cablaj wrapping, ceea ce permitea modificarea comodă a schemei, dar
 ne-a produs multe dificultăți la reglare, din cauza contactelor pinilor în plăci.
 Urmare a dificultăților și întârzierilor legate de importul circuitelor integrate (începuse regimul drastic de economisire, în toate domeniile!), prototipul este finalizat abia în 1981.
 
 Omologarea prototipului a avut loc în septembrie 1982,
 
-La ședința Comisiei de omologare din octombrie 1982, cu participarea factorilor implicați din Centrală, Minister, Institutul de Standardizare IGS, ICPE, ICE, ICI și ITC, s-a constatat că “se îndeplinesc condițiile pentru omologarea prototipului Felix C-8010 și pentru trecerea la execuția seriei zero”.
+La ședința Comisiei de omologare din octombrie 1982, cu participarea factorilor implicați din Centrală, Minister, Institutul de Standardizare IGS, ICPE, ICE, ICI și ITC, s-a constatat că “se îndeplinesc condițiile pentru omologarea prototipului FELIX C-8010 și pentru trecerea la execuția seriei zero”.
 
 La omologarea seriei zero, care a avut loc în decembrie 1984, s-a constatat existența a numai 76 (din totalul de 148) de plăci imprimate produse industrial, restul fiind plăci wrapate.
 

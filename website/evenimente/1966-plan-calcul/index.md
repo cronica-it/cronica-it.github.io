@@ -31,7 +31,7 @@ Inițial CII a licențiat câteva modele de la firma SDS:
 În iulie 1968 este anunțat calculatorul **Iris 50**,
 inspirat din Sigma 7, dar incompatibil software; au urmat IRIS 45, 55, 60.
 
-Iris 50 a fost licențiat de România și produs sub numele Felix C-256.
+Iris 50 a fost licențiat de România și produs sub numele FELIX C-256.
 
 În 23 septembrie 1969 este anunțat Iris 80, un calculator de capacitate mare,
 inspirat din XDS Sigma 9.

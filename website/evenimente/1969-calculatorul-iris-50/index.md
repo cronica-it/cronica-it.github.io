@@ -2,7 +2,7 @@
 slug: 1969/calculatorul-iris-50
 title: 'În Franța, compania CII anunță calculatorul „Iris 50”'
 authors: [ilg-ul]
-tags: [international, calculatoare]
+tags: [international, calculatoare, felix]
 
 date: 2024-01-08T17:01:55
 
@@ -24,7 +24,7 @@ A fost livrat cu sistemul de operare Siris 7.
 Următorul model a fost Iris 80, inspirat după XDS Sigma 9.
 
 România a cumpărat licența pentru Iris 50 și a produs calculatoarele
-Felix C-256.
+FELIX C-256.
 
 ## Referințe
 

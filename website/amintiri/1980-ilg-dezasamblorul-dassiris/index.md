@@ -20,7 +20,7 @@ proiect de diplomă la liceul de informatică din București.
 
 În anii '76-'80, elev fiind la Liceul de Matematică - Fizică nr. 1
 cu profil de informatică, am avut ocazia să studiez destul de aprofundat
-sistemul de operare SIRIS, care rula pe calculatoarele Felix C-256,
+sistemul de operare SIRIS, care rula pe calculatoarele FELIX C-256,
 acele mașinării care impresionau prin complexitatea și dimensiunile lor,
 și la care puțini aveau acces.
 

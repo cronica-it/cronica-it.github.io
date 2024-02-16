@@ -2,7 +2,7 @@
 slug: 1977/calculatorul-felix-c-512
 title: 'La ICE FELIX începe producția de serie a calculatorului „Felix C-512”'
 authors: [ilg-ul]
-tags: [calculatoare, ice]
+tags: [calculatoare, ice, felix]
 
 date: 2024-01-09T09:13:23
 
@@ -12,11 +12,11 @@ event_date: '1977'
 
 În 1977, la
 Fabrica de Calculatoare Electronice din București,
-începe fabricația de serie a calculatorului **Felix C-512**.
+începe fabricația de serie a calculatorului **FELIX C-512**.
 
 <!-- truncate -->
 
-În anul 1972 a început proiectarea calculatorului Felix C-512/1024
+În anul 1972 a început proiectarea calculatorului FELIX C-512/1024
 ca o dezvoltare a calculatorului preluat prin licență.
 
 Elementele de noutate au fost:

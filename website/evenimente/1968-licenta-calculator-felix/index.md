@@ -2,7 +2,7 @@
 slug: 1968/licenta-calculator-felix
 title: 'România obține licența pentru producția calculatorului „Felix C-256”'
 authors: [ilg-ul]
-tags: [calculatoare]
+tags: [calculatoare, felix]
 
 date: 2023-11-01T07:52
 
@@ -11,7 +11,7 @@ event_date: '1968'
 ---
 
 În anul 1968, România obține din Franța licența calculatorului de
-generația a III-a, Iris 50, care va deveni **Felix C-256**.
+generația a III-a, Iris 50, care va deveni **FELIX C-256**.
 
 <!-- truncate -->
 
@@ -39,7 +39,7 @@ unei familii de calculatoare în cadrul programului „Plan Calcul”.
 Ca urmare a acordului, România a fost acceptată de Franța ca
 partener al firmei CII (Compagnie internationale pour l'informatique)
 în realizarea primului model de calculator din familia Iris (Iris 50).
-Acest calculator a fost produs în România sub numele de Felix C-256.
+Acest calculator a fost produs în România sub numele de FELIX C-256.
 
 Negocierile au durat câțiva ani, și au inclus nu numai tehnologia de
 realizare a unui calculatoar de generația a 3-a,
