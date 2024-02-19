@@ -260,7 +260,7 @@ const config: Config = {
         {
           type: 'dropdown',
           label: 'Evenimente',
-          to: '/evenimente/arhiva',
+          to: '/evenimente',
           position: 'left',
           items: [
             {
@@ -285,7 +285,7 @@ const config: Config = {
         {
           type: 'dropdown',
           label: 'Amintiri',
-          to: '/amintiri/arhiva',
+          to: '/amintiri',
           position: 'left',
           items: [
             {
