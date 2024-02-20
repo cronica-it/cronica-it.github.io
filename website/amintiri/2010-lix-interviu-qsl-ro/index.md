@@ -2,7 +2,7 @@
 slug: 2010/lix-interviu-qsl-ro
 title: 'Nicoară (Lix) Paulian - Interviul publicat pe qsl.ro'
 authors: [nvasilescu]
-tags: [interviuri]
+tags: [interviuri, lixco]
 
 date: 2023-12-30T07:14:11
 
