@@ -184,5 +184,5 @@ Persoane care au format apoi colectivul independent de Inteligență Artificial�
 
 ## Referințe
 
-- [Un institut pentru istorie. Semicentenarul Institutului pentru Tehnica de Calcul (1968-2018), ](https://www.agir.ro/carte/un-institut-pentru-istorie-semicentenarul-institutului-pentru-tehnica-de-calcul-1968-2018-123155.html)
+- [Un institut pentru istorie. Semicentenarul Institutului pentru Tehnica de Calcul (1968-2018)](https://www.agir.ro/carte/un-institut-pentru-istorie-semicentenarul-institutului-pentru-tehnica-de-calcul-1968-2018-123155.html)
 - Cristian Lupu, Vlad Țepelea, Emil Purice: _**Microprocesoare, Aplicații**_, Editura Militară București, 1982

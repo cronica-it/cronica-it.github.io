@@ -820,4 +820,4 @@ Odată cu trecerea anilor, mi s-a făcut dor de acele vremuri, acele preocupări
 
 ## Referințe
 
-- [Un institut pentru istorie. Semicentenarul Institutului pentru Tehnica de Calcul (1968-2018), ](https://www.agir.ro/carte/un-institut-pentru-istorie-semicentenarul-institutului-pentru-tehnica-de-calcul-1968-2018-123155.html)
+- [Un institut pentru istorie. Semicentenarul Institutului pentru Tehnica de Calcul (1968-2018)](https://www.agir.ro/carte/un-institut-pentru-istorie-semicentenarul-institutului-pentru-tehnica-de-calcul-1968-2018-123155.html)

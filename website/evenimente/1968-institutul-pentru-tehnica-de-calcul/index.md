@@ -34,4 +34,4 @@ s-a estimat inițial, fiind gata prin 1972-1973.
 
 - [itc.ro - ITC](https://www.itc.ro)
 - [ro.wikipedia.org - ITC](https://ro.wikipedia.org/wiki/Institutul_pentru_Tehnică_de_Calcul)
-- [Un institut pentru istorie. Semicentenarul Institutului pentru Tehnica de Calcul (1968-2018), ](https://www.agir.ro/carte/un-institut-pentru-istorie-semicentenarul-institutului-pentru-tehnica-de-calcul-1968-2018-123155.html)
+- [Un institut pentru istorie. Semicentenarul Institutului pentru Tehnica de Calcul (1968-2018)](https://www.agir.ro/carte/un-institut-pentru-istorie-semicentenarul-institutului-pentru-tehnica-de-calcul-1968-2018-123155.html)
