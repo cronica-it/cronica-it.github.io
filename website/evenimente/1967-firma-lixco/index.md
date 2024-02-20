@@ -62,7 +62,7 @@ Din 1980, Lixco se concentrează din ce în ce mai mult pe tehnica digitală, re
 
 Lix și computerul L/B 881, varianta CP/M (ianuarie 1986)
 
-În 1987 Lixco lansează **L/B 883 „Turbo”** un single-board computer bazat pe Zilog Z80 cu clock-ul până la 8 MHz (cu Z80B). Sistemul avea până la 256 KBytes de RAM și includea un display grafic cu paletă de 4 culori simultane din 256 (cu un look-up table programabil) și ieșire VGA. De asemeni, avea un controlor floppy disk bazat pe Intel 8272 ce suporta floppy disk-uri single și double-density. Și L/B 883 a fost fabricat în serie la ITCI-CCAB.
+În 1987 Lixco lansează **L 883 „Turbo”** un single-board computer bazat pe Zilog Z80 cu clock-ul până la 8 MHz (cu Z80B). Sistemul avea 128 KBytes de RAM și includea un display grafic cu paletă de 4 culori simultane din 256 (cu un look-up table programabil) și ieșire VGA. De asemeni, avea un controlor floppy disk bazat pe Intel 8272 ce suporta floppy disk-uri single și double-density. Și L 883 a fost fabricat în serie la ITCI-CCAB.
 
 Periodic, cam de două ori pe an, Lixco trimitea tuturor clienților o publicație gratuită denumită **Lixco News** prin care erau anunțate noile produse ale firmei. Ultimul „Lixco News” a fost publicat în octombrie 1989.
 
