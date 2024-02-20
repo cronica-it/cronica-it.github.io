@@ -4,11 +4,11 @@
 
 - 30 ani Internet (Comunicații Mobile)
 - GTS Telecom - completări Răzvan
-- EUnet - autorizație
+- EUnet - autorizație ANCOM
 - alte articole de pe http://linux.punct.info
-- povesti Nicolai Sandu
+- povesti Nicolai Sandu (greu, ne trimite la Radu și Emil)
 - povesti Dan Garlasu
-- de verificat: https://www.electrokits.ro/scurt-istoric-al-internetului-in-romania/
+- de verificat: <https://www.electrokits.ro/scurt-istoric-al-internetului-in-romania/>
 - de lamurit ce e cu '1994 - A aparut primul articol scris vreodata despre Internetul din Romania la Internet Society News, vol 3, no 1 din 1994.'
 - de adaugat participarea la ISOC 1993
 
@@ -23,7 +23,6 @@
 
 - de prelucrat
   - articol Baltac
-  - carte F Filip
 
 - de verificat:
   - https://books.google.ro/books?id=Z2aoVu7XheMC&pg=PA122&redir_esc=y#v=onepage&q&f=false
@@ -39,7 +38,7 @@
 
 ## Corneliu Mașek (decedat)
 
-[vdarie] - autorul - împreună cu Mihai Martinovici - a subsistemului SESAM pentru sis- temul de operare Helios.
+[vdarie] - autorul - împreună cu Mihai Martinovici - a subsistemului SESAM pentru sistemul de operare Helios.
 
 ## Interviu Samoila
 
@@ -85,6 +84,7 @@ De discutat pentru o colaborare și preluare a articolelor.
 Românești:
 
 - https://ro.wikipedia.org/wiki/Istoria_informaticii_în_România
+- https://ro.wikipedia.org/wiki/Cronologie_a_informaticii_românești
 - https://rite.org.ro/istoria-internetului/
 - https://economie.hotnews.ro/20_ani_internet
 - https://economie.hotnews.ro/stiri-20_ani_internet-15969144-istoria-internetului-romania-alexandru-rotaru-nu-pot-spun-inventat-noi-ceva-plus-aici-romania-doar-majoritatea-noutatilor-adoptat-printre-primii.htm
@@ -98,9 +98,12 @@ Românești:
 - https://muzeu.unibuc.ro/ro/arhiva-digitala-a-muzeului-universitatii-din-bucuresti-admub/
 - https://ro.wikipedia.org/wiki/Istoria_informaticii_în_România
 - https://www.facebook.com/ICIBucuresti/posts/3488728511216217/
-- https://ictp.acad.ro/ro/istoric/
+- https://ictp.acad.ro/ro/istoric/ - Cluj
 - https://www.agir.ro/carte/un-institut-pentru-istorie-semicentenarul-institutului-pentru-tehnica-de-calcul-1968-2018-123155.html
 - https://www.cs.rutgers.edu/news-events/highlights/highlight-item/9126-587-in-memory-of-prof-liviu-iftode-1959-2017
+
+- https://jurnalul.ro/scinteia/special/felix-si-industria-romaneasca-de-calculatoare-505768.html
+
 
 Străine:
 

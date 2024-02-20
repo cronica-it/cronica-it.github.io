@@ -462,8 +462,6 @@ Radio Corporation of America produce primele televizoare color; acestea aveau di
 
 1968 – In cadrul Universitatii Stanford apare primul laborator de cercetare a inteligentei artificiale.
 
-1968 – Doug Engelbart prezinta primul mouse la Institutul de Cercetari Stanford (era creat din lemn, cu un singur buton si se folosea pentru marcare).
-
 1968 – Americanul Doug Engelbart, din Portland (USA, OR), inventeaza prima asa-numita « multiple window Graphical User Interface » (GUI), precursorul Windows-ului si al MacOS.
 
 1969 – Sunt create dispozitivele „bubble memory” (memorie cu bule) pentru a fi utilizate în computere; spre deosebire de memoriile clasice, acestea retin datele chiar si dupa deconectarea computerului de la sursa.
