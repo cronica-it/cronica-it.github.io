@@ -1,7 +1,7 @@
 ---
 slug: 2008/tdmihu-aminitiri-fabrica-de-calculatoare
 title: 'Traian (Dorin) Mihu - Fabrica de calculatoare - Ani, Oameni, Fapte'
-authors: [cmarcusanu]
+authors: [cmarcusanu, tdmihu]
 tags: [articole, interviuri, it, ice, marketwatch]
 
 date: 2024-02-21T09:39:31
