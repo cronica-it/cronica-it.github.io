@@ -1,6 +1,6 @@
 ---
 slug: 2008/vtoma-amintiri-inceputuri
-title: 'Victor Toma - amintiri din perioada de început'
+title: 'Victor Toma - Amintiri din perioada de început'
 authors: [cmarcusanu]
 tags: [articole, interviuri, it, ifa, marketwatch]
 
