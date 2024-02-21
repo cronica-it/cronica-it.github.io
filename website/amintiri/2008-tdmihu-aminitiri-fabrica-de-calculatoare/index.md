@@ -111,7 +111,7 @@ Felix Telecom este astăzi un reputat provider de soluţii de telecom, realizeaz
 
 ## Observații
 
-Mihai Costin: CE-30 (și ulterior CE-32/33) au fost fabricate după o licență luată de la FRIEDEN (Olanda); produsele japoneze au apărut ceva mai târziu.
+Mihai Costin: CE-30 (și ulterior CE-32/33) au fost fabricate după o licență luată de la FRIDEN (Olanda); produsele japoneze au apărut ceva mai târziu.
 
 ## Referințe
 
