@@ -79,6 +79,16 @@ De discutat pentru o colaborare și preluare a articolelor.
 
 - http://www.marketwatch.ro/contact/
 
+- https://www.marketwatch.ro/articol/13182/Scurta_istorie_a_informaticii_romanesti_(1957-1990)/pagina/1
+
+- https://www.marketwatch.ro/articol/16122/GTS_Telecom_aniverseaza_25_de_ani_de_activitate_in_Romania/pagina/1
+- http://www.marketwatch.ro/articol/16548/Semicentenarul_Departamentului_de_Calculatoare_din_Politehnica_bucuresteana/
+- https://www.marketwatch.ro/articol/4207/Calculatoarele_de_capacitate_medie/pagina/3
+- https://www.marketwatch.ro/articol/4158/Victor_Meghesan_memorii_pe_calculator/
+- https://www.marketwatch.ro/articol/3843/Istoria_informaticii_traita_de_Vasile_Baltac/
+
+
+
 ## Alte Link-uri
 
 Românești:
