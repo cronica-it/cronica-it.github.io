@@ -17,7 +17,7 @@ event_date: '1968'
 Deși decretul de înființare a fost emis in 1967, institutul a fost
 creat efectiv în 1968.
 
-Nucleul initial cuprindea pionieri ai calculatoarelor printre care
+Nucleul inițial cuprindea pionieri ai calculatoarelor printre care
 Victor Toma, Armand Segal, Gabriel Martin, Vasile Baltac, Tiberiu Ilin,
 Gavril Gavrilescu, Emil Muntean, Gheorghe Farkas, Emil Bocu și multi
 alții din echipele lor.
