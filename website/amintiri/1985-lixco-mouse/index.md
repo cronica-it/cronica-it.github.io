@@ -18,7 +18,7 @@ Deși a fost inventat prin anii '60 și a fost folosit pentru prima dată într-
 de serie mare în 1983 în calculatorul **Apple Lisa**, în acei ani mouse-ul nu era încă un dispozitiv
 foarte răspândit. În 1984 Microsoft a început să comercializeze un mouse propriu, dar în comerțul de stat din România în mod clar nu era de găsit.
 
-Când s-a pus problema realizării programului de desenat cablaje imprimate T-Race, una dintre primele
+Când s-a pus problema realizării programului de desenat cablaje imprimate, una dintre primele
 cerințe a fost să găsim un mouse care să poată fi cuplat la calculatorul L883 Turbo.
 
 Lucrul nu a fost chiar simplu, dar printr-o întâmplare a ajuns prin firmă un mouse fabricat de **DEC**,
@@ -42,7 +42,7 @@ O reconstituire din amintiri a schemei este prezentată mai jos:
 
 Nu se foloseau întreruperile, din acest motiv timing-ul în program era deterministic. Implementarea unui UART prin software în asemenea condiții a fost relativ simplă (prin metoda „bit-banging”). Programul era în esență o buclă infinită care testa starea celor patru fototranzistori și a butoanelor mouse-ului pentru a determina viteza și sensul mișcărilor, cu testări la intervale de lungimea unui bit a diverselor registre care țineau starea UART-ului (o „state machine”).
 
-Constructiv, EPROM-ul a fost montat „piggy-back” peste microprocesrul Z80 prin lipire, iar legăturile inter-componente s-au realizat cu fire de wrapping. Deși programul era mult mai scurt, s-a folosit totuși un EPROM de 2 KBytes pentru că acesta nu necesita decât o singură tensiune de alimentare.
+Constructiv, EPROM-ul a fost montat „piggy-back” peste microprocesorul Z80 prin lipire, iar legăturile inter-componente s-au realizat cu fire de wrapping. Deși programul era mult mai scurt, s-a folosit totuși un EPROM de 2 KBytes pentru că acesta nu necesita decât o singură tensiune de alimentare.
 
 L883 avea o interfață serială RS-232 ce folosea un conector tip DB-25. Folosind o „licență poetică” doi pini (11 și 25) care nu erau asignați în standard au fost folosiți de Lixco pentru a livra +5V și -5V către mouse. În retrospectivă nu a fost o idee bună, deși cazuri de „catastrofe” ca urmare a acestei decizii nu au fost înregistrate.
 
