@@ -10,7 +10,7 @@ event_date: '2008-09-25'
 
 ---
 
-În anul 2008, în numărele 108, 109, 110 ale revistei Market Watch, a fost
+În anul 2008, în numerele 108, 109, 110 ale revistei Market Watch, a fost
 publicat un interviu în trei părți cu Traian (Dorin) Mihu, intitulat
 „Ani, Oameni, Fapte”.
 
