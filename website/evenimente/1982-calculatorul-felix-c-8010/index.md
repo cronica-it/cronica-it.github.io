@@ -41,7 +41,7 @@ Urmare a dificultăților și întârzierilor legate de importul circuitelor
 integrate (începuse regimul drastic de economisire, în toate domeniile!),
 prototipul este finalizat abia în 1981.
 
-Omologarea prototipului a avut loc în septembrie 1982,
+Omologarea prototipului a avut loc în septembrie 1982.
 
 La ședința Comisiei de omologare din octombrie 1982, cu participarea
 factorilor implicați din Centrală, Minister, Institutul de Standardizare
