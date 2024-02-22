@@ -34,7 +34,7 @@ Era o singură _mică_ problemă: deși cutia de plastic a mouse-ului era destul
 
 ![z80-reduced](https://cronica-it.github.io/imagini/1985/lixco-mouse/z80-reduced.png)
 
-Pinii nefolosiți, precum și materialul plastic aferent au fost **piliți cu grijă cu ajutorul unui polizor!**
+Pinii nefolosiți, precum și materialul plastic aferent au fost **piliți cu grijă... cu ajutorul unui polizor!**
 
 O reconstituire din amintiri a schemei este prezentată mai jos:
 
@@ -47,3 +47,7 @@ Constructiv, EPROM-ul a fost montat „piggy-back” peste microprocesorul Z80 p
 L883 avea o interfață serială RS-232 ce folosea un conector tip DB-25. Folosind o „licență poetică” doi pini (11 și 25) care nu erau asignați în standard au fost folosiți de Lixco pentru a livra +5V și -5V către mouse. În retrospectivă nu a fost o idee bună, deși cazuri de „catastrofe” ca urmare a acestei decizii nu au fost înregistrate.
 
 În final merită amintit că folosind acest mouse cu prototipul L883 construit pe o placă „Augat” și cu un program de CAD dezvoltat tot de Lixco („T-Race”), a fost proiectată placa de circuit imprimat a calculatorului L883 însuși! Dar despre toate astea, poate într-un alt articol...
+
+## Referințe
+
+- [Firma Lixco](/evenimente/1967/firma-lixco)
