@@ -15,7 +15,7 @@ a fost nevoie de un mouse.
 <!-- truncate -->
 
 Deși a fost inventat prin anii '60 și a fost folosit pentru prima dată într-un produs comercial
-de serie mare în 1983 în calculatorul **Apple Lisa**, în acei anii mouse-ul nu era înca un dispozitiv
+de serie mare în 1983 în calculatorul **Apple Lisa**, în acei ani mouse-ul nu era încă un dispozitiv
 foarte răspândit. În 1984 Microsoft a început să comercializeze un mouse propriu, dar în comerțul de stat din România în mod clar nu era de găsit.
 
 Când s-a pus problema realizării programului de desenat cablaje imprimate T-Race, una dintre primele
