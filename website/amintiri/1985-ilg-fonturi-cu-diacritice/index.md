@@ -34,7 +34,7 @@ Intr-o bună zi, cred că era prin '88, Nelu Afendulis, care conducea secția de
 
 :::note
 
-Pe vremea aceea se știa că Ceaușescu, care nu mai era chiar tânăr, ca să nu poarte ochelari când citea discursurile la congrese și alte ședințe, avea textele scrise la o mașină de scris specială, care folosea caractere sensibil mai mari decât de obicei.
+Pe vremea aceea se știa că Ceaușescu, care nu mai era chiar tânăr, ca să nu fie nevoit să poarte ochelari când citea discursurile la congrese și alte ședințe, avea textele scrise la o mașină de scris specială, care folosea caractere sensibil mai mari decât de obicei.
 
 :::
 
