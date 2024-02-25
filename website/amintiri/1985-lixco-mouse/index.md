@@ -5,6 +5,9 @@ authors: [lixpaulian]
 tags: [lixco]
 
 date: 2024-02-18T20:28:00
+
+event_date: '1985'
+
 ---
 
 import Image from '@theme/IdealImage';
