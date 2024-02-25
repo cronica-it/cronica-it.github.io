@@ -2,7 +2,7 @@
 slug: 2008/vbaltac-istoria-informaticii
 title: 'Vasile Baltac - Istoria informaticii'
 authors: [cmarcusanu, vbaltac]
-tags: [articole, interviuri, it, marketwatch]
+tags: [articole, interviuri, it, marketwatch, mecipt, itc, ice, felix, coral]
 
 date: 2024-02-25T11:48:43
 
