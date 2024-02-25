@@ -10,7 +10,7 @@ event_date: '1985'
 
 ---
 
-În anii '80, se pare că pasiunea pentru sisteme de operare și compilatoare nu m-au ajutat să devin celebru(!), în schimb un mic utilitar care scria cu diacritice a avut un succes neașteptat.
+În anii '80, se pare că pasiunea mea pentru sisteme de operare și compilatoare nu m-a ajutat prea mult să devin celebru(!), în schimb un mic utilitar care scria cu diacritice a avut un succes neașteptat.
 
 <!-- truncate -->
 
