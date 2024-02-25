@@ -11,8 +11,7 @@ event_date: '2017'
 ---
 
 În anul 2017, Vasile Baltac a publicat la Editura EXCEL XXI Books
-cartea intitulată **Politehnica din Timișoara - Electro 1957-1962**,
-din care autorul a extras câteva paragrafe.
+cartea intitulată **Politehnica din Timișoara - Electro 1957-1962**; în continuare sunt preluate câteva paragrafe extrase de autor.
 
 <!-- truncate -->
 
@@ -137,8 +136,7 @@ atât. Nu era așa. Citeam mult, mă pasiona filosofia și în
 particular Spinoza.
 
 Nu uitasem de Gazeta Matematică pe care o citeam relativ
-regulat, dar nu mă mai preocupa rezolvarea de probleme. Mi-
-am amintit de Grigore C. Moisil și pledoaria lui pentru
+regulat, dar nu mă mai preocupa rezolvarea de probleme. Mi-am amintit de Grigore C. Moisil și pledoaria lui pentru
 calculatoare citind în anul 1958 articolul „Mașini electronice
 de calcul”, o prelucrare a unui articol al academicianului
 sovietic S. S. Lebedev.
