@@ -119,7 +119,7 @@ aparatele și instrumentele noi și bune le ținea numai pentru el
 
 > Trăsătura de răzbunător este de regulă acordată
 prin folclor urban. Totuși am avut un caz.
-Tehnicianul de la MECIPT, Victor Balosin1, a
+Tehnicianul de la MECIPT, Victor Balosin, a
 făcut facultatea la seral. A avut ambiția să
 termine numai cu 10, dar profesorul Rogojan i-a
 dat nota 5, inclusiv la reexaminare. Balosin
