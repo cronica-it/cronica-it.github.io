@@ -43,9 +43,10 @@ Interlocutorul nostru, domnul Mihu, responsabil de această activitate, îşi am
 S-a mers şi pe linia integrării perifericelor: imprimante, unităţi de bandă magnetică, discuri, cum erau pe vremea aceea. În 1975 s-a înfiinţat societatea mixtă Rom Control Data, unde Călin Spiride a fost numit director general.
 O altă cale a ieftinirii calculatoarelor a fost mutarea importurilor din Vest către Est, pentru că se înregistraseră progrese, iar aici se produceau acum componente competitive. Pe măsura atingerii unui asemenea nivel de integrare şi a scăderii preţului calculatorului, a crescut şi s-a diversificat producţia. Se fabricau cca. 35 de unităţi Felix C-256 pe an, apoi a intrat în fabricaţie Felix C-32P, cu o capacitate de memorie mai mică şi, pe proiectul ITC-ului, s-a fabricat şi Felix C-512. Aceste modele au fost produse în paralel pentru că ele intrau în dotarea unor obiective economice care aveau nevoi diferite din punct de vedere al capacităţii de calcul. Aceste necesităţi au determinat şi proiectarea şi fabricarea seriilor de minicalculatoare Independent (102, 104, 106) şi Coral, acesta din urmă proiectat tot în fabrică.
 
+## Perioada 1980-1990
+
 „În perioada 1984-1987 am fabricat şi Felix C-1024, după un proiect ITC, şi Felix C-5000, proiectat în fabrică şi din care s-au fabricat până în 1989 cam 10-15 bucăţi. Un alt proiect deosebit al fabricii a fost CORAL – VAX, finalizat în perioada 1988–1989. În 1984, la iniţiativa Catedrei de calculatoare din Politehnică, am realizat home-computer-ul HC85, pentru care m-am luptat să aibă un preţ cât mai accesibil (pentru că ni se impunea şi erau prestabilite prin plan atât cifra de afaceri, cât şi profitul fabricii). Astfel, am reuşit să aduc preţul unui HC85 de la 40.000 lei (cât era planul iniţial) la 12.000 lei. Datorită preţului competitiv, HC85 a putut fi folosit pe scară largă de elevi şi studenţi pentru iniţiere în calculatoare şi pentru realizarea a tot felul de programe aplicative. În FCE aveam cca. 700 de ingineri din toate specialităţile, eram o forţă, şi cred că puteam să facem şi un Mercedes“, îşi aminteşte Dorin Mihu.
 
-## Perioada 1980-1990
 
 Fabrica de calculatoare atrăsese crema-cremelor din România în ceea ce priveşte specialişti în calculatoare şi electronică. Traseul era cunoscut: cei mai buni elevi la matematică-fizică urmau facultăţi de calculatoare, din studenţii cărora cei mai buni absolvenţi veneau la Fabrica de calculatoare. Aşa s-au format aici colective foarte puternice de ingineri. Proporţional cu nivelul de tehnicitate şi inteligenţă acumulat aici s-au înmulţit, s-au diversificat şi au crescut în complexitate proiectele, temele şi sarcinile rezolvate. Domnul Mihu era în fruntea lor: „Aveam ateliere de proiectare proprii pentru maşini de facturat şi contabilizat, pentru circuite imprimate, pentru repere şi tehnologii mecanice, atelier de proiectare software. Trebuia să răspundem unor solicitări diverse atât pe parte de proiectare, cât şi de fabricaţie. De exemplu, am proiectat şi fabricat CD80, care era un fel de multiplexor pentru CFR, aparate EKG pentru medicină, dar chiar şi proiecte pentru armată (sistemele electronice de poziţionare a ţintei mobile pentru artileria antiaeriană aveau precizie de centimetri). Am realizat simulatoare pentru antrenarea tanchiştilor, a mecanicilor de locomotivă ş.a. Solicitările erau din cele mai diverse sectoare economice. De exemplu, am realizat cu ajutorul calculatorului Independent 100 un sistem electronic de comandă şi control al laminorului de la Târgovişte, pentru îmbunătăţirea performanţelor acestuia în privinţa asigurării unei grosimi uniforme a tablei laminate. FCE a fost foarte implicată în industrie.”
 
@@ -111,7 +112,7 @@ Felix Telecom este astăzi un reputat provider de soluţii de telecom, realizeaz
 
 ## Observații
 
-(*) CE-30 (și ulterior CE-32/33) au fost fabricate după o licență luată de la FRIDEN (Olanda); produsele japoneze au apărut ceva mai târziu (Mihai Costin).
+(*) CE-30 (și ulterior CE-32/33) au fost fabricate după o licență luată de la FRIDEN (Olanda); produsele japoneze au apărut ceva mai târziu [Mihai Costin].
 
 ## Referințe
 
