@@ -1,6 +1,6 @@
 ---
 slug: 1984/calculatorul-dialisp
-title: 'La UPB ete prezentat calculatorul DIALISP'
+title: 'La UPB este realizat calculatorul DIALISP'
 authors: [ilg-ul]
 tags: [calculatoare, lisp]
 
@@ -12,7 +12,7 @@ event_date: '1984'
 
 În 1984, la Universitatea Politehnică București este
 realizat, sub conducerea prof. Gheorghe M. Ștefan,
-calculatorul românesc DIALISP,
+calculatorul românesc DIALISP.
 
 <!-- truncate -->
 
