@@ -7,11 +7,11 @@ tags: []
 
 date: 2024-02-26T22:26:09
 
-event_date: '1967-06-21'
+event_date: '1967-06-22'
 
 ---
 
-La 21 iunie 1967 a fost aprobat „Programul de dotare a economiei naționale cu echipamente
+La 22 iunie 1967 a fost aprobat „Programul de dotare a economiei naționale cu echipamente
 moderne de calcul și de automatizare a prelucrării datelor”, primul
 program de informatizare în România (Arhivele Naționale 33/1967).
 
