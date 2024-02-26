@@ -17,6 +17,9 @@ import { ImagesTable } from '@site/src/components/ImagesTable';
 
 <!-- truncate -->
 
+Crearea unei noi fabrici de profil a fost parte a „Programului de dotare a economiei naționale cu echipamente moderne de
+calcul si de automatizarea prelucrării datelor”, din 1967.
+
 Întreprinderea a avut ca obiectiv realizarea de sisteme pe bază de licențe de la compania CII (Compagnie International pour l’Informatique) din Franța și ulterior fabricarea de calculatoare concepute în România. A fost construită după modelul francez de la Toulouse.
 
 ## Anii '70
@@ -35,13 +38,18 @@ Echipa care a primit sarcina să pună în funcţiune cele două calculatoare IR
 
 > „Aceste IRIS 50 reprezentau tehnologia cea mai avansată de atunci, cu TTL-uri, cu cablaje dublă faţă cu găuri metalizate, wrapping; bineînţeles că erau erori de cablaj cât cuprinde, mai erau şi componente defecte. Punerea la punct a unui astfel de calculator dura şase luni. Echipa ICPUEC era, în mare, cea pe care am pomenit-o. Din echipa FEA făceau parte cei doi, care erau şcolarizaţi în Franţa, eu şi încă doi colegi stagiari ca şi mine, Andrei Gayraud şi Turcu Gheorghe. Echipa ICPUEC era compusă din şapte oameni, toţi şcolarizaţi câte 8 luni în Franţa; noi eram doar cinci la număr, din care trei proaspăt absolvenţi; atunci vedeam prima dată obiectele respective. A trebuit să punem mâna şi să citim pe rupte. După o lună, timp în care am parcurs manualele, ne-am apucat de treabă, pentru că era un fel de concurs: care dintre echipe termină mai repede şi mai bine. Erau nişte teste care, dacă erau trecute, calculatorul putea fi dat în exploatare. Echipa noastră a reuşit să pună prima la punct calculatorul IRIS; poate am avut şi puţin noroc, dar se spune că norocul ajută pe cei mai buni. Cel puţin, Călin Spiride şi Mihaela Ionescu erau cu totul deosebiţi“. [Mihu]
 
+În 1970, La Expoziția Realizărilor Economiei Naționale (EREN) s-a prezentat
+și calculatorul FELIX C-256, într-un stand amenajat chiar în mijlocul
+pavilionului central, calculatorul fiind vedeta expoziției. [Baltac]
+
 Noul sediu al Fabricii de Calculatoare a fost pus în funcţiune la 1 ianuarie 1972 și inițial fabrica a fost condusă de director Radu Dordea.
 
 > După cele două IRIS-uri, care veniseră gata asamblate din Franţa, au venit în următorii doi ani kit-uri complete ce se asamblau în fabrică, li se efectuau testele şi erau date în exploatare. Dar în timpul acesta s-a lucrat la integrare. ICE avea un serviciu tehnic a cărui principală sarcină era să integreze componentele şi subansamblele venite până atunci din Franţa. S-a început cu partea de construcţii metalice, mase plastice şi, treptat, s-a trecut şi la integrarea, asimilarea şi fabricarea unor componente electronice. Între timp, IPRS-ul luase licenţa de TTL-uri; s-au mai luat nişte licenţe pentru diode, tranzistoare, apoi condensatoarele şi rezistenţele au început să vină de la fabrica de la Curtea de Argeş. De asemenea, industria românească a început să producă modulele de memorii (la Timişoara); treptat s-au asimilat transformatoarele de la sursele de alimentare, şamd. Această integrare însemna studierea şi prelucrarea în amănunt a documentaţiei componentelor respective şi găsirea unui partener din industria orizontală capabil să le producă. Uneori, pentru unele componente, subfurnizorii francezi au rămas singura variantă tehnic posibilă, atunci când ele nu puteau fi fabricate în ţară, ceea ce a prilejuit multe delegaţii în Franţa. Aceste integrări au însemnat scăderi spectaculoase ale costului calculatoarelor. Au fost ani în care mergeam de 10-12 ori pe an la subfurnizorii francezi, ca să cumpărăm componente direct de la ei sau să învăţăm să le facem noi. În final, cam după cinci ani, IRIS 50 ajunsese să fie integrat cca 90%. [Mihu]
 
 Producția a început cu calculatorul **FELIX C-256**, primul calculator din familia IRIS al firmei CII. Capacitatea de producție era de cca. 35 de unităţi FELIX C-256 pe an. [Mihu]
 
-Apoi a intrat în fabricaţie **FELIX C-32**, cu o capacitate de memorie mai mică (32kB). Mai târziu a intrat în producție și **FELIX C-64**.
+Apoi a intrat în fabricaţie **FELIX C-32**, cu o capacitate de memorie mai mică (32kB). Mai târziu a intrat în producție și **FELIX C-64**. Au fost produse și
+variantele M (mobile) 32M/64M.
 
 În 1977 a început producția sistemelor **FELIX C-512** (cu 512kB de memorie), după un proiect realizat
 la ITC.
