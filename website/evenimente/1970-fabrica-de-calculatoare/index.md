@@ -1,7 +1,7 @@
 ---
 slug: 1970/fabrica-de-calculatoare
 title: 'Este înființată „Întreprinderea de Calculatoare Electronice” (ICE FELIX)'
-authors: [mcostin, ilg-ul]
+authors: [tdmihu, mcostin, ilg-ul]
 tags: [ice, felix]
 
 date: 2024-02-16T08:29:31
