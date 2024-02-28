@@ -21,13 +21,29 @@ Tehnică de Calcul (CIETC) și deținea 55 % din capital, iar partea
 americană era Control Data Corporation (CDC), care deținea restul
 de 45 % din capital.
 
-Contribuția părții române era fabrica propriu-zisă (teren, construcții,
-utilaje generale și personal calificat pentru producție și întreținere),
-iar contribuția CDC era tehnologia, asistența tehnică (asamblare,
-reglaj, testare și control) și managementul economic.
+Contribuţia părţii române a fost: fabrica cu spaţii de producţie de aproximativ
+5.000 mp (teren, utilaje generale şi personal calificat pentru producţie şi întreţinere),
+la înfiinţare având 80 de salariaţi. Contribuţia CDC a fost tehnologia, asistenţa
+tehnică (asamblare, reglaj, testare şi control) şi managementul economic. În timp,
+conducerea a devenit complet românească, singura excepţie fiind controlul de
+calitate, care era american şi care garanta pe plan internaţional că produsele
+româneşti sunt similare celor ale CDC. De menţionat că a fost singura unitate
+productivă din ţară în care Inspectoratul General de Stat pentru Calitatea Produselor
+nu avea delegat.
 
-Producția integra în principiu ce se putea realiza în România
-(partea mecanică) cu componentele electronice furnizate de CDC.
+Primul director a fost Călin Spiride.
+ț
+Producţia Rom Control Data a constat din:
+
+- Cititoare de cartele perforate;
+- Imprimante rapide cu tambur, bandă sau matriciale;
+- Plottere;
+- Unităţi de disc magnetic şi unităţi de bandă magnetică.
+
+Produsele erau destinate atât pentru calculatoarele fabricate la FCE, cât şi
+pentru export, beneficiarii fiind CDC, CII, Nixdorf Computer (RFG), Robotron (RDG),
+Kovo (Cehoslovacia), Rosewill (Suedia) ş,a. În 1989 întreprinderea avea 360
+salariaţi.
 
 În 1988 CDC a decis să iasă de pe piața de calculatoare, și să vândă
 diverse părți ale companiei.
@@ -42,3 +58,4 @@ a fost preluată de o firmă care are ca singură activitate
 
 - [ro.wikipedia.org - Rom Control Data](https://ro.wikipedia.org/wiki/Rom_Control_Data_SRL)
 - [en.wikipedia.org - Control Data Corporation](https://en.wikipedia.org/wiki/Control_Data_Corporation)
+- INDIE ICPE-CA: _**Revista de istorie a electrotehnicii românești**_, Vol. 5, Nr. 1-2 (arhivat [local](https://cronica-it.github.io/arhiva/#2019))
