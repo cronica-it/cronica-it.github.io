@@ -1,6 +1,6 @@
 ---
 slug: 820/notiunea-de-algoritm
-title: 'Apare noțiunea de „algoritm”'
+title: 'Apare noțiunea de „algoritm” (după al-Khwārizmī)'
 authors: [gserban, ilg-ul]
 tags: [international, informatica]
 
