@@ -1,6 +1,6 @@
 ---
 slug: 1970/fabrica-de-calculatoare
-title: 'Este înființată „Întreprinderea de Calculatoare Electronice” (ICE FELIX)'
+title: 'Este înființată „Fabrica de Calculatoare Electronice” (ICE FELIX)'
 authors: [tdmihu, mcostin, ilg-ul]
 tags: [ice, felix]
 
@@ -13,19 +13,21 @@ event_date: '1970'
 import { imagesLinks } from './images-links.tsx'
 import { ImagesTable } from '@site/src/components/ImagesTable';
 
-În anul 1970 este înființată „Întreprinderea de Calculatoare Electronice FELIX București” (ICE FELIX), cunoscută și ca „Fabrica de Calculatoare”.
+În anul 1970, prin HCM 532/1970, este înființată „Fabrica de Calculatoare Electronice București”, ulterior cunoscută și ca „ICE FELIX”.
 
 <!-- truncate -->
 
 Crearea unei noi fabrici de profil a fost parte a „Programului de dotare a economiei naționale cu echipamente moderne de
 calcul si de automatizarea prelucrării datelor”, din 1967.
 
-Întreprinderea a avut ca obiectiv realizarea de sisteme pe bază de licențe de la compania CII (Compagnie International pour l’Informatique) din Franța și ulterior fabricarea de calculatoare concepute în România. A fost construită după modelul francez de la Toulouse.
+Fabrica a avut ca obiectiv realizarea de sisteme pe bază de licențe de la compania CII (Compagnie International pour l’Informatique) din Franța și ulterior fabricarea de calculatoare concepute în România. A fost construită după modelul francez de la Toulouse.
 
 ## Anii '70
 
 > „În august 1970, pe locul fabricii era încă o groapă mare și două barăci.
-Până la finalizarea construcției, activitatea s-a desfășurat în clădirea învecinată, FEA, unde la etajul I avea biroul Mircea Bărbulescu – inginer-şef ICE - care coordona de fapt investiţia, iar la etajul V al aceleiaşi clădiri avea biroul Luminiţa Baltac,
+Primul salariat al FCE a fost inginerul șef responsabil pentru realizarea investiției aprobate prin decret. Numele său a fost Mircea Bărbulescu, care la punerea în funcțiune a noi fabrici, la inceputul anului 1972, a fost numit Director Tehnic. Director General a fost numit Radu Dordea, fost inginer șef la FEA (Fabrica pentru elemente de automatizare), iar inginer șef a fost numit Călin Spiride,absolvent promoția 1965 a facultății de energetică (și care ulterior a fost numit director general la Rom Control Data). [Mihu]
+
+Până la finalizarea construcției, activitatea s-a desfășurat în clădirea învecinată, FEA, unde la etajul I avea biroul Mircea Bărbulescu, iar la etajul V al aceleiaşi clădiri avea biroul Luminiţa Baltac,
 care se ocupa de documentaţia de la licenţa IRIS 50“. [Mihu]
 
 Inițial producția de mașini de facturat și contabilizat FC15 și calculatoare CE30/32 sub licență Frieden (Olanda) precum și pregătirea producției pentru FELIX C-256 s-au făcut la FEA.
@@ -74,7 +76,7 @@ După 1981 fabrica a parcurs o perioadă dificilă, în care importurile de oric
 
 > „Era o situaţie inadmisibilă, la noi la poarta fabricii era zidul plângerii!” [Mihu]
 
-În a doua parte a anilor '80 întreprinderea a fost condusă de director Florea Tănase, ing. şef Tudorel Domocoș și director tehnic Traian Mihu.
+În a doua parte a anilor '80 fabrica a fost condusă de director Florea Tănase, ing. şef Tudorel Domocoș și director tehnic Traian Mihu.
 
 În perioada 1984-1987 a fost fabricat și **FELIX C-1024**, după un proiect ITC, şi **FELIX C-5000**, proiectat în fabrică şi din care s-au fabricat până în 1989 cam 10-15 bucăţi.
 
