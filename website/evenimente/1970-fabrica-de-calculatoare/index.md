@@ -1,8 +1,8 @@
 ---
 slug: 1970/fabrica-de-calculatoare
-title: 'Este înființată „Fabrica de Calculatoare Electronice” (ICE FELIX)'
+title: 'Este înființată „Fabrica de Calculatoare Electronice” (FCE, ulterior ICE FELIX)'
 authors: [tdmihu, mcostin, ilg-ul]
-tags: [ice, felix]
+tags: [intreprinderi, ice, felix]
 
 date: 2024-02-16T08:29:31
 
@@ -13,7 +13,7 @@ event_date: '1970'
 import { imagesLinks } from './images-links.tsx'
 import { ImagesTable } from '@site/src/components/ImagesTable';
 
-În anul 1970, prin HCM 532/1970, este înființată „Fabrica de Calculatoare Electronice București”, ulterior cunoscută și ca „ICE FELIX”.
+În anul 1970, prin HCM 532/1970, este înființată **Fabrica de Calculatoare Electronice București**, ulterior cunoscută și ca **ICE FELIX**.
 
 <!-- truncate -->
 
@@ -32,7 +32,7 @@ care se ocupa de documentaţia de la licenţa IRIS 50“. [Mihu]
 
 Inițial producția de mașini de facturat și contabilizat FC15 și calculatoare CE30/32 sub licență Frieden (Olanda) precum și pregătirea producției pentru FELIX C-256 s-au făcut la FEA.
 
-> „La atelierul CE32 se produceau mici echipamente de calcul cu 4 operaţii, după licenţă olandeză. Aveau o memorie magnetostrictivă: o sârmă în formă de melc pusă într-o cutie şi care se comporta ca o linie de întârziere. Pe mine m-au pus să depanez aşa numitele plăci BC, de format A4, dispuse în pereche, cu strapuri de legătură, care aveau 4 bistabili pe o placă şi alţi 4 bistabili pe cealaltă placă, exact cum le desena pe tablă la curs profesorul Mircea Petrescu. La fel erau aşezate pe aceste plăci rezistenţele, tranzistorii, exact ca în desenele domnului profesor. Am reparat la aceste plăci cam o lună de zile, teribil de plictisitor“. [Mihu]
+> „La atelierul CE32 se produceau mici echipamente de calcul cu 4 operaţii, după o licenţă olandeză. Aveau o memorie magnetostrictivă: o sârmă în formă de melc pusă într-o cutie şi care se comporta ca o linie de întârziere. Pe mine m-au pus să depanez aşa numitele plăci BC, de format A4, dispuse în pereche, cu strapuri de legătură, care aveau 4 bistabili pe o placă şi alţi 4 bistabili pe cealaltă placă, exact cum le desena pe tablă la curs profesorul Mircea Petrescu. La fel erau aşezate pe aceste plăci rezistenţele, tranzistorii, exact ca în desenele domnului profesor. Am reparat la aceste plăci cam o lună de zile, teribil de plictisitor“. [Mihu]
 
 În luna septembrie 1970 primele două calculatoare IRIS au sosit din Franţa, ambalate în nişte cutii mari, şi au fost depozitate la FEA în fundul halei de asamblare.
 
@@ -43,6 +43,9 @@ Echipa care a primit sarcina să pună în funcţiune cele două calculatoare IR
 În 1970, La Expoziția Realizărilor Economiei Naționale (EREN) s-a prezentat
 și calculatorul FELIX C-256, într-un stand amenajat chiar în mijlocul
 pavilionului central, calculatorul fiind vedeta expoziției. [Baltac]
+
+În 1971 a început colaborarea cu Japonia pentru fabricarea calculatoarelor de
+buzunar C 815.
 
 Noul sediu al Fabricii de Calculatoare a fost pus în funcţiune la 1 ianuarie 1972 și inițial fabrica a fost condusă de director Radu Dordea.
 
@@ -68,6 +71,8 @@ România și China, școlarizări pentru personalul din China care exploata
 sistemele. Instruirea s-a făcut de către specialiști din ITC și
 din ICE. [L.Nica]
 
+În 1977 a început fabricaţia de concentratoare CD80 (dezvoltare proprie).
+
 După 1977 au intrat în fabricație minicalculatoarele din familia **INDEPENDENT** I100, I102, I102F, I106, proiectate de ITC și familia de minicalculatoare **CORAL** 4011, CORAL 4021, CORAL 4030, proiectată de un colectiv condus de Dan Tonceanu.
 
 ## Anii '80
@@ -76,11 +81,13 @@ După 1981 fabrica a parcurs o perioadă dificilă, în care importurile de oric
 
 > „Era o situaţie inadmisibilă, la noi la poarta fabricii era zidul plângerii!” [Mihu]
 
+În 1980 a început fabricaţia de terminale VDT-40 (dezvoltare proprie).
+
+În 1983 a început fabricaţia calculatoarelor de proces SPOT (dezvoltare proprie).
+
 În a doua parte a anilor '80 fabrica a fost condusă de director Florea Tănase, ing. şef Tudorel Domocoș și director tehnic Traian Mihu.
 
-În perioada 1984-1987 a fost fabricat și **FELIX C-1024**, după un proiect ITC, şi **FELIX C-5000**, proiectat în fabrică şi din care s-au fabricat până în 1989 cam 10-15 bucăţi.
-
-Un alt proiect deosebit al fabricii a fost **CORAL–VAX**, finalizat în perioada 1988–1989.
+În perioada 1984-1987 a fost fabricat și **FELIX C-1024**, după un proiect ITC, şi **FELIX C-5000**, proiectat în fabrică şi din care s-au fabricat până în 1989 cca 15 bucăţi.
 
 Microcalculatoarele bazate pe microprocesoare au intrat rând pe rând în fabricație printr-o strânsă colaborare cu Institutul Politehnic București. S-au produs microcalculatoarele **MC8**, **M18**, **M18B**, **M118**.
 
@@ -90,11 +97,37 @@ Din 1984, la iniţiativa Catedrei de calculatoare din Politehnică, a fost produ
 
 Ulterior au fost produse calculatoarele HC88, HC 90, HC 91, HC 2000 proiectate de un colectiv din Fabrica de Calculatoare.
 
+În 1986 a început fabricaţia de microcalculatore CUB-Z şi terminalele VDT-52
+(dezvoltare proprie).
+
+În 1987 a început fabricaţia de
+terminale VDT-132, VDT-125 (dezvoltare proprie).
+
+Un alt proiect deosebit al fabricii a fost **CORAL 8730**, compatibil DEC VAX, finalizat în perioada 1988–1989.
+
 Ulterior, a fost produs calculatorul **FELIX PC** compatibil cu IBM.
 
 La sfârșitul anilor 80, în ICE lucrau cca. 700 de ingineri din toate specialităţile.
 
-Echipamentele produse in ICE au fost exportate in zona economica CAER (URSS, RDG, Ungaria, Cehoslovacia), în China, Franța, Irak și alte țări.
+Echipamentele produse in ICE au fost exportate in zona economica CAER (URSS, RDG, Ungaria, Cehoslovacia), în China, Franța, Irak, Siria, etc.
+
+Astfel, în China, în perioada 1974–1984, au fost exportate 3 calculatoare C-256 şi 8
+calculatoare C-512, plus 40 de minisisteme I100. S-au exportat 5000 de terminale
+VDT-40 în Cehoslovacia şi sute de maşini de contabilizat în Polonia şi Republica
+Democrată Germană.
+
+În anii 1980 România era al doilea producător de sisteme electronice de calcul
+din blocul comunist, după URSS, şi pregătea specialiști în programare şi
+mentenanță, pentru Asia.
+
+În anul
+1989 – cel mai reprezentativ – ICE Felix a avut 2592 de salariaţi, din care 547 cu
+studii superioare şi a realizat Maşini de facturat şi contabilizat (FC 15, 16, 128, 1000)
+= 21000 buc. Calculatoare de birou = 255.000; Calculatoare Felix (C-32, C-256, C-512,
+C-1024) = 650 buc (toate pe licenţă CII – Franţa), Microcalculatoare
+(MB 18, 118, 216) = 52.000, Minicalculatoare (I 100, Coral 4001, 8730) = 4500,
+Terminale şi monitoare = 40000, Calculatoare de proces SPOT = 700, Calculatoare
+Felix 5000 = 15.
 
 ## Alte produse
 
@@ -110,6 +143,9 @@ Prin anii '93-94 Fabrica de Calculatoare a participat, în asociere cu un parten
 cu o valoare de 32 milioane USD. Proiectul a fost finalizat prin '98, când
 sistemul informatic a preluat complet evidenţa populaţiei.
 
+În final, a primat interesul imobiliar, fabrica
+deţinând un teren de cca 20.000 mp.
+
 În martie 2008, compania a vândut mai multe terenuri și construcțiile aferente, deținute în zona Pipera din București, pentru 6 milioane euro.
 
 ## Imagini
@@ -122,6 +158,12 @@ Ultimele imaginii cu fabrica sunt din [mai 2016](https://bucurestiulmeudrag.ro/f
 
 - Florin G. Filip (coordonator): **Ştiinţa şi tehnologia informaţiei în România** ([acad.ro](https://acad.ro/bdar/STI/sti.html), arhivat [local](https://cronica-it.github.io/arhiva/#2018))
 - [Traian (Dorin) Mihu - Fabrica de Calculatoare](/amintiri/2008/tdmihu-aminitiri-fabrica-de-calculatoare)
+- INDIE ICPE-CA: _**Revista de istorie a electrotehnicii românești**_, Vol. 5, Nr. 1-2 (arhivat [local](https://cronica-it.github.io/arhiva/#2019))
 - [ro.wikipedia.org - ICE FELIX](https://ro.wikipedia.org/wiki/ICE_Felix)
 - [ICE FELIX vinde active în Pipera](/evenimente/2008/ice-felix-vinde-active-in-pipera/)
 - [ICE FELIX cere insolvența](/evenimente/2018/ice-felix-cerere-insolventa/)
+
+În INDIE ICPE-CA, Revista de istorie a electrotehnicii românești, Vol. 5, Nr. 1-2, la pagina 82, apare următoarea notă:
+
+> ICE Felix Fabrica de Calculatoare Electronice este descrisă în vol III al seriei Electronica
+românească O istorie trăită, coordonator Ion Miu, Ed. AGIR 2013, cap III, pag. 59-96.
