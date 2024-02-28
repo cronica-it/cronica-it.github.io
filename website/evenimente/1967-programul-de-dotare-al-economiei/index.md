@@ -3,7 +3,7 @@ slug: 1967/programul-de-dotare-al-economiei
 title: 'Este aprobat „Programul de dotare a economiei naționale cu echipamente
 moderne de calcul și de automatizare a prelucrării datelor”'
 authors: [ilg-ul]
-tags: []
+tags: [legislatie]
 
 date: 2024-02-26T22:26:09
 
