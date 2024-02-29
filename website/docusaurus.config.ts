@@ -178,7 +178,7 @@ const config: Config = {
       {
         // fromExtensions: ['html', 'htm'], // /myPage.html -> /myPage
         // toExtensions: ['exe', 'zip'], // /myAsset -> /myAsset.zip (if latter exists)
-        // redirects: [
+        redirects: [
         //   // /docs/oldDoc -> /docs/newDoc
         //   {
         //     to: '/docs/newDoc',
@@ -189,7 +189,11 @@ const config: Config = {
         //     to: '/docs/newDoc2',
         //     from: ['/docs/oldDocFrom2019', '/docs/legacyDocFrom2016'],
         //   },
-        // ],
+        {
+          to: '/evenimente/1906/telegraf-radio-romania',
+          from: ['/evenimente/1903/telegraf-radio-ro'],
+        },
+      ],
         // createRedirects(existingPath) {
         //   // logger.info(existingPath);
         //   if (existingPath.includes('/evenimente')) {
