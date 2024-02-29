@@ -30,4 +30,4 @@ renunţat, din anul 2000, la proflul de electronică din producţia sa.
 ## Referințe
 
 - INDIE ICPE-CA: _**Revista de istorie a electrotehnicii românești**_, Vol. 5, Nr. 1-2 (arhivat [local](https://cronica-it.github.io/arhiva/#2019))
-
+- [ro.wikipedia.org - Uzinele Electronica](https://ro.wikipedia.org/wiki/Uzinele_Electronica)
