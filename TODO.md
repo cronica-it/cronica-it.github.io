@@ -107,6 +107,17 @@ am un lb881
 
 https://groups.google.com/g/romanianhomecomputer/c/nwcrcpUFxsc/m/_hMDGeHGCAAJ
 
+AGIR
+
+Electronica românească, o istorie trăită
+
+- [Vol. 3 - 2013 - Tehnica de calcul](https://www.edituraagir.ro/carte+electronica_romaneasca_o_istorie_traita_vol_3_131.html) si https://www.edituraagir.ro/detalii.php?id=131
+- https://www.edituraagir.ro/carte+electronica_rom__neasc___o_istorie_tr__it___vol_iv_458.html
+- https://www.agir.ro/carte/electronica-romaneasca-o-istorie-traita-vol5-componente-electronice-partea-i-123970.html
+- https://www.agir.ro/carte/electronica-romaneasca-o-istorie-traita-vol5-componente-electronice-partea-a-ii-a-domenii-conexe-dvd-inclus-123988.html
+
+- [2021 - rezumat academie](https://www.agir.ro/carte/un-secol-de-electronica-in-romania-123911.html)
+
 Străine:
 
 - http://dunfield.classiccmp.org/
