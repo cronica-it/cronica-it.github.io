@@ -1,8 +1,8 @@
 ---
 slug: 1927/societatea-anonima-philips
-title: 'Este înființată „Societatea Anonimă Philips”'
+title: 'În București este înființată „Societatea Anonimă Philips”'
 authors: [nmillea]
-tags: [intreprinderi]
+tags: [intreprinderi, electronica]
 
 date: 2024-02-28T21:30:20
 

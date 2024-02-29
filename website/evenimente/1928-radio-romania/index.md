@@ -1,8 +1,8 @@
 ---
 slug: 1928/radio-romania
 title: '„Societatea de Difuziune Radiotelefonică” difuzează prima emisiune radio publică din România'
-authors: [ilg-ul]
-tags: [radio]
+authors: [nmillea, ilg-ul]
+tags: [comunicatii, radio]
 
 date: 2023-12-17T09:40:24
 
@@ -38,6 +38,26 @@ Prima emisiune a avut următorul program:
     - Solistă Băicoianu - canto
     - Buletin meteorologic, știri sportive
     - Quintet radio (Johan Strauss, din operele lui)
+
+În Cuvântul de deschidere,
+preşedintele Consiliului de Administraţie, profesorul Dragomir Hurmuzescu, a
+subliniat rolul deosebit al radioului „pentru răspândirea culturii şi pentru unificarea
+sufletelor, căci se poate adresa la o lume întreagă”.
+
+Staţia de emisie folosită atunci a fost un emiţător mic care transmitea pe frecvenţa
+de 736 kHz, avea o putere de 150 W şi era instalat în sediul din str. Berthelot. Mai
+târziu, în iulie 1930, va fi înlocuit cu un emiţător de la compania Marconi Wireless
+Telegraph plasat la Băneasa şi care avea 12 kW. A fost recepţionat de ascultătorii
+din toată Europa. Din motive de relief, acest emiţător nu putea fi recepţionat bine în
+Transilvania, Banat, Basarabia şi Bucovina unde propaganda antiromânescă a
+posturilor maghiare şi sovietice era deosebit de susţinută. Din nevoia acoperirii
+întregului teritoriu s-a ajuns la amplasamentul Bod unde solul avea o conductivitate
+deosebit de favorabilă, însă era cam moale (mlăştinos). Cu multe dificultăţi s-au
+ridicat 2 piloni de 226 m, între care s-a întins antena de emisie. Proiectantul staţiei
+experimentale de la Bod pe unde lungi, a fost ing. Gh. Cartianu-Popescu - stagiar. A
+urmat montarea unui emiţător de 150 kW chiar în prezenţa lui Marconi. Emiţătorul
+era unul foarte puternic, depăşit în zonă doar de emiţătoarele din URSS. A funcţionat
+până în 1965. Mult timp el a fost etalonul de frecvenţă al României – 155 kHz.
 
 De-a lungul timpului, denumirea instituţiei a înregistrat
 numeroase modificări datorate evoluţiei radioului public,

@@ -1,8 +1,8 @@
 ---
 slug: 1960/uzinele-electronica
-title: 'Fabrica „Radio Popular” a devenit „Uzinele Electronica”'
+title: 'Fabrica „Radio Popular” devine „Uzinele Electronica”'
 authors: [nmillea]
-tags: [intreprinderi]
+tags: [intreprinderi, electronica]
 
 date: 2024-02-28T21:23:43
 

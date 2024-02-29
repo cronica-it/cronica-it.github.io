@@ -1,6 +1,6 @@
 ---
 slug: 1951/intreprinderea-electromagnetica
-title: 'Fabrica de telefoane „Vestitorul” a devenit „Întreprinderea de echipament electrotehnic” (Electromagnetica)'
+title: 'Fabrica de telefoane „Vestitorul” devine „Întreprinderea de echipament electrotehnic” (Electromagnetica)'
 authors: [nmillea]
 tags: [intreprinderi]
 

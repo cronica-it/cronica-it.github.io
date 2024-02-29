@@ -33,6 +33,12 @@ a circuitului. Când Bell a rostit fraza „Mr. Watson — Come here —
 I want to see you” în transmițătorul lichid, Watson, ascultând
 la capătul receptor într-o cameră alăturată, a auzit cuvintele clar.
 
+În decurs de un an se instalează
+prima linie telefonică între Somerville şi Boston.
+
+Este considerat anul de naştere al
+telefoniei, numit iniţial telegraful vorbitor.
+
 ## Referințe
 
 - [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
