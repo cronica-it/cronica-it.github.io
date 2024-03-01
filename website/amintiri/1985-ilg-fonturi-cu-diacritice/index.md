@@ -56,4 +56,4 @@ Cand am aflat asta, eu, care aveam o imprimantă Robotronic de la CCAB, și o fo
 
 ## Referințe
 
-- none
+- [Lixco L/B-881](/evenimente/1983/calculatorul-lixco-lb-881/)
