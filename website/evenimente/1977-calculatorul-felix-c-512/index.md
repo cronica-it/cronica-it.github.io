@@ -37,4 +37,4 @@ Producția a început în 1977, și a continuat 6 ani.
 
 ## Referințe
 
-- [Vasile Baltac: Institutul de Tehnică de Calcul (ITC)](https://www.agir.ro/carte/un-institut-pentru-istorie-semicentenarul-institutului-pentru-tehnica-de-calcul-1968-2018-123155.html) (arhivat [local](https://cronica-it.github.io/arhiva/#2018))
+- [Vasile Baltac: Cartea „Un Institut pentru istorie - Semicentenarul Institutului pentru Tehnică de Calcul (1968-2018)”](/amintiri/2018/vbaltac-itc50ani/) (arhivat [local](https://cronica-it.github.io/arhiva/#2018))
