@@ -163,4 +163,4 @@ Oh… iată-mă la sfârșitul acestor gânduri, pentru mine de o valoare inesti
 
 ## Referințe
 
-- [Lucian Nica: Institutul de Tehnică de Calcul (ITC)](https://www.agir.ro/carte/un-institut-pentru-istorie-semicentenarul-institutului-pentru-tehnica-de-calcul-1968-2018-123155.html)
+- [Lucian Nica: Institutul de Tehnică de Calcul (ITC)](https://www.agir.ro/carte/un-institut-pentru-istorie-semicentenarul-institutului-pentru-tehnica-de-calcul-1968-2018-123155.html) (arhivat [local](https://cronica-it.github.io/arhiva/#2018))

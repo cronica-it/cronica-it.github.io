@@ -59,4 +59,4 @@ echipei motivele reale ale acestei hotărâri, dar fiindu-i reproșată
 
 ## Referințe
 
-- [Lucian Nica: Institutul de Tehnică de Calcul (ITC)](https://www.agir.ro/carte/un-institut-pentru-istorie-semicentenarul-institutului-pentru-tehnica-de-calcul-1968-2018-123155.html)
+- [Lucian Nica: Institutul de Tehnică de Calcul (ITC)](https://www.agir.ro/carte/un-institut-pentru-istorie-semicentenarul-institutului-pentru-tehnica-de-calcul-1968-2018-123155.html)(arhivat [local](https://cronica-it.github.io/arhiva/#2018))

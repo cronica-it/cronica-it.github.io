@@ -65,4 +65,4 @@ Producția de serie a început în anul 1972.
 ## Referințe
 
 - [BOUCHER Henri: INFORMATIQUE NON AMERICAINE - Première partie](http://www.aconit.org/histoire/iga_boucher/pdf/Vol_E_700-745.pdf), pagina 195/333
-- [Vasile Baltac: Institutul de Tehnică de Calcul (ITC) – cronologie evenimente](https://www.agir.ro/carte/un-institut-pentru-istorie-semicentenarul-institutului-pentru-tehnica-de-calcul-1968-2018-123155.html)
+- [Vasile Baltac: Institutul de Tehnică de Calcul (ITC) – cronologie evenimente](https://www.agir.ro/carte/un-institut-pentru-istorie-semicentenarul-institutului-pentru-tehnica-de-calcul-1968-2018-123155.html) (arhivat [local](https://cronica-it.github.io/arhiva/#2018))
