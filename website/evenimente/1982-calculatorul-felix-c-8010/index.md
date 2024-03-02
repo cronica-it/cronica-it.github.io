@@ -21,16 +21,22 @@ revină la activitatea CAER în domeniul calculatoarelor. Din 1969,
 luând licența CII, nu eram compatibili cu lucrările SUMEC
 (Sistem Unic de Mașini Electronice de Calcul), care urmăreau
 dezvoltarea și producerea unor sisteme de calcul cu structura IBM,
-în cadrul țărilor membre CAER. Ca urmare, s-a considerat oportună
+în cadrul țărilor membre CAER.
+
+Ca urmare, s-a considerat oportună
 dezvoltarea în ITC a unui calculator tip IBM – cu structura hard
 tip IBM, care să ruleze instrucțiuni Felix, urmând ca ulterior
 să se implementeze și cele specifice IBM, lucru posibil
 datorită microprogramării.
 
-Folosind schemele de principiu ale structurii hard IBM, s-a început
-în 1977 proiectarea calculatorului FELIX C-8010. Modelul ales
-corespundea seriei IBM 370 (care s-a aflat în fabricație între 1970 și 1990),
-la nivel de capacitate medie.
+Astfel, folosind schemele de principiu ale structurii hard IBM, s-a început
+în 1977 elaborarea calculatorului Felix C-8010. Modelul ales corespundea
+seriei IBM 370 (care s-a aflat în fabricație între 1970 și 1990), la nivel de
+capacitate medie. Erau multe noutăți de structură și performanță față de
+Felix C512/1024: comanda microprogramată, memoria cache care creștea
+viteza de lucru, procesorul de autodiagnosticare, memoria internă cu
+semiconductoare, bloc de canale de intrare/ieșire pentru o configurație de
+periferice complexă etc.
 
 Prototipul FELIX C-8010 a fost realizat pe plăci experimentale, universale,
 cu cablaj wrapping, ceea ce permitea modificarea comodă a schemei, dar
@@ -53,9 +59,14 @@ La omologarea seriei zero, care a avut loc în decembrie 1984,
 s-a constatat că numai 76 (din totalul de 148) de
 plăci imprimate erau produse industrial, restul fiind încă plăci wrapate.
 
-În anul următor, 1985, lucrările au fost sistate, fără a se comunica
+> În anul următor, 1985, lucrările au fost sistate, fără a se comunica
 echipei motivele reale ale acestei hotărâri, dar fiindu-i reproșată
-întârzierea.
+întârzierea. S-a apreciat probabil că nu se mai poate admite încă o prelungire a elaborării
+pentru obținerea unui produs industrial, întrucât sistemul ar fi fost, încă de
+la începutul fabricației, uzat moral. [Nica]
+
+Era mult prea târziu pentru un mainframe, epoca
+minicalculatoarelor apunea și începuse epoca PC-urilor.
 
 ## Referințe
 

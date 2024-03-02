@@ -6,14 +6,14 @@ tags: [intreprinderi, ice, felix]
 
 date: 2024-02-16T08:29:31
 
-event_date: '1970'
+event_date: '1970-08'
 
 ---
 
 import { imagesLinks } from './images-links.tsx'
 import { ImagesTable } from '@site/src/components/ImagesTable';
 
-În anul 1970, prin HCM 532/1970, este înființată **Fabrica de Calculatoare Electronice București**, ulterior cunoscută și ca **ICE FELIX**.
+În anul 1970, prin HCM 532/1970, este înființată **Fabrica de Calculatoare Electronice București**, ulterior (după '74-'75) cunoscută și ca **ICE FELIX**.
 
 <!-- truncate -->
 
@@ -47,14 +47,19 @@ pavilionului central, calculatorul fiind vedeta expoziției. [Baltac]
 În 1971 a început colaborarea cu Japonia pentru fabricarea calculatoarelor de
 buzunar C 815.
 
+În 1971 a început activitatea de integrare/asimilare componente şi subansable din
+licenţă (circuite imprimate, repere mecanice).
+
 Noul sediu al Fabricii de Calculatoare a fost pus în funcţiune la 1 ianuarie 1972 și inițial fabrica a fost condusă de director Radu Dordea.
+
+În 1972, IPRS a livrat primele 10 tipuri de circuite integrate logice destinate calculatoarelor FELIX.
 
 > După cele două IRIS-uri, care veniseră gata asamblate din Franţa, au venit în următorii doi ani kit-uri complete ce se asamblau în fabrică, li se efectuau testele şi erau date în exploatare. Dar în timpul acesta s-a lucrat la integrare. ICE avea un serviciu tehnic a cărui principală sarcină era să integreze componentele şi subansamblele venite până atunci din Franţa. S-a început cu partea de construcţii metalice, mase plastice şi, treptat, s-a trecut şi la integrarea, asimilarea şi fabricarea unor componente electronice. Între timp, IPRS-ul luase licenţa de TTL-uri; s-au mai luat nişte licenţe pentru diode, tranzistoare, apoi condensatoarele şi rezistenţele au început să vină de la fabrica de la Curtea de Argeş. De asemenea, industria românească a început să producă modulele de memorii (la Timişoara); treptat s-au asimilat transformatoarele de la sursele de alimentare, şamd. Această integrare însemna studierea şi prelucrarea în amănunt a documentaţiei componentelor respective şi găsirea unui partener din industria orizontală capabil să le producă. Uneori, pentru unele componente, subfurnizorii francezi au rămas singura variantă tehnic posibilă, atunci când ele nu puteau fi fabricate în ţară, ceea ce a prilejuit multe delegaţii în Franţa. Aceste integrări au însemnat scăderi spectaculoase ale costului calculatoarelor. Au fost ani în care mergeam de 10-12 ori pe an la subfurnizorii francezi, ca să cumpărăm componente direct de la ei sau să învăţăm să le facem noi. În final, cam după cinci ani, IRIS 50 ajunsese să fie integrat cca 90%. [Mihu]
 
 Producția a început cu calculatorul **FELIX C-256**, primul calculator din familia IRIS al firmei CII. Capacitatea de producție era de cca. 35 de unităţi FELIX C-256 pe an. [Mihu]
 
 Apoi a intrat în fabricaţie **FELIX C-32**, cu o capacitate de memorie mai mică (32kB). Mai târziu a intrat în producție și **FELIX C-64**. Au fost produse și
-variantele M (mobile) 32M/64M.
+variantele M (mobile) 32M/64M, cu utilizări militare.
 
 În 1977 a început producția sistemelor **FELIX C-512** (cu 512kB de memorie), după un proiect realizat
 la ITC.
@@ -73,11 +78,11 @@ din ICE. [L.Nica]
 
 În 1977 a început fabricaţia de concentratoare CD80 (dezvoltare proprie).
 
-După 1977 au intrat în fabricație minicalculatoarele din familia **INDEPENDENT** I100, I102, I102F, I106, proiectate de ITC și familia de minicalculatoare **CORAL** 4011, CORAL 4021, CORAL 4030, proiectată de un colectiv condus de Dan Tonceanu.
+După 1977 au intrat în fabricație minicalculatoarele din familia **INDEPENDENT** I100, I102, I102F, I106, proiectate de ITC și familia de minicalculatoare **CORAL** 4011, CORAL 4021, CORAL 4030, proiectată la FCE de un colectiv condus de Dan Tonceanu.
 
 ## Anii '80
 
-După 1981 fabrica a parcurs o perioadă dificilă, în care importurile de orice fel au fost tăiate. Din cauza resurselor materiale limitate, a reducerii drastice a importurilor, capacitatea de producţie nu era exploatată decât parţial. Calculatoarele se dădeau pe bază de repartiţie, cu aprobări speciale, şi se aştepta cu anii, pentru că producţia era limitată de importurile la câteva componente.
+După 1981 fabrica a parcurs o perioadă dificilă. Din cauza resurselor materiale limitate, a reducerii drastice a importurilor, capacitatea de producţie nu era exploatată decât parţial. Calculatoarele se dădeau pe bază de repartiţie, cu aprobări speciale, şi se aştepta cu anii, pentru că producţia era limitată de importurile la câteva componente.
 
 > „Era o situaţie inadmisibilă, la noi la poarta fabricii era zidul plângerii!” [Mihu]
 
@@ -91,7 +96,10 @@ După 1981 fabrica a parcurs o perioadă dificilă, în care importurile de oric
 
 Microcalculatoarele bazate pe microprocesoare au intrat rând pe rând în fabricație printr-o strânsă colaborare cu Institutul Politehnic București. S-au produs microcalculatoarele **MC8**, **M18**, **M18B**, **M118**.
 
-Din 1984, la iniţiativa Catedrei de calculatoare din Politehnică, a fost produs calculatorul personal **HC85**.
+Din 1984 a fost produs calculatorul **FELIX PC** compatibil cu IBM, proiectat la
+Politehnică.
+
+Tot din 1984, la iniţiativa Catedrei de calculatoare din Politehnică, a fost produs calculatorul personal **HC85**.
 
 > Pentru HC85 m-am luptat să aibă un preţ cât mai accesibil (pentru că ni se impunea şi erau prestabilite prin plan atât cifra de afaceri, cât şi profitul fabricii). Astfel, am reuşit să aduc preţul unui HC85 de la 40.000 lei (cât era planul iniţial) la 12.000 lei. Datorită preţului competitiv, HC85 a putut fi folosit pe scară largă de elevi şi studenţi pentru iniţiere în calculatoare şi pentru realizarea a tot felul de programe aplicative. [Mihu]
 
@@ -104,8 +112,6 @@ Ulterior au fost produse calculatoarele HC88, HC 90, HC 91, HC 2000 proiectate d
 terminale VDT-132, VDT-125 (dezvoltare proprie).
 
 Un alt proiect deosebit al fabricii a fost **CORAL 8730**, compatibil DEC VAX, finalizat în perioada 1988–1989.
-
-Ulterior, a fost produs calculatorul **FELIX PC** compatibil cu IBM.
 
 La sfârșitul anilor 80, în ICE lucrau cca. 700 de ingineri din toate specialităţile.
 
@@ -122,12 +128,16 @@ mentenanță, pentru Asia.
 
 În anul
 1989 – cel mai reprezentativ – ICE Felix a avut 2592 de salariaţi, din care 547 cu
-studii superioare şi a realizat Maşini de facturat şi contabilizat (FC 15, 16, 128, 1000)
-= 21000 buc. Calculatoare de birou = 255.000; Calculatoare Felix (C-32, C-256, C-512,
-C-1024) = 650 buc (toate pe licenţă CII – Franţa), Microcalculatoare
-(MB 18, 118, 216) = 52.000, Minicalculatoare (I 100, Coral 4001, 8730) = 4500,
-Terminale şi monitoare = 40000, Calculatoare de proces SPOT = 700, Calculatoare
-Felix 5000 = 15.
+studii superioare şi a realizat
+
+- Maşini de facturat şi contabilizat (FC 15, 16, 128, 1000) = 21000 buc,
+- Calculatoare de birou = 255.000,
+- Calculatoare Felix (C-32, C-256, C-512, C-1024) = 650 buc (toate pe licenţă CII – Franţa),
+- Microcalculatoare (MB 18, 118, 216) = 52.000,
+- Minicalculatoare (I 100, Coral 4001, 8730) = 4500,
+- Terminale şi monitoare = 40000,
+- Calculatoare de proces SPOT = 700,
+- Calculatoare Felix 5000 = 15.
 
 ## Alte produse
 

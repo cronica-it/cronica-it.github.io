@@ -1,6 +1,6 @@
 ---
 slug: 1972/calculatorul-felix-c-256
-title: 'La București începe producția de serie a calculatorului „FELIX C-256”'
+title: 'La FCE începe producția de serie a calculatorului „FELIX C-256”'
 authors: [ilg-ul]
 tags: [calculatoare, felix, ice]
 
@@ -17,12 +17,16 @@ Fabrica de Calculatoare Electronice din București,
 <!-- truncate -->
 
 În anul 1971, întreprinderea este aproape gata și primește numele
-„Întreprinderea de Calculatoare Electronice FELIX” - ICE F. „Felix e un nume
+„Întreprinderea de Calculatoare Electronice FELIX” - ICE FELIX.
+
+> „Felix e un nume
 care a fost dat pentru a aminti de Dacia Felix. Dacia a rămas pentru automobile
-și Felix pentru calculatoare” (Vasile Baltac).
+și Felix pentru calculatoare” [Vasile Baltac].
 
 Familia de calculatoare FELIX C-nnn (unde n reprezenta numărul de
-KB de memorie RAM) a fost produs cu: 32, 128, 256, 512, 1024 KB.
+KB de memorie RAM) a fost produs cu: 32, 64, 256, 512, 1024 KB.
+
+Tehnologia era cea mai avansată de atunci, cu TTL-uri, cu cablaje dublă faţă cu găuri metalizate, wrapping.
 
 Unitatea aritmetică și logică (ALU) putea executa operații cu
 numere întregi cu și fără semn, cu numere în virgulă mobilă simplă

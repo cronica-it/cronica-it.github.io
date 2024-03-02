@@ -1,25 +1,28 @@
 ---
-slug: 1979/calculatorul-coral
-title: 'ICE FELIX lansează calculatorul „Coral”'
+slug: 1978/calculatorul-coral
+title: 'La ICE FELIX începe producția minicalculatorului „Coral”'
 authors: [ilg-ul]
 tags: [calculatoare, ice]
 
 date: 2023-11-07T08:29
 
-event_date: '1979'
+event_date: '1978'
 
 ---
 
-În anul 1979, la ICE FELIX, este lansată familia de minicalculatoare **Coral**.
+În anul 1978, la ICE FELIX, este lansată familia de minicalculatoare **Coral**.
 
 <!-- truncate -->
 
-Coral a fost o familie de mincalculatoare românești realizată la
+Coral a fost o familie de minicalculatoare românești realizată la
 Fabrica de Calculatoare București sub conducerea inginerului
 Dan Romulus Tonceanu. Calculatorul Coral a implementat arhitectura
 PDP-11 folosind tehnologia bit-slice de la AMDslice de la AMD.
 
-Familia Coral este compusă din modelele: 4001, 4011, 4021 si 4030.
+A folosit circuite integrate mai noi și circuite imprimate multistrat,
+care au permis reducerea dimensiunilor.
+
+Familia Coral a fost compusă din modelele: 4001, 4011, 4021 si 4030.
 
 Minicalculatoarele Coral rulau o variantă a sistemului de operare RSX-11M.
 
