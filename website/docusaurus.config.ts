@@ -193,6 +193,10 @@ const config: Config = {
           to: '/evenimente/1906/telegraf-radio-romania',
           from: ['/evenimente/1903/telegraf-radio-ro'],
         },
+        {
+          to: '/evenimente/1978/calculatorul-coral',
+          from: ['/evenimente/1979/calculatorul-coral'],
+        },
       ],
         // createRedirects(existingPath) {
         //   // logger.info(existingPath);
