@@ -10,7 +10,7 @@ event_date: '1947-09-09'
 
 ---
 
-În 9 septembrie 1947, în log-ul calculatorului Mark II, este consemnat primul
+În data de 9 septembrie 1947, în log-ul calculatorului Mark II, este consemnat primul
 **bug**.
 
 <!-- truncate -->

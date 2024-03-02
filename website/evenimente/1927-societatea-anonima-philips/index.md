@@ -10,7 +10,7 @@ event_date: '1927'
 
 ---
 
-În anul 1927 se înregistrează prima firmă de profil Societatea Anonimă Română – S.A.R
+În anul 1927 este înregistrată prima firmă de profil Societatea Anonimă Română – S.A.R
 Orion, şi două zile mai târziu se înregistrează firma Societatea Anonimă
 Română – S.A.R **Philips**.
 

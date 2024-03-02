@@ -10,7 +10,7 @@ event_date: '2023-10-25'
 
 ---
 
-În 25 octombrie 2023, Asociația Națională a Internet Service Providerilor
+În data de 25 octombrie 2023, Asociația Națională a Internet Service Providerilor
 din România (ANISP) organizează **Romanian Internet Technologies Event (RITE)**,
 un eveniment menit să faciliteze interacțiunea între furnizorii de servicii
 de Internet, dezvoltatorii de conținut pentru Internet și diferiți utilizatori

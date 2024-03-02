@@ -10,7 +10,7 @@ event_date: '1945'
 
 ---
 
-În octombrie 1945, Arthur Charles Clarke publică în Wireless World un articol
+În luna octombrie 1945, Arthur Charles Clarke publică în Wireless World un articol
 în care propune folosirea sateliților geostaționari ca relee pentru
 telecomunicații.
 

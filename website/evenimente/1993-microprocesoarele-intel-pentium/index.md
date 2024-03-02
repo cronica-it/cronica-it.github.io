@@ -10,7 +10,7 @@ event_date: '1993-03-22'
 
 ---
 
-În 22 martie 1993, firma Intel anunță familia de microprocesoare de 64 biți **Pentium**.
+În data de 22 martie 1993, firma Intel anunță familia de microprocesoare de 64 biți **Pentium**.
 
 <!-- truncate -->
 

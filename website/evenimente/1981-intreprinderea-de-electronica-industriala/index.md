@@ -10,7 +10,7 @@ event_date: '1981'
 
 ---
 
-În 1981, prin decretul 254/1981, Uzinele Electronica se despart în două unităţi, noile unităţi
+În anul 1981, prin decretul 254/1981, Uzinele Electronica se despart în două unităţi, noile unităţi
 pierzând rangul de “uzină”.
 
 <!-- truncate -->

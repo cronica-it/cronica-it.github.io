@@ -10,7 +10,7 @@ event_date: '1962-07-10'
 
 ---
 
-În 10 iulie 1962, NASA lansează satelitul Telstar 1, care a permis
+În data de 10 iulie 1962, NASA lansează satelitul Telstar 1, care a permis
 prima difuzare în direct a imaginilor de televiziune între Statele
 Unite și Europa.
 

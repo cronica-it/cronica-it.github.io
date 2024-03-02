@@ -10,7 +10,7 @@ event_date: '1960-01-08'
 
 ---
 
-În 8 ianuarie 1960, comitetul CODASYL aprobă primele specificații ale limbajului
+În data de 8 ianuarie 1960, comitetul CODASYL aprobă primele specificații ale limbajului
 de programare **COBOL 60**.
 
 <!-- truncate -->

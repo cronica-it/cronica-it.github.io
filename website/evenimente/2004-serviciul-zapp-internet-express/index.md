@@ -10,7 +10,7 @@ event_date: '2004-10-27'
 
 ---
 
-În 27 octombrie 2004, firma Zapp lansează primul serviciu de comunicații mobile
+În data de 27 octombrie 2004, firma Zapp lansează primul serviciu de comunicații mobile
 în bandă largă la nivel național în România.
 
 <!-- truncate -->

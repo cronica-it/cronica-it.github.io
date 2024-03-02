@@ -22,7 +22,7 @@ București, Alexandru Rotaru a contribuit un articol intitulat
 
 ---
 
-În martie 1992 am fondat asociația GURU – Grupul Utilizatorilor Români de Unix.
+În luna martie 1992 am fondat asociația GURU – Grupul Utilizatorilor Români de Unix.
 Am fost la început cel mult 20 de membrii fondatori, iar după un an, în octombrie 1992, aveam peste 100 membrii înscriși.
 
 Noi atunci am plecat în primul rând de la situația noastră ca profesioniști proveniți din colective de cercetare și care eram forțați atunci, la începutul anilor 90, din motive materiale, să lucrăm aplicații triviale (programe de contabilitate, personal, gestiune s.a..) Al doilea punct de plecare a fost lipsa de aplicații software din România, cam pentru orice domeniu, în condițiile în care nu existau bani pentru cumpărarea unor programe cu licența, pentru platforme standard de tip IBM PC sau pentru stații de lucru cu procesoare RISC. Toate aplicațiile vechi, erau fie dezvoltate sub RSX-11M pe minicalculatoare sau pe microcalculatoare sub CP/M, ISIS II, SFDX. Aplicațiile existente nu rulau pe IBM PC sau pe alte platforme hardware din acea perioadă.

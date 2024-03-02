@@ -10,7 +10,7 @@ event_date: '1958-09-12'
 
 ---
 
-În 12 septembrie 1958, la Texas Instruments, Jack Kilby demonstrează **primul
+În data de 12 septembrie 1958, la Texas Instruments, Jack Kilby demonstrează **primul
 circuit integrat**.
 
 <!-- truncate -->

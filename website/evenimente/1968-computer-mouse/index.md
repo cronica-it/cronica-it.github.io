@@ -10,7 +10,7 @@ event_date: '1968'
 
 ---
 
-În 1968, la Institutul de Cercetari Stanford, Doug Engelbart demonstrează primul mouse.
+În anul 1968, la Institutul de Cercetari Stanford, Doug Engelbart demonstrează primul mouse.
 
 <!-- truncate -->
 

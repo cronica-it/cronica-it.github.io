@@ -10,7 +10,7 @@ event_date: '1984-08-14'
 
 ---
 
-În 14 august 1984, firma IBM lansează calculatorul personal **IBM PC AT**.
+În data de 14 august 1984, firma IBM lansează calculatorul personal **IBM PC AT**.
 
 <!-- truncate -->
 

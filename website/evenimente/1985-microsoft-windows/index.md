@@ -10,7 +10,7 @@ event_date: '1985-11-20'
 
 ---
 
-În 20 noiembrie 1985, firma Microsoft lansează sistemul de operare **Windows 1.0**.
+În data de 20 noiembrie 1985, firma Microsoft lansează sistemul de operare **Windows 1.0**.
 
 <!-- truncate -->
 

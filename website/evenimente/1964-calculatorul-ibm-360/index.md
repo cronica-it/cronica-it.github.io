@@ -10,7 +10,7 @@ event_date: '1964-04-07'
 
 ---
 
-În 7 aprilie 1964, firma IBM anunță **IBM System/360 (S/360)**, o familie de
+În data de 7 aprilie 1964, firma IBM anunță **IBM System/360 (S/360)**, o familie de
 calculatoare mainframe care au fost produse între 1965 și 1978.
 
 <!-- truncate -->

@@ -10,7 +10,7 @@ event_date: '1907-07-18'
 
 ---
 
-În 18 iulie 1907, Lee de Forest transmite prin radio primele
+În data de 18 iulie 1907, Lee de Forest transmite prin radio primele
 mesaje în fonie de la o navă aflată pe lacul Erie, către
 o stație de pe țărm.
 

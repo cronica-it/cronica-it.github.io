@@ -10,7 +10,7 @@ event_date: '1997'
 
 ---
 
-În 1997, conexiunea internațională a rețelei RoEduNet este
+În anul 1997, conexiunea internațională a rețelei RoEduNet este
 crescută la 1,5 Mbps, conexiune satelit prin TaideNet.
 
 <!-- truncate -->

@@ -10,7 +10,7 @@ event_date: '1953-11'
 
 ---
 
-În noiembrie 1953, John Warner Backus, propune șefilor de la IBM un prim draft
+În luna noiembrie 1953, John Warner Backus propune șefilor de la IBM un prim draft
 pentru **The IBM Mathematical Formula Translating System**, care va fi
 ulterior cunoscut sub numele de **FORTRAN**.
 

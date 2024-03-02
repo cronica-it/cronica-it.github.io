@@ -10,7 +10,7 @@ event_date: '1965-03-22'
 
 ---
 
-În 22 martie 1965, Digital Equipment Corporation (DEC) anunță familia
+În data de 22 martie 1965, Digital Equipment Corporation (DEC) anunță familia
 de minicalculatoare pe 12 biți, **PDP-8**, care va înregistra un important
 succes comercial, cu peste 50.000 de unități vândute.
 

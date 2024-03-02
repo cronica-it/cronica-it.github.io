@@ -10,7 +10,7 @@ event_date: '1955'
 
 ---
 
-În 1955 este instalată prima staţie de emisie de TV care acoperea Bucureştiul şi
+În anul 1955 este instalată prima staţie de emisie de TV care acoperea Bucureştiul şi
 zonele limitrofe.
 
 <!-- truncate -->

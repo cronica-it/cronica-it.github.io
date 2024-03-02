@@ -10,7 +10,7 @@ event_date: '2007'
 
 ---
 
-În 2007, capacitatea conexiunii internaționale la GÉANT este
+În anul 2007, capacitatea conexiunii internaționale la GÉANT este
 crescută la 1,866 Gbps.
 
 <!-- truncate -->

@@ -10,7 +10,7 @@ event_date: '1925'
 
 ---
 
-În 1925 se adopta **Legea privind instalarea şi folosirea instalaţiilor radiofonice**, în
+În anul 1925 este adoptată **Legea privind instalarea şi folosirea instalaţiilor radiofonice**, în
 care se prevedea că: „Exploatarea difuziunii radiotelefonice în România aparţine
 statului care o va putea face prin Direcţia Generală P.T.T. ...”
 

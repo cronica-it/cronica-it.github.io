@@ -10,7 +10,7 @@ event_date: '1992-05'
 
 ---
 
-În mai 1992, la Institutul Central de Informatică (ICI) încep,
+În luna mai 1992, la Institutul Central de Informatică (ICI) încep,
 sub coordonarea CNI, demersurile la RIPE
 și apoi la IANA, pentru recunoșterea și înregistrarea domeniului
 de nivel înalt `.ro` (ROTLD).

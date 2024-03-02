@@ -10,7 +10,7 @@ event_date: '2000-11-06'
 
 ---
 
-În 6 noiembrie 2000, Comisia Europeana lansează proiectul **GÉANT –
+În data de 6 noiembrie 2000, Comisia Europeana lansează proiectul **GÉANT –
 Gigabait Research and Education Network**.
 
 <!-- truncate -->

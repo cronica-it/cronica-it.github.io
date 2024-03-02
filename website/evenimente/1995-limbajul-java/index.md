@@ -10,7 +10,7 @@ event_date: '1995-05-23'
 
 ---
 
-În 23 mai 1995, firma Sun Microsistems anunță **limbajul Java**.
+În data de 23 mai 1995, firma Sun Microsistems anunță **limbajul Java**.
 
 <!-- truncate -->
 

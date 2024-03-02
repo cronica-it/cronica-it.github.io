@@ -10,7 +10,7 @@ event_date: '1997-04-21'
 
 ---
 
-În 21 aprilie 1997, ca urmare a licenței acordate de Ministerul
+În data de 21 aprilie 1997, ca urmare a licenței acordate de Ministerul
 Comunicațiilor în noiembrie 1996, firma
 Mobil Rom lanseaza un nou serviciu GSM, sub brandul **Dialog**.
 

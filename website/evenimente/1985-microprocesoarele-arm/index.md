@@ -10,7 +10,7 @@ event_date: '1985-04-26'
 
 ---
 
-În 26 aprilie 1985, **ARM (Advanced RISC Machines)**, o arhitectură
+În data de 26 aprilie 1985, **ARM (Advanced RISC Machines)**, o arhitectură
 cu set redus de instrucțiuni (RISC), este
 implementată în primele chip-uri ARM1 produse de VLSI Technology.
 

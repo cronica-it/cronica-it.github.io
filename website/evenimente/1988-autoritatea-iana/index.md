@@ -10,7 +10,7 @@ event_date: '1988-12'
 
 ---
 
-În decembrie 1988 este înființată **Internet Assigned Numbers Authority (IANA)**.
+În luna decembrie 1988 este înființată **Internet Assigned Numbers Authority (IANA)**.
 
 <!-- truncate -->
 

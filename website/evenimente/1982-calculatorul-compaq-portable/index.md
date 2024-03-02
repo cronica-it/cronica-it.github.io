@@ -10,7 +10,7 @@ event_date: '1982-11'
 
 ---
 
-În noiembrie 1982, firma Compaq, (recent înființată în februarie), anunță
+În luna noiembrie 1982, firma Compaq, (recent înființată în februarie), anunță
 primul său produs, **Compaq Portable**, un calculator personal portabil
 compatibil IBM PC. A fost lansat în martie 1983.
 

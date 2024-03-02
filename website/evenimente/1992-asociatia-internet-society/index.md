@@ -10,7 +10,7 @@ event_date: '1992-12-11'
 
 ---
 
-În 11 decembrie 1992 este înființată **Internet Society (ISOC)**,
+În data de 11 decembrie 1992 este înființată **Internet Society (ISOC)**,
 o asociație pentru coordonarea evoluției Internetului.
 
 <!-- truncate -->

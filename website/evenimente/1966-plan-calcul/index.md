@@ -10,7 +10,7 @@ event_date: '1966-07-16'
 
 ---
 
-În 16 iulie 1966 este aprobat **Plan Calcul**, un plan guvernamental
+În data de 16 iulie 1966 este aprobat **Plan Calcul**, un plan guvernamental
 francez destinat să asigure autonomia țării în domeniul informatic și
 să contribuie la dezvoltarea informaticii europeană.
 

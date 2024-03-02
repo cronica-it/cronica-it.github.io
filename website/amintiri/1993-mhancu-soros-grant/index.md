@@ -10,7 +10,7 @@ event_date: '1993-12-01'
 
 ---
 
-În 1 decembrie 1993, Marius Hâncu a trimis un mesaj cu privire la grantul Fundatiei Soros.
+În data de 1 decembrie 1993, Marius Hâncu a trimis un mesaj cu privire la grantul Fundatiei Soros.
 
 <!-- truncate -->
 

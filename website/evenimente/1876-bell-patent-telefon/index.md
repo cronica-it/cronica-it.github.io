@@ -10,7 +10,7 @@ event_date: '1876-02-14'
 
 ---
 
-În 14 februarie 1876, Alexander Graham Bell depune cererea de
+În data de 14 februarie 1876, Alexander Graham Bell depune cererea de
 brevet pentru **telefonul electric**.
 
 <!-- truncate -->

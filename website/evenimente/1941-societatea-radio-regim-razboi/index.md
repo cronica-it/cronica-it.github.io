@@ -10,7 +10,7 @@ event_date: '1941-06-22'
 
 ---
 
-În ziua de 22 iunie 1941 Societatea Română de Radiodifuziune intră în regim de război.
+În data de 22 iunie 1941 Societatea Română de Radiodifuziune intră în regim de război.
 
 <!-- truncate -->
 

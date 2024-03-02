@@ -10,7 +10,7 @@ event_date: '1989-04-10'
 
 ---
 
-În 10 aprilie 1989, firma Intel anunță microprocesorul de 32 biți, **Intel 80486**.
+În data de 10 aprilie 1989, firma Intel anunță microprocesorul de 32 biți, **Intel 80486**.
 
 <!-- truncate -->
 

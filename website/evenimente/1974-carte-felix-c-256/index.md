@@ -10,7 +10,7 @@ event_date: '1974'
 
 ---
 
-În 1974, la Editura Tehnică, un colectiv condus de Vasile Baltac publică lucrarea **FELIX C-256 Structura și programarea calculatorului**, o lucrare de
+În anul 1974, la Editura Tehnică, un colectiv condus de Vasile Baltac publică lucrarea **FELIX C-256 Structura și programarea calculatorului**, o lucrare de
 referință în domeniu.
 
 <!-- truncate -->

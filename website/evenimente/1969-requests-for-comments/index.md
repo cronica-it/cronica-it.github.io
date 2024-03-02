@@ -10,7 +10,7 @@ event_date: '1969'
 
 ---
 
-În 1969, un pas cheie în dezvoltarea Internetului
+În anul 1969, un pas cheie în dezvoltarea Internetului
 a fost făcut de Steve Crocker (atunci la UCLA)
 prin inițierea metodologiei **Request for Comments (RFC)**.
 

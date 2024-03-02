@@ -10,7 +10,7 @@ event_date: '1820-04-21'
 
 ---
 
-În 21 aprilie 1820, Hans Christian Ørsted descoperă prima **legătură
+În data de 21 aprilie 1820, Hans Christian Ørsted descoperă prima **legătură
 între electricitate și magnetism**.
 
 <!-- truncate -->

@@ -10,7 +10,7 @@ event_date: '1992-04'
 
 ---
 
-În aprilie 1992, asociația RIPE crează **Network Coordination Center (NCC)**
+În luna aprilie 1992, asociația RIPE crează **Network Coordination Center (NCC)**
 pentru a administra înregistrarea adreselor
 și a coordona serviciile comunității europene a Internetului.
 

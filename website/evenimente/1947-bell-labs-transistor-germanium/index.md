@@ -10,7 +10,7 @@ event_date: '1947-12-23'
 
 ---
 
-În 23 decembrie 1947, la Bell Telephone Labs, Walter Brattain și John Bardeen
+În data de 23 decembrie 1947, la Bell Telephone Labs, Walter Brattain și John Bardeen
 fac o demonstrație pentru mai mulți dintre colegii și managerii lor
 cu un **tranzistor PNP cu joncțiune din germaniu**.
 

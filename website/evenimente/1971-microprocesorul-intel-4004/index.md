@@ -10,7 +10,7 @@ event_date: '1971-11-15'
 
 ---
 
-În 15 noiembrie 1971, firma Intel lansează **4004**, un microprocesor pe 4 biti.
+În data de 15 noiembrie 1971, firma Intel lansează **4004**, un microprocesor pe 4 biti.
 
 <!-- truncate -->
 

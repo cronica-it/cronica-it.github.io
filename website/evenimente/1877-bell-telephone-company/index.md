@@ -10,7 +10,7 @@ event_date: '1877-07-09'
 
 ---
 
-În 9 iulie 1877, la Boston Messachusets, este înființată
+În data de 9 iulie 1877, la Boston Messachusets, este înființată
 **Bell Telephone Company**.
 
 <!-- truncate -->

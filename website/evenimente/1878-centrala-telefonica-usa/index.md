@@ -10,7 +10,7 @@ event_date: '1878-01'
 
 ---
 
-În ianuarie 1878, George Willard Coy a proiectat și construit
+În luna ianuarie 1878, George Willard Coy a proiectat și construit
 **prima centrală telefonică comercială** din SUA, care a fost deschisă
 în New Haven, Connecticut, iar prima cabină telefonică a fost
 construită în localitatea Bridgeport din apropiere.

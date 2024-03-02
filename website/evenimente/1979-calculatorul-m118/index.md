@@ -10,7 +10,7 @@ event_date: '1979'
 
 ---
 
-În 1979, la ICE FELIX este lansat microcalculatorul de 8 biți **M-118**.
+În anul 1979, la ICE FELIX este lansat microcalculatorul de 8 biți **M-118**.
 
 <!-- truncate -->
 

@@ -10,7 +10,7 @@ event_date: '1986'
 
 ---
 
-În 1986, la ICE FELIX este lansat microcalculatorul de
+În anul 1986, la ICE FELIX este lansat microcalculatorul de
 8 biți **Cub Z**.
 
 <!-- truncate -->

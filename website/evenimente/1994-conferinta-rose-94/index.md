@@ -11,7 +11,7 @@ event_end_date: '1994-11-05'
 
 ---
 
-În peroada 3-5 noiembrie 1994, la București,
+În perioada 3-5 noiembrie 1994, la București,
 are loc conferința **ROSE '94**, organizată de Grupul Utilizatorilor
 Români de Unix (GURU), condus de Alexandru Rotaru.
 

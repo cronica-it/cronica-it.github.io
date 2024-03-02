@@ -10,7 +10,7 @@ event_date: '1997-04-15'
 
 ---
 
-În 15 aprilie 1997, ca urmare a licenței acordate de Ministerul
+În data de 15 aprilie 1997, ca urmare a licenței acordate de Ministerul
 Comunicațiilor în noiembrie 1996, firma
 MobiFon lanseaza brandul **Connex**,
 primul serviciu GSM, în banda de 900 MHz.

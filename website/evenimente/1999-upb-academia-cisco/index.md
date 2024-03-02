@@ -10,7 +10,7 @@ event_date: '1999'
 
 ---
 
-În 1999, la inițiativa directorului Cisco România, Dan Gârlașu,
+În anul 1999, la inițiativa directorului Cisco România, Dan Gârlașu,
 este înființată, la Catedra de Calculatoare din UPB, Academia locală Cisco.
 
 <!-- truncate -->

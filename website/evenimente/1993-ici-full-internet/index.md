@@ -10,7 +10,7 @@ event_date: '1993-04-16'
 
 ---
 
-În 4 aprilie 1993, restricțiile COCOM sunt ridicate și România
+În data de 4 aprilie 1993, restricțiile COCOM sunt ridicate și România
 obține **acces deplin în Internet**, inclusiv in Statele Unite.
 
 <!-- truncate -->

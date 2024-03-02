@@ -10,7 +10,7 @@ event_date: '2014-08-06'
 
 ---
 
-În 6 august 2014, la University of California at Berkeley este publicat
+În data de 6 august 2014, la University of California at Berkeley este publicat
 documentul **Instruction Sets Should Be Free: The Case For RISC-V**,
 în care este prezentată a 5-a iterație a designului RISC de la
 Berkeley.

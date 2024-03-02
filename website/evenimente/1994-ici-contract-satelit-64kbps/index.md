@@ -10,7 +10,7 @@ event_date: '1994-10'
 
 ---
 
-În octombrie 1994 este semnat contractul ICI – PTT Austria pentru
+În luna octombrie 1994 este semnat contractul ICI – PTT Austria pentru
 instalarea legăturii RNC la rețelele europene, pe un canal de satelit
 de 64 kbps Bucuresti – Viena.
 

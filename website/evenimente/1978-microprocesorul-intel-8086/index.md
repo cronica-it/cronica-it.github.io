@@ -10,7 +10,7 @@ event_date: '1978-06-08'
 
 ---
 
-În 8 iunie 1978, firma Intel anunță microprocesorul de 16 biți, **Intel 8086**,
+În data de 8 iunie 1978, firma Intel anunță microprocesorul de 16 biți, **Intel 8086**,
 primul din seria x86 care stă la baza exploziei PC-urilor.
 
 <!-- truncate -->

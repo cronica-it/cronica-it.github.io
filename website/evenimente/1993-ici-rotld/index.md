@@ -10,7 +10,7 @@ event_date: '1993-02-26'
 
 ---
 
-În februarie 1993, Institutul Central de Informatică (ICI) obtine de la RIPE autorizarea să
+În luna februarie 1993, Institutul Central de Informatică (ICI) obtine de la RIPE autorizarea să
 administreze DNS-ul pentru domeniul `.ro` (ROTLD).
 
 <!-- truncate -->

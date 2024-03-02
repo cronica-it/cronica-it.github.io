@@ -10,7 +10,7 @@ event_date: '1837-05'
 
 ---
 
-În mai 1837, William Fothergill Cooke și Charles Wheatstone patentează în Anglia
+În luna mai 1837, William Fothergill Cooke și Charles Wheatstone patentează în Anglia
 primul telegraf electric, un instrument cu un set de ace indicatoare indreptate
 spre literele alfabetului.
 

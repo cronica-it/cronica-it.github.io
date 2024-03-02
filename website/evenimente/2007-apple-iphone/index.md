@@ -10,7 +10,7 @@ event_date: '2007-01-09'
 
 ---
 
-În 9 ianuarie 2007, la Macworld, Steve Jobs anunță telefonul mobil **iPhone**.
+În data de 9 ianuarie 2007, la Macworld, Steve Jobs anunță telefonul mobil **iPhone**.
 Este disponibil din 29 iunie.
 
 <!-- truncate -->

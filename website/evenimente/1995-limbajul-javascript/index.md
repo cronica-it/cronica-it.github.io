@@ -10,7 +10,7 @@ event_date: '1995-12-04'
 
 ---
 
-În 4 decembrie 1995, firma Netscape lansează **limbajul JavaScript**.
+În data de 4 decembrie 1995, firma Netscape lansează **limbajul JavaScript**.
 
 <!-- truncate -->
 

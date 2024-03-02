@@ -10,7 +10,7 @@ event_date: '2011'
 
 ---
 
-În 2011, rețeaua națională de cercetare și educație a României (RoEduNet)
+În anul 2011, rețeaua națională de cercetare și educație a României (RoEduNet)
 operează peste 4200 km de fibră optică.
 
 <!-- truncate -->

@@ -10,7 +10,7 @@ event_date: '1957-10-04'
 
 ---
 
-În 4 octombrie 1957, Uniunea Sovietică lansează **Sputnik 1**
+În data de 4 octombrie 1957, Uniunea Sovietică lansează **Sputnik 1**
 primul satelit artificial care a orbitat în jurul Pământului,
 pe o orbită eliptică joasă.
 

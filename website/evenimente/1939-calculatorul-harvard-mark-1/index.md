@@ -10,7 +10,7 @@ event_date: '1939-02'
 
 ---
 
-În februarie 1939, președintele IBM îi aprobă lui Howard Hathaway Aiken
+În luna februarie 1939, președintele IBM îi aprobă lui Howard Hathaway Aiken
 finanțarea pentru realizarea calculatorului **Mark-1**, la Harvard.
 
 <!-- truncate -->

@@ -10,7 +10,7 @@ event_date: '1867-12'
 
 ---
 
-În decembrie 1867, Christopher Latham Sholes și Carlos S. Glidden
+În luna decembrie 1867, Christopher Latham Sholes și Carlos S. Glidden
 finalizează prototipul primei mașini de scris.
 
 <!-- truncate -->

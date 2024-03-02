@@ -10,7 +10,7 @@ event_date: '1984'
 
 ---
 
-În 1984, la Universitatea Politehnica București este
+În anul 1984, la Universitatea Politehnica București este
 realizat, sub conducerea prof. Gheorghe M. Ștefan,
 calculatorul românesc DIALISP.
 

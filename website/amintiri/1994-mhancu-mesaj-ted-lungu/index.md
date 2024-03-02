@@ -10,7 +10,7 @@ event_date: '1994-09-21'
 
 ---
 
-În septembrie 1994, Marius Hâncu a anunțat că transferă conducerea
+În luna septembrie 1994, Marius Hâncu a anunțat că transferă conducerea
 asociației **Free Unix for Romania** lui Ted Lungu.
 
 <!-- truncate -->

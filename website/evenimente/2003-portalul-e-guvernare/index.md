@@ -10,7 +10,7 @@ event_date: '2003-09'
 
 ---
 
-În septembrie 2003, Guvernul României lansează portalul
+În luna septembrie 2003, Guvernul României lansează portalul
 **www.e-guvernare.ro**.
 
 <!-- truncate -->

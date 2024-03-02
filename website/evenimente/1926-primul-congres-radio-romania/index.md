@@ -10,7 +10,7 @@ event_date: '1926-06-13'
 
 ---
 
-În ziua de 13 iunie 1926, Asociaţia Generală a Radiofoniştilor din România a organizat
+În data de 13 iunie 1926, Asociaţia Generală a Radiofoniştilor din România a organizat
 primul Congres al radiofoniştilor din România, la care s-a discutat înfiinţarea **Societăţii de Radiodifuziune**.
 
 <!-- truncate -->

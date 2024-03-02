@@ -10,7 +10,7 @@ event_date: '1973-05-22'
 
 ---
 
-În 22 mai 1973, Robert Metcalfe, la Xerox Parc, descrie într-un memo
+În data de 22 mai 1973, Robert Metcalfe, la Xerox Parc, descrie într-un memo
 ceea ce urma să devină protocolul **Ethernet**.
 
 <!-- truncate -->

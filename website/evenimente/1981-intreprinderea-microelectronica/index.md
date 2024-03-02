@@ -10,7 +10,7 @@ event_date: '1981'
 
 ---
 
-În 1981, prin Decretul Consiliului de Stat
+În anul 1981, prin Decretul Consiliului de Stat
 nr. 186/9 iulie 1981, publicat în Monitorul Oficial al RSR, partea I, din 14 iulie 1981,
 a fost înființată **Întreprinderea Microelectronica**.
 

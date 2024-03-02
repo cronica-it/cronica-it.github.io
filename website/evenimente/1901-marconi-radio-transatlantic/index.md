@@ -10,7 +10,7 @@ event_date: '1901-12-12'
 
 ---
 
-În 12 decembrie 1901, Guglielmo Giovanni Maria Marconi, reușește să
+În data de 12 decembrie 1901, Guglielmo Giovanni Maria Marconi, reușește să
 transmită prin radio un mesaj telegrafic simplu între Poldhu, Cornwall și
 St. Jonh’s, Newfoundland, pe o distanta de 3.500 km.
 

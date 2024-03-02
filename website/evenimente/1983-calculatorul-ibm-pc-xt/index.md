@@ -10,7 +10,7 @@ event_date: '1983-03-08'
 
 ---
 
-În 3 martie 1983, firma IBM lansează calculatorul personal IBM PC XT, primul
+În data de 3 martie 1983, firma IBM lansează calculatorul personal IBM PC XT, primul
 model cu hard-disk încorporat.
 
 <!-- truncate -->

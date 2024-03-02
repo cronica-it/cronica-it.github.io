@@ -10,7 +10,7 @@ event_date: '1997-02'
 
 ---
 
-În februarie 1997 apar pe piață **primele modemuri de 56 kbit/s**.
+În luna februarie 1997 apar pe piață **primele modemuri de 56 kbit/s**.
 
 <!-- truncate -->
 

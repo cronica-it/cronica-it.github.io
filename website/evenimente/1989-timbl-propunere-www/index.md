@@ -10,7 +10,7 @@ event_date: '1989-03-12'
 
 ---
 
-În martie 1989, Tim Berners-Lee și Robert Cailliau de la CERN
+În luna martie 1989, Tim Berners-Lee și Robert Cailliau de la CERN
 (Conseil européen pour la Recherche nucléaire),
 pun bazele unui nou protocol de comunicare
 pentru stocarea și regăsirea documentelor,

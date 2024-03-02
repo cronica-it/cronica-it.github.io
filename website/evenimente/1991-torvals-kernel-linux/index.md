@@ -10,7 +10,7 @@ event_date: '1991-09-17'
 
 ---
 
-În 17 septembrie 1991, Linus Torvalds publică pe serverul FTP de la
+În data de 17 septembrie 1991, Linus Torvalds publică pe serverul FTP de la
 universitatea din Helsinki prima versiune de **kernel Linux**.
 
 <!-- truncate -->

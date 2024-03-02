@@ -10,7 +10,7 @@ event_date: '1937-10-30'
 
 ---
 
-În ziua de 30 octombrie 1937, la Universitatea Bucureşti, Facultatea de Ştiinţe, este prezentată o
+În data de 30 octombrie 1937, la Universitatea Bucureşti, Facultatea de Ştiinţe, este prezentată o
 emisiune de TV electronică, care apoi se transformă în demonstraţii publice până la
 începerea războiului.
 

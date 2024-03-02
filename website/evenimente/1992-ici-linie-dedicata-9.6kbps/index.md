@@ -10,7 +10,7 @@ event_date: '1992-12'
 
 ---
 
-În decembrie 1992, nodul de la Institutul Central de Informatică (ICI)
+În luna decembrie 1992, nodul de la Institutul Central de Informatică (ICI)
 este conectat la EARN prin Universitatea
 din Viena, pe o linie
 dedicată analogică de 9,6 kbps.

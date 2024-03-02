@@ -10,7 +10,7 @@ event_date: '1894-12'
 
 ---
 
-În decembrie 1894, Guglielmo Marconi realizează primul echipament de
+În luna decembrie 1894, Guglielmo Marconi realizează primul echipament de
 transmisiuni radio, cu un oscilator cu scântei.
 
 <!-- truncate -->

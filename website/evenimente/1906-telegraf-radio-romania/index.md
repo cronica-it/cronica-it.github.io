@@ -11,7 +11,7 @@ event_date: '1906'
 
 ---
 
-În anul 1906, se realizează primele comunicaţii de telegrafie fără fir între portul
+În anul 1906, sunt realizate primele comunicaţii de telegrafie fără fir între portul
 Constanţa şi 5 nave maritime româneşti, cu un post radiotelegrafic al Serviciului
 Maritim Român, importat din Franţa montat la Constanţa.
 

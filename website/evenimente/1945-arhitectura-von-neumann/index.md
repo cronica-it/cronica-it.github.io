@@ -10,7 +10,7 @@ event_date: '1945-06-30'
 
 ---
 
-În 30 iunie 1945, John von Neumann scrie „First Draft of a Report
+În data de 30 iunie 1945, John von Neumann scrie „First Draft of a Report
 on the EDVAC” care conține prima descriere publicată a designului logic
 al unui calculator folosind conceptul de program memorat, ulterior
 cunoscut sub numele de **arhitectura von Neumann**.

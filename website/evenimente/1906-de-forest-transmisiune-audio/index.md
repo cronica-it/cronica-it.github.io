@@ -10,7 +10,7 @@ event_date: '1906-12-31'
 
 ---
 
-În 31 decembrie 1906, Lee de Forest face primele transmisiuni audio
+În data de 31 decembrie 1906, Lee de Forest face primele transmisiuni audio
 experimentale în laborator.
 
 <!-- truncate -->

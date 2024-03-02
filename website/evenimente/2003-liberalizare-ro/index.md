@@ -10,7 +10,7 @@ event_date: '2003-01-01'
 
 ---
 
-În 1 ianuarie 2003 are loc „liberalizarea” telecomunicațiilor în România.
+În data de 1 ianuarie 2003 are loc „liberalizarea” telecomunicațiilor în România.
 
 <!-- truncate -->
 

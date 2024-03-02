@@ -10,7 +10,7 @@ event_date: '1972'
 
 ---
 
-În 1972, la
+În anul 1972, la
 Fabrica de Calculatoare Electronice din București,
 începe fabricația de serie a calculatorului **FELIX C-256**.
 

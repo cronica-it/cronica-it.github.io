@@ -10,7 +10,7 @@ event_date: '1935-03-25'
 
 ---
 
-În 25 martie 1935, la Berlin este inaugurată **prima stație de TV**
+În data de 25 martie 1935, la Berlin este inaugurată **prima stație de TV**
 („Fernsehsender Paul Nipkow”).
 
 <!-- truncate -->

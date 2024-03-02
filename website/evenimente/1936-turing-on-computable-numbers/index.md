@@ -10,7 +10,7 @@ event_date: '1936-11'
 
 ---
 
-În noiembrie 1936, Alan Turing publică **On Computable Numbers**, în care
+În luna noiembrie 1936, Alan Turing publică **On Computable Numbers**, în care
 pune bazele teoretică ale calculatoarelor moderne.
 
 <!-- truncate -->

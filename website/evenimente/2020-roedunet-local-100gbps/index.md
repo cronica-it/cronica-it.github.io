@@ -10,7 +10,7 @@ event_date: '2020'
 
 ---
 
-În 2020, viteza legăturilor între centrele de date ale universității
+În anul 2020, viteza legăturilor între centrele de date ale universității
 UPB și RoEduNet respectiv GÉANT este crescută la 100 Gps.
 
 <!-- truncate -->

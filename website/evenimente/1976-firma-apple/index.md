@@ -10,7 +10,7 @@ event_date: '1976-04-01'
 
 ---
 
-În 1 aprilie 1976, Steve Wozniak, Steve Jobs și Ronald Wayne fondează firma
+În data de 1 aprilie 1976, Steve Wozniak, Steve Jobs și Ronald Wayne fondează firma
 **Apple Computer Company**, pentru a dezvolta și vinde computerul personal
 Apple I al lui Wozniak.
 

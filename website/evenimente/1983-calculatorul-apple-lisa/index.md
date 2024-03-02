@@ -10,7 +10,7 @@ event_date: '1983-01-19'
 
 ---
 
-În 19 ianuarie 1983, Apple lansează calculatorul **Apple Lisa**, considerat
+În data de 19 ianuarie 1983, Apple lansează calculatorul **Apple Lisa**, considerat
 primul calculator care a avut o interfață grafică, produs în serie mare.
 
 <!-- truncate -->

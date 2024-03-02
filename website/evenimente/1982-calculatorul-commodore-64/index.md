@@ -10,7 +10,7 @@ event_date: '1982-01'
 
 ---
 
-În ianuarie 1982, firma Commodore International (CI) lansează
+În luna ianuarie 1982, firma Commodore International (CI) lansează
 microcalculatorul personal **Commodore 64**, cunoscut și ca **C64**.
 
 <!-- truncate -->

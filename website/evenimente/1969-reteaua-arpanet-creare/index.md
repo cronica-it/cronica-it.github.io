@@ -10,7 +10,7 @@ event_date: '1969-10-29'
 
 ---
 
-În 29 octombrie 1969 sunt interconectate primele două hosturi dintre cele
+În data de 29 octombrie 1969 sunt interconectate primele două hosturi dintre cele
 patru care aveau să constituie inițial **Advanced Research Projects
 Agency Network (ARPANET)**, rețeaua departamentului apărării din
 Statele Unite (Department of Defense - DoD).

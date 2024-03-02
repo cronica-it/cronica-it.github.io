@@ -10,7 +10,7 @@ event_date: '1995-10-14'
 
 ---
 
-În 14 octombrie 1995, Marius Hâncu a făcut raportul donațiilor pentru
+În data de 14 octombrie 1995, Marius Hâncu a făcut raportul donațiilor pentru
 Free Unix for Romania.
 
 <!-- truncate -->

@@ -10,7 +10,7 @@ event_date: '1943-07'
 
 ---
 
-În 5 iunie 1943, este semnat contractul pentru **ENIAC (Electronic
+În data de 5 iunie 1943, este semnat contractul pentru **ENIAC (Electronic
 Numerical Integrator and Computer)**. Construcția a început în iulie,
 la Moore School of Electrical Engineering - University of Pensilvania,
 fiind finalizat în 10 decembrie 1945.

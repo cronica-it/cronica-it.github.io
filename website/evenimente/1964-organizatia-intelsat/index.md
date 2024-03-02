@@ -10,7 +10,7 @@ event_date: '1964-08-20'
 
 ---
 
-În 20 august 1964, este creată organizația inter-guvernamentală
+În data de 20 august 1964, este creată organizația inter-guvernamentală
 **Intelsat (International Telecommunications Satellite Organization)**,
 pentru a deține și gestiona o constelație de sateliți
 care să furnizeaze servicii internaționale de comunicații.

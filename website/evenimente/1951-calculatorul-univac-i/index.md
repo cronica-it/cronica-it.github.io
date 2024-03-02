@@ -10,7 +10,7 @@ event_date: '1951-03-31'
 
 ---
 
-În 31 martie 1951 este semnat contractul pentru livrarea primului
+În data de 31 martie 1951 este semnat contractul pentru livrarea primului
 calculator electronic comercial, **UNIVAC I**.
 
 <!-- truncate -->

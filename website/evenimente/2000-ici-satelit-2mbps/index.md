@@ -10,7 +10,7 @@ event_date: '2000-03'
 
 ---
 
-În luna martie 2000 la Institutul Central de Informatică (ICI) este instalată prima legătură pe satelit de 2 Mbps.
+În luna martie 2000, la Institutul Central de Informatică (ICI) este instalată prima legătură pe satelit de 2 Mbps.
 
 <!-- truncate -->
 

@@ -10,7 +10,7 @@ event_date: '2008'
 
 ---
 
-În 2008, capacitatea conexiunii internaționale RoEduNet
+În anul 2008, capacitatea conexiunii internaționale RoEduNet
 la GÉANT este crescută la 10 Gbps.
 
 <!-- truncate -->

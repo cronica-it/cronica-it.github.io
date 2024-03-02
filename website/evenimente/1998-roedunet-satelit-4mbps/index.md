@@ -10,7 +10,7 @@ event_date: '1998-12'
 
 ---
 
-În decembrie 1998, Ministerul Educației acoperă costurile unei noi
+În luna decembrie 1998, Ministerul Educației acoperă costurile unei noi
 conexiuni pe satelit de 4 Mbps via LoralOrion.
 
 <!-- truncate -->

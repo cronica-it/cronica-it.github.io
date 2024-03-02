@@ -10,7 +10,7 @@ event_date: '1922'
 
 ---
 
-În 1922 este înființată societatea privată **British Broadcasting Company (BBC)** care în 1927 devine
+În anul 1922 este înființată societatea privată **British Broadcasting Company (BBC)** care în 1927 devine
 societate publică, ceea ce este şi astăzi.
 
 <!-- truncate -->

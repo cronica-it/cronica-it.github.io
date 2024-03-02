@@ -10,7 +10,7 @@ event_date: '1967-06-25'
 
 ---
 
-În 25 iunie 1967, Intelsat face prima transmisiune TV globală în direct.
+În data de 25 iunie 1967, Intelsat face prima transmisiune TV globală în direct.
 
 <!-- truncate -->
 

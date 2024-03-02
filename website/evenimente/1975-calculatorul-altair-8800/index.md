@@ -10,7 +10,7 @@ event_date: '1975-01'
 
 ---
 
-În ianuarie 1975, firma MITS, fondată de Henry Edward Roberts și
+În luna ianuarie 1975, firma MITS, fondată de Henry Edward Roberts și
 Forrest M. Mims, lansează microcalculatorul personal **Altair 8800**,
 care va declanșa revoluția calculatoarelor personale.
 

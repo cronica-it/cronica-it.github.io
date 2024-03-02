@@ -10,7 +10,7 @@ event_date: '1982-04-23'
 
 ---
 
-În 23 aprilie 1982, firma Sinclair Research din Cambridge lansează
+În data de 23 aprilie 1982, firma Sinclair Research din Cambridge lansează
 microcalculatorul personal de 8 biți **ZX Spectrum**.
 
 <!-- truncate -->

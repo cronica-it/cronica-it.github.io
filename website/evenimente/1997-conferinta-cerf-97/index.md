@@ -10,7 +10,7 @@ event_date: '1997-06'
 
 ---
 
-În iunie 1997, Agora Group organizează conferința **CERF '97**.
+În luna iunie 1997, Agora Group organizează conferința **CERF '97**.
 
 <!-- truncate -->
 

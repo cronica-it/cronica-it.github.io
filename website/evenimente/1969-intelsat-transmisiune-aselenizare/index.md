@@ -11,7 +11,7 @@ event_end_date: '1969-07-24'
 
 ---
 
-În iulie 1969, sateliții Intelsat transmit în întreaga lume imagini de
+În luna iulie 1969, sateliții Intelsat transmit în întreaga lume imagini de
 televiziune cu **aselenizarea misiunii Apollo 11**.
 
 <!-- truncate -->

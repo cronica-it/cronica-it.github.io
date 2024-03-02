@@ -10,7 +10,7 @@ event_date: '1991-08'
 
 ---
 
-În august 1991, protocolul de comunicare pentru stocarea și regăsirea
+În luna august 1991, protocolul de comunicare pentru stocarea și regăsirea
 documentelor realizat de Tim Berners-Lee și echipa sa de la CERN este
 practic universal adoptat sub numele de **World Wide Web (WWW)**.
 

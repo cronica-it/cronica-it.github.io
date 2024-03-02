@@ -10,7 +10,7 @@ event_date: '1993-12'
 
 ---
 
-În decembrie 1993, Marius Hâncu a postat un mesaj pe `soc.culture.romanians` cu centrele
+În luna decembrie 1993, Marius Hâncu a postat un mesaj pe `soc.culture.romanians` cu centrele
 de distribuție pentru „Free Unix for Romania”.
 
 <!-- truncate -->

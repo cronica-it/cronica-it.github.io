@@ -10,7 +10,7 @@ event_date: '1994-05'
 
 ---
 
-În mai 1994, Marius Hâncu a acordat un interviu revistei OPEN - Tehnologia
+În luna mai 1994, Marius Hâncu a acordat un interviu revistei OPEN - Tehnologia
 Informatiei, publicată la Târgu Mureș in România.
 
 <!-- truncate -->

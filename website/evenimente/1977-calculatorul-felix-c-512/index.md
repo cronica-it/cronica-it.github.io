@@ -10,7 +10,7 @@ event_date: '1977'
 
 ---
 
-În 1977, la
+În anul 1977, la
 Fabrica de Calculatoare Electronice din București,
 începe fabricația de serie a calculatorului **FELIX C-512**.
 

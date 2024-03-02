@@ -10,7 +10,7 @@ event_date: '1877-04'
 
 ---
 
-În Aprilie 1877, prima linie telefonică conectează atelierul lui
+În luna aprilie 1877, prima linie telefonică conectează atelierul lui
 Charles Williams, Jr., situat în Boston, de casa sa din Somerville,
 Massachusetts, unde Alexander
 Graham Bell și Thomas Watson experimentaseră anterior cu

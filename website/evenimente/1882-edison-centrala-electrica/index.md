@@ -10,7 +10,7 @@ event_date: '1882-09-04'
 
 ---
 
-În 4 septembrie 1882, Thomas Alva Edison construiește **prima centrală
+În data de 4 septembrie 1882, Thomas Alva Edison construiește **prima centrală
 electrică**, în Pearl Street, New York.
 
 <!-- truncate -->

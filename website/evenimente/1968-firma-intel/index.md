@@ -10,7 +10,7 @@ event_date: '1968-07-18'
 
 ---
 
-În 18 iulie 1968, în Silicon Valley, este înființată firma **Intel** (la început
+În data de 18 iulie 1968, în Silicon Valley, este înființată firma **Intel** (la început
 numită „N M Electronics”, dar redenumită o lună mai târziu).
 
 <!-- truncate -->

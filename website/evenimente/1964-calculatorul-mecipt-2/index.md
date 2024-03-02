@@ -10,7 +10,7 @@ event_date: '1965'
 
 ---
 
-În 1965 este pus în funcțiune **MECIPT-2**, un calculator de generația a doua,
+În anul 1965 este pus în funcțiune **MECIPT-2**, un calculator de generația a doua,
 cu tranzistoare și memorie cu ferite.
 
 <!-- truncate -->

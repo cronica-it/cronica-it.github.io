@@ -10,7 +10,7 @@ event_date: '1985-07-13'
 
 ---
 
-În 13 iulie 1985, organizația Intelsat transmite în direct, la nivel global, concertul
+În data de 13 iulie 1985, organizația Intelsat transmite în direct, la nivel global, concertul
 **Live Aid**.
 
 <!-- truncate -->

@@ -10,7 +10,7 @@ event_date: '2002'
 
 ---
 
-În 2002, capacitatea liniei de conectare la rețeaua GÉANT este
+În anul 2002, capacitatea liniei de conectare la rețeaua GÉANT este
 crescută la 155 Mbps.
 
 <!-- truncate -->

@@ -10,7 +10,7 @@ event_date: '1984-12'
 
 ---
 
-În decembrie 1984, Leonard Bosack și Sandy Lerner, un cuplu de cercetători care
+În luna decembrie 1984, Leonard Bosack și Sandy Lerner, un cuplu de cercetători care
 au avut un rol important în conectarea calculatoarelor de la Universitatea
 Stanford, înființează firma **Cisco Systems, Inc.**.
 

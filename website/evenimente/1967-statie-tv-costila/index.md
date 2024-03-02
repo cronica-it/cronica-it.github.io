@@ -10,7 +10,7 @@ event_date: '1967'
 
 ---
 
-În 1967 a intrat în funcţiune staţia de emisie de TV de pe Coștila şi o serie de
+În anul 1967 a intrat în funcţiune staţia de emisie de TV de pe Coștila şi o serie de
 radiorelee pentru acoperirea zonelor fără semnal.
 
 <!-- truncate -->

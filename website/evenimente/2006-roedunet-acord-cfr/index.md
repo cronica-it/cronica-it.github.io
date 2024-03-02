@@ -10,7 +10,7 @@ event_date: '2006-12'
 
 ---
 
-În decembrie 2006 este semnat acordul între rețeaua RoEduNet și CFR, prin care
+În luna decembrie 2006 este semnat acordul între rețeaua RoEduNet și CFR, prin care
 este permisă utilizarea rețelei de fibră optică a S.C. Telecomunicații CFR
 pentru realizarea în comun a unei rețele de comunicații bazată pe
 tehnologie DWDM denumită **RoEduNet2**.

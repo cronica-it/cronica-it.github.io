@@ -11,7 +11,7 @@ event_date: '1976'
 
 ---
 
-În 1976, secția de producție din cadrul ITC - filiala Timișoara, devine **Fabrica de Memorii Electronice şi Componente pentru Tehnica de Calcul –
+În anul 1976, secția de producție din cadrul ITC - filiala Timișoara, devine **Fabrica de Memorii Electronice şi Componente pentru Tehnica de Calcul –
 Timişoara**, o unitate autonomă în cadrul CIETC.
 
 <!-- truncate -->

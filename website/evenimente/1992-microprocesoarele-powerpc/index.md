@@ -10,7 +10,7 @@ event_date: '1992-10'
 
 ---
 
-În octombrie 1992, alianța Apple–IBM–Motorola anunță **PowerPC
+În luna octombrie 1992, alianța Apple–IBM–Motorola anunță **PowerPC
 (Performance Optimization With Enhanced RISC – Performance Computing)**
 o arhitectura RISC pe 32/64 biți.
 

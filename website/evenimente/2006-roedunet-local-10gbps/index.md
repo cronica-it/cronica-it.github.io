@@ -10,7 +10,7 @@ event_date: '2006'
 
 ---
 
-În 2006, la Universitatea Politehnica din București este realizată
+În anul 2006, la Universitatea Politehnica din București este realizată
 cea mai performantă rețea universitară din țară.
 
 <!-- truncate -->

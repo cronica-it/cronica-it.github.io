@@ -10,7 +10,7 @@ event_date: '2005'
 
 ---
 
-În 2005, capacitatea conexiunii internaționale RoEduNet la GÉANT este
+În anul 2005, capacitatea conexiunii internaționale RoEduNet la GÉANT este
 crescută la 1,244 Gbps.
 
 <!-- truncate -->

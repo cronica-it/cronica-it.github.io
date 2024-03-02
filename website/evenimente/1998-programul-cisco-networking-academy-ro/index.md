@@ -10,7 +10,7 @@ event_date: '1998-12'
 
 ---
 
-În decembrie 1998, la un an după debutul în California, firma Cisco Systems
+În luna decembrie 1998, la un an după debutul în California, firma Cisco Systems
 lansează programul **Networking Academy** în România.
 
 <!-- truncate -->

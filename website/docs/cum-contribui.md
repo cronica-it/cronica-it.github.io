@@ -106,7 +106,7 @@ event_end_date: '1995'
 
 ---
 
-În toamna lui 1992, Marius Hâncu fondează organizația internațională non-profit
+În toamna anului 1992, Marius Hâncu fondează organizația internațională non-profit
 **Free Unix for Romania**.
 
 <!-- truncate -->
