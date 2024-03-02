@@ -11,8 +11,8 @@ event_date: '1981-08-12'
 ---
 
 In 12 august 1981, firma IBM lansează calculatorul personal **IBM PC**, bazat pe
-procesorul Intel 8088 de 16 biți la 4,77 Mhz, cu 64 kb memorie RAM și
-40 kb memorie cache; utilizează sistemul de operare
+procesorul Intel 8088 de 16 biți la 4,77 Mhz, cu 64 kB memorie RAM și
+40 kB memorie cache; utilizează sistemul de operare
 DOS (Disk Operating System).
 
 <!-- truncate -->
