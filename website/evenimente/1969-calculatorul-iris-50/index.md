@@ -37,5 +37,5 @@ FELIX C-256.
 
 ## Referințe
 
-- [fr.wikipedia.org - IRIS 50](https://fr.wikipedia.org/wiki/IRIS_50)
+- [fr.wikipedia.org - IRIS 50](https://fr.wikipedia.org/wiki/Iris_50)
 - [România obține licența pentru producția calculatorului „FELIX C-256”](/evenimente/1968/licenta-calculator-felix)
