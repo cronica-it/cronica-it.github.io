@@ -138,6 +138,10 @@ tdmihu:
   name: Tudor (Dorin) Mihu
   image_url: https://cronica-it.github.io/imagini/autori/tudor-dorin-mihu.jpg
 
+mmartinovici:
+  name: Mihai Martinovici
+  image_url: https://cronica-it.github.io/imagini/autori/mihai-martinovici.jpg
+
 # ----- RIP -------------------------------------------------------------------
 
 vtoma:
@@ -147,3 +151,5 @@ vtoma:
 nmillea:
   name: Nona Millea
   image_url: https://cronica-it.github.io/imagini/autori/nona-millea.jpg
+
+# ----- RIP -------------------------------------------------------------------
