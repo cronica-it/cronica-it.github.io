@@ -1,7 +1,6 @@
 ---
 slug: 1976/fabrica-de-memorii-timisoara
-title: 'Este înființată „Fabrica de Memorii Electronice şi Componente pentru Tehnica de Calcul –
-Timişoara”'
+title: 'Este înființată „Fabrica de Memorii Electronice şi Componente pentru Tehnica de Calcul – Timişoara”'
 authors: [nmillea]
 tags: [intreprinderi]
 
@@ -22,7 +21,8 @@ memoriei cu ferite, cu o capacitate de 16 kB pentru calculatorele Felix – C 25
 pentru care nu se cumpărase licenţă de la firma CII, fiindcă matricea cu ferite era
 realizată cu inele de ferită de 0,5 mm diametru exterior, tehnologia de fabricaţie fiind
 sub embargo – se utiliza în domeniul militar. Ulterior s-au fabricat memorii pentru
-familia de maşini de facturat FC-15/ 16/ 128/ 1000, cu import de inele din RDG.
+familia de maşini de facturat FC-15/16/128/1000, cu import de inele din RDG.
+
 Fabrica de Memorii Electronice şi Componente pentru Tehnica de Calcul a fost
 singura fabrică specializată pe producţia de memorii din fostele ţări socialiste şi a
 exportat memorii în RDG şi URSS.
@@ -36,7 +36,9 @@ fabricaţie.
 cip de 4 kB produs de ROBOTRON.
 
 În 1980 a început fabricaţia de ceasuri digitale pentru autoturismul OLTCIT,
-din care a produs 10.000 buc./an. Tot din 1980 s-au fabricat şi:
+din care a produs 10.000 buc./an.
+
+Tot din 1980 s-au fabricat şi:
 
 - MS 100 – un minicalculator pentru aplicaţii în cele mai diferite domenii ştiinţifice,
 tehnice şi economice;
