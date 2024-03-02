@@ -70,4 +70,4 @@ Data deplasării nu este prezentă în text, anul 1984 a fost aproximat de Viore
 
 ## Referințe
 
-- [vioreldarie.ro - Amintiri din epoca Felix a calculatoarelor româneşti](https://www.vioreldarie.ro/Creatii/Amintiri%20din%20epoca%20FELIX%20a%20calculatoarelor%20romanesti.pdf)
+- Viorel Darie, Petre Rău: _**Amintiri din epoca Felix a calculatoarelor româneşti**_ Editura InfoRapArt, Galați 2011, (arhivat [local](https://cronica-it.github.io/arhiva/#2011))
