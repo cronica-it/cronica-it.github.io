@@ -45,3 +45,9 @@ grupate pe ani si articole, de exemplu
 ```
 https://cronica-it.github.io/imagini/2010/lix-interviu-qsl-ro/DSCN0001.JPG
 ```
+
+## ITC 50 link
+
+```
+- [Vasile Baltac: Cartea „Un Institut pentru istorie - Semicentenarul Institutului pentru Tehnică de Calcul (1968-2018)”](/amintiri/2018/vbaltac-itc50ani/) (arhivat [local](https://cronica-it.github.io/arhiva/#2018))
+```
