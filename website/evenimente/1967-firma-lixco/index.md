@@ -84,7 +84,7 @@ Aici s-a conturat ideea ca la firma care se va înființa în Romania să partic
 
 Conform înțelegerii cu Dan, o parte din membrii Lixco urmau sa lucreze în Austria pe o perioadă de un an, pentru a se instrui la nivelul tehnicii din vest. Între timp, firma din România urma să se organizeze, dar cu personal și buget redus la minim.
 
-în august 1992 un grup de investori (între care Dan și Lix) au fondat în Viena firma **Adcon Computer GmbH**, care la scurt timp a preluat firma Lixco SRL și a redenumit-o **Adcon Telemetry SRL**. În 1994 și firma Adcon Computer GmbH a fost redenumită **Adcon Telemetry GmbH**.
+În august 1992 un grup de investori (între care Dan și Lix) au fondat în Viena firma **Adcon Computer GmbH**, care la scurt timp a preluat firma Lixco SRL și a redenumit-o **Adcon Telemetry SRL**. În 1994 și firma Adcon Computer GmbH a fost redenumită **Adcon Telemetry GmbH**.
 
 Noua firmă din România nu mai era însă focusată pe produsele și clientela Lixco dinainte de 1990, ci dezvolta, așa cum rezultă și din denumire, sisteme de telemetrie. În afară de Lix și de Ștefan, în Adcon nu mai rămăsese nimeni din vechea echipă Lixco.
 
