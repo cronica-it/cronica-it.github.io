@@ -19,6 +19,15 @@ Plan Calcul.
 IRIS 50 a fost succesorul direct al lui CII 10070 (construit sub
 licență SDS Sigma 7).
 
+:::note
+Interesant e că deși IRIS a fost construit după licența SDS, nu era
+compatibil la nivel de cod cu acesta, deoarece în formatul instrucțiunii
+câmpurile erau în altă ordine.
+
+În acei ani, furnizorii de calculatoare considerau
+că prin astfel de practici își pot ține captivi clienții.
+:::
+
 A fost livrat cu sistemul de operare SIRIS (2-7).
 
 Următorul model a fost IRIS 80, inspirat după XDS Sigma 9.
