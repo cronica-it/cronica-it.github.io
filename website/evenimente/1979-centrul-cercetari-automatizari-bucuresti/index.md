@@ -27,8 +27,8 @@ compatibil PDP 11/10.
 
 CBEX era un calculator relativ puternic, cu viteză deosebită, organizat cu un
 cuvânt de microprogramare de 64 de biți în tehnologia AMD bit-slice.
-Rula sistem de operare RT 11, iar gama
-de lucru focaliza mediile severe. În plus, gama de conectori militari era
+Rula sistemul de operare RT 11, iar gama
+de lucru acoperea mediile severe. În plus, gama de conectori militari era
 acoperită de fabricația de la CONECT.
 
 > Proiectul de principiu al structurii unității centrale l-am finalizat într-un
@@ -39,7 +39,7 @@ tehnicianul dibaci care rezolva problemele practice. [Ioan Tutoveanu]
 
 În 1982, în cadrul colaborării cu NAVROM Constanța,
 calculatorul CBEX a fost testat la bordul navei comerciale
-„Odorhei” într-un voiaj în Asia de Sud-Est.
+„Odorhei”, într-un voiaj în Asia de Sud-Est.
 
 CCAB avea să fie dotat cu o unitate de microproducție puternică,
 care asigura o independență a mijloacelor de producție față de cele ale

@@ -1,7 +1,7 @@
 ---
 slug: 1970/calculatorul-felix-c-256
 title: 'La FCE/FEA sunt puse în funcțiune primele calculatoare „FELIX C-256”'
-authors: [vbaltac, tdmihu]
+authors: [tdmihu, vbaltac]
 tags: [calculatoare, felix, ice]
 
 date: 2024-03-01T10:07:30
@@ -10,12 +10,13 @@ event_date: '1970-09'
 
 ---
 
-În luna septembrie 1970 primele două calculatoare au sosit din Franţa și au fost puse în funcțiune de inginerii români. Au fost urmate de kit-uri complete ce au fost asamblate în fabrică.
+În luna septembrie 1970 primele două calculatoare au sosit din Franţa și au fost puse în funcțiune de inginerii români. Au fost urmate de kit-uri complete ce au fost asamblate în fabrică, după care treptat s-a trecut la integrarea producției.
 
 <!-- truncate -->
 
-Primele două calculatoare IRIS produse în Franţa au sosit în România, ambalate în nişte cutii mari, şi au fost depozitate la FEA în fundul halei de asamblare
-(clădirea FCE nu era încă gata, a fost pusă în funcțiune abia pe 1 ianuarie 1972; până atunci toată activitatea s-a desfășurat în clădirea învecinata FEA).
+În 1970 clădirea FCE nu era încă gata, a fost pusă în funcțiune abia pe 1 ianuarie 1972; până atunci toată activitatea s-a desfășurat în clădirea învecinata FEA.
+
+> Primele două calculatoare IRIS produse în Franţa au sosit în România, ambalate în nişte cutii mari, şi au fost depozitate la FEA în fundul halei de asamblare. [Mihu]
 
 Echipa care a primit sarcina să pună în funcţiune cele două calculatoare IRIS 50 venite din Franţa era condusă de Călin Spiride şi Mihaela Ionescu, împreună cu echipa venită de la ICPUEC (viitorul ITC) în frunte cu Victor Megheşan, Mihai Roşu, Rigani ş.a.
 
@@ -24,7 +25,7 @@ Echipa care a primit sarcina să pună în funcţiune cele două calculatoare IR
 După cele două IRIS-uri, care veniseră gata asamblate din Franţa, au venit în următorii doi ani kit-uri complete ce se asamblau în fabrică, li se efectuau testele şi erau date în exploatare. Astfel a început
 producția calculatorului **FELIX C-256**, primul reprezentant al familiei FELIX. [Mihu]
 
-În 1970, La Expoziția Realizărilor Economiei Naționale (EREN) a fost prezentat
+În 1970, la Expoziția Realizărilor Economiei Naționale (EREN) a fost prezentat
 și calculatorul FELIX C-256, într-un stand amenajat chiar în mijlocul
 pavilionului central, calculatorul fiind vedeta expoziției. [Baltac]
 

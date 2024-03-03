@@ -40,7 +40,7 @@ Echipa care a primit sarcina să pună în funcţiune cele două calculatoare IR
 
 > „Aceste IRIS 50 reprezentau tehnologia cea mai avansată de atunci, cu TTL-uri, cu cablaje dublă faţă cu găuri metalizate, wrapping; bineînţeles că erau erori de cablaj cât cuprinde, mai erau şi componente defecte. Punerea la punct a unui astfel de calculator dura şase luni. Echipa ICPUEC era, în mare, cea pe care am pomenit-o. Din echipa FEA făceau parte cei doi, care erau şcolarizaţi în Franţa, eu şi încă doi colegi stagiari ca şi mine, Andrei Gayraud şi Turcu Gheorghe. Echipa ICPUEC era compusă din şapte oameni, toţi şcolarizaţi câte 8 luni în Franţa; noi eram doar cinci la număr, din care trei proaspăt absolvenţi; atunci vedeam prima dată obiectele respective. A trebuit să punem mâna şi să citim pe rupte. După o lună, timp în care am parcurs manualele, ne-am apucat de treabă, pentru că era un fel de concurs: care dintre echipe termină mai repede şi mai bine. Erau nişte teste care, dacă erau trecute, calculatorul putea fi dat în exploatare. Echipa noastră a reuşit să pună prima la punct calculatorul IRIS; poate am avut şi puţin noroc, dar se spune că norocul ajută pe cei mai buni. Cel puţin, Călin Spiride şi Mihaela Ionescu erau cu totul deosebiţi“. [Mihu]
 
-În 1970, La Expoziția Realizărilor Economiei Naționale (EREN) s-a prezentat
+În 1970, la Expoziția Realizărilor Economiei Naționale (EREN) s-a prezentat
 și calculatorul FELIX C-256, într-un stand amenajat chiar în mijlocul
 pavilionului central, calculatorul fiind vedeta expoziției. [Baltac]
 

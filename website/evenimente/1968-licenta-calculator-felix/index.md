@@ -76,7 +76,7 @@ stabilit ‚de sus’, probabil cu aprobarea sau din inițiativa lui Nicolae
 Ceaușescu. Am sugerat ca înainte de 256 să se adauge un C de la calculator
 și s-a acceptat. Documentația se traducea la ITC unde am transmis noul
 nume acceptat verbal de Mihai Drăgănescu, așa că nu-mi amintesc să fi
-existat vreo aprobarea formală. Un fel de co-naș! După C-256, au urmat C-
+existat vreo aprobare formală. Un fel de co-naș! După C-256, au urmat C-
 32, C-32M, C-64M, C-512/1024. Mult mai târziu a apărut FELIX C-8010. Toate
 calculatoarele de tip mainframe s-au numit însă FELIX. [Baltac]
 

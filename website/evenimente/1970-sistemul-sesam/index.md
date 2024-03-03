@@ -1,6 +1,6 @@
 ---
 slug: 1970/sistemul-sesam
-title: 'La ITC încep lucrările la primul sistem de acces multiplu „SESAM”'
+title: 'La ITC începe dezvoltarea primului sistem de acces multiplu „SESAM”'
 authors: [mmartinovici, ilg-ul]
 tags: [itc, felix]
 
@@ -10,16 +10,16 @@ event_date: '1970'
 
 ---
 
-În anul 1970 la ITC au început lucrările la primul sistem de acces multiplu pentru FELIX C-256, **SESAM**.
+În anul 1970, la ITC a început dezvoltarea primului sistem de acces multiplu pentru FELIX C-256, **SESAM**.
 
 <!-- truncate -->
 
-SESAM,
+SESAM
 era un subsistem conversațional,
-multi-utilizator destinat dezvoltării de programe de la terminale gen teletype sau display în mediul specific
+multi-utilizator, destinat dezvoltării de programe de la terminale gen teletype sau display în mediul specific
 calculatorului FELIX C-256 și sistemului său de operare.
 
-Era inspirat de
+Era inspirat după
 _Cambridge Monitor System_, pe care domnul Vasile Baltac l-a cunoscut
 cu ocazia stagiului la Cambridge.
 
@@ -48,7 +48,7 @@ fișierelor listing livrate de symbiont pentru a fi compatibile cu
 caracteristicile fișierelor membre ale zonei partajate utilizator.
 
 Aceste caracteristici i-au asigurat subsistemului SESAM un succes
-deosebit, fiind folosit pe scară largă în laboratorul 12 în dezvoltare de
+deosebit, fiind folosit pe scară largă în laboratorul F12 în dezvoltarea de
 programe, dar și în numeroase centre de calcul din țară, fiind inclus și în
 oferta calculatorului FELIX C-256 cu software-ul aferent pentru export în
 țările CAER și în R.P. Chineză.

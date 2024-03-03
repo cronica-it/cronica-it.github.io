@@ -10,7 +10,7 @@ event_date: '1982'
 
 ---
 
-În anul 1982, la ITC începe dezvoltarea sistemului de operare HELIOS,
+În anul 1982, la ITC începe dezvoltarea sistemului de operare **HELIOS**,
 pentru calculatoarele din gama FELIX C-512/1024.
 
 <!-- truncate -->
