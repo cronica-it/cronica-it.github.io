@@ -45,6 +45,8 @@ Gheorghiță Ferenț. [Viorel Darie]
 În anul 1985, în cadrul sistemului de operare HELIOS va fi
 implementat mecanismul de gestiune a memoriei virtuale.
 
+A fost livrat cu calculatoarele FELIX 5000.
+
 HELIOS a avut și un subsistem UNIX, la care au lucrat mai
 mulți, dar în special Dumitru Drăgulete și Horia Ciobanu.
 
