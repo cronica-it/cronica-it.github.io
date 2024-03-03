@@ -6,7 +6,7 @@ tags: [conferinte, aniversari, internet]
 
 date: 2023-11-02T20:15
 
-event_date: '2023-11-27'
+event_date: '2023-10-27'
 
 ---
 
