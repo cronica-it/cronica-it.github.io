@@ -123,4 +123,4 @@ Nicolae Manea (MINOS).
 
 - [itc.ro - ITC](https://www.itc.ro)
 - [ro.wikipedia.org - ITC](https://ro.wikipedia.org/wiki/Institutul_pentru_Tehnică_de_Calcul)
-- [Vasile Baltac: Cartea „Un Institut pentru istorie - Semicentenarul Institutului pentru Tehnică de Calcul (1968-2018)”](/amintiri/2018/vbaltac-itc50ani/) (arhivat [local](https://cronica-it.github.io/arhiva/#2018))
+- [Vasile Baltac: Cartea „Un Institut pentru istorie - Semicentenarul Institutului pentru Tehnică de Calcul (1968-2018)”](/amintiri/2018/vbaltac-carte-itc-50-ani/) (arhivat [local](https://cronica-it.github.io/arhiva/#2018))

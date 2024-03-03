@@ -61,4 +61,4 @@ fabrica de ciment.
 ## Referințe
 
 - [en.wikipedia.org - Felix C](https://ro.wikipedia.org/wiki/Felix_C)
-- [Vasile Baltac: Cartea „Un Institut pentru istorie - Semicentenarul Institutului pentru Tehnică de Calcul (1968-2018)”](/amintiri/2018/vbaltac-itc50ani/) (arhivat [local](https://cronica-it.github.io/arhiva/#2018))
+- [Vasile Baltac: Cartea „Un Institut pentru istorie - Semicentenarul Institutului pentru Tehnică de Calcul (1968-2018)”](/amintiri/2018/vbaltac-carte-itc-50-ani/) (arhivat [local](https://cronica-it.github.io/arhiva/#2018))

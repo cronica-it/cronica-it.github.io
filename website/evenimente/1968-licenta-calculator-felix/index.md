@@ -166,5 +166,5 @@ importurilor și la elaborarea în ITC a cuploarelor. [Baltac]
 
 ## Referințe
 
-- [Vasile Baltac: Cartea „Un Institut pentru istorie - Semicentenarul Institutului pentru Tehnică de Calcul (1968-2018)”](/amintiri/2018/vbaltac-itc50ani/) (arhivat [local](https://cronica-it.github.io/arhiva/#2018))
+- [Vasile Baltac: Cartea „Un Institut pentru istorie - Semicentenarul Institutului pentru Tehnică de Calcul (1968-2018)”](/amintiri/2018/vbaltac-carte-itc-50-ani/) (arhivat [local](https://cronica-it.github.io/arhiva/#2018))
 - [BOUCHER Henri: INFORMATIQUE NON AMERICAINE - Première partie](http://www.aconit.org/histoire/iga_boucher/pdf/Vol_E_700-745.pdf), pagina 195/333 (arhivat [local](https://cronica-it.github.io/arhiva/#2012))
