@@ -74,7 +74,7 @@ touch "${tmp_file_path}"
 
 echo "---" >>"${tmp_file_path}"
 echo "slug: ${blog_post_year}/${slug}" >>"${tmp_file_path}"
-echo "title: 'TODO'" >>"${tmp_file_path}"
+echo "title: 'autor - „”'" >>"${tmp_file_path}"
 echo "authors: [${authors}]" >>"${tmp_file_path}"
 echo "tags: [${tags}]" >>"${tmp_file_path}"
 echo >>"${tmp_file_path}"
