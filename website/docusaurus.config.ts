@@ -197,6 +197,10 @@ const config: Config = {
           to: '/evenimente/1978/calculatorul-coral',
           from: ['/evenimente/1979/calculatorul-coral'],
         },
+        {
+          to: '/amintiri/2018/vbaltac-carte-itc-50-ani',
+          from: ['/amintiri/2018/vbaltac-itc50ani'],
+        },
       ],
         // createRedirects(existingPath) {
         //   // logger.info(existingPath);
