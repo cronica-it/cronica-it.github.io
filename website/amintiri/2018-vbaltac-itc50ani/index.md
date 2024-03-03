@@ -10,7 +10,7 @@ event_date: '2018'
 
 ---
 
-În anul 2018, la Editura EXCEL XXI Books apare lucrarea **Un Institut pentru istorie - Semicentenarul Institutului pentru Tehnică de Calcul (1968-2018)**.
+În anul 2018, la Editura EXCEL XXI Books a apărut lucrarea **Un Institut pentru istorie - Semicentenarul Institutului pentru Tehnică de Calcul (1968-2018)**.
 
 <!-- truncate -->
 
@@ -20,7 +20,7 @@ Lucrarea a fost realizată de Vasile Baltac, Viorel Darie, Viorica Droașcă
 Rodica Popescu, Carmen Stan, Horia Gligor
 Luminița Berechet, Emil Bojin, Elena Rusu (editori).
 
-Cuprinsul
+## Cuprins
 
 - Cuvânt înainte v
 - INSTITUTUL 1
