@@ -1,6 +1,6 @@
 ---
 slug: 1985/ilg-fonturi-cu-diacritice
-title: 'Programul de scris cu caractere mari, sau cum am ajutat eu regimul comunist'
+title: 'Liviu Ionescu - Programul de scris cu caractere mari, sau cum am ajutat eu regimul comunist'
 authors: [ilg-ul]
 tags: [amintiri]
 
