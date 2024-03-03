@@ -1,6 +1,6 @@
 ---
-slug: 2018/vbaltac-itc50ani
-title: 'Vasile Baltac - Cartea „Un Institut pentru istorie - Semicentenarul Institutului pentru Tehnică de Calcul (1968-2018)”'
+slug: 2018/vbaltac-carte-itc-50-ani
+title: 'Vasile Baltac (coordonator) - Cartea „Un Institut pentru istorie - Semicentenarul Institutului pentru Tehnică de Calcul (1968-2018)”'
 authors: [vbaltac]
 tags: [carti, itc]
 
@@ -10,7 +10,7 @@ event_date: '2018'
 
 ---
 
-În anul 2018, la Editura EXCEL XXI Books a apărut lucrarea **Un Institut pentru istorie - Semicentenarul Institutului pentru Tehnică de Calcul (1968-2018)**.
+În anul 2018, la Editura EXCEL XXI Books a apărut cartea **Un Institut pentru istorie - Semicentenarul Institutului pentru Tehnică de Calcul (1968-2018)**.
 
 <!-- truncate -->
 
