@@ -19,7 +19,7 @@ Fabrica de Calculatoare Electronice din București,
 :::note
 Anul 1984 este preluat din „Revista de istorie a electrotehnicii românești”
 și s-ar putea să reflecte anul când a început proiectul, producția
-începând mai târziu.
+începând mai târziu (1988?).
 :::
 
 Calculatorul a fost proiectat la FCE, de o echipă coordonată
@@ -30,7 +30,7 @@ care se aplicau pentru mini-calculatoare.
 > Echipa de tehnică a fost compusă din doi ingineri, Ionescu Radu și Aron Nicolae,
 care s-au oferit ca voluntari, să faca proiectul într-un an, și au reusit. [Mihu]
 
-A fost livrat cu sistemul de operare Helios, dezvoltat la ITC.
+A fost livrat cu sistemul de operare HELIOS, dezvoltat la ITC.
 
 Până în 1989 s-au fabricat cca 15 bucăţi.
 
