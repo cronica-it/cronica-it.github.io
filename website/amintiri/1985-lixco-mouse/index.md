@@ -1,6 +1,6 @@
 ---
 slug: 1985/lixco-mouse
-title: 'Lixco Mouse cu un Z80... scurtat la polizor!'
+title: 'Lixco - Mouse-ul cu un Z80... scurtat la polizor!'
 authors: [lixpaulian]
 tags: [lixco]
 
