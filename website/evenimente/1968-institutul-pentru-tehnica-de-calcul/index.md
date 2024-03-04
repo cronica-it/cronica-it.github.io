@@ -17,6 +17,8 @@ event_date: '1968'
 Deși decretul de înființare a fost emis in 1967, institutul a fost
 creat efectiv în 1968, iar noul sediul a fost gata câțiva ani mai târziu.
 
+Numele inițial a fost **Institutului de Cercetare și Proiectare pentru Tehnica de Calcul (ICPUEC)**, și a suferit numeroase modificări în timp.
+
 > Institutul a fost format inițial prin comasarea echipelor de cercetare de
 pionierat în domeniul calculatoarelor. În sediul de la București au venit
 ”veterani” de la IFA, echipele conduse de Victor Toma și Armand Segal. Se
@@ -85,8 +87,9 @@ pentru multe alte institute care se rezumau la prelucrarea licențelor. La
 propunerea institutului se creează o secție de microproducție de memorii cu
 ferite care produce modulul de memorie FELIX neinclus în licență.
 
-Institutul a dezvoltat sistemul de operare luat prin licență cu un subsistem
-SESAM care permitea accesul multiplu de la zeci de terminale, produs de
+Pentru sistemul de operare SIRIS luat prin licență, institutul a dezvoltat SESAM,
+un subsistem care permitea accesul multiplu de la zeci de terminale;
+a fost un produs de
 succes folosit în țară și exportat.
 
 Ulterior a dezvoltat sistemul de operare HELIOS, o versiune românească,
@@ -119,8 +122,17 @@ Sistemele de operare pentru I-100, I-102, I-106 au fost
 dezvoltate în institut de două colective conduse de Aurel Becea (AMS) și
 Nicolae Manea (MINOS).
 
+În perioada 1982-1985 a fost proiectat și omologat calculatorul FELIX C-8010,
+dar până la urmă nu a mai fost introdus în producție.
+
 ## Referințe
 
 - [itc.ro - ITC](https://www.itc.ro)
 - [ro.wikipedia.org - ITC](https://ro.wikipedia.org/wiki/Institutul_pentru_Tehnică_de_Calcul)
 - [Vasile Baltac: Cartea „Un Institut pentru istorie - Semicentenarul Institutului pentru Tehnică de Calcul (1968-2018)”](/amintiri/2018/vbaltac-carte-itc-50-ani/) (arhivat [local](https://cronica-it.github.io/arhiva/#2018))
+- [FELIX C-32](/evenimente/1973/calculatorul-felix-c-32/)
+- [FELIX C-512](/evenimente1977/calculatorul-felix-c-512/)
+- [SESAM](/evenimente/1970/sistemul-sesam/)
+- [HELIOS](/evenimente/1982/sistemul-de-operare-helios/)
+- [FELIX C-8010](/evenimente/1982/calculatorul-felix-c-8010/)
+- [INDEPENDENT I-100](/evenimente/1977/calculatorul-independent-100)
