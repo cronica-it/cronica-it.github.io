@@ -1,6 +1,6 @@
 ---
 slug: 1984/calculatorul-felix-pc
-title: 'ICE FELIX lansează calculatorul „Felix-PC”'
+title: 'La ICE FELIX începe producția microcalculatorului „Felix-PC”'
 authors: [ntapus]
 tags: [calculatoare, ice]
 

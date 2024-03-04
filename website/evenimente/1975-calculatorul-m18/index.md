@@ -1,6 +1,6 @@
 ---
 slug: 1975/calculatorul-m18
-title: 'ICE FELIX lansează microcalculatorul „M-18”'
+title: 'La ICE FELIX începe producția microcalculatorului „M-18”'
 authors: [ilg-ul]
 tags: [calculatoare, ice]
 
@@ -10,10 +10,7 @@ event_date: '1975'
 
 ---
 
-import { imagesLinks } from './images-links.tsx'
-import { ImagesTable } from '@site/src/components/ImagesTable';
-
-În 1975, la ICE FELIX este lansat microcalculatorul de 8 biți **M-18**.
+În 1975, la ICE FELIX începe producția microcalculatorului de 8 biți **M-18**.
 
 <!-- truncate -->
 
@@ -28,6 +25,9 @@ Acest model a primit medalia de aur la Târgul Internațional de la Leipzig, în
 A fost în producție până în 1981.
 
 ## Imagini
+
+import { imagesLinks } from './images-links.tsx'
+import { ImagesTable } from '@site/src/components/ImagesTable';
 
 <ImagesTable images={imagesLinks}/>
 

@@ -1,6 +1,6 @@
 ---
 slug: 1977/calculatorul-felix-c-512
-title: 'La ICE FELIX începe producția calculatorului „FELIX C-512”'
+title: 'La ICE FELIX începe producția calculatorului „FELIX C-512/1024”'
 authors: [lnica, ilg-ul]
 tags: [calculatoare, ice, felix]
 
@@ -12,14 +12,14 @@ event_date: '1977'
 
 În anul 1977, la
 Fabrica de Calculatoare Electronice din București,
-începe fabricația de serie a calculatorului **FELIX C-512**.
+începe producția de serie a calculatorului **FELIX C-512/1024**.
 
 <!-- truncate -->
 
 Încă din 1970 s-a decis crearea unei familii de calculatoare FELIX cu
 modele mai mici și mai mari decât C-256 (C-32 și C-512/1024).
 
-În anul 1972 a început proiectarea calculatorului FELIX C-512/1024
+În anul 1972, la ITC a început proiectarea calculatorului FELIX C-512/1024
 ca o dezvoltare a calculatorului preluat prin licență.
 
 Elementele de noutate au fost:
@@ -30,7 +30,7 @@ ing. Lucian Nica);
 execuție (colectiv ing. Eugen Ciobanu).
 
 Aceste modificări structurale au adus o creştere substanţială a vitezei de
-lucru cu peste 70 %. De o deosebită importanţă a fost activitatea depusă de
+lucru cu peste 70%. De o deosebită importanţă a fost activitatea depusă de
 Eugen Ciobanu care a proiectat unitatea de pregătire (UP), ce pregătea codul
 instrucţiunii următoare, adresa operandului şi alţi indicatori, concomitent
 cu execuţia instrucţiunii în curs de execuţie. Aceasta a dus la un spor de viteză
@@ -64,14 +64,15 @@ Centrelor de Calcul Teritoriale și a centrelor de calcul din instituții,
 întreprinderi etc.
 
 > În 1979 au fost exportate în China două sisteme şi apoi încă două până în
-1981. Tranzacția a avut loc în China și domnul ing. Victor Megheșan (cu
+> 1981. Tranzacția a avut loc în China și domnul ing. Victor Megheșan (cu
 echipa Electronum) a avut succes, reușind să încheie contractul după discuții
 îndelungi și istovitoare cu partenerii chinezi… În 1979 și 1980 au avut loc, în
 România și China, școlarizări pentru personalul din China care exploata
 sistemele. Instruirea s-a făcut de către specialiști din laboratorul nostru și
 din FCE, precum și de către specialiști în software din ITC.
 
-În perioada 1984-1987 a fost fabricat și **FELIX C-1024**, după un proiect ITC.
+În perioada 1984-1987 a fost fabricat și **FELIX C-1024**, cu 1024 kB de
+memorie, tot după un proiect ITC.
 
 ## Referințe
 

@@ -1,6 +1,6 @@
 ---
 slug: 1979/calculatorul-m118
-title: 'ICE FELIX lansează microcalculatorul „M-118”'
+title: 'La ICE FELIX începe producția microcalculatorului „M-118”'
 authors: [ilg-ul]
 tags: [calculatoare, ice]
 
@@ -10,7 +10,7 @@ event_date: '1979'
 
 ---
 
-În anul 1979, la ICE FELIX este lansat microcalculatorul de 8 biți **M-118**.
+În anul 1979, la ICE FELIX începe producția microcalculatorului de 8 biți **M-118**.
 
 <!-- truncate -->
 

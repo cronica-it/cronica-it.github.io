@@ -1,6 +1,6 @@
 ---
 slug: 1986/calculatorul-cub-z
-title: 'ICE FELIX lansează microcalculatorul „Cub Z”'
+title: 'La ICE FELIX începe producția microcalculatorului „Cub Z”'
 authors: [ilg-ul]
 tags: [calculatoare, ice]
 
@@ -10,7 +10,7 @@ event_date: '1986'
 
 ---
 
-În anul 1986, la ICE FELIX este lansat microcalculatorul de
+În anul 1986, la ICE FELIX începe producția microcalculatorului de
 8 biți **Cub Z**.
 
 <!-- truncate -->
