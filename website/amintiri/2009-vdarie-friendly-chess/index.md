@@ -339,7 +339,7 @@ Personal, acestă abordre cu „repozitorii” nu mi-a adus cine știe ce benefi
 
 ## Download
 
-Ultima versiune a programului poate fi download-ată de la:
+Ultima versiune binară a programului poate fi descărcată de la:
 
 - https://github.com/cronica-it/vdarie-friendly-chess/releases
 
@@ -349,7 +349,7 @@ vizibile.
 
 ## Surse
 
-Sursele programului sunt disponibile la:
+Programul Friendly Chess este open source, și sursele sunt disponibile la:
 
 - https://github.com/cronica-it/vdarie-friendly-chess
 
