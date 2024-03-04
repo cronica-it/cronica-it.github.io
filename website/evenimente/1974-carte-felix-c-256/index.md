@@ -18,3 +18,7 @@ referință în domeniu.
 ## Referințe
 
 - [Vasile Baltac - Cărți publicate](https://sites.google.com/site/vasilebaltac/Home/carti)
+
+## TODO
+
+De găsit un scan și adăugat la arhivă.
