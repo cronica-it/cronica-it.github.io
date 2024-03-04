@@ -6,36 +6,36 @@
 
 Cca 900 î. Ch. – Vecii egipteni încep organizarea unui serviciu de trasmitere a scrisorilor sau poruncilor faraonului, utlizând în acest sens curieri calari, pedestri sau cu barca (precursorul serviciului postal).
 
-Secolul VI, î. Ch. – Persii perfectioneaza “serviciul postal”, instalând din loc în loc pe releele folosite statii dotate cu cele necesare predarii/preluarii (statiile erau asezate de regula la distanta de o zi de mers).
+Secolul VI, î. Ch. – Persii perfectioneaza „serviciul postal”, instalând din loc în loc pe releele folosite statii dotate cu cele necesare predarii/preluarii (statiile erau asezate de regula la distanta de o zi de mers).
 
 59 î. Ch. – Prima comunicare conducator – cetateni oficializata: Iulius Cezar a început sa informeze cetatenii din Roma si împrejurimi despre problemele orasului prin intermediul unor fluturasi scrisi.
 
 Sec. IX d.Ch. – In China serviciul postal era constituit din relee cu statii asezate la distante de aproximativ 25 de mile.
 
 Sec XII – Comerciantii florentini simbolizeaza prin @ o unitate de masursa.
-Incepe sa se stabilizeze sensul notiunii de “posta”; asemanator cu cel de azi, “posta” însemna statie finala sau intermediara instalata de-a lungul drumurilor unde se gaseau mijloace (cai si carute de schimb) si oameni, care se ocupau cu primirea, expedierea sau tranzitarea depeselor.
+Incepe sa se stabilizeze sensul notiunii de „posta”; asemanator cu cel de azi, „posta” însemna statie finala sau intermediara instalata de-a lungul drumurilor unde se gaseau mijloace (cai si carute de schimb) si oameni, care se ocupau cu primirea, expedierea sau tranzitarea depeselor.
 
 1492 – Prima sponsorizare: Regina Isabella a Spaniei a finantat calatoria lui Cristofor Columb catre lumea noua.
 
-1627 – Fracis Bacon prevede telefonul: în cartea sa “New Utopia” descrie un tub lung pentru “vorbit” la distanta.
+1627 – Fracis Bacon prevede telefonul: în cartea sa „New Utopia” descrie un tub lung pentru „vorbit” la distanta.
 
 1684 – Matematicianul, fizicianul si astronomomul englez Robert Hooke (1635-1703) intuieste si formuleaza într-o comunicare la Royal Society din Londra primele idei privind telegrafia vizuala. Este urmat si de francezul Guillaume Amontons (1663-1705).
 
-1729 – Chimistul englez Stephen Gray “transmite” electricitate printr-un fir.
+1729 – Chimistul englez Stephen Gray „transmite” electricitate printr-un fir.
 
 1746 – Olandezul Pieter van Musschenbroek si germanul Ewald Georg dezvolta independent un fel de baterie sau condensator pentru stocarea electricitatii statice.
 
-1753 – La 17 februarie 1753, într-o scrisoare publicata în revista engleza “The Scot’s MAGAZINE” un anonim (posibil fizicianul Charles Morrison) sugereaza ca se poate folosi electricitatea pentru transmiterea literelor la distanta (mesaje).
+1753 – La 17 februarie 1753, într-o scrisoare publicata în revista engleza „The Scot’s MAGAZINE” un anonim (posibil fizicianul Charles Morrison) sugereaza ca se poate folosi electricitatea pentru transmiterea literelor la distanta (mesaje).
 
 Cca 1790 – Spre sfârsitul sec. XVIII fratii Claude si Ignace Chappe pun la punct în Franta un sistem de telegrafie vizuala, constând dintr-un brat orizontal, la extremitatile caruia erau fixate vertical alte brate mobile, care formau prin diverse pozitii un numar de figuri, corespunzator unor reprezentari prestabilite (de unde se întelegea mesajul transmis).
 
-1793 – Prima “linie” de telegrafie vizuala echipata dupa conceptia fratilor Chappe este instalata între Paris si Lille (230 km).
+1793 – Prima „linie” de telegrafie vizuala echipata dupa conceptia fratilor Chappe este instalata între Paris si Lille (230 km).
 
 1807 – Hans Christian Oersted anunta ca urmareste legatura intre electricitate si magnetism.
 
 1809 – Germanul S.T. vom Soemmering (1755-1830) realizeaza telegraful electrochimic.
 
-1817 – Berzelius descopera, ajutat de Gottlieb Gahn, un material neconducator de electricitate, pe care-l numeste “seleniu”.
+1817 – Berzelius descopera, ajutat de Gottlieb Gahn, un material neconducator de electricitate, pe care-l numeste „seleniu”.
 
 1819 – Hans Christian Oersted descopera accidental ca un ac magnetizat este deviat daca se afla in vecinatatea unui curent electric; el publica aceasta informatie in 1820.
 
@@ -123,13 +123,13 @@ Cca 1790 – Spre sfârsitul sec. XVIII fratii Claude si Ignace Chappe pun la pu
 
 1865 – Are loc la Paris prima Conventie pentru constituirea Uniunii telegrafice Internationale (17 martie – 17 mai), la care au luat parte 20 de tari (precursoarea UIT).
 
-1866 – Compania Western Union Telegraph, carea detinea 120.000 linii telegrafice, introduce un serviciu de “noutati telegrafice” pentru cotidienele din New York ale Agentiei Associated Press.
+1866 – Compania Western Union Telegraph, carea detinea 120.000 linii telegrafice, introduce un serviciu de „noutati telegrafice” pentru cotidienele din New York ale Agentiei Associated Press.
 
 1866 – Mahlon Loomis (n.21.07.1826, Oppenheim, New York) transmite mesaje telegrafice prin intermediul undelor radio, intre doi munti din Virginia de Vest, utilizand antene pe care le tine in aer cu ajutorul unor zmeie.
 
 1866 – Cyrus West Field (n.30.11.1819, Stockbidge, Massachusetts) reuseste sa instaleze un cablu telegrafic care traverseaza Oceanul Atlantic.
 
-1873 – Prin cartea „Electricitatea si magnetismul” de James Clerk Maxwell stabileste legile de baza ale electromagnetismului si prevede existenta unor fenomene de genul undelor radio sau presiunii cauzate de razele de lumina. A folosit pentru prima data notiunea de “eter”.
+1873 – Prin cartea „Electricitatea si magnetismul” de James Clerk Maxwell stabileste legile de baza ale electromagnetismului si prevede existenta unor fenomene de genul undelor radio sau presiunii cauzate de razele de lumina. A folosit pentru prima data notiunea de „eter”.
 
 1873 – Willoughby Smith descopera proprietatile foto-electrice ale seleniului. Intr-un articol publicat in revista Nature el anunta ca adescoperit reactivitatea seleniului sub efectul luminii.
 
@@ -145,7 +145,7 @@ Cca 1790 – Spre sfârsitul sec. XVIII fratii Claude si Ignace Chappe pun la pu
 
 1880 – Graham G. Bell breveteaza fotofonul; un circuit telefonic determina vibratia unei oglinzi, iar razele solare reflectate de ea sunt receptionate de un detector cu seleniu asigurandu-se astfel transmiterea sunetelor prin intermediul luminii.
 
-1880 – Profesorul rus Constantin Perskyi publica un prim articol despre “telefotografie”.
+1880 – Profesorul rus Constantin Perskyi publica un prim articol despre „telefotografie”.
 
 1881 – Hermann Ludwig von Helmholtz arata ca sarcinile electrice ale atomilor au mai multe componente întregi, sugerand ca ar exista si o unitate electrica mai mica.
 
@@ -171,11 +171,11 @@ Cca 1790 – Spre sfârsitul sec. XVIII fratii Claude si Ignace Chappe pun la pu
 
 1888 – Fizicianul american David Eduard Hughes (1831-1900) produce primele microfoane cu carbune.
 
-1889 – Francezul Leon Bollee, fondatorul cursei “24H du Mans”, creaza o masina dispunând de o tabela interna de multiplicare, numita “Le millionaire”.
+1889 – Francezul Leon Bollee, fondatorul cursei „24H du Mans”, creaza o masina dispunând de o tabela interna de multiplicare, numita „Le millionaire”.
 
 1891 – Nikola Tesla inventeaza bobina Tesla, care produce o tensiune ridicata la frecventa inalta.
 
-1895 – La 25 aprilie, fizicianul rus Alexandr Stepanovici Popov (1859-1906) realizeaza prima transmisie de telegrafie fara fir (radio); a trasmis cuvintele” “Heinrich Hertz” în cod Morse.
+1895 – La 25 aprilie, fizicianul rus Alexandr Stepanovici Popov (1859-1906) realizeaza prima transmisie de telegrafie fara fir (radio); a trasmis cuvintele” „Heinrich Hertz” în cod Morse.
 
 1895 – Hendrik Antoon Lorentz arata ca asupra unei particule incarcata cu o sarcina electrica, aflata in miscare, actioneaza o forta perpendiculara pe directia de miscare a particulei (forta Lorentz), exercitate de campurile magnetice si electrice.
 
@@ -195,11 +195,11 @@ Cca 1790 – Spre sfârsitul sec. XVIII fratii Claude si Ignace Chappe pun la pu
 
 1899 – J.J. Thomson masoara sarcina electrica a unui electron, completând astfel descoperirile legate de electron; de asemenea, el realizeaza ca ionizarea este rezultatul sciziunii atomilor si ca perticulele emise prin efect fotoelectric au acelasi raport masa / încaracare ca si particulele catodice.
 
-1899 – Primul vapor echipat cu statie radiotelegrafica, pachebotul american “St. Paul”, în drum spre Southampton, primea mesaje radio emise de pe insula Wight, la peste 100 km distanta.
+1899 – Primul vapor echipat cu statie radiotelegrafica, pachebotul american „St. Paul”, în drum spre Southampton, primea mesaje radio emise de pe insula Wight, la peste 100 km distanta.
 
-1900 – Profesorul rus Constantin Perskyi foloseste la 25 august 1900 pentru prima data termenul “televiziune” la Congresul international de electricitate de la Paris din cadrul Expozitiei Universale.
+1900 – Profesorul rus Constantin Perskyi foloseste la 25 august 1900 pentru prima data termenul „televiziune” la Congresul international de electricitate de la Paris din cadrul Expozitiei Universale.
 
-1900 – Guglielmo Marconi obtine brevetul No 7777 “tuned orsyntonic telegraphy”, care deschide era “radiocomunicatiilor”.
+1900 – Guglielmo Marconi obtine brevetul No 7777 „tuned orsyntonic telegraphy”, care deschide era „radiocomunicatiilor”.
 
 1900 – Paul Karl Ludwig Drude arata ca electronii în miscare conduc electricitatea prin metale.
 
@@ -219,7 +219,7 @@ Cca 1790 – Spre sfârsitul sec. XVIII fratii Claude si Ignace Chappe pun la pu
 
 1911 – Owen Richardson dezvolta teoria efectului Edison (metalele încalzite emit electroni), care este baza tuburilor electronice cu vid, ca diodele si triodele.
 
-1911 – Leonardo Torres y Quevedo realizeaza prima tentativa de construire a unei masini dupa modelul Babbage. Introduce cuvântul “automatica” pentru a desemna stiinta automatelor si primul exemplar al unei masini care poate sa joace sah.
+1911 – Leonardo Torres y Quevedo realizeaza prima tentativa de construire a unei masini dupa modelul Babbage. Introduce cuvântul „automatica” pentru a desemna stiinta automatelor si primul exemplar al unei masini care poate sa joace sah.
 
 1912 – Este fondat Institute of Radio Engineers, a doua organizatie care va sta la baza IEEE.
 
@@ -255,7 +255,7 @@ Cca 1790 – Spre sfârsitul sec. XVIII fratii Claude si Ignace Chappe pun la pu
 
 1921 – Albert W. Hull inventeaza magnetronul – un tub electronic care genereaza microunde.
 
-1921 – Scriitorul ceh Karel Capek introduce termenul de „robot” în piesa “Robotul Universal Rossum”.
+1921 – Scriitorul ceh Karel Capek introduce termenul de „robot” în piesa „Robotul Universal Rossum”.
 
 1924 – De la New York se transmit la Londra fotografii prin intermediul radioundelor.
 
@@ -311,11 +311,11 @@ Cca 1790 – Spre sfârsitul sec. XVIII fratii Claude si Ignace Chappe pun la pu
 
 1938 – Aparitia lucrarii „O analiza simbolica a circuitelor de transmisie si comutare” de Claude Elwood Shannon (n.30.04.1916, Gaylord, Michigan) marcheaza fondarea teoriei matematice a informatiei.
 
-1938 – Chester Carlson, avocat american de profesie si inventator în timpul liber, obtine prima imagine “xerografica” în propriul laborator improvizat. Dupa 6 ani de încercari îsi vinde inovatia la Battelle Memorial Institute (Columbus, Ohio).
+1938 – Chester Carlson, avocat american de profesie si inventator în timpul liber, obtine prima imagine „xerografica” în propriul laborator improvizat. Dupa 6 ani de încercari îsi vinde inovatia la Battelle Memorial Institute (Columbus, Ohio).
 
 1939 – La Bell Labs se construieste un calculator pentru numere complexe.
 
-1939 – Georges Stibitz si Samuel Williams încep constructia la masina de calcul “Complex Number Computer” (numit mai târziu Bell Labs Model 1) la Bell Telephone Laboratories. Acesta a fost primul calculator cu relee electromagnetice al lui Stibitz. De asemenea, a fost prima masina cu tuburi cu vid.
+1939 – Georges Stibitz si Samuel Williams încep constructia la masina de calcul „Complex Number Computer” (numit mai târziu Bell Labs Model 1) la Bell Telephone Laboratories. Acesta a fost primul calculator cu relee electromagnetice al lui Stibitz. De asemenea, a fost prima masina cu tuburi cu vid.
 
 1940 – Prima emisiune color televizata are loc datorita sistemului dezvoltat de Peter Carl Goldmark.
 
@@ -332,9 +332,9 @@ Georges Stibitz inventeaza aritmetica flotanta, care permite codificarea numerel
 
 1943 – IBM si Universitatea Havard construiesc calculatorul Havard-IBM Automatic Sequence Controlled Calculator (ASCC). Arhitectura afost realizata de Howard Aiken dupa o ide a lui Thomas Watson din 1937. Era destinat sa calculeze tabele matematice si de navigatie.
 
-1943 – La MIT începe proiectul “Whirliwind”, dedicat realizarii unui simulator de zbor analogic.
+1943 – La MIT începe proiectul „Whirliwind”, dedicat realizarii unui simulator de zbor analogic.
 
-1943 – Thomas J. Watson, presedintele IBM prognoza: piata mondiala ar putea “absorbi” maximum 5 masini de calcul.
+1943 – Thomas J. Watson, presedintele IBM prognoza: piata mondiala ar putea „absorbi” maximum 5 masini de calcul.
 
 1944 – Howard Aiken (1900-1973) si o echipa de ingineri de la firma IBM finalizeaza cel de-al doilea computer digital – Automatic Sequence Controlled Calculator sau Mark 1; el foloseste benzi perforate de hartie pentru programare si tuburi electronice cu vid pentru calcule, dar se defecteaza frecvent din cauza tuburilor.
 
@@ -342,7 +342,7 @@ Georges Stibitz inventeaza aritmetica flotanta, care permite codificarea numerel
 
 1945 – Konrad Zuse termina Z4.
 
-1945 – In eseul “Atlantic Monthly” Vannevar Bush pune bazele elementelor care mai târziu duc la hiper-link-uri.
+1945 – In eseul „Atlantic Monthly” Vannevar Bush pune bazele elementelor care mai târziu duc la hiper-link-uri.
 
 1946 – In vara lui 1946, într-o serie de conferinte la Moore School, conceptul EDVAC devine accesibil publicului larg.
 
@@ -350,7 +350,7 @@ Georges Stibitz inventeaza aritmetica flotanta, care permite codificarea numerel
 
 1946 – Dupa dispute legate de brevete, Eckert si Mauchly parasesc universitatea si pun bazele UNIVAC – UNIversal Automatic Computer.
 
-1946 – Herman Glodstine inventeaza organigramele “flowcharts”.
+1946 – Herman Glodstine inventeaza organigramele „flowcharts”.
 
 1946 – Cartea „Discutie preliminara asupra designului logic al unui instrument electronic de calculat” de Arthur Burks, Herman Goldstine si John von Neumann, contribuie la formularea teoriei computerului digital.
 
@@ -363,7 +363,7 @@ Georges Stibitz inventeaza aritmetica flotanta, care permite codificarea numerel
 1947 – S-a înfiintat Association for Computing Machinery (ACM), asociatie stiintifica si educationala, care sta la baza procesului de edificare a societatii informationale.
 Uniunea Internationala a telecomunicatiilor (UIT) devine organism specializat al ONU.
 
-1947 – Halloid Company, producator de hârtie fotografica, obtine de la Battelle licenta de a dezvolta si lansa pe piata o masina de copiat bazata pe tehnologia lui Carlson. Procesul, care la început se numea “electrofotografie” primeste numele de “xerografie”, nume derivat din cuvintele grecesti “xeros” (uscat) si “grafo” (a scrie).
+1947 – Halloid Company, producator de hârtie fotografica, obtine de la Battelle licenta de a dezvolta si lansa pe piata o masina de copiat bazata pe tehnologia lui Carlson. Procesul, care la început se numea „electrofotografie” primeste numele de „xerografie”, nume derivat din cuvintele grecesti „xeros” (uscat) si „grafo” (a scrie).
 
 1948 – Incepe sa opereze prototipul Mark 1 al Universitatii Manchester, un computer electronic cu program memorizat.
 
@@ -371,7 +371,7 @@ Uniunea Internationala a telecomunicatiilor (UIT) devine organism specializat al
 
 1948 – Apar retelele prin cablu (Cable Network).
 
-1948 – Se înregistreaza cuvintele “xerografie” si respectiv “xerox”.
+1948 – Se înregistreaza cuvintele „xerografie” si respectiv „xerox”.
 
 1949 – Computerul automat cu întarziere electronica a memorizarii, EDSAC (Electronic Delay Storage Automatic Computer), de la Universitatea Cambridge, intra în functiune.
 
@@ -428,7 +428,7 @@ Radio Corporation of America produce primele televizoare color; acestea aveau di
 
 1962 – In septembrie, Joseph Licklider devine seful cercetarilor în domeniul computerelor la ARPA.
 
-1962 – Bell Labs începe testarea tehnologiei denumite generic “radio celular”, care sta la baza telefoniei mobile.
+1962 – Bell Labs începe testarea tehnologiei denumite generic „radio celular”, care sta la baza telefoniei mobile.
 
 1963 – Firma Philips din Olanda introduce caseta de inregistrare si redare a sunetelor.
 
@@ -440,11 +440,11 @@ Radio Corporation of America produce primele televizoare color; acestea aveau di
 
 1964 – Sonda spatiala americana Ranger 7 face primele fotografii lunare de apropiere de buna calitate; cele sase camere de televiziune aflate la bord realizeaza în total 4316 fotografii, care sunt transmise pe Pamant.
 
-1964 – In august, Paul Baran publica “On Distributed Communications: Introduction to Distributed Communications Network” lucrare în care subliniaza comutarea pachetelor într-o retea.
+1964 – In august, Paul Baran publica „On Distributed Communications: Introduction to Distributed Communications Network” lucrare în care subliniaza comutarea pachetelor într-o retea.
 
-1965 – ARPA sustine studiul “cooperative network of time-sharing computers”. In octombrie, Thomas Marill si Lawrence Roberts creeaza o retea de tip WAN (Wide Area Network), printr-o linie telefonica dedicata intre MIT’s Lincoln Lab TX-2 si System Development Corporation’s Q-32 din California.
+1965 – ARPA sustine studiul „cooperative network of time-sharing computers”. In octombrie, Thomas Marill si Lawrence Roberts creeaza o retea de tip WAN (Wide Area Network), printr-o linie telefonica dedicata intre MIT’s Lincoln Lab TX-2 si System Development Corporation’s Q-32 din California.
 
-1965 – Lawrence G. Roberts, MIT, publica în octombrie “Towards a Cooperative Network of Time-Shared Computers”.
+1965 – Lawrence G. Roberts, MIT, publica în octombrie „Towards a Cooperative Network of Time-Shared Computers”.
 
 1965 – John Kemeny si Thomas Kurtz concep limbajul de computer pentru începatori BASIC (Beginners All-purpose Symbolic Instruction Code – codul de instructiuni simbolice de uz general pentru începatori); acesta va deveni principalul limbaj de programare utilizat de posesorii de computere personale, desi se comercializeaza si alte programe pentru computerele personale, dar în limbaje mai sofisticate.
 
@@ -478,7 +478,7 @@ Radio Corporation of America produce primele televizoare color; acestea aveau di
 
 1970 – Prima retea radio bazata pe pachete devine operationala în iulie la Universitatea Hawaii (dezvoltata de Norman Abramson); va fi conectata la ARPANET în 1972.
 
-1970 – Prima publicare a “Host-Host Communication Protocol in the ARPA Network” de catre C.S. Carr, S. Crocker, V.G. Cerf.
+1970 – Prima publicare a „Host-Host Communication Protocol in the ARPA Network” de catre C.S. Carr, S. Crocker, V.G. Cerf.
 
 1970 – Sheinman realizeaza bratul robotic la Laboratorul de inteligenta artificiala de la Universitatea Stnaford.
 
@@ -504,9 +504,9 @@ Radio Corporation of America produce primele televizoare color; acestea aveau di
 
 1973 – Prima conexiune internationala la ARPANET: University College of London (Anglia), via NORSAR (Norvegia).
 
-1973 – Vinton Cerf defineste arhitectura “gateway”.
+1973 – Vinton Cerf defineste arhitectura „gateway”.
 
-1973 – Vinton Cerf si Bob Kahn prezinta ideile de baza ale Internet-ului, distribuind la reuniunea INWG de la University of Sessex, Brighton, UK (în septembrie 1973), un draft al proiectului la care lucrau “A Protocol for Packet Network Interconnection”, ce va fi finalizata si publicata in 1974.
+1973 – Vinton Cerf si Bob Kahn prezinta ideile de baza ale Internet-ului, distribuind la reuniunea INWG de la University of Sessex, Brighton, UK (în septembrie 1973), un draft al proiectului la care lucrau „A Protocol for Packet Network Interconnection”, ce va fi finalizata si publicata in 1974.
 
 1973 – Sunt estimati cca 2.000 de utilizatori ARPANET (75% din trafic compus din e-mail).
 
@@ -524,7 +524,7 @@ Radio Corporation of America produce primele televizoare color; acestea aveau di
 
 1975 – Primele afisaje cu cristale lichide pentru calculatoare de buzunar si pentru ceasuri electronice se comercializeaza pe piata Regatului Unit.
 
-1975 – Primul “mailing list” pe ARPANET (“MsgGroup”) a fost creat de Steve Walker.
+1975 – Primul „mailing list” pe ARPANET (“MsgGroup”) a fost creat de Steve Walker.
 
 1975 – Legaturi pe satelit din Hawaii în Anglia; primele teste TCP facute de catre Stanford, BBN si UCL.
 
@@ -544,7 +544,7 @@ Radio Corporation of America produce primele televizoare color; acestea aveau di
 
 1978 – Dan Bricklin dezvolta la Software Arts un program, bazat pe o matrice de 5 coloane si 20 de linii, în care se putea face rapid calcule de specialitate.
 
-1978 – Primul mesaj de tip “spam” a fost transmis de directorul de marketing de la Digital Equipment Corporation, Gary Thuerk.
+1978 – Primul mesaj de tip „spam” a fost transmis de directorul de marketing de la Digital Equipment Corporation, Gary Thuerk.
 
 1978 – Apple DOS 3.1 primul sistem de operare pentru calculatoarele Apple.
 
@@ -566,7 +566,7 @@ Radio Corporation of America produce primele televizoare color; acestea aveau di
 
 1981 – Numarul PC-urilor ajunge rapid la 1 milion.
 
-1981 – Primul virus în “libertate” se raspândeste prin dischetele ce contineau sistemul de operare pentru Apple II.
+1981 – Primul virus în „libertate” se raspândeste prin dischetele ce contineau sistemul de operare pentru Apple II.
 
 1981 – Primul note-book comercializat Osborne I, creat de Adam Osborne.
 
@@ -596,7 +596,7 @@ Radio Corporation of America produce primele televizoare color; acestea aveau di
 
 1983 – Se produce Apple Lisa, primul calculator care utiliza o interfata grafica.
 
-1983 – Fred Cohen defineste “virusul informatic”; apare primul virus experimental documentat.
+1983 – Fred Cohen defineste „virusul informatic”; apare primul virus experimental documentat.
 
 1984 – Microsoft dezvolta aplicatia de calcul tabelar EXCEL (initial pentru Apple MacIntosh).
 
@@ -666,11 +666,11 @@ Radio Corporation of America produce primele televizoare color; acestea aveau di
 
 1988 – John L. Gustafson, Gary R. Montry, Robert E. Benner si colaboratorii lor gasesc o cale de a rescrie problemele destinate procesarii computerizate paralele care mareste viteza de primire a solutiilor cu 1000; anterior se credea ca o crestere a vitezei de 100 este limita acestei metode.
 
-1988 – In noiembrie, Robert T. Morris lanseaza un program “worm” în Internet, care afecteaza mii de hosturi UNIX> acest lucru declanseaza un mare val de comentarii în presa, aducând practic Internetul în constiinta marelui public (pâna atunci, foarte putini oameni stiau de Internet). Dezbaterile publice si procedurile legale declansate au determinat elaborarea de coduri de conduita (Codes of Conduct), în principal de catre EDUCOM, Association for Computer Machinery si Internet Activities Board. Ca urmare DARPA creaza CERT (Computer Emergency Response Team).
+1988 – In noiembrie, Robert T. Morris lanseaza un program „worm” în Internet, care afecteaza mii de hosturi UNIX> acest lucru declanseaza un mare val de comentarii în presa, aducând practic Internetul în constiinta marelui public (pâna atunci, foarte putini oameni stiau de Internet). Dezbaterile publice si procedurile legale declansate au determinat elaborarea de coduri de conduita (Codes of Conduct), în principal de catre EDUCOM, Association for Computer Machinery si Internet Activities Board. Ca urmare DARPA creaza CERT (Computer Emergency Response Team).
 
 1988 – DoD adopta OSI (Open System Interconnection).
 
-1988 – Primul “multicast tunnel” este realizat între Stanford si BBN in vara lui 1988.
+1988 – Primul „multicast tunnel” este realizat între Stanford si BBN in vara lui 1988.
 
 1988 – Jarkko Oikarinen dezvolta Internet Relay Chat (IRC).
 
@@ -680,7 +680,7 @@ Radio Corporation of America produce primele televizoare color; acestea aveau di
 
 1989 – Steve Dorner de la Universitatea Illinois din Urbana Champain a scris programul Eudora pentru e-mail.
 
-1989 – Apar RFC 1121: “Act One – The Poems” si RFC 1097: “TELNET Subliminal – Message Option”.
+1989 – Apar RFC 1121: „Act One – The Poems” si RFC 1097: „TELNET Subliminal – Message Option”.
 
 1989 – Noi tari se conecteaza la NSFNET: Australia (AU), Germany (DE), Israel (IL), Italy (IT), Japan (JP), Mexico (MX), Netherlands (NL), New Zealand (NZ), Puerto Rico (PR), United Kingdom (UK).
 
@@ -692,7 +692,7 @@ Radio Corporation of America produce primele televizoare color; acestea aveau di
 
 1990 – Apare Archie, primul program de cautare fisiere pe INTERNET.
 
-1990 – Apar RFC 1149: “A Standard for the Transmission of IP Datagrams on Avian carriers” si RFC 1178: “Choosing a Name for Your Computer”.
+1990 – Apar RFC 1149: „A Standard for the Transmission of IP Datagrams on Avian carriers” si RFC 1178: „Choosing a Name for Your Computer”.
 Se introduce tehnologia XGA (eXtended Graphics Array) pentru monitoare, care suporta o rezolutie de 800 x 600 pixeli în 16,8 milioane de culori sau 1024 x 768 pixeli în 65.536 culori.
 
 1990 – In martie la Geneva în cadrul Grupului de lucru pentru facilitarea procedurilor de comert international (WP 4) s-a fixat definitia UN/EDIFACT – Electronic Data Interchange for Administration, Commerce and Transport.
@@ -715,7 +715,7 @@ Se introduce tehnologia XGA (eXtended Graphics Array) pentru monitoare, care sup
 
 1992 – Internet-ul devine o componenta de o importanta capitala a fortelor armate ale SUA.
 
-1992 - Termenul “surfing the Internet” este introdus de Armour Polly.
+1992 - Termenul „surfing the Internet” este introdus de Armour Polly.
 
 1992 – Este creat programul Veronica, un instrument de cautare gophere.
 
@@ -745,7 +745,7 @@ Se introduce tehnologia XGA (eXtended Graphics Array) pentru monitoare, care sup
 
 1993 – Casa Alba, ONU devin institutii on-line.
 
-1993 – Apar RFC 1437: “The Extension of MIME Content – Types to a New Medium” si RFC 1438: “IETF Statements of Boredom (SOBs)”.
+1993 – Apar RFC 1437: „The Extension of MIME Content – Types to a New Medium” si RFC 1438: „IETF Statements of Boredom (SOBs)”.
 
 1993 – Noi tari conectate la NSFNET: Bulgaria (BG), Costa Rica (CR), Egypt (EG), Fiji (FJ), Ghana (GH), Guam (GU), Indonesia (ID), Kazakhstan (KZ), Kenya (KE), Liechtenstein (LI), Peru (PE), Romania (RO), Russian Federation (RU), Turkey (TR), Ukraine (UA), UAE (AE), US Virgin Islands (VI).
 
@@ -753,7 +753,7 @@ Se introduce tehnologia XGA (eXtended Graphics Array) pentru monitoare, care sup
 
 1993 – Motorola produce Motorola International 3200 cu greutatea de 581 grame, care va deveni un clasic al telefoanelor celulare.
 
-1994 – Apare conceptul de Comunitate “on-line”; cea mai mare parte a comunitatii accepta ca Internet-ul (prin ARPANET) împlineste 25 de ani.
+1994 – Apare conceptul de Comunitate „on-line”; cea mai mare parte a comunitatii accepta ca Internet-ul (prin ARPANET) împlineste 25 de ani.
 
 1994 – Apare conceptul Business Network; o persoana poate cumpara flori pe INTERNET.
 
@@ -763,15 +763,15 @@ Se introduce tehnologia XGA (eXtended Graphics Array) pentru monitoare, care sup
 
 1994 – Primul banner (advertising) pe <www.hotwired.com> (in octombrie).
 
-1994 – Comunitatea Europeana elaboreaza Raportul: “Europa si societatea informationala” (raportul Bangemann, dupa numele elaboratorului).
+1994 – Comunitatea Europeana elaboreaza Raportul: „Europa si societatea informationala” (raportul Bangemann, dupa numele elaboratorului).
 
-1994 – Pe 25 octombrie 1994 primul “ad online” facea reclama la AT&T .
+1994 – Pe 25 octombrie 1994 primul „ad online” facea reclama la AT&T .
 
 1994 – La 17 noiembrie 1994 Consiliul de Ministri al Uniunii Europene decide ca la 1.01.1998 serviciile telefonice sa devina liberalizate în spatiul comunitatii europene.
 
 1994 – Se constituie Trans-European research and Education Network Association – TERENA cu scopul de a participa la dezvoltarea unei infrastructuri informationale si de telecomunicatii de înalta calitate în beneficiul cercetarii si educatiei (octombrie).
 
-1994 – Apar RFC 1606: “A Historical Perspective On The Usage Of IP Version 9” si RFC 1607: “A View from the 21st Century”.
+1994 – Apar RFC 1606: „A Historical Perspective On The Usage Of IP Version 9” si RFC 1607: „A View from the 21st Century”.
 
 1994 – Are loc Congresul mondial Internet de la Praga. Din Romania a participat Alexandru Rotaru (GURU).
 
@@ -817,7 +817,7 @@ Se introduce tehnologia XGA (eXtended Graphics Array) pentru monitoare, care sup
 
 1996 – Apare US Communications Decency Act (CDA), un act normativ controversat cu privire la restrângerea distributiei materialelor indecente pe net; Curtea Suprema a SUA va declara actul neconstitutional in 1997.
 
-1996 – Grupul “The Internet Ad Hoc Committee” (IAHC) anunta planul de a introduce 7 noi nume generice pentru Top Level Domains (gTLD): .firm, .store, .web, .arts, .rec, .info, .nom..
+1996 – Grupul „The Internet Ad Hoc Committee” (IAHC) anunta planul de a introduce 7 noi nume generice pentru Top Level Domains (gTLD): .firm, .store, .web, .arts, .rec, .info, .nom..
 
 1996 – Incep sa apara restrictii la utilizarea Internetului in diferite tari (China, Germania, Arabia Saudita, Singapore, Noua Zeelanda).
 
@@ -833,7 +833,7 @@ Se introduce tehnologia XGA (eXtended Graphics Array) pentru monitoare, care sup
 
 1996 – Apare MP3 – MPEG audio layer III – format de compresie audio.
 
-1997 – Apare RFC 2000: “Internet Official Protocol Standards”.
+1997 – Apare RFC 2000: „Internet Official Protocol Standards”.
 
 1997 – Apare conceptul EXTRANET.
 
@@ -843,7 +843,7 @@ Se introduce tehnologia XGA (eXtended Graphics Array) pentru monitoare, care sup
 
 1997 – La 6 august 1997 se constituie la Brussels EuroISPA – European Internet Services Providers Association.
 
-1997 – Apare RFC 2100: “The Naming of Hosts”.
+1997 – Apare RFC 2100: „The Naming of Hosts”.
 
 1997 – Top 10 Domains pe 1997: com, edu, net, jp, uk, de, us, au, ca, mil.
 
@@ -857,7 +857,7 @@ Se introduce tehnologia XGA (eXtended Graphics Array) pentru monitoare, care sup
 
 1998 – US Depart of Commerce (DoC) lanseaza o Carte verde prin care anuta intentia de a privatiza DNS la 30 ianuarie; trasferul spre industrie se face la 25 noiembrie prin acordul DoC cu ICANN.
 
-1998 – Franta lanseaza “La fete de l’Internet”.
+1998 – Franta lanseaza „La fete de l’Internet”.
 
 1998 – Consiliul Europei lanseaza PROMISE Programme to Stimulate the Establishment of the Information Society in Europe (Council Decision 98/253/EC of 30 March 1998).
 
@@ -881,7 +881,7 @@ Se introduce tehnologia XGA (eXtended Graphics Array) pentru monitoare, care sup
 
 1999 – Apare playerul digital.
 
-2000 – Consiliul Europei lanseaza initiativa politica “eEurope – O societate informationala pentru toti” (An Information Society For All) – Lisabona, 23-24 martie.
+2000 – Consiliul Europei lanseaza initiativa politica „eEurope – O societate informationala pentru toti” (An Information Society For All) – Lisabona, 23-24 martie.
 
 2000 – Reteaua Backbone Internet@ trece la Ipv6 (la 16 mai).
 
@@ -889,7 +889,7 @@ Se introduce tehnologia XGA (eXtended Graphics Array) pentru monitoare, care sup
 
 2000 – Apar primele atacuri de tip DoS – Denial-of-Service, care blocheaza site-uri precum Yahoo!; în mai virusul Love Letter atinge cea mai mare raspândire, ducând la caderea multor servicii de e-mail din lume.
 
-2000 – MIT’s Artficial Intelligence Lab lanseaza primele prototipuri de “roboti” inteligenti, capabili sa interactioneze social.
+2000 – MIT’s Artficial Intelligence Lab lanseaza primele prototipuri de „roboti” inteligenti, capabili sa interactioneze social.
 
 2000 – Apar primele retele GPRS. In lume sunt înregistrati 480 milioane utilizatori de GSM 900/1800/1900 Mhz.
 
@@ -899,7 +899,7 @@ Se introduce tehnologia XGA (eXtended Graphics Array) pentru monitoare, care sup
 
 2001 – Virusul Winux este capabil sa infecteze atât sisteme Windous cât si Linux, chiar în paralel; virusii Nimda, Sircam, Code Red si Bad Trans produc haos în Internet.
 
-2001 – La 23 noiembrie. 2001 se semneaza la Budapesta Conventia “Cybercrime”.
+2001 – La 23 noiembrie. 2001 se semneaza la Budapesta Conventia „Cybercrime”.
 
 2001 – Este produs primul robot comercial dotat cu inteligenta artificiala de catre firma Sony (cânele AIBO – Artificial Intelligence roBOt; AIBO mai înseamna in japoneza prieten).
 
@@ -915,15 +915,15 @@ Se introduce tehnologia XGA (eXtended Graphics Array) pentru monitoare, care sup
 
 2002 - MIT realizeaza robotul Kismet, care recunoaste libajul trupului (mimica, gesturi, postura) si inflexiunile vocii, raspunzând în consecinta.
 
-2003 – Hobbes Internet Timeline aprecia in ianuarie 2003 ca sunt peste 170 milioane host-uri conectate in Internet, iar numarul utilizatorilor la 823 milioane. “Arhiva” Internet disponibila prin WWW contine peste 300 Terabytes de date, echivalentul a 224 milioane floppy disks sau 480.000 CD-uri.
+2003 – Hobbes Internet Timeline aprecia in ianuarie 2003 ca sunt peste 170 milioane host-uri conectate in Internet, iar numarul utilizatorilor la 823 milioane. „Arhiva” Internet disponibila prin WWW contine peste 300 Terabytes de date, echivalentul a 224 milioane floppy disks sau 480.000 CD-uri.
 
-+ 2003 – Comunitatea “împatimitilor” din România serbeaza 10 ani de Internet sub domeniul “.ro”.
++ 2003 – Comunitatea „împatimitilor” din România serbeaza 10 ani de Internet sub domeniul „.ro”.
 
 2003 – Virusul SoBig provoaca mari pagube în retelele bazate pe Windows; el devine campionul vitezei de raspândire prin e-mail, având incorporat propriul program pentru aceasta actiune.
 
 2003 – Cercetatatorii de la MIT’s Intelligence Artificial Lab inventeaza creierul arificial. Impreuna cu Lucent Technologies’Bell Lab realizeaza un circuit neuronal electric, care imita fidel cortexul cerebral, centrul inteligentei umane.
 
-2003 – Sony prezinta in aprilie a doua generatie a robotului SDR-4X (Sony Dream Robot), care poate “jongla” cu 20.000 de cuvinte, recunoaste fetele si le asociaza unor dialoguri anterioare.
+2003 – Sony prezinta in aprilie a doua generatie a robotului SDR-4X (Sony Dream Robot), care poate „jongla” cu 20.000 de cuvinte, recunoaste fetele si le asociaza unor dialoguri anterioare.
 
 2003 – CERT/US-CERT a înregistrat in anul 2003 un numar de 137.529 incidente de securitate si a identificat 3.784 de vulnerabilitati de securitate.
 
@@ -933,7 +933,7 @@ Se introduce tehnologia XGA (eXtended Graphics Array) pentru monitoare, care sup
 
 2004 – Pe 2 februarie Intel a lansat trei modele de procesoare: Pentium 4 la 3,4 Ghz, Pentium 4 Extreme Edition la 3,4 Ghz si Prescott (o faza intermediara catre Pentium 5).
 
-2006 – Intre 15 mai – 16 iunie s-a desfasurat la Geneva “Conferinta Regionala pentru Radiocomunicatii (RRC-06)”, care a avut drept scop elaborarea planului pentru televiziunea digitala (cuprinde spectrul de frecvente 174-230 MHz si 470-862 MHz). Au participat peste 1.000 de delegati din 104 tari din Europa, Africa, Orientul Mijlociu si Iran. Romania va beneficia de doua retele nationale de radio digital terestru (T-DAB) si opt retele nationale de televiziune digitala terestra (DVB-T).
+2006 – Intre 15 mai – 16 iunie s-a desfasurat la Geneva „Conferinta Regionala pentru Radiocomunicatii (RRC-06)”, care a avut drept scop elaborarea planului pentru televiziunea digitala (cuprinde spectrul de frecvente 174-230 MHz si 470-862 MHz). Au participat peste 1.000 de delegati din 104 tari din Europa, Africa, Orientul Mijlociu si Iran. Romania va beneficia de doua retele nationale de radio digital terestru (T-DAB) si opt retele nationale de televiziune digitala terestra (DVB-T).
 
 2006 - Peste 2,5 miliarde de oameni au acces la telefonia mobila.
 

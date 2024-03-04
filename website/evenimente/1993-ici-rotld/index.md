@@ -50,7 +50,7 @@ Primele domenii înregistrate pentru rețeaua academică și de cercetare au fos
 Imediat au fost înregistrate și primele domenii pentru utilizatorii din mediul
 privat (`eunet.ro`, `adcon.ro`, `guru.ro`, `iiruc.ro`, `soros.ro`).
 
-In decembrie 2007 erau inregistrate cca 250.000 de nume de domenii sub “.ro”.
+In decembrie 2007 erau inregistrate cca 250.000 de nume de domenii sub „.ro”.
 
 La 1 iunie 2020 erau înregistrate 615.909 domenii ”.ro”, reprezentând 64%
 persoane juridice și 36% persoane fizice.

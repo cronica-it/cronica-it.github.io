@@ -19,10 +19,10 @@ event_date: '2023'
 ## Cuprins
 
 1. Cuvânt înainte de INTERNET (Prof Radu Jugureanu)  7
-2. Copilăria INFORMATICII ROMÂNEȘTI așa cum am “trăit-o” eu,
+2. Copilăria INFORMATICII ROMÂNEȘTI așa cum am „trăit-o” eu,
 unul dintre primii elevi ai Profesorului Grigore C Moisil (Dr Stelian Niculescu)  11
 3. Rolul Universității Politehnica din București la Dezvoltarea Internetului în România (Profunivdr Nicolae Ţǎpuş)  23
-4. Profesorul Adrian Petrescu sau “every cloud has a silver lining” (Iacob Petrescu)  39
+4. Profesorul Adrian Petrescu sau „every cloud has a silver lining” (Iacob Petrescu)  39
 5. 30 de ani de "punct RO" (Nicolai Sandu)  41
 6. Contribuții ale Asociației Utilizatorilor de Unix din România (GURU) la formarea primilor administratori pentru servicii Internet în anii 1992-1996 (Dr Alexandru Rotaru)  47
 7. Cum a ajuns informatica românească sa fie pe val (Dr Sandra Pralong)  71

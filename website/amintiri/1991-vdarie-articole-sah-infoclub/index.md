@@ -19,7 +19,7 @@ o serie de articole intitulate **Șah Computer**.
 
 ## Contextul informaticii de după Revoluție
 
-Au fost anii de răsturnare de situații în domeniul tehnicii de calcul în România,  când așa zisele “main framurile” au decăzut vertiginos ca  importanță, interes și investiții din partea programatorilor, dar și a factorilor de decizie. Ceea ce a mai ținut în viață vechile, masivele calculatoare de calcul, a fost inerția organizatorică a centrelor de calcul, mulțimea de aplicații orientate pe FELIX-uri, ce nu puteau trece imediat pe noile generații de calculatoare, mult mai performante.
+Au fost anii de răsturnare de situații în domeniul tehnicii de calcul în România,  când așa zisele „main framurile” au decăzut vertiginos ca  importanță, interes și investiții din partea programatorilor, dar și a factorilor de decizie. Ceea ce a mai ținut în viață vechile, masivele calculatoare de calcul, a fost inerția organizatorică a centrelor de calcul, mulțimea de aplicații orientate pe FELIX-uri, ce nu puteau trece imediat pe noile generații de calculatoare, mult mai performante.
 
 Răsturnări de situații au fost peste tot, și la nivelul conducerilor de instituții, inclusiv a editurilor renumite, mai ales a celor găzduite de Casa Scânteii. Conducerea centralizată, de fier, comunistă, a dispărut. Casa Scânteii s-a federalizat în fel și fel de organizări noi, independente între ele.
 

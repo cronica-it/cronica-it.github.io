@@ -24,7 +24,7 @@ PARTEA I
 Calculatoarele FELIX - Proiectare şi Cercetare 3
 
 - Introducere 5
-- Toate drumurile duc la “Felix” 8
+- Toate drumurile duc la „Felix” 8
   - Ziua de muncă a unui cercetător ştiinţific la ITC 8
   - Felix – de unde vine cuvântul 11
   - Cum am ajuns la ITC prin repartiţie 14
@@ -45,7 +45,7 @@ Calculatoarele FELIX - Proiectare şi Cercetare 3
 - Armand Segal - şef de laborator 78
 - Ion Bătrâna - director 82
 - Emil Tudor - director tehnic 86
-- Băieţi “rasaţi”, cu studii mari în Franţa 87
+- Băieţi „rasaţi”, cu studii mari în Franţa 87
 - Lucia Popescu - şef de laborator 90
 - Mihai Rigani - şef de laborator 93
 - Mihai Roşu - şef de laborator 96
@@ -75,7 +75,7 @@ Calculatoarele FELIX - Proiectare şi Cercetare 3
 - Informatizarea complexului minier de la Tarniţa 175
 - Călătorii în URSS ca specialist în informatică la şedinţele SUMEC 183
 - Alte amintiri 189
-  - Cum au răpus şahiştii “dihania preistorică” numită Felix C-256 192
+  - Cum au răpus şahiştii „dihania preistorică” numită Felix C-256 192
   - Amintiri despre robotul românesc de şah 198 Labirint 64 / Atom 64 198
 
 PARTEA A II-A

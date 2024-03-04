@@ -22,7 +22,7 @@ Tehnică de Calcul - CIETC.
 
 Întrucât livrarea utilajelor şi a documentaţiei devansa programul de investiţii a
 viitoarei întreprinderi, în scopul instruirii eşalonate a personalului, primele ateliere de
-producţie au fost organizate în incinta uzinei “mamă” Electronica din str. Baicului 82,
+producţie au fost organizate în incinta uzinei „mamă” Electronica din str. Baicului 82,
 la etajul II al corpului 20, pe o suprafaţă de cca 4.000 mp. Aici s-au fabricat pentru
 prima dată în ţară tranzistoare de joasă şi medie frecvenţă, diode, condensatoare cu
 stiroflex şi condensatoare electrolitice miniatură.

@@ -21,7 +21,7 @@ Fundamentele teoretice ale telefoniei multiple au fost publicate în
 1907 în revista „Elektrotechnische Zeitschrift” și apoi, în 1914,
  în lucrarea „The use of High-Frequency Alternating Currents in
  Telegraphy, Telephony and for Power Transmission” publicată
- în revista “The Electrician”.
+ în revista „The Electrician”.
 
 Augustin Maior, ajuns în final prof. univ. la Cluj, este recunoscut ca
 pionierul telefoniei mondiale cu curenţi purtători. Alte contribuţii în domeniul telefoniei

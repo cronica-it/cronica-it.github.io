@@ -107,7 +107,7 @@ UPIR? Ei, ar fi de povestit despre parteneriatul excepțional pus la cale de UPI
 
 Pe la anul 1999 la Colegiu Cantemir, prima grupă de elevi finalizează primul modul din cursul de rețele CCNA. Prima aplicație practică a fost cablarea structurată al laboratoarelor.
 
-În plină vacanță de vara primesc un telefon din Singapore unde era o echipă care filma pentru un clip promo “Cisco Networking Academy Around the World”. În forma finală prezenta secvențe din Asia, Europa și SUA. Sunt întrebat dacă putem găzdui secvențele pentru Europa.
+În plină vacanță de vara primesc un telefon din Singapore unde era o echipă care filma pentru un clip promo „Cisco Networking Academy Around the World”. În forma finală prezenta secvențe din Asia, Europa și SUA. Sunt întrebat dacă putem găzdui secvențele pentru Europa.
 
 Da, zic eu. Pîi nu întrebi. Nu, sunt sigur. Unde? explic, colegiul Cantemir, prima grupă de absolvenți... Și vine întrebarea încuietoare: dar curent electric aveți? au venit, au filmat, echipa de la Cantemir a fost de nota 10. Bref: partea filmată în România a fost cea mai reușită. Filmul fiind lansat la o mare conferință de CEO-ul Cisco de atunci, John Chambers.
 

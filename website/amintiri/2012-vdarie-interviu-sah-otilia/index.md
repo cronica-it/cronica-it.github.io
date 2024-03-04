@@ -58,7 +58,7 @@ VD: Există capcane - virgula, spre exemplu, nepusă la locul ei. Mai ales într
 
 OB: Ce-a urmat după programul de şah?
 
-VD: Acel program a fost făcut pe un calculator mare - Felix. Pe urmă am vrut să facem roboţi de jucat şah. Pentru că a fost o epocă în care apăruseră din vest nişte cutii mici, cu tastatură, cu o tablă de şah, iar copiii jucau şah. Erau chiar foarte bune. Am făcut, aşadar, nişte roboţi experimentali, am vrut să-i introducem în producţie, dar ne-am trezit cam târziu, pe urmă au apărut PC-urile şi au “omorât” roboţii ăştia de jucat şah, toate programele trecând pe PC. În ultimii ani am recidivat, ca să zic aşa, în această programare a şahului, dar pe calculatoare ultramoderne. Am făcut programe noi, mult mai performante.
+VD: Acel program a fost făcut pe un calculator mare - Felix. Pe urmă am vrut să facem roboţi de jucat şah. Pentru că a fost o epocă în care apăruseră din vest nişte cutii mici, cu tastatură, cu o tablă de şah, iar copiii jucau şah. Erau chiar foarte bune. Am făcut, aşadar, nişte roboţi experimentali, am vrut să-i introducem în producţie, dar ne-am trezit cam târziu, pe urmă au apărut PC-urile şi au „omorât” roboţii ăştia de jucat şah, toate programele trecând pe PC. În ultimii ani am recidivat, ca să zic aşa, în această programare a şahului, dar pe calculatoare ultramoderne. Am făcut programe noi, mult mai performante.
 
 OB: Haideţi să revenim puţin la anii  ‘70-‘80, când dumneavoastră lucraţi la Institutul pentru Tehnică de Calcul (ITC). Era o noutate, bănuiesc, pentru acea perioadă.
 
@@ -70,9 +70,9 @@ VD: Primele calculatoare au fost cumpărate din Franţa, apoi imediat au fost as
 
 OB: De ce a acceptat Ceauşescu să aducă aceste noutăţi absolute dintr-un Occident pe care-l considera nociv ?
 
-VD: A fost o perioadă de avânt, necesară după epoca Gheorghiu Dej, între anii 1970-1978, până spre 1980, în care s-au împrumutat foarte mulţi bani pentru dezvoltare. S-a investit mult, s-au construit fabrici. “Dacia” a devenit o emblemă, tehnica de calcul părea că este în expansiune; o perioadă înfloritoare aş putea spune.
+VD: A fost o perioadă de avânt, necesară după epoca Gheorghiu Dej, între anii 1970-1978, până spre 1980, în care s-au împrumutat foarte mulţi bani pentru dezvoltare. S-a investit mult, s-au construit fabrici. „Dacia” a devenit o emblemă, tehnica de calcul părea că este în expansiune; o perioadă înfloritoare aş putea spune.
 
-Pe urmă, cam din ‘80, Ceauşescu a început să exagereze. A decis să plătească datoria externă, deşi nu era foarte mare. A înfiinţat fabrici care nu trebuiau - nişte mamuţi slab productivi şi cu o tehnologie proastă. El nu a înţeles că tehnologia se va schimba. Noi ne-am ocupat de industrializarea aceasta care presupunea un consum uriaş de energie şi de resurse. Tehnologia electronică şi cea de tehnică de calcul a îmbătrânit foarte rapid. Din ‘80 şi până în ‘89 noi am trăit cu o tehnologie “vie” numai la noi. În Vest totul se schimbase. Calculatoarele arătau cu totul altfel, se trecuse la PC-uri.
+Pe urmă, cam din ‘80, Ceauşescu a început să exagereze. A decis să plătească datoria externă, deşi nu era foarte mare. A înfiinţat fabrici care nu trebuiau - nişte mamuţi slab productivi şi cu o tehnologie proastă. El nu a înţeles că tehnologia se va schimba. Noi ne-am ocupat de industrializarea aceasta care presupunea un consum uriaş de energie şi de resurse. Tehnologia electronică şi cea de tehnică de calcul a îmbătrânit foarte rapid. Din ‘80 şi până în ‘89 noi am trăit cu o tehnologie „vie” numai la noi. În Vest totul se schimbase. Calculatoarele arătau cu totul altfel, se trecuse la PC-uri.
 
 Televizoarele, radiourile noastre arătau ca nişte fosile, pe când în Vest totul evolua rapid.
 
@@ -100,11 +100,11 @@ VD: Două milioane de dolari.
 OB: După introducerea tehnicii de calcul în România s-a înregistrat un progres rapid în acest domeniu, au apărut secţii specializate în universităţi?
 
 VD: Economia cerea din ce în ce mai mult calculatoare, iar fabricile de calculatoare făceau cu greu faţă acestei cereri. Erau liste de aşteptare, se dădeau şi pe pile. Erau unele fabrici atât de puternice, încât foloseau şi tehnologie din Vest, cum era cazul Combinatului Siderurgic Galaţi - mândria ţării. Aici partidul aproba aducerea de calculatoare din afară, pentru că trebuiau să aibă o fiabilitate deosebită.
-Această dezvoltare a calculatorului antrena şi dezvoltarea cercetării la nivel de facultăţi. Edmond Nicolau şi Mariana Beliş erau renumiţi la acea vreme prin aceea că propovăduiau să zicem aşa “neuronizarea” - adică să facem neuroni artificiali. Au definit conceptul, dar nu s-a putut implementa în producţie. Calculatoarele au arătat că folosirea logicii trebuie făcută nu aşa cum au gândit pionierii noştri. Pentru că un calculator nu putea gândi simultan şapte acţiuni. Majoritatea calculatoarelor, în special cele vechi, gândeau o singură acţiune: adunau sau scădeau, spre exemplu, dar foarte repede. Şi când terminau, încă un program, în paralel, putea face altceva.
+Această dezvoltare a calculatorului antrena şi dezvoltarea cercetării la nivel de facultăţi. Edmond Nicolau şi Mariana Beliş erau renumiţi la acea vreme prin aceea că propovăduiau să zicem aşa „neuronizarea” - adică să facem neuroni artificiali. Au definit conceptul, dar nu s-a putut implementa în producţie. Calculatoarele au arătat că folosirea logicii trebuie făcută nu aşa cum au gândit pionierii noştri. Pentru că un calculator nu putea gândi simultan şapte acţiuni. Majoritatea calculatoarelor, în special cele vechi, gândeau o singură acţiune: adunau sau scădeau, spre exemplu, dar foarte repede. Şi când terminau, încă un program, în paralel, putea face altceva.
 
 OB: Cum a venit povestea cu exportul de tehnică de calcul românească în China, în condiţiile în care aceasta nu era deloc competitivă?
 
-VD: China, fiind sub embargo în acea perioadă, nu primea nimic din Vest. Ei nu aveau calculatoare. Şi atunci, prin noi, China a început să beneficieze de calculatoare. Erau calculatoare fabricate în România, cu piese mai din Vest, mai de-ale noastre, Felix-uri din acelea grele. Plecau către China câte două-trei avioane cu un singur calculator. Chinezii le introduceau în centrele cele mai puternice: în academii, în fabrica de radiouri, în fabrica de avioane, în planificarea de stat şi făceau treabă cu ele. Erau sute de chinezi în jurul lor, programau şi scoteau randament maxim. Costurile cu aceste calculatoare se amortizau repede, fiind “creierul” unei ţări foarte mari. Şi noi primeam în schimb tone de bumbac, de orez; un fel de troc.
+VD: China, fiind sub embargo în acea perioadă, nu primea nimic din Vest. Ei nu aveau calculatoare. Şi atunci, prin noi, China a început să beneficieze de calculatoare. Erau calculatoare fabricate în România, cu piese mai din Vest, mai de-ale noastre, Felix-uri din acelea grele. Plecau către China câte două-trei avioane cu un singur calculator. Chinezii le introduceau în centrele cele mai puternice: în academii, în fabrica de radiouri, în fabrica de avioane, în planificarea de stat şi făceau treabă cu ele. Erau sute de chinezi în jurul lor, programau şi scoteau randament maxim. Costurile cu aceste calculatoare se amortizau repede, fiind „creierul” unei ţări foarte mari. Şi noi primeam în schimb tone de bumbac, de orez; un fel de troc.
 
 OB: Aţi fost în China, să-i ajutaţi?
 
@@ -134,7 +134,7 @@ La noi e nevoie. Fiind încă foarte naturali şi proaspeţi, noi încă ne băg
 
 REPERE BIOGRAFICE
 
-Născut în Moldoviţa, jud. Suceava, Viorel Darie a absolvit Facultatea de Matematică a Universităţii “Al. I Cuza” din Iaşi în 1973. După terminarea studiilor a fost angajat în Institutul de Tehnică de Calcul din Bucureşti, înfiinţat în 1969. A lucrat mai întâi ca matematician, apoi ca cercetător, numărându-se printre vârfurile din domeniul tehnicii de calcul din acei ani. A plecat din Institut în 1992, după ce tehnologia din Occident a invadat întreaga piaţă de profil din România. A lucrat în domeniul bancar iar în prezent este programator de aplicaţii pentru calculator la TVR.
+Născut în Moldoviţa, jud. Suceava, Viorel Darie a absolvit Facultatea de Matematică a Universităţii „Al. I Cuza” din Iaşi în 1973. După terminarea studiilor a fost angajat în Institutul de Tehnică de Calcul din Bucureşti, înfiinţat în 1969. A lucrat mai întâi ca matematician, apoi ca cercetător, numărându-se printre vârfurile din domeniul tehnicii de calcul din acei ani. A plecat din Institut în 1992, după ce tehnologia din Occident a invadat întreaga piaţă de profil din România. A lucrat în domeniul bancar iar în prezent este programator de aplicaţii pentru calculator la TVR.
 
 Este cunoscut drept realizatorul celui dintâi program de şah pe calculator din ţară.
 

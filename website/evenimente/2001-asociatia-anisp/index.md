@@ -27,7 +27,7 @@ comunicații electronice (inclusiv Internet)” în România.
 
 La 4 septembrie 2003, ANISP înregistreaza modificarea statutului,
 care semnifica extinderea obiectului de activitatea la întregul
-domeniu al “retelelor si serviciilor de comunicații electronice”,
+domeniu al „retelelor si serviciilor de comunicații electronice”,
 în conformitate cu noul cadru de reglementare implementat în România,
 aliniat la cel european.
 

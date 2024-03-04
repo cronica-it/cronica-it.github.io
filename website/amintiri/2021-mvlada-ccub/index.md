@@ -19,7 +19,7 @@ event_date: '2021'
 ## Cuprins
 
 - Prefaţă 11
-- Capitolul 1 - Secția de “Mașini de calcul” de la Facultatea de Matematică 15
+- Capitolul 1 - Secția de „Mașini de calcul” de la Facultatea de Matematică 15
   - 1.1 Aniversare - 60 de ani de la înființarea secției „Mașini de calcul”  16
   - 1.2 Promoțiile secției „MAȘINI DE CALCUL”  19
   - 1.3 Promoția „MAȘINI DE CALCUL” 1970 31
