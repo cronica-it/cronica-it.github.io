@@ -21,9 +21,13 @@ CCAB era de fapt  fosta Secție Specială a ITC
 transformată într-o entitate separată.
 
 Folosindu-se cele două  minicalculatoare DEC din seria
-PDP 11 achiziționate în 1976,
-la CCAB a fost realizat calculatorul **CE 400** compatibil PDP 11/34 în tehnologie AUGAT (Petre Cergan) şi **CBEX** (Calculator de Bord Experimental),
+PDP 11 achiziționate în 1976, la Secția Specială/CCAB
+a fost realizat calculatorul **CE 400** compatibil PDP 11/34 în tehnologie AUGAT (Petre Cergan) şi **CBEX** (Calculator de Bord Experimental),
 compatibil PDP 11/10.
+
+> Având deplina colaborare şi aprobare a conducerii ITC, la cererea
+INCREST în 1977-1979 am inițiat în ITC lucrarea: ”Minicalculator de bord
+numeric pentru aplicații aerospațiale”. [Ioan Tutoveanu]
 
 CBEX era un calculator relativ puternic, cu viteză deosebită, organizat cu un
 cuvânt de microprogramare de 64 de biți în tehnologia AMD bit-slice.
@@ -43,7 +47,7 @@ calculatorul CBEX a fost testat la bordul navei comerciale
 
 CCAB avea să fie dotat cu o unitate de microproducție puternică,
 care asigura o independență a mijloacelor de producție față de cele ale
-Fabricii de calculatoare.
+Fabricii de Calculatoare.
 
 În 1986 s-a produs o reorganizare la nivelul CCAB, iar ca director a fost
 numit Adrian Stoica.
@@ -53,6 +57,10 @@ microcalculatorul **CE 119**, (bazat pe L/B 881 în varianta cu CP/M,
 folosit cu succes ca editor de texte în limba română),
 și în 1988-1989 o mașină telex
 bazată pe L883 Turbo.
+
+După 1990 înzestrarea armatei a stabilit o altă politică, iar
+comenzile nu au mai venit. S-a produs de facto desființarea CCAB-ului
+pentru scopul pentru care fusese înființat și gândit cu 10 ani înainte.
 
 ## Referințe
 
