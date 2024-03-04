@@ -39,3 +39,7 @@ Până în 1989 s-au fabricat cca 15 bucăţi.
 - INDIE ICPE-CA: _**Revista de istorie a electrotehnicii românești**_, Vol. 5, Nr. 1-2 (arhivat [local](https://cronica-it.github.io/arhiva/#2019))
 - Viorel Darie, Petre Rău: _**Amintiri din epoca Felix a calculatoarelor româneşti**_ Editura InfoRapArt, Galați 2011, (arhivat [local](https://cronica-it.github.io/arhiva/#2011))
 - [marketwatch.ro - ](http://www.marketwatch.ro/articol/13182/Scurta_istorie_a_informaticii_romanesti_(1957-1990)/pagina/2)
+
+## TODO
+
+De aflat mai multe informații. Era microprogrmat? Adresa 4 MB RAM?
