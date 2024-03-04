@@ -136,7 +136,7 @@ a fost preluat de nou creata societate „ITC Hardware”.
 - [ro.wikipedia.org - ITC](https://ro.wikipedia.org/wiki/Institutul_pentru_Tehnică_de_Calcul)
 - [Vasile Baltac: Cartea „Un Institut pentru istorie - Semicentenarul Institutului pentru Tehnică de Calcul (1968-2018)”](/amintiri/2018/vbaltac-carte-itc-50-ani/) (arhivat [local](https://cronica-it.github.io/arhiva/#2018))
 - [FELIX C-32](/evenimente/1973/calculatorul-felix-c-32/)
-- [FELIX C-512](/evenimente1977/calculatorul-felix-c-512/)
+- [FELIX C-512](/evenimente/1977/calculatorul-felix-c-512/)
 - [SESAM](/evenimente/1970/sistemul-sesam/)
 - [HELIOS](/evenimente/1982/sistemul-de-operare-helios/)
 - [FELIX C-8010](/evenimente/1982/calculatorul-felix-c-8010/)
