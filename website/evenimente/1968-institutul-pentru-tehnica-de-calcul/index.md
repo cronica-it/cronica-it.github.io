@@ -125,6 +125,11 @@ Nicolae Manea (MINOS).
 În perioada 1982-1985 a fost proiectat și omologat calculatorul FELIX C-8010,
 dar până la urmă nu a mai fost introdus în producție.
 
+La 1 iulie 1991, Mihai Rigani și Lucia Popescu au creat o societate comercială numită „Software ITC S.A.”, un fel de jumătate din vechiul institut ITC, cuprinzând activitatea de proiectare de software, societate cu capital majoritar de stat, dar și cu acțiuni pe care le puteau cumpăra angajații. Directoare plină a devenit Lucia Popescu, adjunct Mihai Rigani.
+
+Activitatea cu specific hardware a fost reorganizată și personalul
+a fost preluat de nou creata societate „ITC Hardware”.
+
 ## Referințe
 
 - [itc.ro - ITC](https://www.itc.ro)
