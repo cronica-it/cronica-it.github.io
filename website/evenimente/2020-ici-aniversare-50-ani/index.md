@@ -19,3 +19,4 @@ Cu această ocazie a apărut volumul **ICI București: 50 ani - Volum Aniversar 
 ## Referințe
 
 - ICI București: _**50 ani - Volum Aniversar - 1970-2020**_, Editura ICI, București 2020  (arhivat [local](https://cronica-it.github.io/arhiva/#2020))
+- [ICI](/evenimente/1970/institutul-central-informatica/)

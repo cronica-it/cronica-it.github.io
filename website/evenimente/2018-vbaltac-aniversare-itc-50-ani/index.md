@@ -23,3 +23,4 @@ Cu această ocazie a fost lansat și volumul „Un Institut pentru istorie - Sem
 - [atic.org - Un institut pentru istorie](https://www.atic.org.ro/itc50-aniversare-50-de-ani)
 - [Vasile Baltac: Cartea „Un Institut pentru istorie - Semicentenarul Institutului pentru Tehnică de Calcul (1968-2018)”](/amintiri/2018/vbaltac-carte-itc-50-ani/) (arhivat [local](https://cronica-it.github.io/arhiva/#2018))
 - [youtube.com](https://www.youtube.com/watch?v=dBqzY9XHsak)
+- [ITC](/evenimente/1968/institutul-pentru-tehnica-de-calcul/)
