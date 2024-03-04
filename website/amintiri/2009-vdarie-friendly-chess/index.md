@@ -1,6 +1,6 @@
 ---
 slug: 2009/vdarie-friendly-chess
-title: 'Viorel Darie - Manualul programului „Friendly Chess”'
+title: 'Viorel Darie - Programul de Șah „Friendly Chess”'
 authors: [vdarie]
 tags: [sah]
 
@@ -327,9 +327,19 @@ Pentru oamenii maturi, se pot face diverse lucruri atractive în program: divers
 
 Mai e de lucru...
 
+## Note
+
+Programul **Friendly Chess** a apărut cam în anul 2003, niște rudimente de program, cu fel de fel de încercări.
+
+Sursele programelor foarte vechi Astro-64 și Atom-64 nu s-au păstrat, deci am creat un cod nou, folosind capacitățile unui Intel 133 și Visual Studio.
+
+În anul 2009 m-am apucat mai serios de programul de șah Friendly Chess, pe un caculator mult mai performant, gen Pentium 4, apoi, recent, Intel I7-3770. Datele problemei s-au schimbat, puteam încerca experimente mult mai complexe, cum ar fi un repository uriaș, cam de 1Gb, în care țineam variantele deja analizate, și din care luam deja rezultatul studiat al unei poziții, când algoritmul mai întâlnea odată acea poziție.
+
+Personal, acestă teorie „repozitorii” nu mi-a adus cine știe ce beneficii, am renunțat la acest algoritm cu stocuri de mutări deja analizate. Am păstrat doar algoritmii uzuali în calculul mutării optime: Algoritmul „alpha-beta”, ordonarea corectă a mutărilor pe un nivel, înainte de generarea unor noi ramuri, tehnica mutărilor „killer”. De asemenea tehnica schimburilor în noduri terminale până la liniștirea poziției, când nu mai areau schimburi de piese. Cu aceste tehnici, probramul a inceput să joace analizând câte 6-12 seminuntări, să vadă mat-uri îndepartare, să fie cam de tăria unui candidat de maestru cu ELO 2200. Până la nivelul campionului mondial de program de șah cu ELO 3500... mai e cale lungă.
+
 ## Download
 
-O versiune a programului poate fi download-ată de la:
+Ultima versiune a programului poate fi download-ată de la:
 
 - https://github.com/cronica-it/vdarie-friendly-chess/releases
 
