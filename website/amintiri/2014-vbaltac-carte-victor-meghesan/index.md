@@ -10,8 +10,6 @@ event_date: '2014'
 
 ---
 
-import { PdfLink } from '@site/src/components/PdfLink';
-
 În anul 2014, la Editura InfoRapArt din Galați, a apărut cartea
 **Victor Megheșan - Un om, un profesionist, un manager - Evocări**.
 
@@ -77,5 +75,7 @@ Prof. Univ. Dr. Vasile Baltac<br/>
 Bucureşti, mai 2014
 
 ## Referințe
+
+import { PdfLink } from '@site/src/components/PdfLink';
 
 - Vasile Baltac (coordonator): _**Victor Megheșan - Un om, un profesionist, un manager - Evocări**_, Editura InfoRapArt, Galați 2014, (arhivat de la [vioreldarie.ro](https://www.vioreldarie.ro/Creatii/Vasile%20Baltac%20&%20colectiv%20-%20Victor%20Meghesan%20-%20Evocari%20Revizuit.pdf)) <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/2014/vbaltac-victor-meghesan-evocari-revizuit.pdf"/>

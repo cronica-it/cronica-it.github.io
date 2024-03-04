@@ -10,8 +10,6 @@ event_date: '2020'
 
 ---
 
-import { PdfLink } from '@site/src/components/PdfLink';
-
 În anul 2020, la Editura ICI București a apărut volumul **50 ani - Volum Aniversar - 1970-2020**.
 
 <!-- truncate -->
@@ -108,5 +106,7 @@ pentru colaborare.
   - Alte evenimente, din ultimele două decenii 308
 
 ## Referințe
+
+import { PdfLink } from '@site/src/components/PdfLink';
 
 - ICI București: _**50 ani - Volum Aniversar - 1970-2020**_, Editura ICI, București 2020 (arhivat de la [ici.ro](https://www.ici.ro/documents/24/ICI_Bucuresti-50_ani_tdHL8av.pdf)) <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/2020/ici-bucuresti-50-ani.pdf"/>

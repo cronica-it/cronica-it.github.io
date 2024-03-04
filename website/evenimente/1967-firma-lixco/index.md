@@ -10,8 +10,6 @@ event_date: '1967'
 
 ---
 
-import { PdfLink } from '@site/src/components/PdfLink';
-
 În anul 1967, Nicoară (Lix) Paulian pune bazele a ceea ce avea să devină firma **Lixco**,
 prima inițiativă privată care (între altele) a comercializat un microcalculator în România.
 
@@ -95,6 +93,8 @@ Noua firmă din România nu mai era însă focusată pe produsele și clientela 
 În 2005, ATG a fost preluată de către firma austriacă **Metrilog Data Services GmbH** și redenumită **Metrilog Systems SRL**. În această formă, firma va funcționa până în anul 2011 când își înceteaza activitatea și este desființată.
 
 ## Referințe
+
+import { PdfLink } from '@site/src/components/PdfLink';
 
 - [Interviul lui Lix din qsl.ro](/amintiri/2010/lix-interviu-qsl-ro/)
 - [L/B 881](/evenimente/1983/calculatorul-lixco-lb-881/)

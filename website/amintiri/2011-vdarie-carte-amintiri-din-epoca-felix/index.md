@@ -10,8 +10,6 @@ event_date: '2011'
 
 ---
 
-import { PdfLink } from '@site/src/components/PdfLink';
-
 În anul 2011, la Editura InfoRapArt din Galați, Viorel Darie și Petre Rău au publicat cartea
 **Amintiri din epoca FELIX a calculatoarelor româneşti**.
 
@@ -104,5 +102,7 @@ Informatica are şi partea ei veselă 247
 Index 268
 
 ## Referințe
+
+import { PdfLink } from '@site/src/components/PdfLink';
 
 - Viorel Darie, Petre Rău: _**Amintiri din epoca Felix a calculatoarelor româneşti**_ Editura InfoRapArt, Galați 2011, (arhivat de la [vioreldarie.ro](https://www.vioreldarie.ro/Creatii/Amintiri%20din%20epoca%20FELIX%20a%20calculatoarelor%20romanesti.pdf)) <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/2011/vdarie-amintiri-din-epoca-felix-a-calculatoarelor-romanesti.pdf"/>

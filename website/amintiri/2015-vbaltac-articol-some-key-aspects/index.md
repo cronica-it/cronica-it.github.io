@@ -10,8 +10,6 @@ event_date: '2015'
 
 ---
 
-import { PdfLink } from '@site/src/components/PdfLink';
-
 În anul 2015, Vasile Baltac, Horia Gligor publică articolul **Some Key Aspects in the History of Computers in Romania**.
 
 <!-- truncate -->
@@ -30,5 +28,7 @@ Other countries in Eastern Europe decided to build a unified series of computers
 The paper reviews the link between political decisions and computer industry development and traces roots of the present IT development in the past. A case of professional restoration (MECIPT-1) is presented.
 
 ## Referințe
+
+import { PdfLink } from '@site/src/components/PdfLink';
 
 - Vasile Baltac, Horia Gligor: _**Some Key Aspects in the History of Computers in Romania**_ (arhivat de la [academia.edu](https://www.academia.edu/11555241/Some_Key_Aspects_in_the_History_of_Computers_in_Romania)) <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/2015/vbaltac-some-key-aspects-in-the-history-of-computing-in-romania.pdf"/>

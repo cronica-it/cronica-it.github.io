@@ -10,8 +10,6 @@ event_date: '1985'
 
 ---
 
-import { PdfLink } from '@site/src/components/PdfLink';
-
 În anul 1985, la Editura Tehnică București, a apărut
 lucrarea în două volume **Totul despre calculatorul... aMic**.
 
@@ -42,6 +40,8 @@ Sunt incluse programe de testare și indicații de depanare, ca și referiri con
 Editura Tehnică se mândrește cu activitatea sa de pionierat în sprijinirea introducerii intensive a calculatoarelor personale românești și recomandă cu căldură consultarea acestei cărți din noul ciclu „Totul despre...”, ca și a altor cărți de informatică, inclusiv a volumelor din seria continuă AMC (Automatică-Management-Calculatoare).
 
 ## Referințe
+
+import { PdfLink } from '@site/src/components/PdfLink';
 
 - A. Petrescu și alții: _**Totul despre calculatorul... aMic**_ Vol.1, Editura Tehnică, București 1985 (arhivat de la [google.com/site/georgechirtoaca](https://sites.google.com/site/georgechirtoaca/documentation)) <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/1985/apetrescu-totul-despre-calculatorul-personal-amic-vol-1.pdf"/>
 - A. Petrescu și alții: _**Totul despre calculatorul... aMic**_ Vol.2, Editura Tehnică, București 1985 (arhivat de la [google.com/site/georgechirtoaca](https://sites.google.com/site/georgechirtoaca/documentation)) <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/1985/apetrescu-totul-despre-calculatorul-personal-amic-vol-2.pdf"/>

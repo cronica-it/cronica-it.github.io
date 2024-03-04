@@ -10,8 +10,6 @@ event_date: '2023'
 
 ---
 
-import { PdfLink } from '@site/src/components/PdfLink';
-
 În anul 2023, la Editura ICI, a apărut volumul **30 de ani de Internet în România - Oameni, momente și imagini**, realizat cu ocazia conferinței CNIV 2023.
 
 <!-- truncate -->
@@ -53,8 +51,9 @@ unul dintre primii elevi ai Profesorului Grigore C Moisil (Dr Stelian Niculescu)
 30. Internetul – un salt cuantic care a schimbat lumea De la „Satul Global” al lui Marshall McLuhan la Viata „virtuală”de azi, nici un domeniu al vieții, economiei și culturii nu a rămas neatins (Mihaela Gorodcov)  227
 31. Calitatea vieții digitale a României - pe locul 14 la nivel global, cu o accesibilitate imbatabilă a internetului fix, la 30 de ani de la lansarea Internetului în ţara noastră (Ion Vaciu)  233
 
-
 ## Referințe
 
-- Radu Jugureanu: _**30 de ani de Internet în România - Oameni, momente și imagini**_, Editura ICI, 2023 (arhivat de la [cnivro](https://cnivro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQgpdf)) <PdfLink href="https://githubcom/cronica-it/arhiva/releases/download/2023/radujugu-cniv-volum-aniversar-2023-versiune-onlinepdf"/>
+import { PdfLink } from '@site/src/components/PdfLink';
+
+- Radu Jugureanu: _**30 de ani de Internet în România - Oameni, momente și imagini**_, Editura ICI, 2023 (arhivat de la [cnivro](https://cnivro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQgpdf)) <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/2023/radujugu-cniv-volum-aniversar-2023-versiune-online.pdf"/>
 - [Conferința „CNIV 2023 - 30 de ani de Internet în România”](/evenimente/2023/conferinta-cniv-30-ani-internet)

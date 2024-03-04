@@ -10,8 +10,6 @@ event_date: '2021'
 
 ---
 
-import { PdfLink } from '@site/src/components/PdfLink';
-
 În anul 2021, la Editura Matrix Rom, București 2021, în cadrul proiectului _ROINFO 2018-2022 – O istorie ce trebuie cunoscută_ apare volumul **Centrul de Calcul al Universității din București (CCUB), prima unitate de informatică înființată în România**.
 
 <!-- truncate -->
@@ -42,5 +40,7 @@ import { PdfLink } from '@site/src/components/PdfLink';
 - Bibliografie  243
 
 ## Referințe
+
+import { PdfLink } from '@site/src/components/PdfLink';
 
 - Marin Vlada, Ion Văduva: _**Centrul de Calcul al Universității din București (CCUB), prima unitate de informatică înființată în România**_, Editura Matrix Rom, București 2021 (arhivat de la [crifst.ro](https://www.crifst.ro/carte/o-istorie-ce-trebuie-cunoscuta-centrul-de-calcul-al-universitatii-din-bucuresti-ccub-prima-unitate-de-informatica-infiintata-in-romania/)) <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/2021/mvlada-ccub-prima-unitate-de-informatica.pdf"/>

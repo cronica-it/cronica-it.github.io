@@ -10,8 +10,6 @@ event_date: '2011'
 
 ---
 
-import { PdfLink } from '@site/src/components/PdfLink';
-
 În anul 2011, Editura AGIR începe să publice seria de volume **Electronica românească, o istorie trăită**.
 
 <!-- truncate -->
@@ -47,6 +45,8 @@ Avand in vedere ca volumul V a depasit 1100 pag. am hotarat, ca din motive tehni
 La scrierea celor 5 volume au participat peste 140 de autori. Intre acestia sunt dl. Dan Dascalu - academician, dl Constantin Bulucea - membru de onoare al Academiei Romane si IEEE life fellow, doi fosti ministri, dl ing. Gheorghe Airinei si dl. prof. dr. ing. Nicolae Dragulanescu trei fosti ministri adjuncti: dr. ing. Jean Constantinescu, prof. dr. ing. Vasile Baltac si prof. dr. ing. Florin Teodor Tanasescu, 13 profesori universitari, 11 doctori in stiinte si multi alti ingineri - fosti directori tehnici, sefi de sectii si specialisti de marca din uzine si institute de cercetari. In SUMARUL volumelor I-IV este dat Cuprinsul sumar al primelor 4 volume si Lista integrala a autorilor.
 
 ## Referințe
+
+import { PdfLink } from '@site/src/components/PdfLink';
 
 - D.F.Lăzăroiu, Nona Millea (coordonatori): _**Electronica românească, o istorie trăită**_ Vol. 1, Editura AGIR (agir.ro)[https://www.agir.ro/carte/electronica-romaneasca-o-istorie-traita-voli-111099.html] <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/2011/agir-electronica-romaneasca-o-istorie-traita-vol-1.pdf"/>
 - Nona Millea (coordonatori): _**Electronica românească, o istorie trăită**_ Vol. 2, Editura AGIR [agir.ro](https://www.agir.ro/carte/electronica-romaneasca-o-istorie-traita-vol2-electronica-profesionala-121592.html) [si](https://www.edituraagir.ro/detalii.php?id=182) <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/2013/agir-electronica-romaneasca-istorie-traita-vol-2.pdf"/>

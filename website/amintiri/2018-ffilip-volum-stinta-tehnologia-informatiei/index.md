@@ -10,8 +10,6 @@ event_date: '2018'
 
 ---
 
-import { PdfLink } from '@site/src/components/PdfLink';
-
 În anul 2018, la Editura Academiei Române apare volumul 12 din seria _Civilizația Românească_, intitulat **Ştiinţa şi tehnologia informaţiei în România**.
 
 <!-- truncate -->
@@ -35,5 +33,7 @@ import { PdfLink } from '@site/src/components/PdfLink';
 Indice de nume  447
 
 ## Referințe
+
+import { PdfLink } from '@site/src/components/PdfLink';
 
 - Florin G. Filip (coordonator): **Ştiinţa şi tehnologia informaţiei în România**, Editura Academiei Române, 2018 (arhivat de la [acad.ro](https://acad.ro/bdar/STI/sti.html)) <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/2018/ffilip-stiinta-si-tehnologia-informatiei-in-romania-d0526-sti-romania-665.pdf"/>

@@ -10,8 +10,6 @@ event_date: '1982'
 
 ---
 
-import { PdfLink } from '@site/src/components/PdfLink';
-
 În anul 1982, la Editura Militară București, Cristian Lupu, Vlad Țepelea și Emil Purice au publicat
 cartea **Microprocesoare - Aplicații**.
 
@@ -188,5 +186,6 @@ Mihai Drăgănescu, membru corespondent al Academiei Republicii Socialiste Româ
 
 ## Referințe
 
-- Cristian Lupu, Vlad Țepelea, Emil Purice: _**Microprocesoare - Aplicații**_, Editura Militară, București 1982 (arhivat de la [z80-romania.ro](https://www.z80-romania.ro/1982_Microprocesoare_Aplicatii-207)) <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/1982/clupu-microprocesoare-aplicatii.pdf"/>
+import { PdfLink } from '@site/src/components/PdfLink';
 
+- Cristian Lupu, Vlad Țepelea, Emil Purice: _**Microprocesoare - Aplicații**_, Editura Militară, București 1982 (arhivat de la [z80-romania.ro](https://www.z80-romania.ro/1982_Microprocesoare_Aplicatii-207)) <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/1982/clupu-microprocesoare-aplicatii.pdf"/>

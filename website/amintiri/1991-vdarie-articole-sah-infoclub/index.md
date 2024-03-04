@@ -10,8 +10,6 @@ event_date: '1991-07'
 
 ---
 
-import { PdfLink } from '@site/src/components/PdfLink';
-
 În anul 1991, Viorel Darie a publicat în numerele 1-4 ale revistei INFOCLUB
 o serie de articole intitulate **Șah Computer**.
 
@@ -40,5 +38,7 @@ Mihaela Gorodcov, datorită calităților ei, a avansat în funcții, în anul 1
 Ca să citiți acel grup de articole publicat în revista INFOCLUB, deschideți link-ul de mai jos.
 
 ## Referințe
+
+import { PdfLink } from '@site/src/components/PdfLink';
 
 - Viorel Darie: _**Șah Computer**_ (scan al articolului din revista INFOCLUB, 1991, numerele 1-4) <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/1991/vdarie-revista-infoclub-91-sah-calculator.pdf"/>

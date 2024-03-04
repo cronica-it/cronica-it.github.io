@@ -10,8 +10,6 @@ event_date: '2012'
 
 ---
 
-import { PdfLink } from '@site/src/components/PdfLink';
-
 În 2012, Henri Boucher publică în Franța o serie de 6 volume **Catalogue Informatique**.
 
 <!-- truncate -->
@@ -21,6 +19,8 @@ import { PdfLink } from '@site/src/components/PdfLink';
 Seria este relevantă pentru România prin istoria firmei _Compagnie internationale pour l'informatique_ (CII) de la care a fost preluată licența pentru seria de calculatoare IRIS 50.
 
 ## Referințe
+
+import { PdfLink } from '@site/src/components/PdfLink';
 
 - Henri Boucher: _**Catalogue Informatique - Vol. A**_ (arhivat de la [aconit.org](https://www.aconit.org/histoire/iga_boucher/)) <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/2012/hboucher-catalog-informatique-vol-a-0-300.pdf"/>
 - Henri Boucher: _**Catalogue Informatique - Vol. B**_ (arhivat de la [aconit.org](https://www.aconit.org/histoire/iga_boucher/)) <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/2012/hboucher-catalog-informatique-vol-b-301-338.pdf"/>
