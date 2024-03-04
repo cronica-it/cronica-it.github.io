@@ -327,6 +327,22 @@ Pentru oamenii maturi, se pot face diverse lucruri atractive în program: divers
 
 Mai e de lucru...
 
+## Download
+
+O versiune a programului poate fi download-ată de la:
+
+- https://github.com/cronica-it/vdarie-friendly-chess/releases
+
+Programul funcționează pe Windows, dar la versiunile mai noi are o problemă
+de redraw a ferestrei, și butoanele de pe bara de sus nu sunt întotdeauna
+vizibile.
+
+## Surse
+
+Sursele programului sunt disponibile la:
+
+- https://github.com/cronica-it/vdarie-friendly-chess
+
 ## Referințe
 
 - [vioreldarie.ro - Friendly Chess (Programul Prietenos de Șah) - Utilizare](http://vioreldarie.ro/Sah/Friendly%20Chess%20-%20Manual%20Utilizare%2022%2004%202010.htm)
