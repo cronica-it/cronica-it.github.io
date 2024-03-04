@@ -1,6 +1,6 @@
 ---
 slug: 2023/radujugu-volum-30-ani-internet
-title: 'Radu Jugureanu - Volumul „30 de ani de Internet în România - Oameni, momente și imagini”'
+title: 'Radu Jugureanu - Volumul „30 de ani de Internet în România - Oameni, momente și imagini” de la CNIV 2023'
 authors: [radujugu]
 tags: [volume, internet]
 
@@ -12,7 +12,7 @@ event_date: '2023'
 
 import { PdfLink } from '@site/src/components/PdfLink';
 
-În anul 2023, la Editura ICI, a apărut volumul **30 de ani de Internet în România - Oameni, momente și imagini**.
+În anul 2023, la Editura ICI, a apărut volumul **30 de ani de Internet în România - Oameni, momente și imagini**, realizat cu ocazia conferinței CNIV 2023.
 
 <!-- truncate -->
 
@@ -57,3 +57,4 @@ unul dintre primii elevi ai Profesorului Grigore C Moisil (Dr Stelian Niculescu)
 ## Referințe
 
 - Radu Jugureanu: _**30 de ani de Internet în România - Oameni, momente și imagini**_, Editura ICI, 2023 (arhivat de la [cnivro](https://cnivro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQgpdf)) <PdfLink href="https://githubcom/cronica-it/arhiva/releases/download/2023/radujugu-cniv-volum-aniversar-2023-versiune-onlinepdf"/>
+- [Conferința „CNIV 2023 - 30 de ani de Internet în România”](/evenimente/2023/conferinta-cniv-30-ani-internet)
