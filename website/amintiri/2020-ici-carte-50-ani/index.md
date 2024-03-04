@@ -16,6 +16,8 @@ import { PdfLink } from '@site/src/components/PdfLink';
 
 <!-- truncate -->
 
+---
+
 ## Cuvânt înainte
 
 Volumul de față este dedicat unui eveniment remarcabil în viața ICI București –

@@ -16,6 +16,8 @@ import { PdfLink } from '@site/src/components/PdfLink';
 
 <!-- truncate -->
 
+---
+
 ## Cuprins
 
 1. Cuvânt înainte de INTERNET (Prof Radu Jugureanu)  7

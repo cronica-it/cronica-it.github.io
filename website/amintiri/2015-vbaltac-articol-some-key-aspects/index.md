@@ -16,6 +16,8 @@ import { PdfLink } from '@site/src/components/PdfLink';
 
 <!-- truncate -->
 
+---
+
 ## Abstract
 
 Computers in Eastern Europe were built in the 1950-1960s not very long after the first computers launched in USA and Western Europe. The paper presents a chronology of Eastern European first generation of computers compared with the chronology of Western first generation computers.

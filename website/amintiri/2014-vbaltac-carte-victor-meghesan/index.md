@@ -17,6 +17,8 @@ import { PdfLink } from '@site/src/components/PdfLink';
 
 <!-- truncate -->
 
+---
+
 ## Prefaţă
 
 **Victor Megheşan - parte a istoriei TI din

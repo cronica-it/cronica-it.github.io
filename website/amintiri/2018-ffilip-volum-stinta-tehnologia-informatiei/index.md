@@ -16,6 +16,8 @@ import { PdfLink } from '@site/src/components/PdfLink';
 
 <!-- truncate -->
 
+---
+
 ## Cuprins
 
 - Autori  VII

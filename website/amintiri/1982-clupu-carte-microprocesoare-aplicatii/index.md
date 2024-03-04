@@ -17,6 +17,8 @@ cartea **Microprocesoare - Aplicații**.
 
 <!-- truncate -->
 
+---
+
 ## Cuprins
 
 - Prefață IX

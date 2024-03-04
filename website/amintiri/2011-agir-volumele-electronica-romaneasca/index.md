@@ -16,6 +16,8 @@ import { PdfLink } from '@site/src/components/PdfLink';
 
 <!-- truncate -->
 
+---
+
 Scopul lucrării este de a face cunoscute realizările industriei electronice românești, care a apărut pe plan mondial în primul deceniu al secolului XX, iar la noi în țară în cel de al treilea deceniu - deși sub aspect teoretic specialiștii au abordat domeniul practic simultan cu cei din vest.
 
 ## Volumul I (2011)
