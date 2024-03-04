@@ -12,7 +12,7 @@ event_date: '2011'
 
 import { PdfLink } from '@site/src/components/PdfLink';
 
-În anul 2011, la Editura InfoRapArt din Galați, Viorel Darie și Petre Rău au publicat cartea 
+În anul 2011, la Editura InfoRapArt din Galați, Viorel Darie și Petre Rău au publicat cartea
 **Amintiri din epoca FELIX a calculatoarelor româneşti**.
 
 <!-- truncate -->
