@@ -38,7 +38,7 @@ Acest program, după cum spune și numele lui „Friendly Chess” (Program Prie
 
 ## Cum se instaleaza programul de șah
 
-`FriendlyChess.zip`, odată procurat de pe internet sau pe un CD, are nevoie de circa 500Mb de spațiu pe disc, de un calculator cu cel putin 128 Mb de memorie, cu un procesor oarecare, dar cu cât procesorul este mai rapid, cu atât programul gândește mai repede. În fine, e de preferat ca ecranul să fie color, setat pe rezoluția de 1024 x 768, sau altele cu care tabla este pătrată, pixelii să aibă 32 biți culoare. Cam toate calculatoarele care se vând astăzi au aceste caracteristici.
+`friendly-chess.zip`, odată procurat de pe internet, are nevoie de circa 500Mb de spațiu pe disc, de un calculator cu cel putin 128 Mb de memorie, cu un procesor oarecare, dar cu cât procesorul este mai rapid, cu atât programul gândește mai repede. În fine, e de preferat ca ecranul să fie color, setat pe rezoluția de 1024 x 768, sau altele cu care tabla este pătrată, pixelii să aibă 32 biți culoare. Cam toate calculatoarele care se vând astăzi au aceste caracteristici.
 
 Copiați intr-un director dorit conținutul ZIP-ului, apoi alegeți fișierul `FriendlyChess.exe` și creați un shortcut pe ecran.
 
