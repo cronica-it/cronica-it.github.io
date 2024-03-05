@@ -40,6 +40,11 @@ Echipa care a primit sarcina să pună în funcţiune cele două calculatoare IR
 
 > „Aceste IRIS 50 reprezentau tehnologia cea mai avansată de atunci, cu TTL-uri, cu cablaje dublă faţă cu găuri metalizate, wrapping; bineînţeles că erau erori de cablaj cât cuprinde, mai erau şi componente defecte. Punerea la punct a unui astfel de calculator dura şase luni. Echipa ICPUEC era, în mare, cea pe care am pomenit-o. Din echipa FEA făceau parte cei doi, care erau şcolarizaţi în Franţa, eu şi încă doi colegi stagiari ca şi mine, Andrei Gayraud şi Turcu Gheorghe. Echipa ICPUEC era compusă din şapte oameni, toţi şcolarizaţi câte 8 luni în Franţa; noi eram doar cinci la număr, din care trei proaspăt absolvenţi; atunci vedeam prima dată obiectele respective. A trebuit să punem mâna şi să citim pe rupte. După o lună, timp în care am parcurs manualele, ne-am apucat de treabă, pentru că era un fel de concurs: care dintre echipe termină mai repede şi mai bine. Erau nişte teste care, dacă erau trecute, calculatorul putea fi dat în exploatare. Echipa noastră a reuşit să pună prima la punct calculatorul IRIS; poate am avut şi puţin noroc, dar se spune că norocul ajută pe cei mai buni. Cel puţin, Călin Spiride şi Mihaela Ionescu erau cu totul deosebiţi“. [Mihu]
 
+> Au beneficiat și de sprijinul unui
+inginer CII detașat în România pentru asistență și au finalizat primul FELIX
+C-256 care a fost instalat într-o sală la parterul FEA numită imediat Centrul
+de calcul. [Baltac]
+
 Inițial calculatoarele IRIS au fost livrate cu discurile franceze Sperac, memorii Ampex, unități de bandă Ampez, imprimate Control Data. Discurie Sperac s-au dovenit nefiabile și ulterior au fost înlocuite cu discuri Control Data.
 
 Familia FELIX a folosit inițial sistemul de operare SIRIS 2, ulterior trecându-se la SIRIS 3.
