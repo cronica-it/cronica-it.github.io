@@ -2,7 +2,7 @@
 slug: 1983/calculatorul-apple-lisa
 title: 'Apple lansează calculatorul „Apple Lisa”'
 authors: [gserban, ilg-ul]
-tags: [international, calculatoare]
+tags: [international, calculatoare, apple]
 
 date: 2024-02-19T08:28:39
 

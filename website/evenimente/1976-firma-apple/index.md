@@ -2,7 +2,7 @@
 slug: 1976/firma-apple
 title: 'Steve Wozniak și Steve Jobs înființează firma „Apple Computer Company”'
 authors: [gserban, ilg-ul]
-tags: [international]
+tags: [international, firme, apple]
 
 date: 2023-12-29T20:10:03
 

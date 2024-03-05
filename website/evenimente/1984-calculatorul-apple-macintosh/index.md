@@ -2,7 +2,7 @@
 slug: 1984/calculatorul-apple-macintosh
 title: 'Firma Apple lansează calculatorul „Apple Macintosh”'
 authors: [gserban, ilg-ul]
-tags: [international]
+tags: [international, apple]
 
 date: 2023-12-29T21:33:38
 
