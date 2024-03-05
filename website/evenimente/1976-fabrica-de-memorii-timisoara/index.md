@@ -17,7 +17,7 @@ Timişoara**, o unitate autonomă în cadrul CIETC.
 
 Obiectul de activitate iniţial a fost
 fabricarea memoriilor pentru calculatoarele electronice. Primul produs a fost modulul
-memoriei cu ferite, cu o capacitate de 16 kB pentru calculatorele Felix – C 256
+memoriei cu ferite, cu o capacitate de 16 kB pentru calculatorele FELIX – C 256
 pentru care nu se cumpărase licenţă de la firma CII, fiindcă matricea cu ferite era
 realizată cu inele de ferită de 0,5 mm diametru exterior, tehnologia de fabricaţie fiind
 sub embargo – se utiliza în domeniul militar. Ulterior s-au fabricat memorii pentru
@@ -27,10 +27,32 @@ Fabrica de Memorii Electronice şi Componente pentru Tehnica de Calcul a fost
 singura fabrică specializată pe producţia de memorii din fostele ţări socialiste şi a
 exportat memorii în RDG şi URSS.
 
+Decizia înființării secției de producție în cadrul ITC Timișoara a fost luată
+în 1970, după darea în funcțiune a primului calculator la FEA/FCE.
+
+> Cea mai importantă vizită a fost în acel an cea a lui Ilie Verdeț, atunci prim
+viceprim-ministru. I-am prezentat calculatorul și la un moment dat am
+menționat că modulele de memorie nu sunt cuprinse în licență, dar că avem
+preocupări de cercetare în memorii cu ferite la Timișoara. Cineva din suită
+(Ioan Avram) mi-a zis cu o voce autoritară să vin imediat la dânsul cu o notă de
+fundamentare pentru fabricația memoriilor în țară.
+Am mers după câteva zile cu o notă și astfel s-a născut fabricația
+industrială de memorii electronice la Timișoara. [Baltac]
+
+Inițial s-au fabricat memorie cu ferite, cu diametrul de 1,2 mm, pentru masinile de
+facturat si contabilizat FC-15 si FC-30.
+
 Începând din 1976 s-au asimilat în fabricaţie blocurile de memorii cu module
-de capacităţi diferite: 16 kB. 32 kB şi 64 kB pe bază de know-how preluat de la firma
+de capacităţi diferite: 16 kB, 32 kB şi 64 kB pe bază de know-how preluat de la firma
 AMPEX, lideră în domeniu pe plan mondial, însă fără a cumpăra şi licenţa de
-fabricaţie.
+fabricaţie (ferite cu diametrul de 0,5 mm).
+
+> Pentru organizarea liniei de fabricație memorii cu ferite la Timișoara
+demarasem o cooperare industrială cu firma Ampex din SUA, de la care urma
+să achiziționăm anumite utilaje de fabricație. Linia lor de fabricație era în
+Hong Kong și am primit invitația împreună cu șeful Filialei Timișoara Walter
+Bernath să vedem la fața locului utilajele respective. Deplasarea a avut loc în
+> 1976. [Baltac]
 
 În 1978 a început fabricaţia de memorii semiconductoare MOS folosind un
 cip de 4 kB produs de ROBOTRON.
@@ -51,6 +73,12 @@ prototip realizat la ITC filiala Cluj.
 În paralel s-au mai realizat o serie de alte produse, ca de exemplu: dispozitive
 de comandă pentru roboţii de manipulare produşi la Electromotor şi pentru roboţii
 de vopsire asimilaţi la Electrotimiş.
+
+> În ianuarie 1990 se discuta crearea unor societăți mixte pentru centrale
+telefonice digitale. Eram în guvern și am orientat firma ALCATEL către
+FMECTC, cerând să existe și un nucleu de 20-30 software-iști.
+Așa s-a născut ALCATEL Timișoara, un adevărat succes, un rol decisiv
+revenindu-i lui Dan Bedros ca director general. [Baltac]
 
 După 1990 Fabrica s-a divizat în 2 unităţi:
 
