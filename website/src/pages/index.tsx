@@ -22,7 +22,7 @@ import Heading from '@theme/Heading';
 import { usePluginData } from '@docusaurus/useGlobalData';
 import logger from '@docusaurus/logger'
 
-import { ChronologyTable } from '@site/src/components/ChronologyTable';
+import { ChronologyTables } from '@site/src/components/ChronologyTables';
 
 import styles from './index.module.css';
 
@@ -61,7 +61,7 @@ export default function Home(): JSX.Element {
       description={`${siteConfig.tagline}`}>
       <HomepageHeader />
       <main>
-        <ChronologyTable items={pluginData.chronologyRecords} />
+        <ChronologyTables items={pluginData.chronologyRecords} />
       </main>
     </Layout>
   );
