@@ -32,7 +32,7 @@ productivă din ţară în care Inspectoratul General de Stat pentru Calitatea P
 nu avea delegat.
 
 Primul director a fost Călin Spiride.
-ț
+
 Producţia Rom Control Data a constat din:
 
 - Cititoare de cartele perforate;
