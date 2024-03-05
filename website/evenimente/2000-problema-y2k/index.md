@@ -1,6 +1,6 @@
 ---
 slug: 2000/problema-y2k
-title: 'Omenirea trece cu bine în noul mileniu'
+title: 'Omenirea trece cu bine în anul 2000'
 authors: [ilg-ul]
 tags: [international]
 
@@ -10,7 +10,7 @@ event_date: '2000-01-01'
 
 ---
 
-Omenirea trece cu bine în noul mileniu, problemele de schimbare a
+Omenirea trece cu bine în anul 2000, problemele de schimbare a
 datei fiind minime.
 
 <!-- truncate -->
