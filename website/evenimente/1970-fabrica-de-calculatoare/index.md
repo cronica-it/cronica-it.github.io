@@ -67,13 +67,28 @@ Noul sediu al Fabricii de Calculatoare a fost pus în funcţiune la 1 ianuarie 1
 
 Producția a început cu calculatorul **FELIX C-256**, primul calculator din familia IRIS al firmei CII. Capacitatea de producție era de cca. 35 de unităţi FELIX C-256 pe an. [Mihu]
 
-Apoi a intrat în fabricaţie **FELIX C-32**, cu o capacitate de memorie mai mică (32kB). Mai târziu a intrat în producție și **FELIX C-64**. Au fost produse și
+În 1973 a intrat în fabricaţie **FELIX C-32**, cu o capacitate de memorie mai mică (32kB). Mai târziu a intrat în producție și **FELIX C-64**. Au fost produse și
 variantele M (mobile) 32M/64M, cu utilizări militare.
+
+> În perioada 1971-1974 am participat și eu la câteva delegații în Iran,
+Kuweit, India încercând să exportăm FELIX C-256. În Iran și Kuweit am fost
+împreună cu Emil Munteanu, în India cu Walter Bernath. [Baltac]
+
+În 1975, primul FELIX C-256 este exportat în China.
+
+> În 1975 am predat un curs de structura FELIX C-256 la Institutul de
+Aeronautică din Beijing unde se exportase un calculator. [Baltac]
 
 În 1977 a început producția sistemelor **FELIX C-512** (cu 512kB de memorie), după un proiect realizat
 la ITC.
 
 Aceste modele au fost produse în paralel pentru că ele intrau în dotarea unor obiective economice care aveau nevoi diferite din punct de vedere al capacităţii de calcul.
+
+> În 1978, o echipă formată din doi cercetători, Ion Căruțașu și Ioan
+Georgescu și reprezentantul ambasadei României în China am participat la
+negocieri pentru noi exporturi, care s-au soldat cu două contracte, un punct
+forte fiind oferta noastră de școlarizare la domiciliul beneficiarului chinez,
+plus calificativele bune de la contractele anterioare. [Ion Căruțașu]
 
 În 1979 au fost exportate în China două sisteme şi apoi încă două până în
 1981.
