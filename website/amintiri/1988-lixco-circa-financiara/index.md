@@ -1,6 +1,6 @@
 ---
 slug: 1988/lixco-circa-financiara
-title: 'Nicoară (Lix) Paulian - Experiența cu circa financiară, sau cum ne-au dat cu nomenclatoru'n cap'
+title: "Nicoară (Lix) Paulian - Experiența cu circa financiară, sau cum ne-au dat cu nomenclatoru'n cap"
 authors: [lixpaulian]
 tags: [lixco]
 
