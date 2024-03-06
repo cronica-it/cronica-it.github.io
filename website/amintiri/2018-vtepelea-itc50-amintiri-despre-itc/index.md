@@ -49,6 +49,10 @@ Apare acum oportunitatea adăugării unui periferic asemănător cu perforatorul
 
 Fac și eu parte deci din echipa care a conectat acest plotter la mașinile FELIX și adaptez cuplorul meu pentru perforator de bandă ca să devină cuplorul pentru plotterul ARISTO. Totul merge foarte bine, un alt coleg face o adaptare software și astfel Dan Roman, Sandu Mustea și cu mine putem prezenta la TIB-76 noul echipament plotter ARISTO cuplat la un calculator FELIX C-32. Adevărul era însă că FELIX C-32 nu era destul de rapid ca să calculeze un desen pe loc și atunci tot ce făceam era că trimiteam către plotter un șir de caractere care comandau desenarea unui triunghi rotitor. Oricum, era foarte spectaculos și erau o grămadă de vizitatori.
 
+![text](https://cronica-it.github.io/imagini/2018/vtepelea-itc50-amintiri-despre-itc/aristo-tib-1976.jpg)
+
+Foto: TIB '76; de la dreapta la stanga: Dan Roman, reprezentant 1 ARISTO (RF), reprezentant 2 ARISTO, Mihai Popescu, Vlad Tepelea, Sandu Mustea.
+
 Am continuat apoi experiențele cu cuploare pentru echipamente periferice noi și am primit o comandă pentru realizarea  unui cuplor pentru o unitate de scriere/citire pe casete magnetice DARO, făcută în RDG. Acest model de unitate de casetă magnetică, similară mecanic cu casetele obișnuite pentru muzică, dar cu un alt tip de bandă magnetică, era în exploatare în cadrul trustului de construcții al CFR, se culegeau în țară, la șantiere, date off-line pe casete, care erau apoi trimise la sediul central și încărcate în calculatorul FELIX din centrul de calcul. Aici logica cuplorului era mult mai complicată, având în vedere funcțiile sensibil mai numeroase ale perifericului, dar am avut și de această dată succes și am reușit și cuplarea acestui nou periferic. Am primit apoi și o altă comandă de la un alt client, din domeniul energiei electrice, pentru un cuplor similar.
 
 Între timp citeam cu mult sârg despre noile microprocesoare, primele pe 4 biți, apoi pe 8, 16 și 32 biți, care apăruseră începând cu anul 1971. Am inițiat chiar o colaborare cu firma franceză MICRAL care ne-a lăsat, cu titlu de împrumut, la ITC un calculator realizat cu Intel 8008 împreună cu documentația sa, pe care am studiat-o cu mare asiduitate, în special partea de monitor, un rudiment de sistem de operare. Am reușit ulterior procurarea unui microprocesor Intel 8080 împreună cu unele dintre circuitele din familia sa. Folosind circuitele de memorie și plăcile AUGAT importate pentru calculatoarele militare, am realizat un sistem de dezvoltare pentru sisteme bazate pe microprocesoare Intel 8080, numit **SD-8080**, la care am cuplat pe rând toate perifericele disponibile în laborator de care am putut face rost: Teletype, cititor de bandă perforată, perforator de bandă, cititor de cartele, unitate de casete magnetice (una americană profesională, alta decât DARO), imprimantă paralelă. Ca resurse software SD-8080 dispunea, în afară de monitor, de un asamblor și de un interpretor BASIC.
@@ -181,6 +185,10 @@ Persoane care au format apoi colectivul independent de Inteligență Artificial�
 - Tudor Toma
 - Oana Băltărețu
 - Eugen Ardeleanu
+
+![text](https://cronica-it.github.io/imagini/2018/vtepelea-itc50-amintiri-despre-itc/laboratorul-f19-1987.jpg)
+
+Foto: Laboratorul F19 prin anii 1987-1988.
 
 ## Referințe
 
