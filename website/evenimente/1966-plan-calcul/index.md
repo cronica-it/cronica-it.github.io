@@ -1,6 +1,6 @@
 ---
 slug: 1966/plan-calcul
-title: 'În Franța este aprobat „Plan Calcul”, prin care au fost realizate calculatoarele „Iris 50”'
+title: 'În Franța este aprobat „Plan Calcul”, prin care au fost realizate calculatoarele „IRIS 50”'
 authors: [ilg-ul]
 tags: [international, informatica]
 
@@ -28,10 +28,10 @@ Inițial CII a licențiat câteva modele de la firma SDS:
 - CII 10020 (septembrie 1967) - SDS Sigma 2
 - CII 10070 (1969) - SDS Sigma 7
 
-În iulie 1968 este anunțat calculatorul **Iris 50**,
+În iulie 1968 este anunțat calculatorul **IRIS 50**,
 inspirat din Sigma 7, dar incompatibil software; au urmat IRIS 45, 55, 60.
 
-Iris 50 a fost licențiat de România și produs sub numele FELIX C-256.
+IRIS 50 a fost licențiat de România și produs sub numele FELIX C-256.
 
 În 23 septembrie 1969 este anunțat Iris 80, un calculator de capacitate mare,
 inspirat din XDS Sigma 9.
