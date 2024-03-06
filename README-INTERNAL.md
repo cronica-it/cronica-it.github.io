@@ -42,8 +42,8 @@ www<scan></scan>.some.thing
 Pentru a nu îngreuna update-urile, imaginile sunt într-un site separat,
 grupate pe ani si articole, de exemplu
 
-```
-https://cronica-it.github.io/imagini/2010/lix-interviu-qsl-ro/DSCN0001.JPG
+```md
+![text](https://cronica-it.github.io/imagini/2010/lix-interviu-qsl-ro/xyz.jpg)
 ```
 
 ## ITC 50 link
