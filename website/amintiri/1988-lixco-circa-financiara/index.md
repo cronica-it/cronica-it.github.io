@@ -29,7 +29,7 @@ După mai bine de o lună, timp în care nu am primit nimic de la circa financia
 
 L-am rugat atunci să-mi dea o negație scrisă, cum că am făcut cerere de autorizare, dar nu s-a aprobat din motivele *x, y, z*. Mi-a răspuns că nu-i nici o problemă și că voi primi răspunsul acasă. Mă gândeam că tot ar fi ceva, în caz de dificultăți cu fiscul măcar puteam să le arătăm că am încercat să intrăm în legalitate, dar am fost refuzați.
 
-Nu am primit negația nici până astăzi... din fericire însă, până la sfârșitul anului 1989, regimul comunist a avut alte probleme, cu siguranță mai importante decât faptul că Lixco nu putea plăti taxe, așa încât nu am avut niciun fel de neplăceri. După aceea, oricum nu a mai contat...
+Nu am primit negația nici până astăzi... din fericire însă, până la sfârșitul anului 1989, regimul comunist a avut alte probleme, cu siguranță mai importante decât faptul că Lixco nu putea plăti taxe, așa încât nu am avut niciun fel de neplăceri. Nu la mult timp după aceea, în vara lui 1990 a fost înregistrată la Registrul Comerțului firma „Lixco SRL”.
 
 ## Referințe
 
