@@ -51,7 +51,7 @@ Fac și eu parte deci din echipa care a conectat acest plotter la mașinile FELI
 
 ![text](https://cronica-it.github.io/imagini/2018/vtepelea-itc50-amintiri-despre-itc/aristo-tib-1976.jpg)
 
-Foto: TIB '76; de la dreapta la stanga: Dan Roman, reprezentant 1 ARISTO (RF), reprezentant 2 ARISTO, Mihai Popescu, Vlad Tepelea, Sandu Mustea.
+Foto: TIB '76; de la dreapta la stanga: Dan Roman, reprezentant 1 ARISTO (RFG), reprezentant 2 ARISTO, Mihai Popescu, Vlad Țepelea, Sandu Mustea.
 
 Am continuat apoi experiențele cu cuploare pentru echipamente periferice noi și am primit o comandă pentru realizarea  unui cuplor pentru o unitate de scriere/citire pe casete magnetice DARO, făcută în RDG. Acest model de unitate de casetă magnetică, similară mecanic cu casetele obișnuite pentru muzică, dar cu un alt tip de bandă magnetică, era în exploatare în cadrul trustului de construcții al CFR, se culegeau în țară, la șantiere, date off-line pe casete, care erau apoi trimise la sediul central și încărcate în calculatorul FELIX din centrul de calcul. Aici logica cuplorului era mult mai complicată, având în vedere funcțiile sensibil mai numeroase ale perifericului, dar am avut și de această dată succes și am reușit și cuplarea acestui nou periferic. Am primit apoi și o altă comandă de la un alt client, din domeniul energiei electrice, pentru un cuplor similar.
 
