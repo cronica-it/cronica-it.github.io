@@ -28,7 +28,7 @@ a lui FELIX C-512 folosind ca soluție constructivă standardele CAER
 care se aplicau pentru mini-calculatoare.
 
 > Echipa de tehnică a fost compusă din doi ingineri, Ionescu Radu și Aron Nicolae,
-care s-au oferit ca voluntari, să faca proiectul într-un an, și au reusit. [Mihu]
+care s-au oferit ca voluntari, să faca proiectul într-un an, și au reusit. [Traian Mihu]
 
 A fost livrat cu sistemul de operare HELIOS, dezvoltat la ITC.
 

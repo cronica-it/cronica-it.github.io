@@ -98,7 +98,7 @@ HELIOS și mai, presus de acestea, modestia sa proverbială. A fost unul dintre
 pilonii de bază ai ITC. A plecat și el dintre noi mult prea devreme.
 >
 > Primul director al institutului colonelul ing. Florin Munteanu era
-un om integru, decis să-și ducă la capăt misiunea. [Baltac]
+un om integru, decis să-și ducă la capăt misiunea. [Vasile Baltac]
 
 În București, în primii ani, institutul a funcționat în clădirea de la FEA
 (etajul 4).

@@ -10,9 +10,6 @@ event_date: '1970-08'
 
 ---
 
-import { imagesLinks } from './images-links.tsx'
-import { ImagesTable } from '@site/src/components/ImagesTable';
-
 În anul 1970, prin HCM 532/1970, este înființată **Fabrica de Calculatoare Electronice București**, ulterior (după '74-'75) cunoscută și ca **ICE FELIX**.
 
 <!-- truncate -->
@@ -25,25 +22,25 @@ Fabrica a avut ca obiectiv realizarea de sisteme pe bază de licențe de la comp
 ## Anii '70
 
 > „În august 1970, pe locul fabricii era încă o groapă mare și două barăci.
-Primul salariat al FCE a fost inginerul șef responsabil pentru realizarea investiției aprobate prin decret. Numele său a fost Mircea Bărbulescu, care la punerea în funcțiune a noi fabrici, la inceputul anului 1972, a fost numit Director Tehnic. Director General a fost numit Radu Dordea, fost inginer șef la FEA (Fabrica pentru elemente de automatizare), iar inginer șef a fost numit Călin Spiride,absolvent promoția 1965 a facultății de energetică (și care ulterior a fost numit director general la Rom Control Data). [Mihu]
+Primul salariat al FCE a fost inginerul șef responsabil pentru realizarea investiției aprobate prin decret. Numele său a fost Mircea Bărbulescu, care la punerea în funcțiune a noi fabrici, la inceputul anului 1972, a fost numit Director Tehnic. Director General a fost numit Radu Dordea, fost inginer șef la FEA (Fabrica pentru elemente de automatizare), iar inginer șef a fost numit Călin Spiride,absolvent promoția 1965 a facultății de energetică (și care ulterior a fost numit director general la Rom Control Data). [Traian Mihu]
 
 Până la finalizarea construcției, activitatea s-a desfășurat în clădirea învecinată, FEA, unde la etajul I avea biroul Mircea Bărbulescu, iar la etajul V al aceleiaşi clădiri avea biroul Luminiţa Baltac,
-care se ocupa de documentaţia de la licenţa IRIS 50“. [Mihu]
+care se ocupa de documentaţia de la licenţa IRIS 50“. [Traian Mihu]
 
 Inițial producția de mașini de facturat și contabilizat FC15 și calculatoare CE30/32 sub licență Frieden (Olanda) precum și pregătirea producției pentru FELIX C-256 s-au făcut la FEA.
 
-> „La atelierul CE32 se produceau mici echipamente de calcul cu 4 operaţii, după o licenţă olandeză. Aveau o memorie magnetostrictivă: o sârmă în formă de melc pusă într-o cutie şi care se comporta ca o linie de întârziere. Pe mine m-au pus să depanez aşa numitele plăci BC, de format A4, dispuse în pereche, cu strapuri de legătură, care aveau 4 bistabili pe o placă şi alţi 4 bistabili pe cealaltă placă, exact cum le desena pe tablă la curs profesorul Mircea Petrescu. La fel erau aşezate pe aceste plăci rezistenţele, tranzistorii, exact ca în desenele domnului profesor. Am reparat la aceste plăci cam o lună de zile, teribil de plictisitor“. [Mihu]
+> „La atelierul CE32 se produceau mici echipamente de calcul cu 4 operaţii, după o licenţă olandeză. Aveau o memorie magnetostrictivă: o sârmă în formă de melc pusă într-o cutie şi care se comporta ca o linie de întârziere. Pe mine m-au pus să depanez aşa numitele plăci BC, de format A4, dispuse în pereche, cu strapuri de legătură, care aveau 4 bistabili pe o placă şi alţi 4 bistabili pe cealaltă placă, exact cum le desena pe tablă la curs profesorul Mircea Petrescu. La fel erau aşezate pe aceste plăci rezistenţele, tranzistorii, exact ca în desenele domnului profesor. Am reparat la aceste plăci cam o lună de zile, teribil de plictisitor“. [Traian Mihu]
 
 În luna septembrie 1970 primele două calculatoare IRIS au sosit din Franţa, ambalate în nişte cutii mari, şi au fost depozitate la FEA în fundul halei de asamblare.
 
 Echipa care a primit sarcina să pună în funcţiune cele două calculatoare IRIS 50 venite din Franţa era condusă de Călin Spiride şi Mihaela Ionescu, împreună cu echipa venită de la ICPUEC (în frunte cu Victor Megheşan, Mihai Roşu, Rigani ş.a.)
 
-> „Aceste IRIS 50 reprezentau tehnologia cea mai avansată de atunci, cu TTL-uri, cu cablaje dublă faţă cu găuri metalizate, wrapping; bineînţeles că erau erori de cablaj cât cuprinde, mai erau şi componente defecte. Punerea la punct a unui astfel de calculator dura şase luni. Echipa ICPUEC era, în mare, cea pe care am pomenit-o. Din echipa FEA făceau parte cei doi, care erau şcolarizaţi în Franţa, eu şi încă doi colegi stagiari ca şi mine, Andrei Gayraud şi Turcu Gheorghe. Echipa ICPUEC era compusă din şapte oameni, toţi şcolarizaţi câte 8 luni în Franţa; noi eram doar cinci la număr, din care trei proaspăt absolvenţi; atunci vedeam prima dată obiectele respective. A trebuit să punem mâna şi să citim pe rupte. După o lună, timp în care am parcurs manualele, ne-am apucat de treabă, pentru că era un fel de concurs: care dintre echipe termină mai repede şi mai bine. Erau nişte teste care, dacă erau trecute, calculatorul putea fi dat în exploatare. Echipa noastră a reuşit să pună prima la punct calculatorul IRIS; poate am avut şi puţin noroc, dar se spune că norocul ajută pe cei mai buni. Cel puţin, Călin Spiride şi Mihaela Ionescu erau cu totul deosebiţi“. [Mihu]
+> „Aceste IRIS 50 reprezentau tehnologia cea mai avansată de atunci, cu TTL-uri, cu cablaje dublă faţă cu găuri metalizate, wrapping; bineînţeles că erau erori de cablaj cât cuprinde, mai erau şi componente defecte. Punerea la punct a unui astfel de calculator dura şase luni. Echipa ICPUEC era, în mare, cea pe care am pomenit-o. Din echipa FEA făceau parte cei doi, care erau şcolarizaţi în Franţa, eu şi încă doi colegi stagiari ca şi mine, Andrei Gayraud şi Turcu Gheorghe. Echipa ICPUEC era compusă din şapte oameni, toţi şcolarizaţi câte 8 luni în Franţa; noi eram doar cinci la număr, din care trei proaspăt absolvenţi; atunci vedeam prima dată obiectele respective. A trebuit să punem mâna şi să citim pe rupte. După o lună, timp în care am parcurs manualele, ne-am apucat de treabă, pentru că era un fel de concurs: care dintre echipe termină mai repede şi mai bine. Erau nişte teste care, dacă erau trecute, calculatorul putea fi dat în exploatare. Echipa noastră a reuşit să pună prima la punct calculatorul IRIS; poate am avut şi puţin noroc, dar se spune că norocul ajută pe cei mai buni. Cel puţin, Călin Spiride şi Mihaela Ionescu erau cu totul deosebiţi“. [Traian Mihu]
 
 > Au beneficiat și de sprijinul unui
 inginer CII detașat în România pentru asistență și au finalizat primul FELIX
 C-256 care a fost instalat într-o sală la parterul FEA numită imediat Centrul
-de calcul. [Baltac]
+de calcul. [Vasile Baltac]
 
 Inițial calculatoarele IRIS au fost livrate cu discurile franceze Sperac, memorii Ampex, unități de bandă Ampex, imprimate Control Data. Discurie Sperac s-au dovenit nefiabile și ulterior au fost înlocuite cu discuri Control Data.
 
@@ -51,7 +48,7 @@ Familia FELIX a folosit inițial sistemul de operare SIRIS 2, ulterior trecându
 
 În 1970, la Expoziția Realizărilor Economiei Naționale (EREN) s-a prezentat
 și calculatorul FELIX C-256, într-un stand amenajat chiar în mijlocul
-pavilionului central, calculatorul fiind vedeta expoziției. [Baltac]
+pavilionului central, calculatorul fiind vedeta expoziției. [Vasile Baltac]
 
 În 1971 a început colaborarea cu Japonia pentru fabricarea calculatoarelor de
 buzunar C 815.
@@ -63,21 +60,21 @@ Noul sediu al Fabricii de Calculatoare a fost pus în funcţiune la 1 ianuarie 1
 
 În 1972, IPRS a livrat primele 10 tipuri de circuite integrate logice destinate calculatoarelor FELIX.
 
-> După cele două IRIS-uri, care veniseră gata asamblate din Franţa, au venit în următorii doi ani kit-uri complete ce se asamblau în fabrică, li se efectuau testele şi erau date în exploatare. Dar în timpul acesta s-a lucrat la integrare. ICE avea un serviciu tehnic a cărui principală sarcină era să integreze componentele şi subansamblele venite până atunci din Franţa. S-a început cu partea de construcţii metalice, mase plastice şi, treptat, s-a trecut şi la integrarea, asimilarea şi fabricarea unor componente electronice. Între timp, IPRS-ul luase licenţa de TTL-uri; s-au mai luat nişte licenţe pentru diode, tranzistoare, apoi condensatoarele şi rezistenţele au început să vină de la fabrica de la Curtea de Argeş. De asemenea, industria românească a început să producă modulele de memorii (la Timişoara); treptat s-au asimilat transformatoarele de la sursele de alimentare, şamd. Această integrare însemna studierea şi prelucrarea în amănunt a documentaţiei componentelor respective şi găsirea unui partener din industria orizontală capabil să le producă. Uneori, pentru unele componente, subfurnizorii francezi au rămas singura variantă tehnic posibilă, atunci când ele nu puteau fi fabricate în ţară, ceea ce a prilejuit multe delegaţii în Franţa. Aceste integrări au însemnat scăderi spectaculoase ale costului calculatoarelor. Au fost ani în care mergeam de 10-12 ori pe an la subfurnizorii francezi, ca să cumpărăm componente direct de la ei sau să învăţăm să le facem noi. În final, cam după cinci ani, IRIS 50 ajunsese să fie integrat cca 90%. [Mihu]
+> După cele două IRIS-uri, care veniseră gata asamblate din Franţa, au venit în următorii doi ani kit-uri complete ce se asamblau în fabrică, li se efectuau testele şi erau date în exploatare. Dar în timpul acesta s-a lucrat la integrare. ICE avea un serviciu tehnic a cărui principală sarcină era să integreze componentele şi subansamblele venite până atunci din Franţa. S-a început cu partea de construcţii metalice, mase plastice şi, treptat, s-a trecut şi la integrarea, asimilarea şi fabricarea unor componente electronice. Între timp, IPRS-ul luase licenţa de TTL-uri; s-au mai luat nişte licenţe pentru diode, tranzistoare, apoi condensatoarele şi rezistenţele au început să vină de la fabrica de la Curtea de Argeş. De asemenea, industria românească a început să producă modulele de memorii (la Timişoara); treptat s-au asimilat transformatoarele de la sursele de alimentare, şamd. Această integrare însemna studierea şi prelucrarea în amănunt a documentaţiei componentelor respective şi găsirea unui partener din industria orizontală capabil să le producă. Uneori, pentru unele componente, subfurnizorii francezi au rămas singura variantă tehnic posibilă, atunci când ele nu puteau fi fabricate în ţară, ceea ce a prilejuit multe delegaţii în Franţa. Aceste integrări au însemnat scăderi spectaculoase ale costului calculatoarelor. Au fost ani în care mergeam de 10-12 ori pe an la subfurnizorii francezi, ca să cumpărăm componente direct de la ei sau să învăţăm să le facem noi. În final, cam după cinci ani, IRIS 50 ajunsese să fie integrat cca 90%. [Traian Mihu]
 
-Producția a început cu calculatorul **FELIX C-256**, primul calculator din familia IRIS al firmei CII. Capacitatea de producție era de cca. 35 de unităţi FELIX C-256 pe an. [Mihu]
+Producția a început cu calculatorul **FELIX C-256**, primul calculator din familia IRIS al firmei CII. Capacitatea de producție era de cca. 35 de unităţi FELIX C-256 pe an. [Traian Mihu]
 
 În 1973 a intrat în fabricaţie **FELIX C-32**, cu o capacitate de memorie mai mică (32kB). Mai târziu a intrat în producție și **FELIX C-64**. Au fost produse și
 variantele M (mobile) 32M/64M, cu utilizări militare.
 
 > În perioada 1971-1974 am participat și eu la câteva delegații în Iran,
 Kuweit, India încercând să exportăm FELIX C-256. În Iran și Kuweit am fost
-împreună cu Emil Munteanu, în India cu Walter Bernath. [Baltac]
+împreună cu Emil Munteanu, în India cu Walter Bernath. [Vasile Baltac]
 
 În 1975, primul FELIX C-256 este exportat în China.
 
 > În 1975 am predat un curs de structura FELIX C-256 la Institutul de
-Aeronautică din Beijing unde se exportase un calculator. [Baltac]
+Aeronautică din Beijing unde se exportase un calculator. [Vasile Baltac]
 
 În 1977 a început producția sistemelor **FELIX C-512** (cu 512kB de memorie), după un proiect realizat
 la ITC.
@@ -108,7 +105,7 @@ După 1977 au intrat în fabricație minicalculatoarele din familia **INDEPENDEN
 
 După 1981 fabrica a parcurs o perioadă dificilă. Din cauza resurselor materiale limitate, a reducerii drastice a importurilor, capacitatea de producţie nu era exploatată decât parţial. Calculatoarele se dădeau pe bază de repartiţie, cu aprobări speciale, şi se aştepta cu anii, pentru că producţia era limitată de importurile la câteva componente.
 
-> „Era o situaţie inadmisibilă, la noi la poarta fabricii era zidul plângerii!” [Mihu]
+> „Era o situaţie inadmisibilă, la noi la poarta fabricii era zidul plângerii!” [Traian Mihu]
 
 În 1980 a început fabricaţia de terminale VDT-40 (dezvoltare proprie).
 
@@ -125,7 +122,7 @@ Politehnică.
 
 Tot din 1984, la iniţiativa Catedrei de calculatoare din Politehnică, a fost produs calculatorul personal **HC85**.
 
-> Pentru HC85 m-am luptat să aibă un preţ cât mai accesibil (pentru că ni se impunea şi erau prestabilite prin plan atât cifra de afaceri, cât şi profitul fabricii). Astfel, am reuşit să aduc preţul unui HC85 de la 40.000 lei (cât era planul iniţial) la 12.000 lei. Datorită preţului competitiv, HC85 a putut fi folosit pe scară largă de elevi şi studenţi pentru iniţiere în calculatoare şi pentru realizarea a tot felul de programe aplicative. [Mihu]
+> Pentru HC85 m-am luptat să aibă un preţ cât mai accesibil (pentru că ni se impunea şi erau prestabilite prin plan atât cifra de afaceri, cât şi profitul fabricii). Astfel, am reuşit să aduc preţul unui HC85 de la 40.000 lei (cât era planul iniţial) la 12.000 lei. Datorită preţului competitiv, HC85 a putut fi folosit pe scară largă de elevi şi studenţi pentru iniţiere în calculatoare şi pentru realizarea a tot felul de programe aplicative. [Traian Mihu]
 
 Ulterior au fost produse calculatoarele HC88, HC 90, HC 91, HC 2000 proiectate de un colectiv din Fabrica de Calculatoare.
 
@@ -152,7 +149,7 @@ mentenanță, pentru Asia.
 
 În anul
 1989 – cel mai reprezentativ – ICE Felix a avut 2592 de salariaţi, din care 547 cu
-studii superioare şi a realizat
+studii superioare şi în total a produs:
 
 - Maşini de facturat şi contabilizat (FC 15, 16, 128, 1000) = 21000 buc,
 - Calculatoare de birou = 255.000,
@@ -185,6 +182,9 @@ deţinând un teren de cca 20.000 mp.
 ## Imagini
 
 Ultimele imaginii cu fabrica sunt din [mai 2016](https://bucurestiulmeudrag.ro/fotografii/58431ea0-6c88-4981-8360-a45d592b13d5):
+
+import { imagesLinks } from './images-links.tsx'
+import { ImagesTable } from '@site/src/components/ImagesTable';
 
 <ImagesTable images={imagesLinks}/>
 

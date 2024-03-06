@@ -37,7 +37,7 @@ preocupări de cercetare în memorii cu ferite la Timișoara. Cineva din suită
 (Ioan Avram) mi-a zis cu o voce autoritară să vin imediat la dânsul cu o notă de
 fundamentare pentru fabricația memoriilor în țară.
 Am mers după câteva zile cu o notă și astfel s-a născut fabricația
-industrială de memorii electronice la Timișoara. [Baltac]
+industrială de memorii electronice la Timișoara. [Vasile Baltac]
 
 Inițial s-au fabricat memorie cu ferite, cu diametrul de 1,2 mm, pentru masinile de
 facturat si contabilizat FC-15 si FC-30.
@@ -52,7 +52,7 @@ demarasem o cooperare industrială cu firma Ampex din SUA, de la care urma
 să achiziționăm anumite utilaje de fabricație. Linia lor de fabricație era în
 Hong Kong și am primit invitația împreună cu șeful Filialei Timișoara Walter
 Bernath să vedem la fața locului utilajele respective. Deplasarea a avut loc în
-> 1976. [Baltac]
+> 1976. [Vasile Baltac]
 
 În 1978 a început fabricaţia de memorii semiconductoare MOS folosind un
 cip de 4 kB produs de ROBOTRON.
@@ -78,7 +78,7 @@ de vopsire asimilaţi la Electrotimiş.
 telefonice digitale. Eram în guvern și am orientat firma ALCATEL către
 FMECTC, cerând să existe și un nucleu de 20-30 software-iști.
 Așa s-a născut ALCATEL Timișoara, un adevărat succes, un rol decisiv
-revenindu-i lui Dan Bedros ca director general. [Baltac]
+revenindu-i lui Dan Bedros ca director general. [Vasile Baltac]
 
 După 1990 Fabrica s-a divizat în 2 unităţi:
 

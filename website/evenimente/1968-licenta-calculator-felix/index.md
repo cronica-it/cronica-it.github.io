@@ -95,7 +95,7 @@ Ceaușescu. Am sugerat ca înainte de 256 să se adauge un C de la calculator
 nume acceptat verbal de Mihai Drăgănescu, așa că nu-mi amintesc să fi
 existat vreo aprobare formală. Un fel de co-naș! După C-256, au urmat C-
 32, C-32M, C-64M, C-512/1024. Mult mai târziu a apărut FELIX C-8010. Toate
-calculatoarele de tip mainframe s-au numit însă FELIX. [Baltac]
+calculatoarele de tip mainframe s-au numit însă FELIX. [Vasile Baltac]
 
 Preluarea documentației de licență a început în 1969 și a continuat în 1970,
 la negocierea clauzelor comerciale participând Dogaru și Trăilescu, directorul de la ICE Electronum.
@@ -143,7 +143,7 @@ continuare în Franța și au mers la fabrica din Toulouse Victor Megheșan,
 Mihai Roșu, Ovidiu Săvulescu pentru asamblarea finală, Riuric Bulgacov
 pentru discuri, Ion Olteanu pentru benzile magnetice și Doru Scărlătescu
 pentru imprimante. Apoi au mers la Toulouse echipe din nou creata FCE și
-la Paris mulți specialiști din ICI. [Baltac]
+la Paris mulți specialiști din ICI. [Vasile Baltac]
 
 ITC trimite la CII Franța trei programatori care lucrează cu
 colegii francezi la dezvoltarea sistemului de operare SIRIS:
@@ -152,7 +152,7 @@ Gabriel Martin, Nicolae Negoiță și Liviu Negrescu.
 Cu această ocazie, echipele din ITC, integrate cu echipe din firma
 CII, au participat la punerea la punct a primelor 11 calculatoare IRIS și
 au realizat că, de fapt, firma CII vânduse licența de fabricație, bazată
-pe un singur calculator IRIS, probabil prototip [Bulgacov].
+pe un singur calculator IRIS, probabil prototip [Riuric Bulgacov].
 
 > Întors din stagiul la Paris sunt convocat la minister la adjunctul de
 ministru Cornel Mihulecea. Era de față Virgil Lefter, directorul tehnic al
@@ -179,7 +179,7 @@ plină de conținut tehnic.
 crearea unei societăți mixte cu Control Data Corporation(CDC), la inițiativa
 firmei. Datele furnizate de delegația noastră au fost folosite la analiza ofertei
 CDC, dar au servit FEPER și ELECTRONUM pentru documentarea
-importurilor și la elaborarea în ITC a cuploarelor. [Baltac]
+importurilor și la elaborarea în ITC a cuploarelor. [Vasile Baltac]
 
 ## Referințe
 
