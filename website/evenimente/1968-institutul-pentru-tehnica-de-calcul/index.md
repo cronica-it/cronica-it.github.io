@@ -10,7 +10,7 @@ event_date: '1968'
 
 ---
 
-În anul 1968 a fost creat **Institutul pentru Tehnică de Calcul (ITC)**
+În anul 1968 a fost creat **Institutul pentru Tehnică de Calcul (ITC)**.
 
 <!-- truncate -->
 
@@ -18,6 +18,34 @@ Deși decretul de înființare a fost emis in 1967, institutul a fost
 creat efectiv în 1968, iar noul sediul a fost gata câțiva ani mai târziu.
 
 Numele inițial a fost **Institutului de Cercetare și Proiectare pentru Tehnica de Calcul (ICPUEC)**, și a suferit numeroase modificări în timp.
+
+> Proiectarea dotărilor ICPUEC a avut un volum mare de incertitudini care
+au fost corectate în anii de existență. Au fost însă două informații inițiale
+importante.
+>
+> Una din ele a fost existența în institut a unui centru de calcul care, datorită
+greutății mari (1.500Kg/m.p. sarcină pe planșeu) a fost amplasat la primul
+etaj. Proiectarea sălii calculatorului s-a făcut utilizând documentația de
+instalare a lui IRIS 50. Documentația licenței CII a venit în multe tranșe și s-a modificat continuu toată viața produsului.
+>
+> A doua informație inițială importantă a fost amplasamentul. ...
+> Ideea concentrării în apropierea unei fabrici de automatizări a institutelor
+de cercetare cu profil de electronică și calculatoare părea corectă, dar în cazul
+ICPUEC (ITC) s-a dovedit o greșeală cu consecințe imediate. ElectroUzinProiect (EUP) a trecut la
+realizarea studiului geologic al terenului, studiu care preceda obligatoriu
+orice proiect de construcție. Rezultatul a fost catastrofal; terenul bun de
+construcție era undeva la peste 10 metri adâncime, într-o zonă cu numeroase
+izvoare subterane și infiltrații de la lacul Floreasca. ...
+Dacă institutul nu era construit pe piloni care să ajungă la teren construibil
+ci se pornea construcția cu mai multe subsoluri permanent ventilate, atunci
+suprafața acestor subsoluri „considerate” utile, aducea în limite mai
+acceptabile indicatorul lei/metru pătrat.  [Constantin Pașcanu]
+
+Viitorul ITC a fost privat de circa
+2.000 m.p. utili, dar a putut fi aprobat și s-a deschis finanțarea lui.
+
+Construcția și-a găsit în timp funcționalitatea, dar bogăția
+institutului au fost oamenii.
 
 > Institutul a fost format inițial prin comasarea echipelor de cercetare de
 pionierat în domeniul calculatoarelor. În sediul de la București au venit
@@ -27,7 +55,7 @@ Gabriel Martin, Maria Mocică, Werner Schatz, Petru Macarie. Victor Toma
 și Armand Segal erau încadrați deja șefi de secție, Victor Toma în urma
 demisiei din funcția de director științific.
 >
-> De la IPA a fost transferate persoane atât din laboratoare de cercetare, cât
+> De la IPA au fost transferate persoane atât din laboratoare de cercetare, cât
 și pentru un atelier de proiectare. Printre ei Francisc Momeo, care avea un
 doctorat obținut în URSS, Lucian Nica, Luci Popescu, Mihai Rigani și Ioan
 Ciontea ca șef la proiectare. De la centrul de cercetare în calculatoare al

@@ -45,7 +45,7 @@ inginer CII detașat în România pentru asistență și au finalizat primul FEL
 C-256 care a fost instalat într-o sală la parterul FEA numită imediat Centrul
 de calcul. [Baltac]
 
-Inițial calculatoarele IRIS au fost livrate cu discurile franceze Sperac, memorii Ampex, unități de bandă Ampez, imprimate Control Data. Discurie Sperac s-au dovenit nefiabile și ulterior au fost înlocuite cu discuri Control Data.
+Inițial calculatoarele IRIS au fost livrate cu discurile franceze Sperac, memorii Ampex, unități de bandă Ampex, imprimate Control Data. Discurie Sperac s-au dovenit nefiabile și ulterior au fost înlocuite cu discuri Control Data.
 
 Familia FELIX a folosit inițial sistemul de operare SIRIS 2, ulterior trecându-se la SIRIS 3.
 

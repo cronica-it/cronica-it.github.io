@@ -27,6 +27,19 @@ specialitate (viitorul ITC), a unor fabrici de profil (ICE FELIX), a unei între
 institut care să se ocupe de informatizare, (ICI), a unei rețele
 de centre teritoriale de calcul, a unor centre departamentale, etc.
 
+> Sub egida IPA ... se elaborează ... un „Program privind dotarea economiei
+naționale cu calculatoare electronice și automatizarea prelucrării datelor"
+(coperți de plastic negru, dactilografiat, aprobat în 27 iunie 1967) care
+prevedea fabricarea în țară a tehnicii de calcul. Printre coordonatorii
+studiului au fost: Acad. Mihai Drăgănescu, Acad. Nicolae Teodorescu și
+Acad. Grigore Moisil. Printre cei care au lucrat la studiu sunt Prof. dr. Mircea
+Petrescu și Dr. ing. Neculae Constantin Paul Costake.
+>
+> Studiul argumentează oportunitatea și necesitatea înființării ICPUEC
+(Institutul de Cercetare Proiectare Utilaje și Echipamente de Calcul, devenit
+în final ITC), de asemenea a Fabricii de Calculatoare Electronice (E1), a
+Secției de Circuite Integrate de la IPRS (E2) și a IIRUC. [Constantin Pașcanu]
+
 La 1
 noiembrie 1967 se înfiinţează „Comisia guvernamentală pentru dotarea economiei
 naționale cu echipamente moderne de calcul şi automatizarea prelucrarii datelor”, având

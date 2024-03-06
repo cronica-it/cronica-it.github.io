@@ -27,6 +27,23 @@ americane nu era posibilă.
 Astfel pe lista scurtă au rămas Franța și Germania; oferta Siemens
 nu includea fabricația circuitelor integrate.
 
+> Academicianului
+Mihai Drăgănescu îi datorăm decizia strategică a achiziționării unei licențe
+pentru calculatoare din generația a treia, realizate cu circuite integrate. Au
+fost analizate ulterior Studiului oferte de licență și au rămas în competiție
+CII – Franța (acționariat Thomson CSF) și Siemens – Republica Federală
+Germană.
+>
+> Oferta Siemens nu includea fabricația circuitelor integrate, dar
+calculatorul 4000 (Instalat la Centrul de Calcul al CFR) oferit era preferat de
+IPA pentru comanda proceselor. S-a optat pentru oferta CII care includea
+ofertele Thomson pentru circuite integrate, Sperac pentru memorii
+magnetice pe discuri, de asemenea tehnologia circuitelor multistrat. Pentru
+mașini de facturat-contabilizat și de birou s-a încheiat contract cu Friden (ex
+Singer BV) – Olanda. Aceste contracte s-au încheiat prin casa de comerț
+exterior Electronum, desprinsă din Tehnoimport în scopul contractării și
+derulării contractelor de licență. [Constantin Pașcanu]
+
 În luna mai 1968, cu ocazia
 vizitei la București, pe fondul poziției autonome a Franței în cadrul NATO,
 generalul de Gaulle desconsideră embargoul impus de americani și

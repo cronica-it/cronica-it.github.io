@@ -17,17 +17,49 @@ sistemul de apărare.
 
 <!-- truncate -->
 
-CCAB era de fapt  fosta Secție Specială a ITC
-transformată într-o entitate separată.
+Interesul armatei pentru tehnica de calcul data din anii '60.
 
-Printre primele proiecte realizate de secția specială au fost **FELIX C-32M/64M**,
-variantele mobile ale lui C32/C64.
+În 1961, după susținerea doctoratului, Dinu Buznea a fost numit profesor la
+Academia Tehnică Militară, unde a coordonat Centrul de Cercetare,
+ce avea ca obiectiv dezvoltarea sistemelor ACT (Automatizarea
+Conducerii Trupelor). Pe baza unor tehnologii împrumutate de la Institutul
+Politehnic din Timișoara, unde se realizase calculatorul MECIPT 1,
+acest colectiv a dezvoltat, în anii 1963-
+1966, primul calculator electronic de generație superioară numit **CENA 1S**
+(Calculator Electronic Numeric al Armatei 1 Staționar), din care, ulterior, a
+evoluat **CENA 2M** (Mobil).
 
-Ulterior, folosindu-se cele două  minicalculatoare DEC din seria
-PDP 11 achiziționate în 1976, la Secția Specială/CCAB
-a fost realizat calculatorul **CE 400** compatibil PDP 11/34 în
-tehnologie AUGAT (Petre Cergan) şi **CBEX** (Calculator de Bord Experimental),
-compatibil PDP 11/10.
+Calculatoarele din gama CENA au ajuns în dotarea
+Direcțiilor Centrale ale fiecăruia dintre cele patru corpuri de Armată, fiind
+construite 10 exemplare în atelierele uzinelor Electronica. În anul 1966 a avut
+loc o aplicație cu trupe ale țărilor participante la Pactul de la Varșovia, la care
+Statul Major Român a participat cu modelul CENA 2M, fiind singura țară
+participantă cu asemenea tehnologie și care a impresionat majoritatea
+participanților.
+
+După ce în 1968 de Gaulle și-a dat acordul pentru ca Franța să vândă României
+licența pentru IRIS 50, specialiști din armată au participat direct la
+negocierile privind licența (Anton Dogaru, Emil Tudor, ș.a.) ceea ce a facilitat
+ulterior dezvoltarea calculatoarelor FELIX de capacitate
+mai mică, pentru care armata avea un interes deosebit, deoarece puteau
+fi produse în variante mobile.
+
+După înființarea ITC, a fost creată și o Secție Specială, care s-a ocupat
+de calculatoarele pentru armată, și astfel printre primele proiecte realizate
+de Secția Specială au fost **FELIX C-32M/C-64M**,
+variantele mobile ale calculatoarelor FELIX C-32/C-64.
+
+Ulterior, folosindu-se cele două minicalculatoare DEC din seria
+PDP 11 achiziționate în 1976, la Secția Specială
+a fost realizat calculatorul **CE 400 CESAR** (Calculator Electronic Specializat
+pentru Artilerie Regimentală) compatibil PDP 11/34 în
+tehnologie AUGAT (Petre Cergan), **CBEX** (Calculator de Bord Experimental),
+compatibil PDP 11/10, și **CP-103**.
+
+Minicalculatoarele CP-103 au fost realizate pe diferite tehnologii, cu o
+gamă largă de echipamente periferice. Astfel, la început, au fost realizate cu
+circuite integrate clasice, apoi cu microprocesoare tip bit-slice INTEL 3000
+(pe 2 biți) și, mai apoi, pe microprocesoare AMD 2900 (pe 4 biți). [Petre Cergan]
 
 > Având deplina colaborare şi aprobare a conducerii ITC, la cererea
 INCREST în 1977-1979 am inițiat în ITC lucrarea: ”Minicalculator de bord
@@ -45,6 +77,15 @@ aproape 3 săptămîni. Alături îl aveam pe Cristi Corduneanu şi apoi s-a
 alăturat un fost coleg şi prieten Constantin Dunăreanu. Ene Niculae era
 tehnicianul dibaci care rezolva problemele practice. [Ioan Tutoveanu]
 
+În această perioadă, Secția Specială a elaborat proiectele și a construit
+pentru MApN calculatoare pentru conducerea focului la divizioanele de
+artilerie și pentru automatizarea activității din punctele de comandă ale
+diviziei, software-ul de bază fiind conceput și implementat de colectivele de
+software din ITC. [Anton Dogaru]
+
+În 1979 Secția Specială din ITC devine o entitate autonomă, Centrul de
+Cercetare pentru Automatizare (CCAB).
+
 În 1982, în cadrul colaborării cu NAVROM Constanța,
 calculatorul CBEX a fost testat la bordul navei comerciale
 „Odorhei”, într-un voiaj în Asia de Sud-Est.
@@ -52,6 +93,15 @@ calculatorul CBEX a fost testat la bordul navei comerciale
 CCAB avea să fie dotat cu o unitate de microproducție puternică,
 care asigura o independență a mijloacelor de producție față de cele ale
 Fabricii de Calculatoare.
+
+> În această perioadă, problematica activităților de
+cercetare și microproducție a cuprins elaborarea de calculatoare în
+tehnologie robustizată, necesare automatizării conducerii trupelor la nivel de
+divizion de artilerie, divizie, post și nod radiotehnic, puncte de dirijare a
+aviației de vânătoare, sistem de dragare mine marine cu trei nave
+telecomandate (sistemul TRIDENT), calculatoare care au intrat în
+componența completelor de automatizare de pe autospecialele proiectate de
+Institutul de Cercetări al MApN. [Anton Dogaru]
 
 În 1986 s-a produs o reorganizare la nivelul CCAB, iar ca director a fost
 numit Adrian Stoica.
