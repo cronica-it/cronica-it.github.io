@@ -1,7 +1,7 @@
 ---
 slug: 2010/lix-interviu-qsl-ro
 title: 'Nicoară (Lix) Paulian - Interviul publicat pe qsl.ro'
-authors: [nvasilescu]
+authors: [nvasilescu, lixpaulian]
 tags: [interviuri, lixco]
 
 date: 2023-12-30T07:14:11
@@ -9,9 +9,6 @@ date: 2023-12-30T07:14:11
 event_date: '2010-12-10'
 
 ---
-
-import { imagesLinks } from './images-links.tsx'
-import { ImagesTable } from '@site/src/components/ImagesTable';
 
 În 28 decembrie 2010, Nini Vasilescu (YO3CCC) a publicat pe site-ul
 [nini.qsl.ro](http://nini.qsl.ro)
@@ -145,6 +142,9 @@ Lix: Am spus deja ca este un subiect prea larg ca sa-l putem trata aici. Importa
 Nini: Cautand in arhiva personala am gasit un film (placa F) de pe vremea cand mi-am facut circuitele imprimate pentru A412 prin fotografiere la Sectia de Zincografie de la etajul 3 din Combinatul Poligrafic Casa Scanteii.
 
 ## Imagini
+
+import { imagesLinks } from './images-links.tsx'
+import { ImagesTable } from '@site/src/components/ImagesTable';
 
 <ImagesTable images={imagesLinks}/>
 

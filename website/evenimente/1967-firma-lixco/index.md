@@ -96,6 +96,7 @@ Noua firmă din România nu mai era însă focusată pe produsele și clientela 
 
 import { PdfLink } from '@site/src/components/PdfLink';
 
-- [Interviul lui Lix din qsl.ro](/amintiri/2010/lix-interviu-qsl-ro/)
-- [L/B 881](/evenimente/1983/calculatorul-lixco-lb-881/)
+- [Nicoară (Lix) Paulian - Interviul publicat pe qsl.ro](/amintiri/2010/lix-interviu-qsl-ro/)
+- [Lixco finalizează microcalculatorul „L/B 881”](/evenimente/1983/calculatorul-lixco-lb-881/)
+- [Nicoară (Lix) Paulian - Experiența cu circa financiară, sau cum ne-au dat cu nomenclatoru'n cap](/amintiri/1988/lixco-circa-financiara/)
 - Ultimul „Lixco News“ <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/1989/lixco-news-last-edition.pdf"/>

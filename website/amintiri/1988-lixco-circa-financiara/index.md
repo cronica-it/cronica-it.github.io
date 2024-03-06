@@ -33,4 +33,4 @@ Nu am primit negația nici până astăzi... din fericire însă, până la sfâ
 
 ## Referințe
 
-- none
+- [Nicoară (Lix) Paulian pune bazele a ceea ce avea să devină firma „Lixco”](/evenimente/1967/firma-lixco/)
