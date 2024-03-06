@@ -20,9 +20,13 @@ sistemul de apărare.
 CCAB era de fapt  fosta Secție Specială a ITC
 transformată într-o entitate separată.
 
-Folosindu-se cele două  minicalculatoare DEC din seria
+Printre primele proiecte realizate de secția specială au fost **FELIX C-32M/64M**,
+variantele mobile ale lui C32/C64.
+
+Ulterior, folosindu-se cele două  minicalculatoare DEC din seria
 PDP 11 achiziționate în 1976, la Secția Specială/CCAB
-a fost realizat calculatorul **CE 400** compatibil PDP 11/34 în tehnologie AUGAT (Petre Cergan) şi **CBEX** (Calculator de Bord Experimental),
+a fost realizat calculatorul **CE 400** compatibil PDP 11/34 în
+tehnologie AUGAT (Petre Cergan) şi **CBEX** (Calculator de Bord Experimental),
 compatibil PDP 11/10.
 
 > Având deplina colaborare şi aprobare a conducerii ITC, la cererea
