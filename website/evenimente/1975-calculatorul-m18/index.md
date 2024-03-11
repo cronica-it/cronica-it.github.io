@@ -10,7 +10,7 @@ event_date: '1975'
 
 ---
 
-În 1975, la ICE FELIX începe producția microcalculatorului de 8 biți **M-18**.
+În anul 1975, la ICE FELIX începe producția microcalculatorului de 8 biți **M-18**.
 
 <!-- truncate -->
 

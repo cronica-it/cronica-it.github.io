@@ -10,7 +10,7 @@ event_date: '2010-12-10'
 
 ---
 
-În 28 decembrie 2010, Nini Vasilescu (YO3CCC) a publicat pe site-ul
+În data de 28 decembrie 2010, Nini Vasilescu (YO3CCC) a publicat pe site-ul
 [nini.qsl.ro](http://nini.qsl.ro)
 un interviu cu **Nicoară (Lix) Paulian**, fondatorul grupului Lixco.
 Interviul a fost realizat pe 4 noiembrie 2010.

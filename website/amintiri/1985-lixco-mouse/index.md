@@ -12,7 +12,7 @@ event_date: '1985'
 
 import Image from '@theme/IdealImage';
 
-În 1985, pentru a putea lucra cu programul de desenat cablaje imprimate,
+În anul 1985, pentru a putea lucra cu programul de desenat cablaje imprimate,
 a fost nevoie de un mouse.
 
 <!-- truncate -->

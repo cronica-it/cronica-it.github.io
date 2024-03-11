@@ -10,7 +10,7 @@ event_date: '2024-02-02'
 
 ---
 
-În 2 februarie 2024, la WWDC 2024, Apple anunță primul său produs de realitate mixtă,
+În data de 2 februarie 2024, la WWDC 2024, Apple anunță primul său produs de realitate mixtă,
 ​**Apple Vision Pro**.
 
 <!-- truncate -->

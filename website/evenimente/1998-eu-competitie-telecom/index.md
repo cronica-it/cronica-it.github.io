@@ -9,7 +9,7 @@ date: 2023-12-28T21:11:52
 event_date: '1998-01-01'
 
 ---
-În 1 ianuarie 1998, EU deschide competiției serviciile și infrastructura de
+În data de 1 ianuarie 1998, EU deschide competiției serviciile și infrastructura de
 telecomunicații.
 
 <!-- truncate -->

@@ -10,7 +10,7 @@ event_date: '2012'
 
 ---
 
-În 2012, Henri Boucher publică în Franța o serie de 6 volume **Catalogue Informatique**.
+În anul 2012, Henri Boucher publică în Franța o serie de 6 volume **Catalogue Informatique**.
 
 <!-- truncate -->
 
