@@ -26,6 +26,8 @@ coborâșuri, dar plin de satisfacții și reușite. [Mihai Martinovici]
 
 Sistemul a fost dezvoltat în laboratorul F12, condus de Corneliu Maschek.
 
+> A fost adaptarea si optimizarea sistemului de operare SIRIS. Realizat in limbajul de asamblare ASSIRIS. A fost tema principala de lucru a colectivului laboratorului 112, care a durat ani buni de lucru. [Corneliu Maschek]
+
 HELIOS a preluat sursele din
 sistemul de operare SIRIS 3 al francezilor, dar s-a restructurat totul, atât la
 nivelul gestiunii modulelor SGF pentru accesul la fișiere, cât și algoritmul de
