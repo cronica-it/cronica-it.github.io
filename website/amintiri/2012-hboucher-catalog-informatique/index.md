@@ -16,7 +16,7 @@ event_date: '2012'
 
 ---
 
-Seria este relevantă pentru România prin istoria firmei _Compagnie internationale pour l'informatique_ (CII) de la care a fost preluată licența pentru seria de calculatoare IRIS 50.
+Seria este relevantă pentru România prin istoria firmei _Compagnie internationale pour l'informatique_ (CII) de la care a fost preluată licența pentru seria de calculatoare IRIS-50.
 
 ## Referințe
 
