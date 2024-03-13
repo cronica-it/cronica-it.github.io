@@ -48,7 +48,7 @@ Internă (întreţeserea adreselor).
 Prin creșterea vitezei de lucru și a memoriei interne, prin configurarea
 dezvoltată a ansamblului de echipamente periferice și prin extinderea
 memoriei externe – calculatorul Felix C-512/1024 a constituit un real
-progres față de predecesorul său, Felix C-256 (IRIS 50), preluat prin licență.
+progres față de predecesorul său, Felix C-256 (IRIS-50), preluat prin licență.
 
 Testarea modelului experimental a avut loc la sfârșitul anului 1976,
 când s-au trecut cu succes primele programe de test.

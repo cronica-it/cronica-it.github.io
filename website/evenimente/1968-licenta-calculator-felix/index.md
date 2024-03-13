@@ -11,7 +11,7 @@ event_date: '1968'
 ---
 
 În anul 1968, România obține din Franța licența calculatorului de
-generația a III-a, IRIS 50, care va deveni **FELIX C-256**.
+generația a III-a, IRIS-50, care va deveni **FELIX C-256**.
 
 <!-- truncate -->
 
@@ -56,7 +56,7 @@ unei familii de calculatoare în cadrul programului „Plan Calcul”.
 
 Ca urmare a acordului, România a fost acceptată de Franța ca
 partener al firmei CII (Compagnie internationale pour l'informatique)
-în realizarea primului model de calculator din familia IRIS (IRIS 50).
+în realizarea primului model de calculator din familia IRIS (IRIS-50).
 Acest calculator a fost produs în România sub numele de FELIX C-256.
 
 > Profesorul Drăgănescu
@@ -98,7 +98,7 @@ existat vreo aprobare formală. Un fel de co-naș! După C-256, au urmat C-
 calculatoarele de tip mainframe s-au numit însă FELIX. [Vasile Baltac]
 
 Preluarea documentației de licență a început în 1969 și a continuat în 1970,
-la negocierea clauzelor comerciale participând Dogaru și Trăilescu, directorul de la ICE Electronum.
+la negocierea clauzelor comerciale participând Daniil Dragoș și Trăilescu, directorul de la ICE Electronum.
 
 Licența prevedea instruirea în Franța la CII a unui mare număr de
 specialiști care să poată apoi demara fabricația și întreținerea hardware și

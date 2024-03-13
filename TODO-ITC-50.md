@@ -40,6 +40,8 @@ După privatizarea ITC, în noiembrie 2007, lucrurile s-au schimbat radical.
 
 În 1969 am participat la lucrările de preluare a documentației de licență a calculatorului IRIS-50, în cadrul colectivului care a efectuat specializare în Franța  la CII. De asemenea, am participat în colectivul de prelucrare și preluare a documentației de licență pentru Fabrica de Calculatoare, în cursul anului 1970.
 
+## Daniil Dragoș
+
 toate negocierile privind fabricația de computere au fost purtate la București și în Franța de către două persoane, respectiv de domnul Trăilescu și de mine. La negocierea clauzelor comerciale au participat uneori și alți salariați de la Electronum. Negocierea clauzelor tehnice și a anexelor tehnice la contracte a fost efectuată doar de către mine (singur) și am parafat fiecare din paginile respective.
 
 Cei de la CII Research and Developmant mi-au spus că la origine 'Iris-50' ('Felix- 256'), era calculatorul American 'Sigma' dezvoltat de marile firme SDS și Xerox. Când americanii n-au mai vrut să-i mai dea Președintelui De Gaulle calculatoare pentru bombele sale nucleare, au spus ei, acesta s-a înfuriat și a decis ca Franța să le producă singură.
@@ -94,7 +96,7 @@ Dar marea aventură a anilor ’82 – ’89 a fost elaborarea și implementarea
 ## Lucian Nica
 
 în 1967, când s-a conceput un ”Plan Calcule” românesc ce prevedea între altele și preluarea licenței de fabricație a unui calculator performant, în România. În 1968
-s-au dus tratative cu mai multe firme occidentale, din Anglia, Germania, Franța etc. S-a optat în final pentru calculatorul IRIS 50, de la CII (Companie Internationale pour l`Informatique - Franța), întrucât acesta era de generația a 3-a (cu circuite integrate). A fost și o decizie politică, președintele de Gaulle a desconsiderat embargoul impus statelor din est privind tehnologiile de vârf.
+s-au dus tratative cu mai multe firme occidentale, din Anglia, Germania, Franța etc. S-a optat în final pentru calculatorul IRIS-50, de la CII (Companie Internationale pour l`Informatique - Franța), întrucât acesta era de generația a 3-a (cu circuite integrate). A fost și o decizie politică, președintele de Gaulle a desconsiderat embargoul impus statelor din est privind tehnologiile de vârf.
 
 În anul 1972 a început proiectarea calculatorului FELIX C-512/1024 ca o dezvoltare a calculatorului preluat prin licență. Elementele de noutate au fost:
 - prelucrarea instrucțiunilor pe 32 de biți în loc de 16 biți (colectiv

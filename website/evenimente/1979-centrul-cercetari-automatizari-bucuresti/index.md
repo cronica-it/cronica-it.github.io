@@ -38,7 +38,7 @@ participantă cu asemenea tehnologie și care a impresionat majoritatea
 participanților.
 
 După ce în 1968 de Gaulle și-a dat acordul pentru ca Franța să vândă României
-licența pentru IRIS 50, specialiști din armată au participat direct la
+licența pentru IRIS-50, specialiști din armată au participat direct la
 negocierile privind licența (Anton Dogaru, Emil Tudor, ș.a.) ceea ce a facilitat
 ulterior dezvoltarea calculatoarelor FELIX de capacitate
 mai mică, pentru care armata avea un interes deosebit, deoarece puteau

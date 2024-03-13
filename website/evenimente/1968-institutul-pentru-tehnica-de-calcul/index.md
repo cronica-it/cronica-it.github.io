@@ -26,7 +26,7 @@ importante.
 > Una din ele a fost existența în institut a unui centru de calcul care, datorită
 greutății mari (1.500Kg/m.p. sarcină pe planșeu) a fost amplasat la primul
 etaj. Proiectarea sălii calculatorului s-a făcut utilizând documentația de
-instalare a lui IRIS 50. Documentația licenței CII a venit în multe tranșe și s-a modificat continuu toată viața produsului.
+instalare a lui IRIS-50. Documentația licenței CII a venit în multe tranșe și s-a modificat continuu toată viața produsului.
 >
 > A doua informație inițială importantă a fost amplasamentul. ...
 > Ideea concentrării în apropierea unei fabrici de automatizări a institutelor
@@ -51,7 +51,7 @@ institutului au fost oamenii.
 pionierat în domeniul calculatoarelor. În sediul de la București au venit
 ”veterani” de la IFA, echipele conduse de Victor Toma și Armand Segal. Se
 pare că legitimația nr. 1 a revenit lui Ion Căruțașu transferat împreună cu
-Gabriel Martin, Maria Mocică, Werner Schatz, Petru Macarie. Victor Toma
+Gabriel Martin (nr. 2), Maria Mocică, Werner Schatz, Petru Macarie. Victor Toma
 și Armand Segal erau încadrați deja șefi de secție, Victor Toma în urma
 demisiei din funcția de director științific.
 >
@@ -106,7 +106,7 @@ Construcția noii clădiri din Calea Floreasca a durat mai mult decât
 s-a estimat inițial, fiind gata prin 1972-1973.
 
 Prima sarcină majoră a institutului a fost asimilarea în fabricație a
-calculatorului IRIS 50, a cărui licență era deja achiziționată din 1968 prin
+calculatorului IRIS-50, a cărui licență era deja achiziționată din 1968 prin
 întreprinderea de comerț exterior ELECTRONUM.
 
 Încă din 1970 se decide crearea unei familii de calculatoare FELIX cu

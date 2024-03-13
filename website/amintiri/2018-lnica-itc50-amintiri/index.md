@@ -24,7 +24,7 @@ AMINTIRI, AMINTIRI...
 <br/>Laboratorul Calculatoare Medii
 
 Povestea începe în 1967, când s-a conceput un „Plan Calcule” românesc ce prevedea între altele și preluarea licenței de fabricație a unui calculator performant, în România. În 1968
-s-au dus tratative cu mai multe firme occidentale, din Anglia, Germania, Franța etc. S-a optat în final pentru calculatorul IRIS 50, de la CII (Companie Internationale pour l`Informatique - Franța), întrucât acesta era de generația a 3-a (cu circuite integrate). A fost și o decizie politică, președintele de Gaulle a desconsiderat embargoul impus statelor din est privind tehnologiile de vârf.
+s-au dus tratative cu mai multe firme occidentale, din Anglia, Germania, Franța etc. S-a optat în final pentru calculatorul IRIS-50, de la CII (Companie Internationale pour l`Informatique - Franța), întrucât acesta era de generația a 3-a (cu circuite integrate). A fost și o decizie politică, președintele de Gaulle a desconsiderat embargoul impus statelor din est privind tehnologiile de vârf.
 
 La crearea lui în 1968, în Institut s-au strâns colectivele care aveau activitate și realizări în domeniu: cei de la IFA erau pionierii primelor calculatoare românești, cei de la Politehnica din Timișoara erau autorii calculatorului MECIPT, iar cei de la Academia Militară erau realizatorii calculatorului militar. Grupul din care făceam parte, din IPA, avea experiență în instalarea și exploatarea sistemelor de calcul, iar în 1967 în laboratorul nostru din IPA se realizase proiectul logic al unui calculator de capacitate medie. După o specializare în 1965 la firma Elliot (Anglia), eu pusesem în funcțiune și lucrasem cu calculatorul ARCH 5000, care a fost instalat în 1966 la termocentrala Luduș.
 
@@ -37,7 +37,7 @@ Să începem cu:
 Laboratorul a fost constituit în 1970 și era unul dintre cele mai mari colective din Institut, având peste 60 de membri, între care 40 cu studii superioare. Șef de laborator era dr. ing. Francisc Momeo, locțiitor era
 ing. Lucian Nica.
 
-Profilul laboratorului nostru era, în principal, elaborarea calculatoarelor de capacitate medie, ca dezvoltări ale licenței Iris 50 (FELIX C-256) obținută de la CII-Franța în 1969.
+Profilul laboratorului nostru era, în principal, elaborarea calculatoarelor de capacitate medie, ca dezvoltări ale licenței IRIS-50 (FELIX C-256) obținută de la CII-Franța în 1969.
 În afara lucrărilor de elaborare a prototipurilor sistemelor de calcul și de testare a lor (proiect logic, montaj, cablare, testare și omologare), în laborator se realizau și lucrări de:
 
 - elaborare de soft aplicativ tip CAD pentru generarea secvențelor de cablaj și pentru automatizarea proiectării  microprogramelor;
@@ -55,7 +55,7 @@ ing. Lucian Nica);
 
 Aceste modificări structurale au adus o creştere substanţială a vitezei de lucru cu peste 70 %. De o deosebită importanţă a fost activitatea depusă de Eugen Ciobanu care a proiectat unitatea de pregătire (UP), ce pregătea codul instrucţiunii următoare, adresa operandului şi alţi indicatori, concomitent cu execuţia instrucţiunii în curs de execuţie. Aceasta a dus la un spor de viteză de circa 30%. Unitatea centrală devenită unitate de execuţie (UE) a fost restructurată pe 32 biţi (ca sumator, registre, căi de date etc.) şi s-a realizat un nou bloc de comandă, s-a introdus un subset de instrucţiuni puternice și s-a desfăşurat o activitate laborioasă de refacere a secvenţelor celor peste 120 instrucţiuni, cu noi algoritmi de execuţie. Unele instrucţiuni, frecvente în programele uzuale, au avut sporuri de viteză de peste 60%, iar creşterea vitezei datorată restructurării UE a fost de circa 25% (conform mix Gibson). De notat că, la creşterea vitezei de lucru a calculatorului a contribuit, pe lângă cele prezentate mai sus, şi  îmbunătăţirea modului de acces la memoria Internă (întreţeserea adreselor).
 
-Prin creșterea vitezei de lucru și a memoriei interne, prin configurarea dezvoltată a ansamblului de echipamente periferice și prin extinderea memoriei externe – calculatorul FELIX C-512/1024 a constituit un real progres față de predecesorul său, FELIX C-256 (IRIS 50), preluat prin licență.
+Prin creșterea vitezei de lucru și a memoriei interne, prin configurarea dezvoltată a ansamblului de echipamente periferice și prin extinderea memoriei externe – calculatorul FELIX C-512/1024 a constituit un real progres față de predecesorul său, FELIX C-256 (IRIS-50), preluat prin licență.
 
 Reglarea modelului experimental a avut loc la sfârșitul anului 1976, când s-au trecut cu succes primele programe de test, spre marea noastră bucurie.
 
