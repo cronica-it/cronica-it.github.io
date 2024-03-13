@@ -1,6 +1,6 @@
 ---
 slug: 2008/tdmihu-aminitiri-fabrica-de-calculatoare
-title: 'Traian (Dorin) Mihu - Fabrica de Calculatoare - Ani, Oameni, Fapte'
+title: 'Traian (Dorin) Mihu - Interviul „Fabrica de Calculatoare - Ani, Oameni, Fapte”'
 authors: [cmarcusanu, tdmihu]
 tags: [articole, interviuri, it, ice, marketwatch]
 
@@ -12,7 +12,7 @@ event_date: '2008-09-25'
 
 În anul 2008, în numerele 108, 109, 110 ale revistei Market Watch, a fost
 publicat un interviu în trei părți cu Traian (Dorin) Mihu, intitulat
-„Ani, Oameni, Fapte”.
+**Fabrica de Calculatoare - Ani, Oameni, Fapte**.
 
 <!-- truncate -->
 
