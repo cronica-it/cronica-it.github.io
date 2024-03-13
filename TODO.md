@@ -11,6 +11,8 @@
 - de verificat: <https://www.electrokits.ro/scurt-istoric-al-internetului-in-romania/>
 - de adaugat participarea la ISOC 1993
 
+- CEPECA
+
 - de prelucrat
   - articol Baltac
 
@@ -57,7 +59,6 @@ in itc 50. probabil market watch
 - http://www.marketwatch.ro/articol/16548/Semicentenarul_Departamentului_de_Calculatoare_din_Politehnica_bucuresteana/
 - https://www.marketwatch.ro/articol/4207/Calculatoarele_de_capacitate_medie/pagina/3 (samoila)
 - https://www.marketwatch.ro/articol/4158/Victor_Meghesan_memorii_pe_calculator/
-- https://www.marketwatch.ro/articol/3843/Istoria_informaticii_traita_de_Vasile_Baltac/
 
 
 ## Alte Link-uri
