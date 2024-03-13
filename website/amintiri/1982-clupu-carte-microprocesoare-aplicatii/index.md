@@ -181,8 +181,8 @@ Cum trebuie însă să înceapă revoluția microprocesorului? Prin studiul unor
 
 Volumul pe care îl prezentăm cititorului este realizat de un grup de autori care lucrează într-un institut de cercetare din domeniul calculatoarelor electronice și este orientat către aplicații. Din acest punct de vedere se deosebește de celelalte volume referitoare la microprocesoare apărute la noi. Competența autorilor și caracterul lucrării fac ca acest volum să fie o reală contribuție la extinderea utilizării microprocesoarelor în economia națională în conformitate cu Programul-Directivă de cercetare științifică, dezvoltare tehnologică și de introducere a progresului tehnic în perioada 1981-1990 și direcțiile principale până în anul 2000, aprobat de Congresul a XII-lea al Partidului Comunist Român.
 
-Mihai Drăgănescu, membru corespondent al Academiei Republicii Socialiste România<br/>
-30 mai 1982
+Mihai Drăgănescu, membru corespondent al Academiei Republicii Socialiste România
+<br/>30 mai 1982
 
 ## Referințe
 
