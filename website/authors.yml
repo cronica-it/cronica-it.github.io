@@ -168,10 +168,6 @@ shotaran:
   name: Silviu Hotăran
   image_url: https://cronica-it.github.io/imagini/autori/silviu-hotaran.jpg
 
-gmartin:
-  name: Gabriel Martin
-  image_url: https://cronica-it.github.io/imagini/autori/gabriel-martin.jpg
-
 golteanu:
   name: Gheorghe Olteanu
   image_url: https://cronica-it.github.io/imagini/autori/gheorghe-olteanu.jpg
@@ -198,5 +194,9 @@ dbuznea:
 vmeghesan:
   name: Victor Megheșan
   image_url: https://cronica-it.github.io/imagini/autori/victor-meghesan.jpg
+
+gmartin:
+  name: Gabriel Martin
+  image_url: https://cronica-it.github.io/imagini/autori/gabriel-martin.jpg
 
 # ----- RIP -------------------------------------------------------------------
