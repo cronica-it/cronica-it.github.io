@@ -1,6 +1,6 @@
 ---
 slug: 2008/vbaltac-istoria-informaticii
-title: 'Vasile Baltac - Istoria informaticii'
+title: 'Vasile Baltac - Articolul „Istoria informaticii”'
 authors: [cmarcusanu, vbaltac]
 tags: [articole, interviuri, it, marketwatch, mecipt, itc, ice, felix, coral]
 
@@ -12,7 +12,7 @@ event_date: '2008-07-22'
 
 În data de 22 iulie 2008, în numărul 107 al revistei Market Watch, a fost
 publicat un interviu cu Vasile Baltac, intitulat
-„Istoria informaticii”.
+**Istoria informaticii**.
 
 <!-- truncate -->
 
@@ -70,6 +70,11 @@ Mai târziu s-a migrat către calculatoare personale. Primul PC a fost realizat 
 În 1981 am fost numit secretar de stat în minister şi din 1985 director general CIETC. După mine a venit director la ITC Victor Megheşan care a stat până la revoluţie.
 
 În 1990 erau aproape 70.000 de angajaţi în industria de calculatoare. Cam toţi care sunt azi şefii din această industrie au lucrat într-una din fabricile sau institutele de pe platforma Pipera: ITC, FEA, FEPER, IIRUC sau ICI: Dan Roman a fost la ITC, Nicu Badea a fost şi la ICI şi la ITC, Siviu Hotăran a fost la ITC, Varujan Pambuccian la fel la ITC. Gabriel Marin la Rom Control Data. Și mulţi alţii. ITC-ul după 1989 nu a mai putut şi nici nu a mai fost ce era. De altfel calculatoarele au fost prima industrie care s-a privatizat. Industria aşa cum era ea în 1989 a dispărut. Dar nici în America nu se mai fac calculatoare. Acum giganţii sunt în software şi în aplicaţii.
+
+![baltac](https://cronica-it.github.io/imagini/2008/vbaltac-istoria-informaticii/vasile-baltac.jpg)
+
+Prof. Univ. Vasile Baltac, un "senior" al informaticii din România:
+„Pentru mine totul a început prin anii ’50 datorită lui Grigore Moisil“.
 
 ## Referințe
 
