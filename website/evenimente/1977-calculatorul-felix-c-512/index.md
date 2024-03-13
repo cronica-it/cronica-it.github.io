@@ -47,8 +47,8 @@ Internă (întreţeserea adreselor).
 
 Prin creșterea vitezei de lucru și a memoriei interne, prin configurarea
 dezvoltată a ansamblului de echipamente periferice și prin extinderea
-memoriei externe – calculatorul Felix C-512/1024 a constituit un real
-progres față de predecesorul său, Felix C-256 (IRIS-50), preluat prin licență.
+memoriei externe – calculatorul FELIX C-512/C-1024 a constituit un real
+progres față de predecesorul său, FELIX C-256 (IRIS-50), preluat prin licență.
 
 Testarea modelului experimental a avut loc la sfârșitul anului 1976,
 când s-au trecut cu succes primele programe de test.
@@ -57,7 +57,7 @@ când s-au trecut cu succes primele programe de test.
 „CALCULATORUL FELIX C-512 S-A NĂSCUT ȘI VĂ UREAZĂ LA MULȚI ANI 1977”,
 un afiș care a fost pus la intrarea în Institut. (Lucian Nica)
 
-În 1977 a început producția sistemelor Felix C-512/1024 la Fabrica de
+În 1977 a început producția sistemelor FELIX C-512/1024 la Fabrica de
 Calculatoare Electronice (FCE) de pe platforma industriei electronice din
 Pipera, producție care a durat peste 6 ani. Sistemul a constituit baza dotării
 Centrelor de Calcul Teritoriale și a centrelor de calcul din instituții,

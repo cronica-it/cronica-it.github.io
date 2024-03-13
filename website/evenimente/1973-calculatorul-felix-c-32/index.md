@@ -25,7 +25,7 @@ fiind Emil Tudor.
 Modelul C-32 avea 32 kB de memorie. A fost urmat de **C-32M**, un model mobil
 pentru aplicații militare.
 
-În 1973, Corneliu Maschek a prezentat sistemul de calcul Felix C-32
+În 1973, Corneliu Maschek a prezentat sistemul de calcul FELIX C-32
 la Expoziţia de la Paris.
 
 La ITC/CCAB a fost apoi proiectat un model cu 64 kB de memorie, **C-64** care a fost folosit în oficiile
@@ -60,5 +60,5 @@ fabrica de ciment.
 
 ## Referințe
 
-- [en.wikipedia.org - Felix C](https://ro.wikipedia.org/wiki/Felix_C)
+- [en.wikipedia.org - FELIX C](https://ro.wikipedia.org/wiki/Felix_C)
 - [Vasile Baltac: Cartea „Un Institut pentru istorie - Semicentenarul Institutului pentru Tehnică de Calcul (1968-2018)”](/amintiri/2018/vbaltac-carte-itc-50-ani/) (arhivat [local](https://cronica-it.github.io/arhiva/#2018))

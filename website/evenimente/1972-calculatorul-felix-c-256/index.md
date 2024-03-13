@@ -54,4 +54,4 @@ de fișiere folosite în mod uzual de limbajul COBOL.
 
 ## Referințe
 
-- [en.wikipedia.org - Felix C](https://ro.wikipedia.org/wiki/Felix_C)
+- [en.wikipedia.org - FELIX C](https://ro.wikipedia.org/wiki/Felix_C)

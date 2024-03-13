@@ -113,7 +113,7 @@ După 1981 fabrica a parcurs o perioadă dificilă. Din cauza resurselor materia
 
 În a doua parte a anilor '80 fabrica a fost condusă de director Florea Tănase, ing. şef Tudorel Domocoș și director tehnic Traian Mihu.
 
-În perioada 1984-1987 a fost fabricat și **FELIX C-1024**, după un proiect ITC, şi **FELIX C-5000**, proiectat în fabrică şi din care s-au fabricat până în 1989 cca 15 bucăţi.
+În perioada 1984-1987 a fost fabricat și **FELIX C-1024**, după un proiect ITC, şi **FELIX 5000**, proiectat în fabrică şi din care s-au fabricat până în 1989 cca 15 bucăţi.
 
 Microcalculatoarele bazate pe microprocesoare au intrat rând pe rând în fabricație printr-o strânsă colaborare cu Institutul Politehnic București. S-au produs microcalculatoarele **MC8**, **M18**, **M18B**, **M118**.
 
@@ -148,17 +148,17 @@ din blocul comunist, după URSS, şi pregătea specialiști în programare şi
 mentenanță, pentru Asia.
 
 În anul
-1989 – cel mai reprezentativ – ICE Felix a avut 2592 de salariaţi, din care 547 cu
+1989 – cel mai reprezentativ – ICE FELIX a avut 2592 de salariaţi, din care 547 cu
 studii superioare şi în total a produs:
 
 - Maşini de facturat şi contabilizat (FC 15, 16, 128, 1000) = 21000 buc,
 - Calculatoare de birou = 255.000,
-- Calculatoare Felix (C-32, C-256, C-512, C-1024) = 650 buc (toate pe licenţă CII – Franţa),
+- Calculatoare FELIX (C-32, C-256, C-512, C-1024) = 650 buc (toate pe licenţă CII – Franţa),
 - Microcalculatoare (MB 18, 118, 216) = 52.000,
 - Minicalculatoare (I 100, Coral 4001, 8730) = 4500,
 - Terminale şi monitoare = 40000,
 - Calculatoare de proces SPOT = 700,
-- Calculatoare Felix 5000 = 15.
+- Calculatoare FELIX 5000 = 15.
 
 ## Alte produse
 
@@ -199,5 +199,5 @@ import { ImagesTable } from '@site/src/components/ImagesTable';
 
 În INDIE ICPE-CA, Revista de istorie a electrotehnicii românești, Vol. 5, Nr. 1-2, la pagina 82, apare următoarea notă:
 
-> ICE Felix Fabrica de Calculatoare Electronice este descrisă în vol III al seriei Electronica
+> ICE FELIX Fabrica de Calculatoare Electronice este descrisă în vol III al seriei Electronica
 românească O istorie trăită, coordonator Ion Miu, Ed. AGIR 2013, cap III, pag. 59-96.

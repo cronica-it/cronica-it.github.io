@@ -51,7 +51,7 @@ Eu am fost adus astfel la ITC Bucureşti în locul lui Victor Toma în 1969. În
 
 Primul calculator IRIS-50 a fost instalat la FEA la parter şi am primit sarcina să i-l prezint lui Ilie Verdeţ. I-am spus în timpul vizitei că licenţa nu acoperă discul şi memoria internă, care era sub embargou. Atunci m-am angajat faţă de Verdeţ sa facem aceste memorii. De fapt, luat pe nepregătite de o întrebare a lui Verdeţ, am avut curaj să-i spun că există un nucleu la Timişoara care se ocupă de memorii cu ferite. La câteva secunde după această discuţie, Ioan Avram (era în grupul care vizita ITC-ul, eu nici nu-l cunoşteam) mi-a cerut să vin urgent la el cu o notă. Astfel că i-am înaintat a doua zi un referat care a însemnat naşterea Fabricii de Memorii din Timişoara.
 
-Astfel s-a început cu fabricaţia de calculatoare Felix C-256 după licenţa IRIS-50. Apoi unul mai mic, C-32 conceput la ITC, ambele în serii de câteva zeci pe an. Cu ele s-au dotat centrele de calcul teritoriale, ale ministerelor, ale centralelor. Important este că prin cercetare proprie am putut să construim calculatoarele C-32 şi apoi C-512.
+Astfel s-a început cu fabricaţia de calculatoare FELIX C-256 după licenţa IRIS-50. Apoi unul mai mic, C-32 conceput la ITC, ambele în serii de câteva zeci pe an. Cu ele s-au dotat centrele de calcul teritoriale, ale ministerelor, ale centralelor. Important este că prin cercetare proprie am putut să construim calculatoarele C-32 şi apoi C-512.
 
 ## Primele minicalculatoare de concepţie originală
 

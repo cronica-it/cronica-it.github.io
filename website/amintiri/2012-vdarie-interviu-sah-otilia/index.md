@@ -58,7 +58,7 @@ VD: Există capcane - virgula, spre exemplu, nepusă la locul ei. Mai ales într
 
 OB: Ce-a urmat după programul de şah?
 
-VD: Acel program a fost făcut pe un calculator mare - Felix. Pe urmă am vrut să facem roboţi de jucat şah. Pentru că a fost o epocă în care apăruseră din vest nişte cutii mici, cu tastatură, cu o tablă de şah, iar copiii jucau şah. Erau chiar foarte bune. Am făcut, aşadar, nişte roboţi experimentali, am vrut să-i introducem în producţie, dar ne-am trezit cam târziu, pe urmă au apărut PC-urile şi au „omorât” roboţii ăştia de jucat şah, toate programele trecând pe PC. În ultimii ani am recidivat, ca să zic aşa, în această programare a şahului, dar pe calculatoare ultramoderne. Am făcut programe noi, mult mai performante.
+VD: Acel program a fost făcut pe un calculator mare - FELIX. Pe urmă am vrut să facem roboţi de jucat şah. Pentru că a fost o epocă în care apăruseră din vest nişte cutii mici, cu tastatură, cu o tablă de şah, iar copiii jucau şah. Erau chiar foarte bune. Am făcut, aşadar, nişte roboţi experimentali, am vrut să-i introducem în producţie, dar ne-am trezit cam târziu, pe urmă au apărut PC-urile şi au „omorât” roboţii ăştia de jucat şah, toate programele trecând pe PC. În ultimii ani am recidivat, ca să zic aşa, în această programare a şahului, dar pe calculatoare ultramoderne. Am făcut programe noi, mult mai performante.
 
 OB: Haideţi să revenim puţin la anii  ‘70-‘80, când dumneavoastră lucraţi la Institutul pentru Tehnică de Calcul (ITC). Era o noutate, bănuiesc, pentru acea perioadă.
 
@@ -104,7 +104,7 @@ Această dezvoltare a calculatorului antrena şi dezvoltarea cercetării la nive
 
 OB: Cum a venit povestea cu exportul de tehnică de calcul românească în China, în condiţiile în care aceasta nu era deloc competitivă?
 
-VD: China, fiind sub embargo în acea perioadă, nu primea nimic din Vest. Ei nu aveau calculatoare. Şi atunci, prin noi, China a început să beneficieze de calculatoare. Erau calculatoare fabricate în România, cu piese mai din Vest, mai de-ale noastre, Felix-uri din acelea grele. Plecau către China câte două-trei avioane cu un singur calculator. Chinezii le introduceau în centrele cele mai puternice: în academii, în fabrica de radiouri, în fabrica de avioane, în planificarea de stat şi făceau treabă cu ele. Erau sute de chinezi în jurul lor, programau şi scoteau randament maxim. Costurile cu aceste calculatoare se amortizau repede, fiind „creierul” unei ţări foarte mari. Şi noi primeam în schimb tone de bumbac, de orez; un fel de troc.
+VD: China, fiind sub embargo în acea perioadă, nu primea nimic din Vest. Ei nu aveau calculatoare. Şi atunci, prin noi, China a început să beneficieze de calculatoare. Erau calculatoare fabricate în România, cu piese mai din Vest, mai de-ale noastre, FELIX-uri din acelea grele. Plecau către China câte două-trei avioane cu un singur calculator. Chinezii le introduceau în centrele cele mai puternice: în academii, în fabrica de radiouri, în fabrica de avioane, în planificarea de stat şi făceau treabă cu ele. Erau sute de chinezi în jurul lor, programau şi scoteau randament maxim. Costurile cu aceste calculatoare se amortizau repede, fiind „creierul” unei ţări foarte mari. Şi noi primeam în schimb tone de bumbac, de orez; un fel de troc.
 
 OB: Aţi fost în China, să-i ajutaţi?
 

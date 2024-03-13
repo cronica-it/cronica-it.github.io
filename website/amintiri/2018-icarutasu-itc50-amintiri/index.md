@@ -72,7 +72,7 @@ variantă a acestui program (a fost implementat la IOR și Fabrica de
 Calculatoare București).
 
 În țară s-a continuat activitatea de realizare a noii versiuni software
-pentru Felix C-256, implementarea la diverși beneficiari interni, dar și externi.
+pentru FELIX C-256, implementarea la diverși beneficiari interni, dar și externi.
 De menționat contractele din China, unde am asigurat școlarizarea la
 domiciliul beneficiarului – Beijing - pentru două sisteme FELIX C-256.
 
@@ -103,7 +103,7 @@ Activitatea în ITC a inclus și realizarea și publicarea manualelor de
 utilizare pentru sistemul de calcul, precum și a unor cărți la Editura Tehnică,
 de exemplu:
 
-În 1974: „Felix C-256, structura și programarea calculatorului”, colectiv:
+În 1974: „FELIX C-256, structura și programarea calculatorului”, colectiv:
 Vasile Baltac, Ion Căruțașu, Petru Macarie, Corneliu Maschek, Victor
 Megheșan, Maria Mocică, Lucia Popescu, Werner Schatz.
 

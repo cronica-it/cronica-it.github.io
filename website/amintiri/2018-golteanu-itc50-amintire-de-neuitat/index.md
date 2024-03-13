@@ -105,7 +105,7 @@ avansaţi şefi de laborator. Sorin coordona laboratorul de Memorii şi
 Periferice. Eu pe cel de Unităţi Centrale.
 
 Sarcina mea nu a fost uşoară. Urma să fructific experienţa acumulată în
-laboratorul domnului Francisc Momeo din „epoca Felix”, într-un moment de
+laboratorul domnului Francisc Momeo din „epoca FELIX”, într-un moment de
 mari dificultăţi financiare şi schimbări majore de „modă” în proiectare
 hardware, spre direcţia minicalculatoarelor. A trebuit să coordonez
 transformarea unui proiect care trena în acest laborator, în unul viabil, de

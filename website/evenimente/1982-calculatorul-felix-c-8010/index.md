@@ -25,15 +25,15 @@ dezvoltarea și producerea unor sisteme de calcul cu structura IBM,
 
 Ca urmare, s-a considerat oportună
 dezvoltarea în ITC a unui calculator tip IBM – cu structura hard
-tip IBM, care să ruleze instrucțiuni Felix, urmând ca ulterior
+tip IBM, care să ruleze instrucțiuni FELIX, urmând ca ulterior
 să se implementeze și cele specifice IBM, lucru posibil
 datorită microprogramării.
 
 Astfel, folosind schemele de principiu ale structurii hard IBM, s-a început
-în 1977 elaborarea calculatorului Felix C-8010. Modelul ales corespundea
+în 1977 elaborarea calculatorului FELIX C-8010. Modelul ales corespundea
 seriei IBM 370 (care s-a aflat în fabricație între 1970 și 1990), la nivel de
 capacitate medie. Erau multe noutăți de structură și performanță față de
-Felix C512/1024: comanda microprogramată, memoria cache care creștea
+FELIX C-512/C-1024: comanda microprogramată, memoria cache care creștea
 viteza de lucru, procesorul de autodiagnosticare, memoria internă cu
 semiconductoare, bloc de canale de intrare/ieșire pentru o configurație de
 periferice complexă etc.

@@ -35,5 +35,5 @@ Producția de serie a început în anul 1972.
 
 ## Referințe
 
-- [en.wikipedia.org - Felix C](https://ro.wikipedia.org/wiki/Felix_C)
+- [en.wikipedia.org - FELIX C](https://ro.wikipedia.org/wiki/Felix_C)
 - [Traian (Dorin) Mihu - Fabrica de Calculatoare](/amintiri/2008/tdmihu-aminitiri-fabrica-de-calculatoare)
