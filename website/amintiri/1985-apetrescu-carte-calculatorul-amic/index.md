@@ -43,5 +43,5 @@ Editura Tehnică se mândrește cu activitatea sa de pionierat în sprijinirea i
 
 import { PdfLink } from '@site/src/components/PdfLink';
 
-- A. Petrescu și alții: _**Totul despre calculatorul... aMic**_ Vol.1, Editura Tehnică, București 1985 (arhivat de la [google.com/site/georgechirtoaca](https://sites.google.com/site/georgechirtoaca/documentation)) <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/1985/apetrescu-totul-despre-calculatorul-personal-amic-vol-1.pdf"/>
+- A. Petrescu și alții: _**Totul despre calculatorul... aMic**_ Vol. 1, Editura Tehnică, București 1985 (arhivat de la [google.com/site/georgechirtoaca](https://sites.google.com/site/georgechirtoaca/documentation)) <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/1985/apetrescu-totul-despre-calculatorul-personal-amic-vol-1.pdf"/>
 - A. Petrescu și alții: _**Totul despre calculatorul... aMic**_ Vol.2, Editura Tehnică, București 1985 (arhivat de la [google.com/site/georgechirtoaca](https://sites.google.com/site/georgechirtoaca/documentation)) <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/1985/apetrescu-totul-despre-calculatorul-personal-amic-vol-2.pdf"/>
