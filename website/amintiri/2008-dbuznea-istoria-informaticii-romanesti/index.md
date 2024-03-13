@@ -29,7 +29,7 @@ Principala îmbunătăţire adusă a fost schimbarea memoriei ce folosea un tamb
 
 La nivelul conducerii Ministerului Economiei s-a aflat de această realizare, iar Dinu Buznea a fost solicitat să organizeze şi să conducă un Institut de Cercetări Electronice (ICE), unde a rămas ca director până în 1971. Ulterior, Dinu Buznea s-a ocupat şi de înfiinţarea ICSMA (Institutul Central pentru Sisteme de Conducere cu Mijloace de Automatizare) transformat ulterior în ICCI (Institutul Central pentru Conducere şi Informatică) şi, după 1990, în ICI (Institutul de Cercetări în Informatică), iar de la ICSMA a fost numit, în 1973, director al ITC, înlocuindu-l pe Florin Munteanu, primul director al ITC (institut înfiinţat în 1967).
 
-## România cumpăra licenţa IRIS-50
+## România cumpără licenţa IRIS-50
 
 La începutul anilor ‘70, România a cumpărat licenţa calculatorului IRIS-50. Franţa a vândut această licenţă României în principal datorită bunelor relaţii pe care Ceauşescu le avea cu Charles de Gaulle. Datorită tensiunilor induse de Războiul Rece, anumite tehnologii erau sub embargo. Acesta a fost şi unul dintre motivele pentru care nu s-a cumpărat licenţa IBM, deşi mulţi specialişti o recomandau. În perioada următoare, ITC-ul, sub conducerea lui Dinu Buznea, s-a ocupat de asimilarea licenţei franceze, organizând întruniri între inginerii români şi francezi şi cursuri de pregătire în Franţa, la Toulouse, unde era fabrica. Calculatorul produs de ITC a fost numit Felix C256. Ulterior, din 1977, ITC-ul a adăugat acestui calculator noi tipuri de memorie cu capacităţi sporite şi a extins gama de produse, atât cu modele mai simple, cât şi prin adăugarea de memorii mai performante.
 
