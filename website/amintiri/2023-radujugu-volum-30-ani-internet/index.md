@@ -55,5 +55,5 @@ unul dintre primii elevi ai Profesorului Grigore C Moisil (Dr Stelian Niculescu)
 
 import { PdfLink } from '@site/src/components/PdfLink';
 
-- Radu Jugureanu: _**30 de ani de Internet în România - Oameni, momente și imagini**_, Editura ICI, 2023 (arhivat de la [cnivro](https://cnivro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQgpdf)) <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/2023/radujugu-cniv-volum-aniversar-2023-versiune-online.pdf"/>
+- Radu Jugureanu: _**30 de ani de Internet în România - Oameni, momente și imagini**_, Editura ICI, 2023 (arhivat de la [cnivro](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)) <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/2023/radujugu-cniv-volum-aniversar-2023-versiune-online.pdf"/>
 - [Conferința „CNIV 2023 - 30 de ani de Internet în România”](/evenimente/2023/conferinta-cniv-30-ani-internet)

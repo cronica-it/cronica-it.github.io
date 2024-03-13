@@ -50,7 +50,7 @@ Sistemul de operare includea și un sistem de fișiere, numit SGF
 (Sistem de Gestiune a Fișierelor) care permite utilizarea formatelor
 de fișiere folosite în mod uzual de limbajul COBOL.
 
-![felix-c-256](https://cronica-it.github.io/imagini/1972/calculatorul-felix-c-256/felix-c-256-computer.jpg)
+![felix-c-256](https://cronica-it.github.io/imagini/1972/calculatorul-felix-c-256/felix-c-256-benzi.jpg)
 
 ## Referințe
 
