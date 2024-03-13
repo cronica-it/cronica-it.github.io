@@ -71,8 +71,8 @@ istoria IT din ţara noastră, se înscrie, fără îndoială,
 în galeria personalităţilor de seamă care au făurit
 această istorie.
 
-Prof. Univ. Dr. Vasile Baltac<br/>
-Bucureşti, mai 2014
+Prof. Univ. Dr. Vasile Baltac
+<br/>Bucureşti, mai 2014
 
 ## Referințe
 
