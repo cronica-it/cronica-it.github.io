@@ -21,7 +21,7 @@ publicat un interviu cu Victor Toma, intitulat
 Istoria are un început: Victor Toma
 
 În 1957, cercetătorul român Victor Toma a pus în funcţiune primul calculator electronic din Europa de Est (cu excepţia URSS). Era anul în care se lansa primul satelit artificial al Pământului, Sputnik 1!
-Computerul no.1 din lume fusese creat în 1945 de americani.
+Computerul no. 1 din lume fusese creat în 1945 de americani.
 
 VT: Ideea unui calculator a crescut treptat, cu sprijinul Institutului de Fizică Atomică (IFA); nu a fost nimic dintr-o dată. Iată de ce: IFA avea nevoie de tehnică digitală pentru măsurarea radioactivităţii la unităţile mari: betatron, reactor şi alte unităţi. Aşa că, în consecinţă, profesorul Hulubei, care era directorul Institutului de Fizică Atomică, a înfiinţat un laborator de electronică, pentru că pe atunci nu se gândea nimeni la calculatoare. Noi am început acolo să producem aparatură de măsură pentru diverse ateliere IFA, aparatură competitivă, la concurenţă cu ce se producea în străinătate.
 
