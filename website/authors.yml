@@ -129,6 +129,7 @@ mcostin:
   url: https://www.linkedin.com/in/costin-mihai-717356/
   image_url: https://cronica-it.github.io/imagini/autori/mihai-costin.jpg
 
+# Director Market Watch
 cmarcusanu:
   name: Călin Mărcușanu
   url: https://www.linkedin.com/in/calin-marcusanu-4b456716/
@@ -142,14 +143,60 @@ mmartinovici:
   name: Mihai Martinovici
   image_url: https://cronica-it.github.io/imagini/autori/mihai-martinovici.jpg
 
+# Reporter Market Watch
+gvasile:
+  name: Gabriel Vasile
+  image_url: https://cronica-it.github.io/imagini/autori/gabriel-vasile.jpg
+
+icarutasu:
+  name: Ion Căruțașu
+  image_url: https://cronica-it.github.io/imagini/autori/ion-carutasu.jpg
+
+adogaru:
+  name: Anton Dogaru
+  image_url: https://cronica-it.github.io/imagini/autori/anton-dogaru.jpg
+
+trus:
+  name: Teodor Rus
+  image_url: https://cronica-it.github.io/imagini/autori/teodor-rus.jpg
+
+hgligor:
+  name: Horia Gligor
+  image_url: https://cronica-it.github.io/imagini/autori/horia-gligor.jpg
+
+shotaran:
+  name: Silviu Hotăran
+  image_url: https://cronica-it.github.io/imagini/autori/silviu-hotaran.jpg
+
+gmartin:
+  name: Gabriel Martin
+  image_url: https://cronica-it.github.io/imagini/autori/gabriel-martin.jpg
+
+golteanu:
+  name: Gheorghe Olteanu
+  image_url: https://cronica-it.github.io/imagini/autori/gheorghe-olteanu.jpg
+
+aprodan:
+  name: Augustin Prodan
+  image_url: https://cronica-it.github.io/imagini/autori/augustin-prodan.jpg
+
+
 # ----- RIP -------------------------------------------------------------------
 
 vtoma:
   name: Victor Toma
-  image_url: https://cronica-it.github.io/imagini/autori/victor-toma.jpg
+  image_url: https://cronica-it.github.io/imagini/autori/rip/victor-toma.jpg
 
 nmillea:
   name: Nona Millea
-  image_url: https://cronica-it.github.io/imagini/autori/nona-millea.jpg
+  image_url: https://cronica-it.github.io/imagini/autori/rip/nona-millea.jpg
+
+dbuznea:
+  name: Dinu Buznea
+  image_url: https://cronica-it.github.io/imagini/autori/rip/dinu-buznea.jpg
+
+vmeghesan:
+  name: Victor Megheșan
+  image_url: https://cronica-it.github.io/imagini/autori/victor-meghesan.jpg
 
 # ----- RIP -------------------------------------------------------------------
