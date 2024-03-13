@@ -29,6 +29,14 @@ acest colectiv a dezvoltat, în anii 1963-
 (Calculator Electronic Numeric al Armatei 1 Staționar), din care, ulterior, a
 evoluat **CENA 2M** (Mobil).
 
+> Am convenit cu Institutul Politehnic din
+Timișoara ca Armata să poată reproduce modelele lor de calculatoare.
+Avantajul major era că ne ofereau atât hard-ul cât și soft-ul, precum și o
+inițiere în utilizare. Centrul de Cercetare al Academiei Tehnice Militare a
+perfecționat aceste calculatoare, deoarece avea o echipă de 50 de oameni
+tineri, foarte capabili, vârfuri ale inteligenței românești. Pe baza MECIPT am
+realizat calculatoarele CENA cu memorie statică. [Dinu Buznea]
+
 Calculatoarele din gama CENA au ajuns în dotarea
 Direcțiilor Centrale ale fiecăruia dintre cele patru corpuri de Armată, fiind
 construite 10 exemplare în atelierele uzinelor Electronica. În anul 1966 a avut
@@ -119,4 +127,5 @@ pentru scopul pentru care fusese înființat și gândit cu 10 ani înainte.
 ## Referințe
 
 - [Vasile Baltac: Cartea „Un Institut pentru istorie - Semicentenarul Institutului pentru Tehnică de Calcul (1968-2018)”](/amintiri/2018/vbaltac-carte-itc-50-ani/) (arhivat [local](https://cronica-it.github.io/arhiva/#2018))
+- [Dinu Buznea - Evocări din volumul ITC-50: „Un director general pentru stabilitatea ITC”](/amintiri/2018/dbuznea-itc50-un-director-general/)
 - [Lixco L/B-881](/evenimente/1983/calculatorul-lixco-lb-881/)
