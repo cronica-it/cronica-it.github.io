@@ -111,6 +111,8 @@ telecomandate (sistemul TRIDENT), calculatoare care au intrat în
 componența completelor de automatizare de pe autospecialele proiectate de
 Institutul de Cercetări al MApN. [Anton Dogaru]
 
+În 1985, ITC, ICI și CCAB sunt comasate într-o singură entitate, ICSIT-TCI.
+
 În 1986 s-a produs o reorganizare la nivelul CCAB, iar ca director a fost
 numit Adrian Stoica.
 
@@ -120,9 +122,15 @@ folosit cu succes ca editor de texte în limba română),
 și în 1988-1989 o mașină telex
 bazată pe L883 Turbo.
 
+Prin decretul Nr. 5 din 29.12.1989 este creat ICECP - Institutul de Cercetări
+pentru Echipamente de Calcul și Periferice, prin desprindere din ICSIT-TCI.
+
 După 1990 înzestrarea armatei a stabilit o altă politică, iar
 comenzile nu au mai venit. S-a produs de facto desființarea CCAB-ului
 pentru scopul pentru care fusese înființat și gândit cu 10 ani înainte.
+
+În 1991, ICECP s-a transformat în societatea comeercială SIAT S.A., care
+în 2009 s-a privatizat.
 
 ## Referințe
 
