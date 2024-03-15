@@ -63,7 +63,9 @@ Pentru varianta cu interfață de casetă, Lixco a distribuit o serie de program
 
 Prin această extensie, toate aplicațiile standard CP/M puteau fi acum rulate pe microcalculatorul L/B 881: interpretor Basic, compilatoare de C, Pascal și Fortran, WordStar, dBase, SuperCalc, etc.
 
-Tot în 1985, microcalculatorul a fost preluat și introdus în producție la ITCI-CCAB sub numele de **CE 119**. Se estimează că au fost produse aproximativ 1000 de exemplare (Lixco + CCAB).
+Tot în 1985, microcalculatorul a fost preluat și introdus în producție la ITCI-CCAB sub numele de **CE 119**.
+
+Se estimează că au fost produse aproximativ 1000 de exemplare (Lixco + CCAB).
 
 ## Imagini
 

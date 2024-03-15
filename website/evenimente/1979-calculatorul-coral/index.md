@@ -14,10 +14,10 @@ event_date: '1978'
 
 <!-- truncate -->
 
-Coral a fost o familie de minicalculatoare românești realizată la
-Fabrica de Calculatoare București sub conducerea inginerului
+Coral a fost o familie de minicalculatoare românești proiectată la
+Fabrica de Calculatoare București de o echipă sub conducerea inginerului
 Dan Romulus Tonceanu. Calculatorul Coral a implementat arhitectura
-PDP-11 folosind tehnologia bit-slice de la AMDslice de la AMD.
+PDP-11 folosind tehnologia bit-slice AMDslice de la AMD.
 
 A folosit circuite integrate mai noi și circuite imprimate multistrat,
 care au permis reducerea dimensiunilor.
