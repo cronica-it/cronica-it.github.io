@@ -55,5 +55,5 @@ import { PdfLink } from '@site/src/components/PdfLink';
 - [volumul 5](https://www.agir.ro/carte/electronica-romaneasca-o-istorie-traita-vol5-componente-electronice-partea-i-123970.html) - deocamdată indisponibil online
 
 Mulțumiri speciale domnului Mihai Mihăiță, președintele AGIR,
-și domnului Dan Bogdam, redactor șef Editura AGIR, pentru
+și domnului Dan Bogdan, redactor șef Editura AGIR, pentru
 versiunile în format electronic ale acestor lucrări.
