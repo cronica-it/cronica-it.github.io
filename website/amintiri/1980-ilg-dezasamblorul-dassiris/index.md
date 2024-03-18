@@ -31,11 +31,11 @@ secret bine păstrat, ultima soluție pentru cineva care chiar
 dorea să înțeleagă cum merg lucrurile, era dezasamblarea programelor
 existente.
 
-Probabil că dezasambloare au existat mai multe la vremea aceea, dar ce îl face
-pe DASSIRIS special este faptul ca prelucra atât executabile cât și
-biblioteci, și producea fișiere sursă care compilate
+Probabil că dezasambloare au existat mai multe la vremea aceea, dar ce îl făcea
+pe DASSIRIS special era faptul ca prelucra atât executabile cât și
+biblioteci, și producea fișiere sursă care, asamblate
 direct, fără nicio modificare, conduceau la executabile sau module
-de bibliotecă identice cu cele inițiale,
+de bibliotecă cu un conținut identic cu cele inițiale,
 ceea ce permitea modificarea relativ comodă a unor componente de sistem.
 
 Din punct de vedere tehnic, programul era scris în ASSIRIS, ocupa
