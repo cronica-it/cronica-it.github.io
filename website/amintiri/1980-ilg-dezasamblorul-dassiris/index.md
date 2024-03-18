@@ -65,4 +65,4 @@ disponibil în arhivă.
 
 ## Referințe
 
-- [DASSIRIS - Program dezasamblor pentru sistemul de operare Siris 3 (scan)](https://cronica-it.github.io/arhiva/#1980)
+- [DASSIRIS - Program dezasamblor pentru sistemul de operare SIRIS 3 (scan)](https://cronica-it.github.io/arhiva/#1980)
