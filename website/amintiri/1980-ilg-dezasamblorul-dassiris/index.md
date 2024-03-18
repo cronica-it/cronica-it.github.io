@@ -45,11 +45,11 @@ reacoperibile, încât memoria ocupată era de numai 36 KB.
 Dezvoltarea a necesitat 80 de rulări (cca 30 de ore de rulare) și a
 avut loc în intervalul ianuarie 1979 - martie 1980 (15 luni), adica
 în clasa a XI-a și a XII-a, inițial la Centrul de Calcul ICECHIM, iar
-clasa a XII-a la ICI.
+în clasa a XII-a la ICI.
 
 Sursele erau memorate pe benzi magnetice, și fiecare rulare
 folosea 2 benzi, una sursă și una destinație, și un teanc mic de
-cu modificările.
+cartele cu modificările.
 
 După ce programul a fost funcțional, a fost folosit pentru
 dezasamblarea celor mai multe dintre componentele sistemului
