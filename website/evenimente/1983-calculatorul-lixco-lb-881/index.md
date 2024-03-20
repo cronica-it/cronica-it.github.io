@@ -37,7 +37,7 @@ La realizarea diverselor programe de sistem (monitor, editor, asamblor) au contr
 
 Pentru a reduce riscul de erori la proiectarea schemei electrice, Lixco a apelat la Gigi Alexandrescu, un tânar pasionat de tehnica digitală, pentru a construi o machetă operațională a viitorului calculator. Gigi avea un talent deosebit să transpună o schemă electrică complexă în realitate, folosind sârmă de wrapping și o placă de circuit imprimat. Acest gen de machetă era denumită „arici”, pentru că majoritatea componentele  „pluteau” în aer, legate între ele cu sârme de wrapping.
 
-După verificarea în practică a sistemului, Lix Paulian și Ion Rusovici au proiectat cablajul imprimat. Aceasta s-a făcut manual, folosind folie de plastic specială marcată în inch și apoi digitizată la **FEA**. Primul set de cablaje a fost realizat tot la FEA. Este remarcabil faptul că tehnolologia de cablaj imprimat utilizată folosea doar două straturi (dar cu găuri metalizate)!
+După verificarea în practică a sistemului, Lix Paulian și Ion Rusovici au proiectat cablajul imprimat. Aceasta s-a făcut manual, folosind folie de plastic specială marcată în inch și apoi digitizată la **FEA**. Primul set de cablaje a fost realizat tot la FEA. Versiunea 881-4 a plăcii este în imaginea de mai sus. Este remarcabil faptul că tehnolologia de cablaj imprimat utilizată folosea doar două straturi (dar cu găuri metalizate)!
 
 ## Hardware
 
