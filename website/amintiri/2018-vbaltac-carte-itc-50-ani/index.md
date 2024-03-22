@@ -16,8 +16,8 @@ event_date: '2018'
 
 ---
 
-Lucrarea a fost realizată de Vasile Baltac, Viorel Darie, Viorica Droașcă
-Rodica Popescu, Carmen Stan, Horia Gligor
+Lucrarea a fost realizată de Vasile Baltac, Viorel Darie, Viorica Droașcă,
+Rodica Popescu, Carmen Stan, Horia Gligor,
 Luminița Berechet, Emil Bojin, Elena Rusu (editori).
 
 ## Cuprins
