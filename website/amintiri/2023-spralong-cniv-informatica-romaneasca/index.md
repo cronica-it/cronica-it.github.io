@@ -12,7 +12,7 @@ event_date: '2023-10-27'
 
 La conferința „CNIV 2023 - 30 de ani de Internet în România”,
 care a avut loc pe 27 Octombrie 2023 la Universitatea Politehnica
-București, Sandra Pralong a contribuit un articol intitulat
+București, Sandra Pralong a contribuit cu un articol intitulat
 **Cum a ajuns informatica românească să fie pe val**.
 
 <!-- truncate -->

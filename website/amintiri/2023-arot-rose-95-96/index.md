@@ -12,7 +12,7 @@ event_date: '2023-10-27'
 
 Pentru conferința „CNIV 2023 - 30 de ani de Internet în România”,
 care a avut loc pe 27 Octombrie 2023 la Universitatea Politehnica
-București, Alexandru Rotaru a contribuit un articol intitulat
+București, Alexandru Rotaru a contribuit cu un articol intitulat
 „Contribuții ale Asociației Utilizatorilor de Unix din România
 (GURU) la formarea primilor administratori pentru servicii Internet
 în anii 1992-1996”, din care extragem capitolul

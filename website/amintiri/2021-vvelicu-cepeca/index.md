@@ -10,7 +10,7 @@ event_date: '2021'
 
 ---
 
-În lucrarea „Istoria informaticii româneşti: apariţie, dezvoltare şi impact”, publicată în anul 2021 la editura Matrix Rom, Vasile Velicu a contribuit un capitol intitulat **CEPECA - Centrul de Perfecționare a Cadrelor în Informatică, Calcul Electronic și Consultanță, un rol important în dezvoltarea informaticii în România**.
+În lucrarea „Istoria informaticii româneşti: apariţie, dezvoltare şi impact”, publicată în anul 2021 la editura Matrix Rom, Vasile Velicu a contribuit cu un capitol intitulat **CEPECA - Centrul de Perfecționare a Cadrelor în Informatică, Calcul Electronic și Consultanță, un rol important în dezvoltarea informaticii în România**.
 
 <!-- truncate -->
 

@@ -32,11 +32,11 @@ cu menționarea clară a autorului și a sursei.
 
 ## Susținători
 
-Proiectul are susținerea [ANISP](https://www.anisp.ro)
+Proiectul beneficiază de susținerea [ANISP](https://www.anisp.ro)
 (Asociația Natională a Internet Service Providerilor),
-care a contribuit conținutul paginii
-[Istoria Internetului](https://rite.org.ro/istoria-internetului/), din care
-au fost preluate o parte dintre evenimentele din cronologie.
+care a oferit conținutul paginii
+[Istoria Internetului](https://rite.org.ro/istoria-internetului/),
+sursă din care au fost selectate o parte dintre evenimente din cronologie.
 
 ## Google Group
 
@@ -54,3 +54,5 @@ alte evenimente sau realizări semnificative,
 vă rugăm să ne contactați la adresa
 [cronica.it.ro@gmail.com](mailto:cronica.it.ro@gmail.com);
 toate contribuțiile vor fi foarte apreciate!
+
+Liviu Ionescu
