@@ -53,4 +53,7 @@ L883 avea o interfață serială RS-232 ce folosea un conector tip DB-25. Folosi
 
 ## Referințe
 
+import { PdfLink } from '@site/src/components/PdfLink';
+
 - [Firma Lixco](/evenimente/1967/firma-lixco)
+- Lixco: _**Lixco Mouse Controller v2.1 - Surse**_ (scan) <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/1989/lixco-mouse-controller-source-v2.1.pdf"/>
