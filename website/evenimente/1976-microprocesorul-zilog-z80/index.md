@@ -2,7 +2,7 @@
 slug: 1976/microprocesorul-zilog-z80
 title: 'Firma Zilog lansează microprocesorul Z80'
 authors: [ilg-ul]
-tags: [international, microprocesoare]
+tags: [international, microprocesoare, z80]
 
 date: 2024-01-02T11:49:30
 
@@ -23,6 +23,9 @@ sistemul de operare CP/M și compilatorul Intel PL/M pentru 8080
 Z80 a cucerit piața lui 8080 și a devenit unul dintre cele mai
 populare și mai utilizate procesoare pe 8 biți.
 
+A fost în producție până în 2024.
+
 ## Referințe
 
 - [en.wikipedia.org - Zilog Z80](https://en.wikipedia.org/wiki/Zilog_Z80)
+- [Firma Zilog anunță încetarea producției pentru microprocesorul Z80](/evenimente/2024/microprocesorul-zilog-z80-end-of-life)
