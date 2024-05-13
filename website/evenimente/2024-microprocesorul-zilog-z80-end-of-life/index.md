@@ -2,7 +2,7 @@
 slug: 2024/microprocesorul-zilog-z80-end-of-life
 title: 'Firma Zilog anunță încetarea producției pentru microprocesorul Z80'
 authors: [ilg-ul]
-tags: [microprocesoare, z80]
+tags: [international, microprocesoare, z80]
 
 date: 2024-05-13T06:47:28
 
