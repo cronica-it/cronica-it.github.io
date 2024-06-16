@@ -8,6 +8,10 @@ export const imagesLinks = [
     alt: "board-bottom.jpg"
   },
   {
+    src: "https://cronica-it.github.io/imagini/1989/l412z/all.jpg",
+    alt: "board-all.jpg"
+  },
+  {
     src: "https://cronica-it.github.io/imagini/1989/l412z/encoder-1.jpg",
     alt: "encoder-1.jpg"
   },
@@ -18,10 +22,6 @@ export const imagesLinks = [
   {
     src: "https://cronica-it.github.io/imagini/1989/l412z/encoder-3.jpg",
     alt: "encoder-3.jpg"
-  },
-  {
-    src: "https://cronica-it.github.io/imagini/1989/l412z/all.jpg",
-    alt: "all.jpg"
   },
   {
     src: "https://cronica-it.github.io/imagini/1989/l412z/transceiverul-lui-bord.jpg",
