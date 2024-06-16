@@ -29,6 +29,19 @@ De asemenea se pot obține cu Alt+0132 („) și Alt+0148 (”).
  (arhivat [local](https://cronica-it.github.io/arhiva/#1234))
 ```
 
+## PdfLink
+
+```
+import { PdfLink } from '@site/src/components/PdfLink';
+```
+
+## Imagini
+
+import { imagesLinks } from './images-links.tsx'
+import { ImagesTable } from '@site/src/components/ImagesTable';
+
+<ImagesTable images={imagesLinks}/>
+
 ## Prevent autolink
 
 - https://gist.github.com/alexpeattie/4729247
