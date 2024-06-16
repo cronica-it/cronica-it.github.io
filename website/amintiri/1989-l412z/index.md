@@ -19,7 +19,8 @@ Pe de altă parte, din ce în ce mai multe transceivere industriale afișau cum 
 
 Nu imi mai amintesc exact cum a început totul... dar știu că prin 1988 discutam cu colegul Gil (Gelu Chița) despre un circuit electronic de generat semnale electrice cu totul nou, și anume **Direct Digital Synthesis** (DDS). Poate am citit eu pe undeva despre el, sau poate Gil, care era în perioada respectivă student la Facultatea de Electronică, tocmai aflase teoria respectivă, nu mai știu... cert este că Gil a fost acela care m-a făcut să înțeleg cum funcționează un DDS.
 
-[inline]Lix cu macheta „demonstrator” a sintetizorului L412Z
+![text](https://cronica-it.github.io/imagini/1989/l412z/lix-cu-macheta.jpg)
+Lix cu macheta „demonstrator” a sintetizorului L412Z
 
 Bazat pe înformațiile de la Gil, am conceput o schemă inițială, pe care am și implementat-o pe o machetă. Era clar că la vremea respectivă, cu componentele disponibile atunci, realizarea unui DDS care să genereze frecvențele de până la 50 MHz necesare unui transceiver, nu era posbilă. Dar ideea era să folosim o buclă PLL clasică la care referința să fie generată de DDS, și cu frecvența de comparație în jur de 1 MHz. În acest fel, filtrul comparatorului de faza devenea minimal, și ca urmare timpul de lock al PLL-ului extrem de scurt, deși pasul final de frecvență era mic, în jur de 10 Hz. Frecvența urma să fie controlată prin programarea corespunzătoare a DDS-ului.
 
@@ -56,7 +57,11 @@ Cu experiența câștigată în cursul dezvoltării programului T-Race, în part
 Ion a ocupat
 Discul a fost montat pe un ax într-o cutie metalică împreuna cu două LED-uri și două fototranzistoare în infraroșu. Semnalele de la cele două fototranzistoare erau citite de către microprocesor printr-un **PPI 8255**. Pe de altă parte unul dintre semnale era folosit și pentru a genera un interrupt nemascabil în Z80, astfel putând fi determinate prin software viteza și sensul de rotație ale butonului. Encoderul incremental rezultat genera 360 impulsuri pe rotație.
 
-![text](https://cronica-it.github.io/imagini/1989/l412z/encoder-1.jpg)
+<img
+  src="https://cronica-it.github.io/imagini/1989/l412z/encoder-1.jpg"
+  alt="Encoder"
+  style={{width: 400}}
+/>
 Encoderul incremental realizat în regim propriu
 
 De asemeni, Ion a implementat un mecanism dinamic ce modifica numărul de kiloherzi pe turație în funcție de viteza de rotație a butonului (detalii în listing-ul programului sursă în documentele anexate). În final, senzația de buton de acord era extrem de plăcută și cu nimic diferită de cea a unui buton clasic.
@@ -67,7 +72,7 @@ De asemeni, Ion a implementat un mecanism dinamic ce modifica numărul de kilohe
 
 Noul sintetizor a fost prezentat cu multă fanfară la Simpozionul radioamatorilor de la Piatra-Neamț, care dacă îmi amintesc bine, a avut loc prin august 1989. Am făcut o prezentare oficială a sistemului, după care am „dezvăluit” transceiverul lui Bord. Cu această ocazie, cei de față au putut opera transceiverul și și-au făcut o primă impresie despre modul de funcționare. Se poate spune că a fost un mare succes, judecînd după numărul cererilor de informații pe care le-am primit atunci.
 
-În **Lixco News**, ediția din octombrie 1989 (ce avea să fie și ultima) a fost anunțat noul produs o dată cu primele informații despre cum va putea fi obținut. Citat din Lixco News: „Către sfârșitul anului 1989, va fi disponibiă documentația completă a sistemului, a modificărilor transceiverului A412 și eventual și setul de  cablaje imprimate; cei interesați sunt invitați să ia legătura cu noi.”
+În **Lixco News**, ediția din octombrie 1989 (ce avea să fie și ultima) a fost anunțat noul produs odată cu primele informații despre cum va putea fi obținut. Citat din Lixco News: „Către sfârșitul anului 1989, va fi disponibiă documentația completă a sistemului, a modificărilor transceiverului A412 și eventual și setul de  cablaje imprimate; cei interesați sunt invitați să ia legătura cu noi.”
 [link către last lixco news]
 
 ## Revizia B
