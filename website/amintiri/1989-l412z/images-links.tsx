@@ -20,7 +20,15 @@ export const imagesLinks = [
     alt: "encoder-3.jpg"
   },
   {
+    src: "https://cronica-it.github.io/imagini/1989/l412z/all.jpg",
+    alt: "all.jpg"
+  },
+  {
     src: "https://cronica-it.github.io/imagini/1989/l412z/transceiverul-lui-bord.jpg",
     alt: "transceiverul-lui-bord.jpg"
+  },
+  {
+    src: "https://cronica-it.github.io/imagini/1989/l412z/transceiverul-lui-bord-perspectiva.jpg",
+    alt: "transceiverul-lui-bord-perspectiva.jpg"
   }
 ]
