@@ -76,7 +76,8 @@ De asemeni, Ion a implementat un mecanism dinamic ce modifica numărul de kilohe
 Noul sintetizor a fost prezentat cu multă fanfară la Simpozionul radioamatorilor de la Piatra-Neamț, care dacă îmi amintesc bine, a avut loc prin august 1989. Am făcut o prezentare oficială a sistemului, după care am „dezvăluit” transceiverul lui Bord. Cu această ocazie, cei de față au putut opera transceiverul și și-au făcut o primă impresie despre modul de funcționare. Se poate spune că a fost un mare succes, judecînd după numărul cererilor de informații pe care le-am primit atunci.
 
 În **Lixco News**, ediția din octombrie 1989 (ce avea să fie și ultima) a fost anunțat noul produs odată cu primele informații despre cum va putea fi obținut. Citat din Lixco News: „Către sfârșitul anului 1989, va fi disponibiă documentația completă a sistemului, a modificărilor transceiverului A412 și eventual și setul de  cablaje imprimate; cei interesați sunt invitați să ia legătura cu noi.”
-[link către last lixco news]
+
+- Lixco: _**Lixco News**_ (ultima ediție, scan) <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/1989/lixco-news-last-edition.pdf"/>
 
 ## Revizia B
 
@@ -114,4 +115,5 @@ import { PdfLink } from '@site/src/components/PdfLink';
 
 - Lixco: _**Schema L412Z**_ (scan) <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/1989/lixco-l412z-schema.pdf"/>
 - Lixco: _**Surse L412Z**_ (scan) <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/1989/lixco-l412z-source.pdf"/>
+- Lixco: _**Lixco News**_ (ultima ediție, scan) <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/1989/lixco-news-last-edition.pdf"/>
 - [wiki - Direct digital synthesis](https://en.wikipedia.org/wiki/Direct_digital_synthesis)
