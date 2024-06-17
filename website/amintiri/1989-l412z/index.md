@@ -82,7 +82,7 @@ De asemeni, Ion a implementat un mecanism dinamic ce modifica numărul de kilohe
 
 În octombrie 1989, transceiverul lui Bord, ce încorpora prototipul sintetizorului, și-a făcut debutul cu brio intr-un concurs de anvergură, Ion participând cu el la **WW DX** SSB în banda de 40 m. Cu un total de 759 de QSO-uri, el a ocupat locul 1 pe România, 7 în Europa și 14 în lume.
 
-<Image img="https://cronica-it.github.io/imagini/1989/l412z/ion-wwdx-1989" />
+<Image img="https://cronica-it.github.io/imagini/1989/l412z/ion-wwdx-1989.jpg" />
 Ion lucrând în concursul WW DX SSB din octombrie 1989
 
 ## Lansarea
