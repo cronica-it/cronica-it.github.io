@@ -1,6 +1,6 @@
 ---
 slug: 1989/l412z
-title: 'Sintetizorul L412Z, sau cum a „îngropat” revoluția din 1989 ultimul proiect Lixco'
+title: 'Sintetizorul de frecvență L412Z, sau cum a „îngropat” revoluția din 1989 ultimul proiect Lixco'
 authors: [lixpaulian]
 tags: []
 
@@ -19,12 +19,12 @@ Spre sfârșitul anilor '80, transceiverul **A412** devenise foarte popular prin
 
 Pe de altă parte, din ce în ce mai multe transceivere industriale afișau cum frecvența digital; venise timpul ca și A412 să facă un salt în noua era tehnologică.
 
-Nu imi mai amintesc exact cum a început totul... dar știu că prin 1988 discutam cu colegul Gil (Gelu Chița) despre un circuit electronic de generat semnale electrice cu totul nou, și anume **Direct Digital Synthesis** (DDS). Poate am citit eu pe undeva despre el, sau poate Gil, care era în perioada respectivă student la Facultatea de Electronică, tocmai aflase teoria respectivă, nu mai știu... cert este că Gil a fost acela care m-a făcut să înțeleg cum funcționează un DDS.
+Nu imi mai amintesc exact cum a început totul... dar știu că prin 1988 discutam cu colegul Gil (Gelu Chița) despre un circuit electronic de generat semnale electrice cu totul nou, și anume **Direct Digital Synthesis** (DDS). Poate am citit eu pe undeva despre el, sau poate Gil, care în perioada respectivă era student la Facultatea de Electronică, tocmai aflase teoria respectivă, nu mai știu... cert este că Gil a fost acela care m-a făcut să înțeleg cum funcționează un DDS.
 
 <a href="https://cronica-it.github.io/imagini/1989/l412z/lix-cu-macheta.jpg"><Image img="https://cronica-it.github.io/imagini/1989/l412z/lix-cu-macheta.jpg" /></a>
 Lix cu macheta „demonstrator” a sintetizorului L412Z, decembrie 1988
 
-Bazat pe înformațiile de la Gil, am conceput o schemă inițială, pe care am și implementat-o pe o machetă. Era clar că la vremea respectivă, cu componentele disponibile atunci, realizarea unui DDS care să genereze frecvențele de până la 50 MHz necesare unui transceiver, nu era posbilă. Dar ideea era să folosim o buclă **PLL** (Phase-locked loop) la care referința să fie generată de DDS, cu frecvența de comparație în jur de 1 MHz. În acest fel, filtrul comparatorului de faza avea o frecvență de tăiere realativ ridicată, cu consecința că timpul de lock al PLL-ului era extrem de scurt, deși pasul final de frecvență era mic, în jur de 10 Hz. Frecvența urma să fie controlată prin programarea corespunzătoare a DDS-ului.
+Bazat pe înformațiile de la Gil, am conceput o schemă inițială, pe care am și implementat-o pe o machetă. Era clar că la vremea respectivă, cu componentele disponibile atunci, realizarea unui DDS care să genereze frecvențele de până la 50 MHz necesare unui transceiver, nu era posibilă. Dar ideea era să folosim o buclă **PLL** (Phase-locked loop) la care referința să fie generată de DDS, cu frecvența de comparație în jur de 1 MHz. În acest fel, filtrul comparatorului de fază avea o frecvență de tăiere relativ ridicată, cu consecința că timpul de lock al PLL-ului era extrem de scurt, deși pasul final de frecvență era mic, în jur de 10 Hz. Frecvența urma să fie controlată prin programarea corespunzătoare a DDS-ului.
 
 <a href="https://cronica-it.github.io/imagini/1989/l412z/block-diagram.pdf"><Image img="https://cronica-it.github.io/imagini/1989/l412z/block-diagram.pdf" /></a>
 
@@ -38,14 +38,14 @@ Acumulatorul de fază avea 24 de biți dintre care cei mai semnificativi cinci b
 
 Folosind programul de desenat cablaje **T-Race** conceput in-house (despre asta, în alt articol), am proiectat prima revizie a sintetizorului. Cablajul a fost proiectat în tehnologie cu două straturi cu găuri metalizate și a fost realizat la **Fabrica de Echipamente pentru Automatizări** (FEA). [Ion: să pomenim aici și de Florin?]
 
-Prima versiune (și de fapt, și ultima după cum se va vedea) a avut câteva erori, care au fost remediate prin „maltratarea” cablajului, vizibile și în fotografiile anexate. Pe acest prototip a fost dezvoltat firmware-le, Ion Rusovici (YO3JF) având aici cea mai mare contribuție. Gil a contribuit și el cu o mică bibliotecă aritmetică. Îmi amintesc cu mare plăcere de zilele (și nu de puține ori, nopțile) de vară din 1989 petrecute împreună cu Ion perfecționând funcționalitatea sistemului. Ion avea o productivitate deosebită și orice idee ne venea, el o implementa imediat.
+Prima versiune (și de fapt, și ultima după cum se va vedea) a avut câteva erori, care au fost remediate prin „maltratarea” cablajului, vizibile și în fotografiile anexate. Pe acest prototip a fost dezvoltat firmware-ul, Ion Rusovici (YO3JF) având aici cea mai mare contribuție. Gil a contribuit și el cu o mică bibliotecă aritmetică. Îmi amintesc cu mare plăcere de zilele (și nu de puține ori, nopțile) de vară din 1989 petrecute împreună cu Ion perfecționând funcționalitatea sistemului. Ion avea o productivitate deosebită și orice idee ne venea, el o implementa imediat.
+
+Circuitul a fost montat într-un transceiver A412 care aparținea lui Ștefan („Bord”) Bordeanu (YO3DP). Lucram contra-cronometru, deoarece vroiam să prezentăm sintetizorul la Simpozionul Radioamatorilor din anul 1989.
 
 <a href="https://cronica-it.github.io/imagini/1989/l412z/board-top.jpg"><Image img="https://cronica-it.github.io/imagini/1989/l412z/board-top.jpg" /></a>
 Prototipul sintetizorului L412Z, ce a fost montat în transceiverul lui Bord
 
-Circuitul a fost montat într-un transceiver A412 care aparținea lui Ștefan („Bord”) Bordeanu (YO3DP). Lucram contra-cronometru, deoarece vroiam să prezentăm sintetizorul la Simpozionul Radioamatorilor din anul 1989.
-
-Dezvoltarea de software în anii '80 nu era simplă, și faptul că programul era scris în assembler nu făcea treaba mai ușoară. Nu existau debuggere, sau cel puțin nu erau la îndemâna noastră. Nu aveam suficient RAM în sistem (doar 1 KByte!) pentru a putea încărca programul ca să-l rulăm acolo, așa că fiecare modificare, versiune nouă sau bug fix se solda cu o nouă generare de fișier binar, care apoi era „ars” într-un **UV-EPROM** folosind un programator de EPROM-uri. Aveam câteva EPROM-uri pe care le ciclam între scriere și ștergere, aceasta din urmă făcându-se în camera de baie la Ion cu ajutorul unei lămpi de UV improvizată dintr-un bec de iluminat stradal spart.
+Dezvoltarea de software în anii '80 nu era simplă, și faptul că programul era scris în assembler nu făcea treaba mai ușoară. Nu existau debuggere, sau cel puțin nu erau la îndemâna noastră. Nu aveam suficient RAM în sistem (doar 1 KByte!) pentru a putea încărca programul ca să-l rulăm acolo, așa că fiecare modificare, versiune nouă sau bug fix se solda cu o nouă generare de fișier binar, care era apoi „ars” într-un **UV-EPROM** folosind un programator de EPROM-uri. Aveam câteva EPROM-uri pe care le ciclam între scriere și ștergere, aceasta din urmă făcându-se în camera de baie la Ion cu ajutorul unei lămpi de UV improvizată dintr-un bec de iluminat stradal spart.
 
 ## Probleme, probleme...
 
@@ -73,11 +73,9 @@ De asemeni, Ion a implementat un mecanism dinamic ce modifica numărul de kilohe
 
 ## Lansarea
 
-Noul sintetizor a fost prezentat cu multă fanfară la Simpozionul radioamatorilor de la Piatra-Neamț, care dacă îmi amintesc bine, a avut loc prin august 1989. Am făcut o prezentare oficială a sistemului, după care am „dezvăluit” transceiverul lui Bord. Cu această ocazie, cei de față au putut opera transceiverul și și-au făcut o primă impresie despre modul de funcționare. Se poate spune că a fost un mare succes, judecînd după numărul cererilor de informații pe care le-am primit atunci.
+Noul sintetizor a fost prezentat cu multă fanfară la Simpozionul radioamatorilor de la Piatra-Neamț, care, dacă îmi amintesc bine, a avut loc prin august 1989. Am făcut o prezentare oficială a sistemului, după care am „dezvăluit” transceiverul lui Bord. Cu această ocazie, cei de față au putut opera transceiverul și și-au făcut o primă impresie despre modul de funcționare. Se poate spune că a fost un mare succes, judecînd după numărul cererilor de informații pe care le-am primit atunci.
 
-În **Lixco News**, ediția din octombrie 1989 (ce avea să fie și ultima) a fost anunțat noul produs odată cu primele informații despre cum va putea fi obținut. Citat din Lixco News: „Către sfârșitul anului 1989, va fi disponibiă documentația completă a sistemului, a modificărilor transceiverului A412 și eventual și setul de  cablaje imprimate; cei interesați sunt invitați să ia legătura cu noi.”
-
-- Lixco: _**Lixco News**_ (ultima ediție, scan) <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/1989/lixco-news-last-edition.pdf"/>
+În **Lixco News**, ediția din octombrie 1989 (ce avea să fie și ultima) a fost anunțat noul produs odată cu primele informații despre cum va putea fi obținut. Citat din Lixco News: „Către sfârșitul anului 1989, va fi disponibiă documentația completă a sistemului, a modificărilor transceiverului A412 și eventual și setul de  cablaje imprimate; cei interesați sunt invitați să ia legătura cu noi.” (vezi secțiunea **Referințe**).
 
 ## Revizia B
 
@@ -87,16 +85,16 @@ Pe lângă cele câteva erori ale cablajului precum și modificările aduse în 
 
 ## ...care totuși n-a fost să fie
 
-Fabricarea unui cablaj imprimat în patru straturi era o mică aventură in România anilor '80, dar eram convins că vom găsi o soluție. Din câte îmi amintesc, doar la **Fabrica de Calculatoare Electronice** (FCE) se produceau astfel de cablaje. Dar... nu a fost să fie, înainte de a ajunge la faza de fabricație a venit revoluția din decembrie 1989 peste noi. Așa cum se va vedea ulterior, aceasta a determinat profunde schimbări sociale și economice în România.
+Fabricarea unui cablaj imprimat în patru straturi era o mică aventură in România anilor '80, dar eram convins că vom găsi o soluție. Din câte îmi amintesc, doar la **Fabrica de Calculatoare Electronice** (FCE) se produceau astfel de cablaje. Dar... nu a fost să fie, înainte de a ajunge la faza de fabricație a venit revoluția din decembrie 1989 peste noi. Așa cum s-a văzut ulterior, aceasta a determinat profunde schimbări sociale și economice în România.
 
-Inițial am crezut că firma Lixco va putea în sfârșit să devină o entitate oficială, dar am fost naiv. Pe moment nu am realizat cât de vulnerabilă și fragilă este economia română, o dată cu deschiderea țării către vest. În scurt timp, piața din România a fost inundată de produse de import, fie că era vorba de calculatoare, transceivere de radioamatori, sau mașini de spălat (și multe, multe altele...).
+Inițial am crezut că firma Lixco va putea în sfârșit să devină o entitate oficială, dar am fost naiv. Pe moment nu am realizat cât de vulnerabilă și fragilă era economia română, odată cu deschiderea țării către vest. În scurt timp, piața din România a fost inundată de produse de import, fie că era vorba de calculatoare, transceivere de radioamatori, sau mașini de spălat (și multe, multe altele...).
 
 Dar am fost în mare parte ferit de consecințele imploziei economiei socialiste, pentru că în vara anului 1990 am avut inspirația (și posibilitatea) să emigrez în Austria. Din păcate pentru L412Z însă, proiectul a fost irevocabil „înghețat”, singura urmă a existenței sale fiind transceiverul lui Bord, un unicat.
 
 <a href="https://cronica-it.github.io/imagini/1989/l412z/transceiverul-lui-bord.jpg"><Image img="https://cronica-it.github.io/imagini/1989/l412z/transceiverul-lui-bord.jpg" /></a>
 Transceiverul lui Bord cu prototipul sintetizorului, așa cum arăta în decembrie 2003
 
-Multe din documentele proiectului s-au pierdut de-a lungul timpului, dar cu toate acestea am reușit să recuperez o parte din ele și împreună cu Liviu Ionescu (ilg) să le publicăm după 35 de ani aici (cu mulțumiri lui Ion Rusovici, Cezar Vener și Victor Simion pentru materialele furnizate). De notat că atât schema electrică, cât si listing-ul programului sursă nu reprezintă ultimile versiuni alte sintetizorului, care din păcate nu au mai putut fi găsite. Totuși, documentele respective nu sunt departe de versiunea finală, adică de cea care a funcționat în transceiverul lui Bord (vezi secțiunea **Referințe**).
+Multe din documentele proiectului s-au pierdut de-a lungul timpului, dar cu toate acestea am reușit să recuperez o parte dintre ele și împreună cu Liviu Ionescu (ilg) să le publicăm după 35 de ani aici (cu mulțumiri lui Ion Rusovici, Cezar Vener și Victor Simion pentru materialele furnizate). De notat că atât schema electrică, cât si listing-ul programului sursă nu reprezintă ultimile versiuni alte sintetizorului, care din păcate nu au mai putut fi găsite. Totuși, documentele respective nu sunt departe de versiunea finală, adică de cea care a funcționat în transceiverul lui Bord (vezi secțiunea **Referințe**).
 
 Cei interesați pot afla mai multe detalii despre [cum funcționează un DDS](https://en.wikipedia.org/wiki/Direct_digital_synthesis). Astăzi, există chip-uri care implementează un DDS complet, ce pot genera frecvențe de până la sute de MHz.
 
