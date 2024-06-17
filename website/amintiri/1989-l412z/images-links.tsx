@@ -8,7 +8,7 @@ export const imagesLinks = [
     alt: "board-bottom.jpg"
   },
   {
-    src: "https://cronica-it.github.io/imagini/1989/l412z/all.jpg",
+    src: "https://cronica-it.github.io/imagini/1989/l412z/board-all.jpg",
     alt: "board-all.jpg"
   },
   {
