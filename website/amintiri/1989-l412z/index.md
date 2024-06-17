@@ -19,9 +19,9 @@ Spre sfârșitul anilor '80, transceiverul **A412** devenise foarte popular prin
 
 Pe de altă parte, din ce în ce mai multe transceivere industriale afișau cum frecvența digital; venise timpul ca și A412 să facă un salt în noua era tehnologică.
 
-Nu imi mai amintesc exact cum a început totul... dar știu că prin 1988 discutam cu colegul Gil (Gelu Chița) despre un circuit electronic de generat semnale electrice cu totul nou, și anume **Direct Digital Synthesis** (DDS). Poate am citit eu pe undeva despre el, sau poate Gil, care în perioada respectivă era student la Facultatea de Electronică, tocmai aflase teoria respectivă, nu mai știu... cert este că Gil a fost acela care m-a făcut să înțeleg cum funcționează un DDS.
+Nu imi mai amintesc exact cum a început totul... dar știu că prin 1988 discutam cu colegul Gil (Gelu Chița) despre un circuit electronic de generat semnale electrice cu totul nou, și anume **Direct Digital Synthesis** (DDS). Poate am citit eu pe undeva despre el, sau poate Gil, care în perioada respectivă era student la Facultatea de Electronică, tocmai aflase teoria DDS-ului, nu mai știu... cert este că Gil a fost acela care m-a făcut să înțeleg cum funcționează un DDS.
 
-<a href="https://cronica-it.github.io/imagini/1989/l412z/lix-cu-macheta.jpg"><Image img="https://cronica-it.github.io/imagini/1989/l412z/lix-cu-macheta.jpg" /></a>
+<Image img="https://cronica-it.github.io/imagini/1989/l412z/lix-cu-macheta.jpg" />
 Lix cu macheta „demonstrator” a sintetizorului L412Z, decembrie 1988
 
 Bazat pe înformațiile de la Gil, am conceput o schemă inițială, pe care am și implementat-o pe o machetă. Era clar că la vremea respectivă, cu componentele disponibile atunci, realizarea unui DDS care să genereze frecvențele de până la 50 MHz necesare unui transceiver, nu era posibilă. Dar ideea era să folosim o buclă **PLL** (Phase-locked loop) la care referința să fie generată de DDS, cu frecvența de comparație în jur de 1 MHz. În acest fel, filtrul comparatorului de fază avea o frecvență de tăiere relativ ridicată, cu consecința că timpul de lock al PLL-ului era extrem de scurt, deși pasul final de frecvență era mic, în jur de 10 Hz. Frecvența urma să fie controlată prin programarea corespunzătoare a DDS-ului.
@@ -40,9 +40,20 @@ Folosind programul de desenat cablaje **T-Race** conceput in-house (despre asta,
 
 Prima versiune (și de fapt, și ultima după cum se va vedea) a avut câteva erori, care au fost remediate prin „maltratarea” cablajului, vizibile și în fotografiile anexate. Pe acest prototip a fost dezvoltat firmware-ul, Ion Rusovici (YO3JF) având aici cea mai mare contribuție. Gil a contribuit și el cu o mică bibliotecă aritmetică. Îmi amintesc cu mare plăcere de zilele (și nu de puține ori, nopțile) de vară din 1989 petrecute împreună cu Ion perfecționând funcționalitatea sistemului. Ion avea o productivitate deosebită și orice idee ne venea, el o implementa imediat.
 
+Combinația dintre un microprocesor și un sintetizor agil ne-a dat posibilitatea să implementăm o serie de facilități care altfel nu ar fi fost posibile, și care făceau un transceiver A412 competitiv cu transceiverele industriale din anii '80:
+
+- Lucrul split frequency, ba chiar split-band (emisia și recepția pe frecvențe/benzi diferite)
+- Soft RIT (Receive Incremental Tuning), folosind butonul principal de acord
+- Două VFO-uri independente, fiecare cu RIT-ul lui
+- Acord prin setarea directă a frecvenței folosind claviatura („direct frequency entry”)
+- Pâna la 99 de memorii (canale fixe) ușor de programat și rechemat
+- Recepție continuă în toată gama de unde scurte (1,5 - 30 MHz)
+- „Undo” pentru schimbările de frecvență accidentale
+- Blocarea frecvenței de lucru, butonul de acord devenind inactiv
+
 Circuitul a fost montat într-un transceiver A412 care aparținea lui Ștefan („Bord”) Bordeanu (YO3DP). Lucram contra-cronometru, deoarece vroiam să prezentăm sintetizorul la Simpozionul Radioamatorilor din anul 1989.
 
-<a href="https://cronica-it.github.io/imagini/1989/l412z/board-top.jpg"><Image img="https://cronica-it.github.io/imagini/1989/l412z/board-top.jpg" /></a>
+<a href="https://cronica-it.github.io/imagini/1989/l412z/board-top.jpg"><Image img="https://cronica-it.github.io/imagini/1989/l412z/board-top-small.jpg" /></a>
 Prototipul sintetizorului L412Z, ce a fost montat în transceiverul lui Bord
 
 Dezvoltarea de software în anii '80 nu era simplă, și faptul că programul era scris în assembler nu făcea treaba mai ușoară. Nu existau debuggere, sau cel puțin nu erau la îndemâna noastră. Nu aveam suficient RAM în sistem (doar 1 KByte!) pentru a putea încărca programul ca să-l rulăm acolo, așa că fiecare modificare, versiune nouă sau bug fix se solda cu o nouă generare de fișier binar, care era apoi „ars” într-un **UV-EPROM** folosind un programator de EPROM-uri. Aveam câteva EPROM-uri pe care le ciclam între scriere și ștergere, aceasta din urmă făcându-se în camera de baie la Ion cu ajutorul unei lămpi de UV improvizată dintr-un bec de iluminat stradal spart.
@@ -61,7 +72,7 @@ Discul a fost montat pe un ax într-o cutie metalică împreuna cu două LED-uri
 
 <a href="https://cronica-it.github.io/imagini/1989/l412z/encoder-1.jpg">
 <img
-  src="https://cronica-it.github.io/imagini/1989/l412z/encoder-1.jpg"
+  src="https://cronica-it.github.io/imagini/1989/l412z/encoder-1-small.jpg"
   alt="Encoder"
   style={{width: 400}}
 /></a>
@@ -70,6 +81,9 @@ Encoderul incremental realizat în regim propriu
 De asemeni, Ion a implementat un mecanism dinamic ce modifica numărul de kiloherzi pe turație în funcție de viteza de rotație a butonului (detalii în listing-ul programului sursă în documentele anexate). În final, senzația de buton de acord era extrem de plăcută și cu nimic diferită de cea a unui buton clasic.
 
 În octombrie 1989, transceiverul lui Bord, ce încorpora prototipul sintetizorului, și-a făcut debutul cu brio intr-un concurs de anvergură, Ion participând cu el la **WW DX** SSB în banda de 40 m. Cu un total de 759 de QSO-uri, el a ocupat locul 1 pe România, 7 în Europa și 14 în lume.
+
+<Image img="https://cronica-it.github.io/imagini/1989/l412z/ion-wwdx-1989" />
+Ion lucrând în concursul WW DX SSB din octombrie 1989
 
 ## Lansarea
 
@@ -91,12 +105,16 @@ Inițial am crezut că firma Lixco va putea în sfârșit să devină o entitate
 
 Dar am fost în mare parte ferit de consecințele imploziei economiei socialiste, pentru că în vara anului 1990 am avut inspirația (și posibilitatea) să emigrez în Austria. Din păcate pentru L412Z însă, proiectul a fost irevocabil „înghețat”, singura urmă a existenței sale fiind transceiverul lui Bord, un unicat.
 
-<a href="https://cronica-it.github.io/imagini/1989/l412z/transceiverul-lui-bord.jpg"><Image img="https://cronica-it.github.io/imagini/1989/l412z/transceiverul-lui-bord.jpg" /></a>
+<a href="https://cronica-it.github.io/imagini/1989/l412z/transceiverul-lui-bord.jpg"><Image img="https://cronica-it.github.io/imagini/1989/l412z/transceiverul-lui-bord-small.jpg" /></a>
 Transceiverul lui Bord cu prototipul sintetizorului, așa cum arăta în decembrie 2003
 
 Multe din documentele proiectului s-au pierdut de-a lungul timpului, dar cu toate acestea am reușit să recuperez o parte dintre ele și împreună cu Liviu Ionescu (ilg) să le publicăm după 35 de ani aici (cu mulțumiri lui Ion Rusovici, Cezar Vener și Victor Simion pentru materialele furnizate). De notat că atât schema electrică, cât si listing-ul programului sursă nu reprezintă ultimile versiuni alte sintetizorului, care din păcate nu au mai putut fi găsite. Totuși, documentele respective nu sunt departe de versiunea finală, adică de cea care a funcționat în transceiverul lui Bord (vezi secțiunea **Referințe**).
 
-Cei interesați pot afla mai multe detalii despre [cum funcționează un DDS](https://en.wikipedia.org/wiki/Direct_digital_synthesis). Astăzi, există chip-uri care implementează un DDS complet, ce pot genera frecvențe de până la sute de MHz.
+Putem spune că proiectul L412Z a fost o intreprindere temerară, având în vedere că teoria DDS-ului fusese enunțată deabia în 1971 (J. Tierney et al.), iar primele implementări concrete apăruseră la începutul anilor '80. Sunt convins că ar fi fost un mare succes comercial, dacă proiectul și-ar fi urmat cursul normal, așa cum a fost cu transceiverul A412 și cu microcalculatorul L/B881. Eram pe punctul să găsim soluții pentru fabricarea în serie a encoderului incremental, precum și a altor elemente esențiale construcției sintetizorului. În general componentele folosite se puteau procura relativ ușor de pe „piața gri/neagră” din România. Dar soarta a decis altfel...
+
+În afară de prototip, a rămas însă satisfacția că am participat la un proiect „leading edge” extrem de interesant, împreună cu colegii de la Lixco. Pentru mine personal, a fost un moment din viața profesională pe care nu-l voi uita niciodată și de care îmi voi aminti mereu cu plăcere.
+
+Cei interesați pot afla mai multe detalii despre [cum funcționează un DDS](https://en.wikipedia.org/wiki/Direct_digital_synthesis). Astăzi, există chip-uri care implementează un DDS complet, ce pot genera frecvențe de până la câteva sute de MHz.
 
 Dedic acest articol foștilor membrii Lixco, Bord și Gil, care s-au dus dintre noi prea devreme.
 
@@ -115,3 +133,4 @@ import { PdfLink } from '@site/src/components/PdfLink';
 - Lixco: _**Surse L412Z**_ (scan) <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/1989/lixco-l412z-source.pdf"/>
 - Lixco: _**Lixco News**_ (ultima ediție, scan) <PdfLink href="https://github.com/cronica-it/arhiva/releases/download/1989/lixco-news-last-edition.pdf"/>
 - [wiki - Direct digital synthesis](https://en.wikipedia.org/wiki/Direct_digital_synthesis)
+- [J. Tierney et al. - A digital frequency synthesizer](https://ieeexplore.ieee.org/abstract/document/1162151) (paywall)
