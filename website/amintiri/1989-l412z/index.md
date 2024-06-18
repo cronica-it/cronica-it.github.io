@@ -2,7 +2,7 @@
 slug: 1989/l412z
 title: 'Sintetizorul de frecvență L412Z, sau cum a „îngropat” revoluția din 1989 ultimul proiect Lixco'
 authors: [lixpaulian]
-tags: []
+tags: [lixco, radio, embedded]
 
 date: 2024-06-03T20:28:00
 ---
@@ -19,26 +19,26 @@ Spre sfârșitul anilor '80, transceiverul **A412** devenise foarte popular prin
 
 Pe de altă parte, din ce în ce mai multe transceivere industriale afișau frecvența digital; venise timpul ca și A412 să facă un salt în noua era tehnologică.
 
-Nu îmi mai amintesc exact cum a început totul... dar știu că prin 1988 discutam cu colegul Gil (Gelu Chița) despre un circuit electronic de generat semnale electrice cu totul nou, și anume **Direct Digital Synthesis** (DDS). Poate am citit eu pe undeva despre el, sau poate Gil, care în perioada respectivă era student la Facultatea de Electronică, tocmai aflase teoria DDS-ului, nu mai știu... cert este că Gil a fost acela care m-a făcut să înțeleg cum funcționează un DDS.
+Nu îmi mai amintesc exact cum a început totul... dar știu că prin 1988 discutam cu colegul Gelu Chița despre un circuit electronic de generat semnale electrice cu totul nou, și anume **Direct Digital Synthesis** (DDS). Poate am citit eu pe undeva despre el, sau poate Gelu, care în perioada respectivă era student la Facultatea de Electronică, tocmai aflase teoria DDS-ului, nu mai știu... cert este că Gelu a fost acela care m-a făcut să înțeleg cum funcționează un DDS.
 
 <Image img="https://cronica-it.github.io/imagini/1989/l412z/lix-cu-macheta.jpg" />
 Lix cu macheta „demonstrator” a sintetizorului L412Z, decembrie 1988
 
-Bazat pe înformațiile de la Gil, am conceput o schemă inițială, pe care am și implementat-o pe o machetă. Era clar că la vremea respectivă, cu componentele disponibile atunci, realizarea unui DDS care să genereze frecvențele de până la 50 MHz necesare unui transceiver, nu era posibilă. Dar ideea era să folosim o buclă **PLL** (Phase-locked loop) la care referința să fie generată de DDS, cu frecvența de comparație în jur de 1 MHz. În acest fel, filtrul comparatorului de fază avea o frecvență de tăiere relativ ridicată, cu consecința că timpul de lock al PLL-ului era extrem de scurt, deși pasul final de frecvență era mic, în jur de 10 Hz. Frecvența urma să fie controlată prin programarea corespunzătoare a DDS-ului.
+Bazat pe înformațiile de la Gelu, am conceput o schemă inițială, pe care am și implementat-o pe o machetă. Era clar că la vremea respectivă, cu componentele disponibile atunci, realizarea unui DDS care să genereze frecvențele de până la 50 MHz necesare unui transceiver, nu era posibilă. Dar ideea era să folosim o buclă **PLL** (Phase-locked loop) la care referința să fie generată de DDS, cu frecvența de comparație în jur de 1 MHz. În acest fel, filtrul comparatorului de fază avea o frecvență de tăiere relativ ridicată, cu consecința că timpul de lock al PLL-ului era extrem de scurt, deși pasul final de frecvență era mic, în jur de 10 Hz. Frecvența urma să fie controlată prin programarea corespunzătoare a DDS-ului.
 
 <a href="https://cronica-it.github.io/imagini/1989/l412z/block-diagram.pdf"><Image img="https://cronica-it.github.io/imagini/1989/l412z/block-diagram.pdf" /></a>
 
 ## ...și primele rezultate
 
-Macheta „demonstrator” implementa cele mai importante părți ale sintetizorului: acumulatorul de fază, PLL-ul și microprocesorul cu memoriile și interfețele de I/O necesare. Nu avea buton de acord și nici tastatură, programarea frecvenței se făcea din câteva butoane, dintre care două erau pentru up/down. Partea de DDS a funcționat impecabil, exact așa cum a fost proiectată după ideile lui Gil.
+Macheta „demonstrator” implementa cele mai importante părți ale sintetizorului: acumulatorul de fază, PLL-ul și microprocesorul cu memoriile și interfețele de I/O necesare. Nu avea buton de acord și nici tastatură, programarea frecvenței se făcea din câteva butoane, dintre care două erau pentru up/down. Partea de DDS a funcționat impecabil, exact așa cum a fost proiectată după ideile lui Gelu.
 
-Acumulatorul de fază avea 24 de biți dintre care cei mai semnificativi cinci biți erau folosiți pentru generarea semnalului sinusoidal prin reducere („truncation”). Un PROM bipolar rapid de 256 de biți era folosit pentru transformarea fazei în sinus folosind o tabelă calculată tot de Gil. Ieșirea PROM-ului (pe 8 biți) era aplicată unui DAC care furniza semnalul (aproape) sinusoidal, urmând ca un filtru trece-jos să rezolve artefactele rămase în urma DAC-ului. Folosind un tact de 4 MHz, frecvența maximă teoretică ce putea fi generată de DDS era de 2 MHz, pasul fiind de aproximativ un sfert de Herz.
+Acumulatorul de fază avea 24 de biți dintre care cei mai semnificativi cinci biți erau folosiți pentru generarea semnalului sinusoidal prin reducere („truncation”). Un PROM bipolar rapid de 256 de biți era folosit pentru transformarea fazei în sinus folosind o tabelă calculată tot de Gelu. Ieșirea PROM-ului (pe 8 biți) era aplicată unui DAC care furniza semnalul (aproape) sinusoidal, urmând ca un filtru trece-jos să rezolve artefactele rămase în urma DAC-ului. Folosind un tact de 4 MHz, frecvența maximă teoretică ce putea fi generată de DDS era de 2 MHz, pasul fiind de aproximativ un sfert de Herz.
 
 ## Proiectul ia formă
 
-Folosind programul de desenat cablaje **T-Race** conceput in-house (despre asta, în alt articol), am proiectat prima revizie a sintetizorului. Cablajul a fost proiectat în tehnologie cu două straturi cu găuri metalizate și a fost realizat la **Fabrica de Echipamente pentru Automatizări** (FEA). [Ion: să pomenim aici și de Florin?]
+Folosind programul de desenat cablaje **T-Race** conceput in-house (despre asta, în alt articol), am proiectat prima revizie a sintetizorului. Cablajul a fost proiectat în tehnologie cu două straturi cu găuri metalizate și a fost realizat la **Fabrica de Echipamente pentru Automatizări** (FEA) cu ajutorul lui Florin Popescu, fost coleg de facultate cu Ion Rusovici (YO3JF).
 
-Prima versiune (și de fapt, și ultima după cum se va vedea) a avut câteva erori, care au fost remediate prin „maltratarea” cablajului, vizibile și în fotografiile anexate. Pe acest prototip a fost dezvoltat firmware-ul, Ion Rusovici (YO3JF) având aici cea mai mare contribuție. Gil a contribuit și el cu o mică bibliotecă aritmetică. Îmi amintesc cu mare plăcere de zilele (și nu de puține ori, nopțile) de vară din 1989 petrecute împreună cu Ion perfecționând funcționalitatea sistemului. Ion avea o productivitate deosebită și orice idee ne venea, el o implementa imediat.
+Prima versiune (și de fapt, și ultima după cum se va vedea) a avut câteva erori, care au fost remediate prin „maltratarea” cablajului, vizibile și în fotografiile anexate. Pe acest prototip a fost dezvoltat firmware-ul, Ion având aici cea mai mare contribuție. Gelu a contribuit și el cu o mică bibliotecă aritmetică. Îmi amintesc cu mare plăcere de zilele (și nu de puține ori, nopțile) de vară din 1989 petrecute împreună cu Ion perfecționând funcționalitatea sistemului. Ion avea o productivitate deosebită și orice idee ne venea, el o implementa imediat.
 
 Combinația dintre un microprocesor și un sintetizor agil ne-a dat posibilitatea să implementăm o serie de facilități care altfel nu ar fi fost posibile, și care făceau un transceiver A412 competitiv cu transceiverele industriale din anii '80:
 
@@ -56,7 +56,7 @@ Circuitul a fost montat într-un transceiver A412 care aparținea lui Ștefan (�
 <a href="https://cronica-it.github.io/imagini/1989/l412z/board-top.jpg"><Image img="https://cronica-it.github.io/imagini/1989/l412z/board-top-small.jpg" /></a>
 Prototipul sintetizorului L412Z, ce a fost montat în transceiverul lui Bord
 
-Dezvoltarea de software în anii '80 nu era simplă, și faptul că programul era scris în assembler nu făcea treaba mai ușoară. Nu existau debuggere, sau cel puțin nu erau la îndemâna noastră. Nu aveam suficient RAM în sistem (doar 1 KByte!) pentru a putea încărca programul ca să-l rulăm acolo, așa că fiecare modificare, versiune nouă sau bug fix se solda cu o nouă generare de fișier binar, care era apoi „ars” într-un **UV-EPROM** folosind un programator de EPROM-uri. Aveam câteva EPROM-uri pe care le ciclam între scriere și ștergere, aceasta din urmă făcându-se în camera de baie la Ion cu ajutorul unei lămpi de UV improvizată dintr-un bec de iluminat stradal spart.
+Dezvoltarea de software în anii '80 nu era simplă, și faptul că programul era scris în limbaj de asamblare nu făcea treaba mai ușoară. Nu existau debuggere, sau cel puțin nu erau la îndemâna noastră. Nu aveam suficient RAM în sistem (doar 1 KByte!) pentru a putea încărca programul ca să-l rulăm acolo, așa că fiecare modificare, versiune nouă sau bug fix se solda cu o nouă generare de fișier binar, care era apoi „ars” într-un **UV-EPROM** folosind un programator de EPROM-uri. Aveam câteva EPROM-uri pe care le ciclam între scriere și ștergere, aceasta din urmă făcându-se în camera de baie la Ion cu ajutorul unei lămpi de UV improvizată dintr-un bec de iluminat stradal spart. În final, tot programul a încăput într-un EPROM de 4 KBytes.
 
 ## Probleme, probleme...
 
@@ -83,7 +83,7 @@ De asemeni, Ion a implementat un mecanism dinamic ce modifica numărul de kilohe
 În octombrie 1989, transceiverul lui Bord, ce încorpora prototipul sintetizorului, și-a făcut debutul cu brio intr-un concurs de anvergură, Ion participând cu el la **WW DX** SSB în banda de 40 m. Cu un total de 759 de QSO-uri, el a ocupat locul 1 pe România, 7 în Europa și 14 în lume.
 
 <Image img="https://cronica-it.github.io/imagini/1989/l412z/ion-wwdx-1989.jpg" />
-Ion lucrând în concursul WW DX SSB, octombrie 1989
+Ion lucrând în concursul WWDX SSB cu transceiverul A412 cu sintetizor și microcalculatorul L/B881, octombrie 1989.
 
 ## Lansarea
 
@@ -116,7 +116,7 @@ Pot spune că proiectul L412Z a fost o intreprindere temerară, având în veder
 
 Cei interesați pot afla mai multe detalii despre [cum funcționează un DDS](https://en.wikipedia.org/wiki/Direct_digital_synthesis). Astăzi, există chip-uri care implementează un DDS complet, ce pot genera frecvențe de până la câteva sute de MHz.
 
-Dedic acest articol foștilor membrii Lixco, Bord și Gil, care s-au dus dintre noi prea devreme.
+Dedic acest articol foștilor membrii Lixco, Bord și Gelu, care s-au dus dintre noi prea devreme.
 
 ## Imagini
 
