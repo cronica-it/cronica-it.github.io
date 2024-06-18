@@ -87,7 +87,7 @@ Ion lucrând în concursul WWDX SSB cu transceiverul A412 cu sintetizor și micr
 
 ## Lansarea
 
-Noul sintetizor a fost prezentat cu multă fanfară la Simpozionul radioamatorilor de la Piatra-Neamț, care, dacă îmi amintesc bine, a avut loc prin august 1989. Am făcut o prezentare oficială a sistemului, după care am „dezvăluit” transceiverul lui Bord. Cu această ocazie, cei de față au putut opera transceiverul și și-au făcut o primă impresie despre modul de funcționare. Se poate spune că a fost un mare succes, judecând după numărul cererilor de informații pe care le-am primit atunci.
+Noul sintetizor a fost prezentat cu multă fanfară la Simpozionul radioamatorilor de la Slănic-Moldova, care, dacă îmi amintesc bine, a avut loc prin august 1989. Am făcut o prezentare oficială a sistemului, după care am „dezvăluit” transceiverul lui Bord. Cu această ocazie, cei de față au putut opera transceiverul și și-au făcut o primă impresie despre modul de funcționare. Se poate spune că a fost un mare succes, judecând după numărul cererilor de informații pe care le-am primit atunci.
 
 În **Lixco News**, ediția din octombrie 1989 (ce avea să fie și ultima) a fost anunțat noul produs odată cu primele informații despre cum va putea fi obținut. Citat din Lixco News: „Către sfârșitul anului 1989, va fi disponibilă documentația completă a sistemului, a modificărilor transceiverului A412 și eventual și setul de  cablaje imprimate; cei interesați sunt invitați să ia legătura cu noi.” (vezi secțiunea **Referințe**).
 
