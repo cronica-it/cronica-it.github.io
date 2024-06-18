@@ -19,7 +19,7 @@ Spre sfârșitul anilor '80, transceiverul **A412** devenise foarte popular prin
 
 Pe de altă parte, din ce în ce mai multe transceivere industriale afișau frecvența digital; venise timpul ca și A412 să facă un salt în noua era tehnologică.
 
-Nu îmi mai amintesc exact cum a început totul... dar știu că prin 1988 discutam cu colegul Gelu Chița despre un circuit electronic de generat semnale electrice cu totul nou, și anume **Direct Digital Synthesis** (DDS). Poate am citit eu pe undeva despre el, sau poate Gelu, care în perioada respectivă era student la Facultatea de Electronică, tocmai aflase teoria DDS-ului, nu mai știu... cert este că Gelu a fost acela care m-a făcut să înțeleg cum funcționează un DDS.
+Nu îmi mai amintesc exact cum a început totul... dar știu că prin 1988 discutam cu colegul Gelu Chița despre un circuit electronic de generat semnale electrice cu totul nou, și anume **Direct Digital Synthesis** (DDS). Poate am citit eu pe undeva despre el, sau poate Gelu, care în perioada respectivă era student la Facultatea de Electronică, tocmai aflase teoria DDS-ului, nu mai știu... cert este că Gelu m-a făcut să înțeleg cum funcționează un DDS.
 
 <Image img="https://cronica-it.github.io/imagini/1989/l412z/lix-cu-macheta.jpg" />
 Lix cu macheta „demonstrator” a sintetizorului L412Z, decembrie 1988
