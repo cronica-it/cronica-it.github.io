@@ -38,7 +38,7 @@ export function ImagesTable({ images }): JSX.Element {
             {
               row.map(column =>
                 <td>
-                  <a href={column.src} target="_blank"><img src={column.src} alt={column.alt} /></a>
+                  <a href={column.src} target="_blank"><img src={column.srcSmall ? column.srcSmall : column.src} alt={column.alt} /></a>
                 </td>
               )
             }
