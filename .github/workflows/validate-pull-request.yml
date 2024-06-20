@@ -1,0 +1,42 @@
+# Simple workflow for validating pull requests
+name: Validate Pull Request
+
+# https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows
+on:
+  # Runs on pushes, if all conditions are met:
+  pull_request:
+    types:
+      - opened
+    branches:
+      - 'preview/**'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  # Single deploy job since we're just deploying
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        # https://github.com/actions/checkout
+        uses: actions/checkout@v4
+        with:
+          # The full history, required to compute lastUpdatedAt
+          fetch-depth: 0
+
+      - name: Use Nodejs
+        # https://github.com/actions/setup-node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18.x'
+
+      - name: Install dependencies
+        run: npm ci -C website
+
+      - name: Show environment
+        run: env | sort | egrep '^[^ \t]+='
+
+      - name: Generate Docusaurus
+        run: npm run build -C website
