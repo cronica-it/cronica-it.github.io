@@ -83,7 +83,7 @@ De asemeni, Ion a implementat un mecanism dinamic ce modifica numărul de kilohe
 În octombrie 1989, transceiverul lui Bord, ce încorpora prototipul sintetizorului, și-a făcut debutul cu brio intr-un concurs de anvergură, Ion participând cu el la **WW DX** SSB în banda de 40 m.
 
 <Image img="https://cronica-it.github.io/imagini/1989/l412z/ion-wwdx-1989.jpg" />
-Ion în concursul WWDX SSB cu transceiverul A412 cu sintetizor și microcalculatorul L/B881, octombrie 1989.
+Ion lucrând în concursul WWDX SSB cu transceiverul A412 cu sintetizor și microcalculatorul L/B881, octombrie 1989.
 
 Cu un amplificator linear adăugat după transceiver și folosind o antenă dipol între două blocuri de 9 etaje, Ion a realizat 112.931 de puncte din 759 de QSO-uri.
 
