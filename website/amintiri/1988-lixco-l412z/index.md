@@ -1,10 +1,13 @@
 ---
-slug: 1989/lixco-l412z
+slug: 1988/lixco-l412z
 title: 'Lixco - Sintetizorul de frecvență L412Z, sau cum a „îngropat” revoluția din 1989 ultimul proiect Lixco'
 authors: [lixpaulian]
 tags: [lixco, radio, embedded]
 
 date: 2024-06-03T20:28:00
+
+event_date: '1988'
+
 ---
 
 În 1988 **Lixco** a inițiat un proiect ambițios pentru modernizarea tranceiverului A412: un sintetizor de frecvență care să înlocuiască VFO-ul tradițional.
