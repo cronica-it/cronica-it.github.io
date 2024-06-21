@@ -1,6 +1,6 @@
 ---
-slug: 1989/l412z
-title: 'Sintetizorul de frecvență L412Z, sau cum a „îngropat” revoluția din 1989 ultimul proiect Lixco'
+slug: 1989/lixco-l412z
+title: 'Lixco - Sintetizorul de frecvență L412Z, sau cum a „îngropat” revoluția din 1989 ultimul proiect Lixco'
 authors: [lixpaulian]
 tags: [lixco, radio, embedded]
 
