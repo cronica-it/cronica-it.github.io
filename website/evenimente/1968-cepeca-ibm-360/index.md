@@ -46,7 +46,7 @@ Echipamentele unității PAD au fost folosite:
 
 Înființarea Unității PAD în cadrul CEPECA și dotarea ei cu un calculator performant, de ultimă generație, a reprezentat un eveniment major care a pus bazele informaticii de gestiune. Pentru prima dată în România au fost organizate programe post-universitare pentru pregătirea și perfecționarea specialiștilor în informatică (analiști, programatori, programatori de sistem, șefi ateliere proiectare, programare, exploatare), programe care au reprezentat un suport real de dezvoltare a informaticii pe plan național. De asemenea proiectele dezvoltate și implementate de specialiștii Unității PAD în diverse întreprinderi, în special legate de activitățile: gestiunea nomenclatoarelor (produse, tehnologii etc.), urmărirea comenzilor de livrare și aprovizionare, controlul și urmărirea stocurilor, planificarea și programarea producției, gestiunea personalului etc., au reprezentat începutul introducerii tehnicii de calcul în gestiunea întreprinderilor, înlesnind astfel procesul de luarea a deciziilor.
 
-În anii '80, odată cu dotarea întreprinderilor și instituțiilor cu calculatoare Felix, produse în țară, utilizarea calculatorului IBM 360/40 de la CEPECA s-a redus treptat, terminându-se în anul 1992.
+Spre sfârșitul anilor '80, odată cu dotarea întreprinderilor și instituțiilor cu calculatoare Felix, produse în țară, utilizarea calculatorului IBM 360/40 de la CEPECA s-a redus treptat, terminându-se în anul 1992.
 
 ## Referințe
 
