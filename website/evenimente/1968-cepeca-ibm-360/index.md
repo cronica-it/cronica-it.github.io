@@ -49,3 +49,4 @@ Echipamentele unității PAD au fost folosite ani de zile:
 ## Referințe
 
 - Dr. ing. Ion Niculescu (fost director CEPECA) - Centrul de Perfecționare a Cadrelor de Conducere din Întreprinderi - CEPECA, Karlsruhe, 2009
+- [Vasile Velicu - „Centrul de Perfecționare a Cadrelor” (CEPECA)](/amintiri/2021/vvelicu-cepeca/)
