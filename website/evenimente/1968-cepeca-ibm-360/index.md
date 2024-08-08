@@ -37,7 +37,7 @@ IBM a oferit și un „panou de vizualizare și audiție automată” montat în
 
 În legatură cu personalul unității PAD, au fost recrutați tineri merituoși, cu cunostințe avansate  în domeniul calculatoarelor, absolvenți de regulă a unei facultăți de profil (facultatea Matematică din Universitatea București, facultatea de Automatică și Calculatoare din Institutul Politehnic București etc.) sau care lucrau în centre universitare, instituții de proiectare-cercetare cu preocupări în utilizarea calculatoarelor în informatica aplicată și care urmau a fi specializați în utilizarea tehnicii de calcul în informatica de gestiune.
 
-Clădirea Uniății PAD a fost dată în folosință în iulie 1968 iar instalarea echipemetelor IBM a fost terminată în decembrie 1968.
+Clădirea Unității PAD a fost dată în folosință în iulie 1968 iar instalarea echipemetelor IBM a fost terminată în decembrie 1968.
 Echipamentele unității PAD au fost folosite:
 
 - în timpul procesului de instruire de către instructorii Unității PAD și de către cursanții participanți la cursurile de formare și perfecționare în informatică;
