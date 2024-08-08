@@ -1,6 +1,6 @@
 ---
 slug: 2021/vvelicu-cepeca
-title: 'Vasile Velicu - „Centrul de Perfecționare a Cadrelor” (CEPECA)'
+title: 'Vasile Velicu - „Centrul de Perfecționare a Cadrelor în Informatică, Calcul Electronic și Consultanță” (CEPECA)'
 authors: [vvelicu]
 tags: [cepeca]
 

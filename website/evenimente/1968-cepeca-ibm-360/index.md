@@ -32,7 +32,7 @@ Pentru achiziționarea calculatorului IBM 360, model 40 între CEPECA și IBM R.
 - instruirea a 3 ingineri pentru exploatarea și întreținerea echipamentelor Unității PAD;
 - burse de studii pentru ingineri de sistem, analiști, programatori, pentru operarea și întreținerea echipamentelor auxiliare (în total 16 burse în străinătate: Franța, R.F. Germania, Anglia, Belgia, Suedia etc.).
 
-Deoarece clădirile existente în CEPECA nu asigurau condițiile tehnice necesare instalării echipamentelor, a fost necesară construirea unei noi clădiri, care trebuia să asigure birouri de lucru, săli de curs, săli pentru echipamentele de pregătire și prelucrare a datelor, condițiile de funcționare a echipamentelor (aer condiționat, alimentarea cu energie electrică etc.), crearea unui „spațiu de vizitare” suspendat deasupra sălilor;
+Deoarece la sediul CEPECA din Otopeni, șos. Odăi nr. 2, clădirile existente nu asigurau condițiile tehnice necesare instalării echipamentelor, a fost necesară construirea unei noi clădiri, care trebuia să asigure birouri de lucru, săli de curs, săli pentru echipamentele de pregătire și prelucrare a datelor, condițiile de funcționare a echipamentelor (aer condiționat, alimentarea cu energie electrică etc.), crearea unui „spațiu de vizitare” suspendat deasupra sălilor;
 IBM a oferit și un „panou de vizualizare și audiție automată” montat în „spațiul de vizitare”. Descrierea echipamentelor era imprimată pe bandă magnetică, informa pe utilizatori despre echipamente, poziția lor în sălile respective, descrierea și funcționarea lor. Pe o schemă a panoului erau fixate echipamentele, becurile roșii indicând echipamentul care era descris. Acest sistem a fost foarte apreciat de vizitatori: cursanți, delegații care vizitau România, membri ai ambasadelor etc.
 
 În legatură cu personalul unității PAD, au fost recrutați tineri merituoși, cu cunostințe avansate  în domeniul calculatoarelor, absolvenți de regulă a unei facultăți de profil (facultatea Matematică din Universitatea București, facultatea de Automatică și Calculatoare din Institutul Politehnic București etc.) sau care lucrau în centre universitare, instituții de proiectare-cercetare cu preocupări în utilizarea calculatoarelor în informatica aplicată și care urmau a fi specializați în utilizarea tehnicii de calcul în informatica de gestiune.
@@ -55,4 +55,4 @@ După anul 1989 Centrul a trecut succesiv în subordinea Ministerului Economiei,
 ## Referințe
 
 - Dr. ing. Ion Niculescu (fost director CEPECA) - Centrul de Perfecționare a Cadrelor de Conducere din Întreprinderi - CEPECA, Karlsruhe, 2009
-- [Vasile Velicu - „Centrul de Perfecționare a Cadrelor” (CEPECA)](/amintiri/2021/vvelicu-cepeca/)
+- [Vasile Velicu - „Centrul de Perfecționare a Cadrelor în Informatică, Calcul Electronic și Consultanță” (CEPECA)](/amintiri/2021/vvelicu-cepeca/)
