@@ -57,4 +57,4 @@ Mulțumiri pentru informații și sugestii colegului Victor Popescu, inginer din
 ## Referințe
 
 - Dr. ing. Ion Niculescu (fost director CEPECA) - Centrul de Perfecționare a Cadrelor de Conducere din Întreprinderi - CEPECA, Karlsruhe, 2009
-- [Vasile Velicu - „Centrul de Perfecționare a Cadrelor în Informatică, Calcul Electronic și Consultanță” (CEPECA)](/amintiri/2021/vvelicu-cepeca/)
+- [Vasile Velicu - „CEPECA - Centrul de Perfecționare a Cadrelor în Informatică, Calcul Electronic și Consultanță”](/amintiri/2021/vvelicu-cepeca/)
