@@ -52,6 +52,8 @@ Spre sfârșitul anilor '80, odată cu dotarea întreprinderilor și instituții
 
 După anul 1989 Centrul a trecut succesiv în subordinea Ministerului Economiei, Ministerului Muncii, Institutului Român de Management, iar prin trecerea acestuia în anul 1992 la Școala Națională de Studii Politice și Administrative, practic și-a încetat activitatea.
 
+Mulțumiri pentru informații și sugestii colegului Victor Popescu, inginer din echipa de instalare-întreținere hardware.
+
 ## Referințe
 
 - Dr. ing. Ion Niculescu (fost director CEPECA) - Centrul de Perfecționare a Cadrelor de Conducere din Întreprinderi - CEPECA, Karlsruhe, 2009
