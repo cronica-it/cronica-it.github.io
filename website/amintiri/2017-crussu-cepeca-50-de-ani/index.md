@@ -10,7 +10,7 @@ event_date: '2017-07'
 
 ---
 
-În anul 2017, cu ocazia aniversării a 50 de ani de la înființarea CEPECA, prof. univ. dr. Corneliu Russu a scris un articol despre primii ani din activitatea CEPECA. Articolul a fost transmis de dr. ing. Vasile Velicu, care a avut amabilitatea să scrie câteva cuvinte despre regretul Corneliu Russu, spicuite în bună parte din CV-ul acestuia.
+În anul 2017, cu ocazia aniversării a 50 de ani de la înființarea CEPECA, prof. univ. dr. Corneliu Russu a scris un articol despre primii ani din activitatea CEPECA. Articolul a fost transmis de dr. ing. Vasile Velicu, care a avut amabilitatea să scrie câteva cuvinte despre regretatul Corneliu Russu, spicuite în bună parte din CV-ul acestuia.
 
 <!-- truncate -->
 
