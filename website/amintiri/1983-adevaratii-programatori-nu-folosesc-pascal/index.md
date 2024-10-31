@@ -17,6 +17,8 @@ event_date: '1983-07'
 
 ---
 
+## Adevărații programatori nu folosesc Pascal
+
 [O scrisoare către editorul revistei Datamation, volumul 29 numărul 7, iulie 1983.
 Fotocopia uzată și mototolită am pierdut-o demult, dar cred că aceast articol a fost scris (și are drepturi de autor) de către Ed Post, Tektronix, Wilsonville, Oregon, SUA.]
 
