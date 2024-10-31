@@ -1,6 +1,6 @@
 ---
 slug: 1983/adevaratii-programatori-nu-folosesc-pascal
-title: 'Adevărații programatori nu folosesc Pascal'
+title: 'Greg Lindahl - Adevărații programatori nu folosesc Pascal'
 authors: [tstanescu]
 tags: [articol, programtori]
 
