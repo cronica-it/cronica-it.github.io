@@ -180,6 +180,11 @@ vvelicu:
   name: Vasile Velicu
   image_url: https://cronica-it.github.io/imagini/autori/vasile-velicu.jpg
 
+tstanescu:
+  name: Thedor Stănescu
+  url: https://www.linkedin.com/in/theodorstanescu/
+  image_url: https://cronica-it.github.io/imagini/autori/theodor-stanescu.jpg
+
 # ----- RIP -------------------------------------------------------------------
 
 vtoma:
