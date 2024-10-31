@@ -145,4 +145,3 @@ Tradus și puțin adaptat - pe ici pe colo, prin „părțile esențiale” - Th
 - [7] Rose, Frank, „Joy of Hacking”, Science 82, Vol. 3, nr. 9, noiembrie 82, p. 58-66.
 - [8] „The Hacker Papers”, Psychology Today, august 1980.
 - [pbm.com](http://www.pbm.com/~lindahl/real.programmers.html)
-- [rixstep.com](http://rixstep.com/2/2/20071015,00.shtml)
