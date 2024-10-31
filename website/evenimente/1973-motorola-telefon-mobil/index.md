@@ -34,7 +34,7 @@ Motorola a aprobat planul său, dar întrucât aceasta era o comunicare istoric�
 
 Pe 3 aprilie 1973, Martin Cooper a ieșit pe stradă în drum spre Hotelul Hilton. A mers câteva blocuri de-a lungul 6th Avenue, a scos dispozitivul său voluminos și a format numărul pentru Bell Labs de la AT&T, adversarul său tehnologic. Când au răspuns, le-a cerut să-l conecteze cu Joel Engel. Engel a răspuns la telefon și a fost uimit când Cooper i-a spus: „Te sun de pe primul telefon mobil din istorie. În 10 minute, pornește televizorul; mă vei vedea prezentându-l la Hilton.”.
 
-![text](https://cronica-it.github.io/imagini/1973/motorola-telefon-mobil/martin-cooper-telefon-mobil.png)
+![martin-cooper-telefon-mobil](https://cronica-it.github.io/imagini/1973/motorola-telefon-mobil/martin-cooper-telefon-mobil.png)
 
 ## Referințe
 
