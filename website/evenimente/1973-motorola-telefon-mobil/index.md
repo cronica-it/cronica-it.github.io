@@ -10,11 +10,9 @@ event_date: '1973-04-03'
 
 ---
 
-Pe 3 aprilie 1973, în New York, inginerul Martin Cooper de la firma Motorola a efectuat **primul apel telefonic de pe un telefon mobil**.
+Pe 3 aprilie 1973, în New York, inginerul Martin Cooper de la firma Motorola a efectuat **primul apel telefonic de pe un telefon mobil**. Deși, după propriile sale cuvinte, inventarea acestuia a fost mai ușoară decât să decidă cui să facă acel prim apel istoric.
 
 <!-- truncate -->
-
-Deși, după propriile sale cuvinte, inventarea acestuia a fost mai ușoară decât să decidă cui să facă acel prim apel istoric.
 
 Până la sfârșitul secolului al XIX-lea, comunicațiile fără fir erau folosite în principal de industria maritimă, dar la începutul secolului al XX-lea s-au făcut primii pași pentru utilizarea terestră. Forțele de poliție, pompierii, băncile și bursele de valori au fost printre primele care au adoptat-o.
 
