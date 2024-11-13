@@ -20,8 +20,8 @@ primul draft al cercetărilor sale privind determinabilitatea
 problemelor, pornind de la teoremele de incompletitudine ale
 lui Godel.
 
-În 28 mai, el predat spre publicare lucrarea sa de 36 de pagini
-numită „On Computable Numbers, with an Application to the Entscheidungsproblem”.
+În 28 mai, el a predat spre publicare lucrarea sa de 36 de pagini
+numită **On Computable Numbers, with an Application to the Entscheidungsproblem**.
 
 Lucrarea a fost prezentată public in 12 Noiembrie și
 publicată în revista „Proceedings of the London
