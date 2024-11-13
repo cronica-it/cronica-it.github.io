@@ -37,7 +37,7 @@ Articolul a apărut aproximativ în aceeași perioadă cu lucrările lui Konrad 
 
 Mașina abstractă descrisă în articol a fost mai târziu redenumită **Mașina Turing**, furnizând conceptele fundamentale ale calculatoarelor pe care ceilalți inventatori le-au realizat independent. Astfel, Turing a furnizat abstracția care a format teoria de bază a calculului pentru mai multe decenii, în timp ce alții au furnizat mijloacele pragmatice de calcul. [Theodor Stănescu]
 
-In 1988, Robin Gandy a publicat în "The confluence of ideas in 1936"
+In 1988, Robin Gandy a publicat în „The confluence of ideas in 1936”
 un capitol care apare de obicei ca prefață la articolul lui Touring.
 [pentru textul complet al articolului, vedeți referințele].
 
