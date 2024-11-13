@@ -2,7 +2,7 @@
 slug: 1983/programatorii-adevarati-nu-folosesc-pascal
 title: 'Ed Post - Programatorii Adevărați nu folosesc PASCAL'
 authors: [tstanescu,ilg-ul]
-tags: [articol, programtori,satira]
+tags: [articole, satira]
 
 date: 2024-10-31T19:51:00
 
