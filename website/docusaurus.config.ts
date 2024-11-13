@@ -190,16 +190,20 @@ const config: Config = {
         //     from: ['/docs/oldDocFrom2019', '/docs/legacyDocFrom2016'],
         //   },
         {
-          to: '/evenimente/1906/telegraf-radio-romania',
           from: ['/evenimente/1903/telegraf-radio-ro'],
+          to: '/evenimente/1906/telegraf-radio-romania',
         },
         {
-          to: '/evenimente/1978/calculatorul-coral',
           from: ['/evenimente/1979/calculatorul-coral'],
+          to: '/evenimente/1978/calculatorul-coral',
         },
         {
-          to: '/amintiri/2018/vbaltac-carte-itc-50-ani',
           from: ['/amintiri/2018/vbaltac-itc50ani'],
+          to: '/amintiri/2018/vbaltac-carte-itc-50-ani',
+        },
+        {
+          from: ['/amintiri/1983/adevaratii-programatori-nu-folosesc-PASCAL'],
+          to: '/amintiri/1983/programatorii-adevarati-nu-folosesc-pascal',
         },
       ],
         // createRedirects(existingPath) {
