@@ -1,0 +1,25 @@
+{
+  "name": "cronica-it.github.io",
+  "version": "0.0.0",
+  "description": "The project web site root",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cronica-it/cronica-it.github.io.git/"
+  },
+  "bugs": {
+    "url": "https://github.com/cronica-it/cronica-it.github.io/issues"
+  },
+  "homepage": "https://cronica-it.github.io",
+  "keywords": [
+    "cronica",
+    "it"
+  ],
+  "author": {
+    "name": "Liviu Ionescu",
+    "email": "ilg@livius.net",
+    "url": "https://github.com/ilg-ul"
+  },
+  "license": "MIT"
+}
