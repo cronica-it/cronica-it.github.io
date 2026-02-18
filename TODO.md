@@ -2,6 +2,10 @@
 
 ## Articole
 
+- visita lui nixon 1969 -> RCD
+- 1975 - Rom Control Data (Gabriel Vasile, istoria informaticii românesti)
+- CDC in/out
+
 - 30 ani Internet (Comunicații Mobile)
 - GTS Telecom - completări Răzvan
 - EUnet - autorizație ANCOM
@@ -22,7 +26,6 @@
   - https://www.linkedin.com/in/glodeanu-ion-bbb32274/
   - https://www.romaniasociala.ro/in-memoriam-ion-glodeanu-1941-2020/
 
-- 1975 - Rom Control Data (Gabriel Vasile, istoria informaticii românesti)
 
 - On the 10th of August in 2000, AMD released the x86-64 Architecture Programmers Overview.
   https://www.abortretry.fail/p/the-itanic-saga
