@@ -15,18 +15,19 @@ jobs:
 
   linux-x64:
     name: 'Linux x64 test'
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
 
     steps:
       - name: 'Checkout project'
-        uses: actions/checkout@v3
+        # https://github.com/actions/checkout
+        uses: actions/checkout@v6.0.2
         with:
           fetch-depth: 3
 
       - name: 'Install project dependencies'
         timeout-minutes: 1440
-        run: npm ci -C website
+        run: npm --prefix website ci 
 
       - name: 'Check URLs'
         timeout-minutes: 1440
-        run: npm run check-urls -C website
+        run: npm --prefix website run check-urls
